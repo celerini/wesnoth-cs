@@ -8,22 +8,18 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
-wesnoth-did | 956 | 99% | 2 | Michal
 wesnoth-ei | 1839 | 98% | 23 | Michal
 wesnoth-help | 740 | 97% | 17 | Michal
 wesnoth-lib | 1652 | 99% | 14 | Michal
 wesnoth-manpages | 313 | 98% | 6 | Michal
-wesnoth-nr | 1219 | 99% | 2 | Michal
 wesnoth-tdg | 1253 | 0% | 1253 |
-wesnoth-tools | 96 | 98% | 1 | Michal
 wesnoth-tsg | 860 | 6% | 806 |
 wesnoth-tutorial | 284 | 98% | 4 | Michal
 wesnoth-units | 850 | 99% | 5 | Michal
-wesnoth-utbs | 2018 | 99% | 1 | Michal
-wesnoth-wof | 816 | 99% | 4 | Michal
+wesnoth-wof | 816 | 99% | 3 | Michal
 wesnoth | 1448 | 97% | 34 | Michal
 
-Total messages remaining: **2172**
+Total messages remaining: **2165**
 
 I see no progress.
 
