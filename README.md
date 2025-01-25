@@ -14,12 +14,11 @@ wesnoth-lib | 1652 | 99% | 14 | Michal
 wesnoth-manpages | 313 | 98% | 6 | Michal
 wesnoth-tdg | 1253 | 0% | 1253 |
 wesnoth-tsg | 860 | 6% | 806 |
-wesnoth-tutorial | 284 | 98% | 4 | Michal
 wesnoth-units | 850 | 99% | 5 | Michal
 wesnoth-wof | 816 | 99% | 3 | Michal
 wesnoth | 1448 | 97% | 34 | Michal
 
-Total messages remaining: **2165**
+Total messages remaining: **2161**
 
 I see no progress.
 
