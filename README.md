@@ -15,11 +15,12 @@ wesnoth-manpages | 313 | 98% | 6 | Michal
 wesnoth-tdg | 1253 | 0% | 1253 |
 wesnoth-tsg | 860 | 6% | 806 |
 wesnoth-units | 850 | 99% | 5 | Michal
-wesnoth-wof | 816 | 99% | 3 | Michal
 wesnoth | 1448 | 97% | 34 | Michal
 
-Total messages remaining: **2161**
+Total messages remaining: **2158**
 
-I see no progress.
+Progress since 2025-01-25: **2** messages per day
+
+ETA: **2028-01-10**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
