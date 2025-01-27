@@ -4,7 +4,7 @@
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2011, 2020 - 2022, 2024
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2024
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2025
 # Tereza Žejdlová, 2020.
 #
 msgid ""
@@ -12,15 +12,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-01-19 17:47 UTC\n"
-"PO-Revision-Date: 2024-12-28 23:53+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2025-01-27 21:01+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.5\n"
 
 #. [attack]: type=impact
 #: data/campaigns/Dead_Water/units/Soldier_King.cfg:30
@@ -1292,10 +1291,8 @@ msgstr "balista"
 
 #. [unit_type]: id=Coastal Raider, race=ship
 #: data/core/units/boats/Raider_Coastal.cfg:4
-#, fuzzy
-#| msgid "Wolf Rider"
 msgid "Coastal Raider"
-msgstr "Jezdec na vlku"
+msgstr "Pobřežní veslice"
 
 #. [unit_type]: id=Coastal Raider, race=ship
 #: data/core/units/boats/Raider_Coastal.cfg:30
@@ -1314,10 +1311,8 @@ msgstr ""
 
 #. [unit_type]: id=Iron Raider, race=ship
 #: data/core/units/boats/Raider_Iron.cfg:4
-#, fuzzy
-#| msgid "Gryphon Rider"
 msgid "Iron Raider"
-msgstr "Jezdec na gryfovi"
+msgstr "Okovaná veslice"
 
 #. [unit_type]: id=Iron Raider, race=ship
 #: data/core/units/boats/Raider_Iron.cfg:36
@@ -1336,10 +1331,8 @@ msgstr ""
 
 #. [attack]: type=impact
 #: data/core/units/boats/Raider_Iron.cfg:156
-#, fuzzy
-#| msgid "Cavalryman"
 msgid "naval ram"
-msgstr "Kavalerista"
+msgstr "kloun"
 
 #. [unit_type]: id=Transport Galleon, race=ship
 #: data/core/units/boats/Transport_Galleon.cfg:4
