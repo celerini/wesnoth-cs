@@ -2,14 +2,14 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2020 - 2024
+# Michal Žejdl <lachim@emer.cz>, 2020 - 2025
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-01-19 11:47-0600\n"
-"PO-Revision-Date: 2024-12-08 19:54+0100\n"
+"PO-Revision-Date: 2025-01-29 21:01+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -113,10 +113,9 @@ msgstr "VOLBY"
 # type: TP
 #. type: TP
 #: doc/man/wesnoth.6:45
-#, fuzzy, no-wrap
-#| msgid "B<--noaddons>"
+#, no-wrap
 msgid "B<--addon-info>"
-msgstr "B<--noaddons>"
+msgstr "B<--addon-info>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:48
@@ -124,6 +123,8 @@ msgid ""
 "Shows a button on the add-ons manager to query the add-ons server for "
 "various information."
 msgstr ""
+"Ve správci rozšíření zobrazí tlačítko pro zjištění různých informací ze "
+"serveru s rozšířeními."
 
 #. type: TP
 #: doc/man/wesnoth.6:48
@@ -739,19 +740,14 @@ msgstr "B<--plugin>I<\\ skript>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:237
-#, fuzzy
-#| msgid ""
-#| "(experimental) load a I<script> which defines a Wesnoth plugin. Similar "
-#| "to B<--script>, but Lua file should return a function which will be run "
-#| "as a coroutine and periodically woken up with updates."
 msgid ""
 "load a I<script> which defines a Wesnoth plugin. Lua file should return a "
 "function which will be run as a coroutine and periodically woken up with "
 "updates."
 msgstr ""
-"(experimentální) načte I<skript>, který definuje zásuvný modul Wesnothu. "
-"Podobné volbě B<--script>, ale Lua soubor by měl vrátit funkci, která poběží "
-"jako koprogram a bude pravidelně probouzena aktualizacemi."
+"načte I<skript>, který definuje zásuvný modul Wesnothu. Lua soubor by měl "
+"vrátit funkci, která poběží jako koprogram a bude pravidelně probouzena "
+"aktualizacemi."
 
 #. type: TP
 #: doc/man/wesnoth.6:237
@@ -2438,30 +2434,25 @@ msgstr ""
 
 #. type: TP
 #: doc/man/wesnothd.6:263
-#, fuzzy, no-wrap
-#| msgid "B<mp_mod_group>"
+#, no-wrap
 msgid "B<forum_admin_group>"
-msgstr "B<mp_mod_group>"
+msgstr "B<forum_admin_group>"
 
 # type: Plain text
 #. type: Plain text
 #: doc/man/wesnothd.6:266 doc/man/wesnothd.6:269
-#, fuzzy
-#| msgid ""
-#| "The ID of the forum group to be considered as having moderation authority."
 msgid ""
 "The ID of one of the forum groups to be considered as having admin authority "
 "on the add-ons server."
 msgstr ""
-"Identifikátor skupiny fóra, o které se předpokládá, že má oprávnění "
-"k moderování."
+"Identifikátor jedné ze skupin fóra, o které se předpokládá, že má na serveru "
+"s rozšířeními oprávnění správce."
 
 #. type: TP
 #: doc/man/wesnothd.6:266
-#, fuzzy, no-wrap
-#| msgid "B<mp_mod_group>"
+#, no-wrap
 msgid "B<site_admin_group>"
-msgstr "B<mp_mod_group>"
+msgstr "B<site_admin_group>"
 
 #. type: Plain text
 #: doc/man/wesnothd.6:274
@@ -2493,26 +2484,3 @@ msgstr ""
 #: doc/man/wesnothd.6:293
 msgid "B<wesnoth>(6)"
 msgstr "B<wesnoth>(6)"
-
-# type: TP
-#, no-wrap
-#~ msgid "B<--script>I<\\ file>"
-#~ msgstr "B<--script>I<\\ soubor>"
-
-#~ msgid ""
-#~ "(experimental)  I<file> containing a Lua script to control the client."
-#~ msgstr ""
-#~ "(experimentální) I<soubor> obsahující Lua skript na ovládání klienta."
-
-# type: TP
-#, no-wrap
-#~ msgid "B<--nodelay>"
-#~ msgstr "B<--nodelay>"
-
-# type: Plain text
-#~ msgid ""
-#~ "runs the game without any delays for graphic benchmarking. This is "
-#~ "automatically enabled by B<--nogui>."
-#~ msgstr ""
-#~ "spustí hru bez jakýchkoli zpoždění pro otestování grafiky. Tohle je "
-#~ "automaticky zapnuto volbou B<--nogui>."
