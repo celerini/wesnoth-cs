@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-01-19 11:47-0600\n"
-"PO-Revision-Date: 2024-12-28 23:54+0100\n"
+"PO-Revision-Date: 2025-02-01 20:00+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4652,10 +4652,8 @@ msgstr ""
 
 #. [option]
 #: data/resources/AMLAs/_main.cfg:372
-#, fuzzy
-#| msgid "Chat message aging"
 msgid "Don’t show this message again"
-msgstr "Stárnutí zpráv chatu"
+msgstr "Tuto zprávu už neukazovat"
 
 #. [terrain_type]: id=urbanjungle
 #: data/resources/Urban_Jungle/terrain.cfg:8
@@ -4674,49 +4672,47 @@ msgstr ""
 #: data/resources/Urban_Jungle/terrain.cfg:31
 #: data/resources/Urban_Jungle/terrain.cfg:32
 msgid "Urban Jungle"
-msgstr ""
+msgstr "Městská džungle"
 
 #. [time]: id=dawn_noweather
 #: data/resources/Weather/_main.cfg:147
 msgid "Dawn"
-msgstr ""
+msgstr "Svítání"
 
 #. [time]: id=morning_noweather
 #: data/resources/Weather/_main.cfg:158
-#, fuzzy
-#| msgid "Warning"
 msgid "Morning"
-msgstr "Varování"
+msgstr "Dopoledne"
 
 #. [time]: id=midday_noweather
 #: data/resources/Weather/_main.cfg:166
 msgid "Midday"
-msgstr ""
+msgstr "Poledne"
 
 #. [time]: id=afternoon_noweather
 #: data/resources/Weather/_main.cfg:174
 msgid "Afternoon"
-msgstr ""
+msgstr "Odpoledne"
 
 #. [time]: id=dusk_noweather
 #: data/resources/Weather/_main.cfg:182
 msgid "Dusk"
-msgstr ""
+msgstr "Soumrak"
 
 #. [time]: id=first_watch_noweather
 #: data/resources/Weather/_main.cfg:193
 msgid "First Watch"
-msgstr ""
+msgstr "První hlídka"
 
 #. [time]: id=midnight_noweather
 #: data/resources/Weather/_main.cfg:204
 msgid "Midnight"
-msgstr ""
+msgstr "Půlnoc"
 
 #. [time]: id=second_watch_noweather
 #: data/resources/Weather/_main.cfg:215
 msgid "Second Watch"
-msgstr ""
+msgstr "Druhá hlídka"
 
 #. [action]: id=button-playreplay, type=image
 #: data/themes/_initial.cfg:412
@@ -5910,7 +5906,7 @@ msgstr "Připojuji se k $server_address|..."
 
 #: src/addon/client.cpp:124
 msgid "Requesting add-on counts by type..."
-msgstr ""
+msgstr "Vyžádání počtu rozšíření podle typu..."
 
 #: src/addon/client.cpp:131 src/addon/client.cpp:149 src/addon/client.cpp:167
 #: src/addon/client.cpp:185 src/addon/client.cpp:205 src/addon/client.cpp:226
@@ -5921,37 +5917,27 @@ msgstr "Server odpověděl chybou:"
 
 #: src/addon/client.cpp:146
 msgid "Requesting add-on downloads by version..."
-msgstr ""
+msgstr "Vyžádání stahování rozšíření podle verze..."
 
 #: src/addon/client.cpp:164
-#, fuzzy
-#| msgid "Requesting file index..."
 msgid "Requesting forum_auth usage..."
-msgstr "Vyžádání seznamu souborů..."
+msgstr "Vyžádání použití forum_auth..."
 
 #: src/addon/client.cpp:182
-#, fuzzy
-#| msgid "Requesting distribution terms..."
 msgid "Requesting list of admins..."
-msgstr "Žádám o podmínky používání..."
+msgstr "Vyžádání seznamu správců..."
 
 #: src/addon/client.cpp:202
-#, fuzzy
-#| msgid "Downloading list of add-ons..."
 msgid "Getting list of hidden add-ons..."
-msgstr "Stahuji seznam rozšíření..."
+msgstr "Získání seznamu skrytých rozšíření..."
 
 #: src/addon/client.cpp:223
-#, fuzzy
-#| msgid "Downloading list of add-ons..."
 msgid "Hiding add-on..."
-msgstr "Stahuji seznam rozšíření..."
+msgstr "Skrytí rozšíření..."
 
 #: src/addon/client.cpp:243
-#, fuzzy
-#| msgid "Downloading list of add-ons..."
 msgid "Unhiding add-on..."
-msgstr "Stahuji seznam rozšíření..."
+msgstr "Odkrytí rozšíření..."
 
 #: src/addon/client.cpp:267
 msgid "Downloading list of add-ons..."
@@ -6012,11 +5998,9 @@ msgstr ""
 "<i>$addon_title</i>."
 
 #: src/addon/client.cpp:355
-#, fuzzy
-#| msgid "Sending an update pack for the add-on <i>$addon_title</i>..."
 msgid ""
 "The file size for the icon for the add-on <i>$addon_title</i> is too large."
-msgstr "Posílání aktualizačního balíčku pro rozšíření <i>$addon_title</i>..."
+msgstr "Soubor ikony pro rozšíření <i>$addon_title</i> je příliš velký."
 
 #: src/addon/client.cpp:368
 msgid "Requesting file index..."
@@ -6406,7 +6390,7 @@ msgstr ""
 
 #: src/addon/validation.cpp:510
 msgid "The add-on’s icon’s file size is too large."
-msgstr ""
+msgstr "Soubor ikony rozšíření je příliš velký."
 
 #: src/addon/validation.cpp:519
 msgid "Unspecified server error."
