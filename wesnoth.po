@@ -3,7 +3,7 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2024
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2025
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2020, 2021
 #
 msgid ""
@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-01-19 11:47-0600\n"
-"PO-Revision-Date: 2025-02-01 20:00+0100\n"
+"PO-Revision-Date: 2025-02-03 20:16+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5902,7 +5902,7 @@ msgstr ""
 
 #: src/addon/client.cpp:78
 msgid "Connecting to $server_address|..."
-msgstr "Připojuji se k $server_address|..."
+msgstr "Připojování k $server_address|..."
 
 #: src/addon/client.cpp:124
 msgid "Requesting add-on counts by type..."
@@ -5941,11 +5941,11 @@ msgstr "Odkrytí rozšíření..."
 
 #: src/addon/client.cpp:267
 msgid "Downloading list of add-ons..."
-msgstr "Stahuji seznam rozšíření..."
+msgstr "Stahování seznamu rozšíření..."
 
 #: src/addon/client.cpp:288
 msgid "Requesting distribution terms..."
-msgstr "Žádám o podmínky používání..."
+msgstr "Vyžádání podmínek šíření..."
 
 #: src/addon/client.cpp:312
 msgid ""
@@ -6008,19 +6008,19 @@ msgstr "Vyžádání seznamu souborů..."
 
 #: src/addon/client.cpp:384
 msgid "Sending an update pack for the add-on <i>$addon_title</i>..."
-msgstr "Posílání aktualizačního balíčku pro rozšíření <i>$addon_title</i>..."
+msgstr "Odesílání aktualizačního balíčku pro rozšíření <i>$addon_title</i>..."
 
 #: src/addon/client.cpp:405
 msgid "Sending add-on <i>$addon_title</i>..."
-msgstr "Stahuji rozšíření: <i>$addon_title|</i>..."
+msgstr "Odesílání rozšíření <i>$addon_title</i>..."
 
 #: src/addon/client.cpp:460
 msgid "Removing add-on <i>$addon_title</i> from the server..."
-msgstr "Odstraňuji rozšíření: <i>$addon_title|</i> ze serveru..."
+msgstr "Odstraňování rozšíření <i>$addon_title</i> ze serveru..."
 
 #: src/addon/client.cpp:488
 msgid "Downloading add-on <i>$addon_title</i>..."
-msgstr "Stahuji rozšíření: <i>$addon_title|</i>..."
+msgstr "Stahování rozšíření <i>$addon_title</i>..."
 
 #: src/addon/client.cpp:500 src/addon/client.cpp:861
 msgid "Add-ons Manager"
@@ -6028,7 +6028,7 @@ msgstr "Správce rozšíření"
 
 #: src/addon/client.cpp:500
 msgid "Installing add-on <i>$addon_title</i>..."
-msgstr "Instaluji rozšíření <i>$addon_title</i>..."
+msgstr "Instalování rozšíření <i>$addon_title</i>..."
 
 #: src/addon/client.cpp:512 src/addon/client.cpp:538
 msgid ""
