@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-01-19 11:47-0600\n"
-"PO-Revision-Date: 2025-02-04 19:40+0100\n"
+"PO-Revision-Date: 2025-02-07 20:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -63,7 +63,7 @@ msgstr "Velké soubory s prostým textem"
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:26
 msgid "Show icons in the Add-ons manager"
-msgstr ""
+msgstr "Zobrazit ikony ve správci rozšíření"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:27
@@ -71,6 +71,8 @@ msgid ""
 "Disabling saves bandwidth by not sending icons for the add-ons list in the "
 "add-ons manager"
 msgstr ""
+"Vypnutí šetří šířku pásma tím, že neodesílá ikony pro seznam rozšíření ve "
+"správci rozšíření."
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:34
