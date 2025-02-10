@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-01-19 17:47 UTC\n"
-"PO-Revision-Date: 2025-02-09 19:38+0100\n"
+"PO-Revision-Date: 2025-02-10 22:09+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5049,19 +5049,14 @@ msgstr ""
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:840
-#, fuzzy
-#| msgid ""
-#| "I only hope we are not too late! We have heard nothing of the undead "
-#| "since they overran us at the outposts. I wish we knew how Weldyn’s armies "
-#| "fare..."
 msgid ""
 "I only hope we are not too late! We have heard nothing of the undead "
 "invasion force since it overran us at the outposts. I wish we knew how "
 "Weldyn’s armies fare..."
 msgstr ""
 "Jen doufám, že nepřijdeme pozdě! Od té doby, co nás přepadli na základnách, "
-"jsme o nemrtvých nic neslyšeli. Kéž bychom věděli, jak si armády Weldynu "
-"vedou..."
+"jsme o invazních silách nemrtvých nic neslyšeli. Kéž bychom věděli, jak si "
+"armády Weldynu vedou..."
 
 #. [scenario]: id=09_Castle_in_the_Ice
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:4
@@ -13436,12 +13431,12 @@ msgstr "Co... kde to jsem? Co se to se mnou děje?"
 
 #. [message]: speaker=spirit
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:775
-#, fuzzy
-#| msgid "The mage called Dacyn is dying! It is time for you to be reborn!"
 msgid ""
 "The mage called Dacyn is dying! It is time for you to be reborn under a new "
 "name: Mal-Dak‘an."
-msgstr "Mág jménem Dacyn umírá! Je čas, aby ses znovu narodil!"
+msgstr ""
+"Mág jménem Dacyn umírá! Je čas, aby ses znovu narodil s novým jménem: Mal-"
+"Dakan."
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:779
@@ -13466,12 +13461,12 @@ msgstr ""
 
 #. [message]: speaker=Dacyn
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:791
-#, fuzzy
-#| msgid "I... I needed this power! I had to safeguard Irdya!"
 msgid ""
 "I... I needed that power! I was the only one who could be trusted to "
 "safeguard Irdya!"
-msgstr "Já... jsem potřeboval tu sílu! Musel jsem ochránit Irdyi!"
+msgstr ""
+"Já... potřeboval tu sílu! Byl jsem jediný, komu se dalo věřit, že Irdyi "
+"ochrání!"
 
 #. [message]: speaker=spirit
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:795
