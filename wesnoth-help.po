@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-01-19 11:47-0600\n"
-"PO-Revision-Date: 2025-02-12 23:15+0100\n"
+"PO-Revision-Date: 2025-02-13 20:50+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2043,12 +2043,6 @@ msgstr ""
 #. [topic]: id=elensefar
 #. Geography of Elensefar area
 #: data/core/encyclopedia/geography.cfg:148
-#, fuzzy
-#| msgid ""
-#| "<header>text='Notable cities:'</header>\n"
-#| "    • Elensefar: The capital, located on an island in the Great River "
-#| "delta.\n"
-#| "    • Carcyn: City on the Wesnoth–Elensefar border, disputed with Wesnoth."
 msgid ""
 "<header>text='Notable cities:'</header>\n"
 "    • Elensefar: The capital, located on an island in the Great River delta, "
@@ -2057,7 +2051,8 @@ msgid ""
 "    • Carcyn: City on the Wesnoth–Elensefar border, disputed with Wesnoth."
 msgstr ""
 "<header>text='Významná města:'</header>\n"
-"    • Elensefar: Hlavní město, situované na ostrově v deltě Velké řeky.\n"
+"    • Elensefar: Hlavní město, situované na ostrově v deltě Velké řeky, "
+"ačkoli některé okrajové polnosti zabírají kousek obou jejích břehů.\n"
 "    • Carcyn: Město na hranici s Wesnothem, často sporného vlastnictví."
 
 #. [topic]: id=elensefar
