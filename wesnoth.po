@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 15:53-0600\n"
-"PO-Revision-Date: 2025-02-07 20:53+0100\n"
+"PO-Revision-Date: 2025-02-21 23:12+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -27,10 +27,8 @@ msgstr "Volitelný"
 
 #. [editor_group]: id=urban_jungle
 #: data/_main.cfg:65
-#, fuzzy
-#| msgid "Urban Jungle"
 msgid "Urban Jungle (Internal)"
-msgstr "Městská džungle"
+msgstr "Městská džungle (vnitřní)"
 
 #. [advanced_preference]: type=combo
 #: data/advanced_preferences.cfg:4
