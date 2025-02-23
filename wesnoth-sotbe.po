@@ -6,7 +6,7 @@
 # Anežka Bubeníčková <masozravapalma@gmail.cz>, 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2024
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2025
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2020
 #
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 21:53 UTC\n"
-"PO-Revision-Date: 2024-12-28 23:52+0100\n"
+"PO-Revision-Date: 2025-02-23 20:44+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -93,17 +93,13 @@ msgstr "Návrh tažení"
 
 #. [about]
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:40
-#, fuzzy
-#| msgid "Campaign Maintenance"
 msgid "Current Campaign Maintainer"
-msgstr "Údržba tažení"
+msgstr "Současný správce tažení"
 
 #. [about]
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:46
-#, fuzzy
-#| msgid "Campaign Maintenance"
 msgid "Campaign Maintainers (former)"
-msgstr "Údržba tažení"
+msgstr "Správci tažení (bývalí)"
 
 #. [about]
 #: data/campaigns/Son_Of_The_Black_Eye/_main.cfg:55
