@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 21:53 UTC\n"
-"PO-Revision-Date: 2025-01-24 21:55+0100\n"
+"PO-Revision-Date: 2025-02-25 20:59+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1023,58 +1023,36 @@ msgstr "Zničte je!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:554
-#, fuzzy
-#| msgid ""
-#| "Hey look, it’s an ancient door. It seems the trolls were too stupid to "
-#| "figure out how to open it."
 msgid "An ancient gate... it seems the trolls were unable to open it."
-msgstr ""
-"Podívejte, starobylé dveře. Zdá se, že trollové byli příliš pitomí, aby "
-"přišli na to, jak je otevřít."
+msgstr "Starobylá brána... zdá se, že ji trollové nedokázali otevřít."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:560
-#, fuzzy
-#| msgid ""
-#| "Hey look, it’s an ancient door. It seems the trolls were too stupid to "
-#| "figure out how to open it."
 msgid ""
 "Hey look, it’s an ancient gate. It seems the trolls were too stupid to "
 "figure out how to open it."
 msgstr ""
-"Podívejte, starobylé dveře. Zdá se, že trollové byli příliš pitomí, aby "
-"přišli na to, jak je otevřít."
+"Hej, koukejte, to je starobylá brána. Zdá se, že trollové byli příliš "
+"pitomí, aby přišli na to, jak ji otevřít."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:577
-#, fuzzy
-#| msgid ""
-#| "Hey look, it’s an ancient door. It seems the skeletons were too stupid to "
-#| "find out how to open it."
 msgid "An ancient gate... it seems the skeletons did not bother opening it."
-msgstr ""
-"Podívejte, starobylé dveře. Zdá se, že kosťáci byli příliš pitomí, aby "
-"zjistili, jak je otevřít."
+msgstr "Starobylá brána... vypadá to, že se ji kosťáci neobtěžovali otevřít."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:583
-#, fuzzy
-#| msgid ""
-#| "Hey look, it’s an ancient door. It seems the skeletons were too stupid to "
-#| "find out how to open it."
 msgid ""
 "Hey look, it’s an ancient gate. It seems the skeletons were too stupid to "
 "find out how to open it."
 msgstr ""
-"Podívejte, starobylé dveře. Zdá se, že kosťáci byli příliš pitomí, aby "
-"zjistili, jak je otevřít."
+"Hej, koukejte, to je starobylá brána. Zdá se, že kosťáci byli příliš pitomí, "
+"aby zjistili, jak ji otevřít."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:600
-#, fuzzy
-#| msgid "Well, let’s see what’s behind it."
 msgid "Let’s see what lies behind it..."
-msgstr "Nu, podíváme se, co je za nimi."
+msgstr "Podívejme se, co se za ní skrývá..."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:605
@@ -1084,20 +1062,18 @@ msgstr ""
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:611
 msgid "Well, let’s see what’s behind it."
-msgstr "Nu, podíváme se, co je za nimi."
+msgstr "Nu, podívej se, co je za ní."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:616
 msgid ""
 "All right. (<i>Grunt... strain...</i>) It’s not moving. It seems to be stuck."
-msgstr "Fajn. (<i>Vrz... uf...</i>) Nehýbou se. Asi se zasekly."
+msgstr "Fajn. (<i>Vrz... uf...</i>) Nehýbe se. Asi se zasekla."
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:621
-#, fuzzy
-#| msgid "Well, just kick it down then."
 msgid "Just kick it down then."
-msgstr "Tak je prostě vykopni."
+msgstr "Tak ji prostě vykopni."
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/02_01_Infested_Caves.cfg:626
