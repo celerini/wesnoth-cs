@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 15:53-0600\n"
-"PO-Revision-Date: 2025-02-17 23:31+0100\n"
+"PO-Revision-Date: 2025-02-28 23:16+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -81,10 +81,8 @@ msgstr "věrný"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:113
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:680
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:20
-#, fuzzy
-#| msgid "Zero upkeep"
 msgid "Zero upkeep."
-msgstr "Nulové výdaje"
+msgstr "Nulové výdaje."
 
 #. [chance_to_hit]
 #. [chance_to_hit]: id=magical
@@ -1982,17 +1980,6 @@ msgstr ""
 #. [topic]: id=green_isle
 #. Geography of the Green Isle
 #: data/core/encyclopedia/geography.cfg:70
-#, fuzzy
-#| msgid ""
-#| "<header>text='Notable cities:'</header>\n"
-#| "    • Southbay: The capital of the largest Islefolk Kingdom.\n"
-#| "    • Clearwater Port: The second largest Islefolk city and the location "
-#| "of a major port.\n"
-#| "    • Stormvale: A major Islefolk kingdom once ruled by the ancestors of "
-#| "Haldric I.\n"
-#| "    • Jevyan’s Haven: The Wesfolk capital and home of the famous lich-"
-#| "lord Jevyan.\n"
-#| "    • Blackmore: A small settlement north of the Oldwood."
 msgid ""
 "<header>text='Notable cities:'</header>\n"
 "    • Southbay: The capital of the largest Islefolk kingdom.\n"
@@ -5053,17 +5040,6 @@ msgstr ""
 
 #. [topic]: id=using_addons
 #: data/core/help.cfg:638
-#, fuzzy
-#| msgid ""
-#| "\n"
-#| "\n"
-#| "Cores enable total conversion of The Battle for Wesnoth. A core can "
-#| "replace all the content in Wesnoth: when a different core is loaded, the "
-#| "regular units, terrains and the like do not exist.\n"
-#| "\n"
-#| "Cores allow a significantly different game experience: for example, a "
-#| "World War II campaign, or even a different game altogether, as long as it "
-#| "can be represented as a hexagonal map with ’units’ in some way."
 msgid ""
 "\n"
 "\n"
@@ -7032,10 +7008,8 @@ msgstr "kloun"
 
 #. [disable]: id=naval_ram
 #: data/core/macros/weapon_specials.cfg:124
-#, fuzzy
-#| msgid "This attack can only be used offensively."
 msgid "This attack can only be used against units in water terrain."
-msgstr "Tento útok lze použít pouze ofenzivně."
+msgstr "Tento útok lze použít pouze proti jednotkám ve vodním terénu."
 
 #. [disable]: id=naval_ram
 #: data/core/macros/weapon_specials.cfg:132
