@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 15:53-0600\n"
-"PO-Revision-Date: 2025-03-01 23:15+0100\n"
+"PO-Revision-Date: 2025-03-02 20:18+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2003,13 +2003,6 @@ msgstr ""
 #. [topic]: id=green_isle
 #. Geography of the Green Isle
 #: data/core/encyclopedia/geography.cfg:79
-#, fuzzy
-#| msgid ""
-#| "<header>text='Notable land features:'</header>\n"
-#| "    • Broken Mountains: A mighty mountain range that cuts through the "
-#| "Green Isle.\n"
-#| "    • Oldwood: A mysterious wood inhabited by some woses.\n"
-#| "    • Swamp of Esten: A small swamp located east of the Broken Mountains."
 msgid ""
 "<header>text='Notable land features:'</header>\n"
 "    • Broken Mountains: A mighty mountain range that cuts through the Green "
@@ -2024,8 +2017,13 @@ msgid ""
 msgstr ""
 "<header>text='Významné krajinné prvky:'</header>\n"
 "    • Rozbité hory: Mohutné pohoří, které protíná Zelený ostrov.\n"
-"    • Starý les: Tajemný hvozd obývaný několika stromovými lidmi.\n"
-"    • Estenský močál: Malá bažina nacházející se východně od Rozbitých hor."
+"    • Středozemí: Kopcovitá a řídce zalesněná oblast jižně od Estenského "
+"močálu, kdysi domov bohatých království Ostrovanů.\n"
+"    • Starý les: Tajemný hvozd obývaný několika prastarými stromovými lidmi. "
+"Pod chrámem v srdci lesa se skrývají temné staré katakomby.\n"
+"    • Estenský močál: Malá bažina nacházející se východně od Rozbitých hor, "
+"která byla kdysi domovem kultistů napodobujících Wesany. Před dávnou dobou "
+"byla poznamenána válkami mezi Wesany a Ostrovany."
 
 #. [topic]: id=old_continent
 #: data/core/encyclopedia/geography.cfg:88
