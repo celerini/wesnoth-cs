@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 21:53 UTC\n"
-"PO-Revision-Date: 2025-03-07 21:08+0100\n"
+"PO-Revision-Date: 2025-03-08 23:11+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -706,10 +706,8 @@ msgstr "velký meč"
 
 #. [unit_type]: id=Shadow Lord, race=human, gender=male,female
 #: data/campaigns/The_Deceivers_Gambit/units/Bandit_Shadow_Lord.cfg:5
-#, fuzzy
-#| msgid "Shadow"
 msgid "Shadow Lord"
-msgstr "Stín"
+msgstr "Stínový pán"
 
 #. [unit_type]: id=Shadow Lord, race=human, gender=male,female
 #: data/campaigns/The_Deceivers_Gambit/units/Bandit_Shadow_Lord.cfg:19
@@ -725,17 +723,13 @@ msgstr ""
 
 #. [attack]: type=blade
 #: data/campaigns/The_Deceivers_Gambit/units/Bandit_Shadow_Lord.cfg:31
-#, fuzzy
-#| msgid "war blade"
 msgid "astral blade"
-msgstr "válečná čepel"
+msgstr "astrální čepel"
 
 #. [damage_type]: id=cold_damage
 #: data/campaigns/The_Deceivers_Gambit/units/Bandit_Shadow_Lord.cfg:37
-#, fuzzy
-#| msgid "chill wave"
 msgid "chill"
-msgstr "vlna mrazu"
+msgstr "chlad"
 
 #. [damage_type]: id=cold_damage
 #: data/campaigns/The_Deceivers_Gambit/units/Bandit_Shadow_Lord.cfg:38
@@ -753,10 +747,8 @@ msgstr ""
 
 #. [female]: gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Bandit_Shadow_Lord.cfg:87
-#, fuzzy
-#| msgid "female^Dark Horse"
 msgid "female^Shadow Lord"
-msgstr "Šedohřivka"
+msgstr "Stínová dáma"
 
 #. [unit_type]: id=Dwarvish Masked Berserker, race=dwarf
 #. [unit_type]: id=Dwarvish Berserker, race=dwarf
