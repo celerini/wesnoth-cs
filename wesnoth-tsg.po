@@ -2,7 +2,7 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2024
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2025
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2020
 #
 msgid ""
@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 21:53 UTC\n"
-"PO-Revision-Date: 2024-12-28 23:53+0100\n"
+"PO-Revision-Date: 2025-03-09 19:18+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4242,17 +4242,13 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:463
-#, fuzzy
-#| msgid "Hold the line: keep Sir Gerrick alive as long as possible"
 msgid "Protect Sir Gerrick as long as possible"
-msgstr "Drž pozice: udrž sira Gerricka naživu co nejdéle"
+msgstr "Chraň sira Gerricka co nejdéle"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:470
-#, fuzzy
-#| msgid "Hold the line: keep Sir Gerrick alive as long as possible"
 msgid "Protect Minister Hylas as long as possible"
-msgstr "Drž pozice: udrž sira Gerricka naživu co nejdéle"
+msgstr "Chraň purkmistra Hylase co nejdéle"
 
 #. [note]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:481
