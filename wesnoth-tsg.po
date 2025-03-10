@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 21:53 UTC\n"
-"PO-Revision-Date: 2025-03-09 19:18+0100\n"
+"PO-Revision-Date: 2025-03-10 21:23+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -21,10 +21,8 @@ msgstr ""
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:31
-#, fuzzy
-#| msgid "The South Guard"
 msgid "The South Guard — Tutorial"
-msgstr "Jižní hlídka"
+msgstr "Jižní hlídka – výcvik"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:32
@@ -33,13 +31,6 @@ msgstr "JH"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:41
-#, fuzzy
-#| msgid ""
-#| "A young knight, Deoran, is dispatched to the southern Wesnoth province of "
-#| "Kerlath to investigate the ravaged towns at the border. Thrust quickly "
-#| "into a hapless conflict against marauding bandits, Deoran must rally the "
-#| "remaining men of the derelict South Guard to defend his country.\n"
-#| "\n"
 msgid ""
 "A young knight, Deoran, is dispatched to the southern frontier town of "
 "Westin. Thrust quickly into a hapless conflict against marauding bandits, "
@@ -49,18 +40,17 @@ msgid ""
 "<i><b>This is the recommended starting campaign.</b></i>\n"
 "\n"
 msgstr ""
-"Mladý rytíř Deoran je vyslán do provincie Kerlathu v jižním Wesnothu, aby "
-"prozkoumal vypleněná hraniční města. Deoran, rychle vtažen do nešťastného "
-"sporu proti drancujícím banditům, musí shromáždit zbývající muže zanedbané "
-"Jižní hlídky, aby bránil svou zemi.\n"
+"Mladý rytíř Deoran je vyslán do jižního pohraničního města Westinu. Je "
+"rychle vržen do nešťastného střetu s loupeživými bandity a brzy narazí na "
+"hru temných sil. Dej dohromady Jižní hlídku a braňte své domovy!\n"
+"\n"
+"<i><b>Toto je doporučené výchozí tažení.</b></i>\n"
 "\n"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:45
-#, fuzzy
-#| msgid "(Novice level, 8 scenarios.)"
 msgid "(Novice level, 6 scenarios.)"
-msgstr "(Úroveň nováček, 8 scénářů.)"
+msgstr "(Úroveň nováček, 6 scénářů.)"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:48
