@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 21:53 UTC\n"
-"PO-Revision-Date: 2025-03-10 21:23+0100\n"
+"PO-Revision-Date: 2025-03-11 22:33+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -91,10 +91,8 @@ msgstr ""
 
 #. [about]
 #: data/campaigns/The_South_Guard/_main.cfg:61
-#, fuzzy
-#| msgid "Latest Campaign Revision"
 msgid "Newest Campaign Version Rewrite"
-msgstr "Poslední revize tažení"
+msgstr "Přepracování nejnovější verze tažení"
 
 #. [about]
 #: data/campaigns/The_South_Guard/_main.cfg:67
@@ -213,10 +211,8 @@ msgstr ""
 
 #. [lua]: display_tip
 #: data/campaigns/The_South_Guard/lua/popups.lua:80
-#, fuzzy
-#| msgid "Undead"
 msgid "Understood"
-msgstr "Nemrtví"
+msgstr "Rozumím"
 
 #. [lua]: display_tip
 #: data/campaigns/The_South_Guard/lua/popups.lua:85
@@ -253,10 +249,8 @@ msgstr "Urza Mathin"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:111
-#, fuzzy
-#| msgid "The South Guard"
 msgid "The Author"
-msgstr "Jižní hlídka"
+msgstr "Autor"
 
 #. [message]
 #. notice that appears at the beginning of the scenario if you select Hard difficulty
@@ -271,10 +265,8 @@ msgstr ""
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:117
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:428
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:86
-#, fuzzy
-#| msgid "Campaign Maintenance"
 msgid "Captain Mari"
-msgstr "Údržba tažení"
+msgstr "Kapitánka Mari"
 
 #. [unit]: id=Deoran, type=Cavalryman Commander
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:123
@@ -352,10 +344,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:248
-#, fuzzy
-#| msgid "Move Deoran into Kerlath Province"
 msgid "Move Deoran next to Mari"
-msgstr "Dosáhni s Deoranem provincie Kerlathu"
+msgstr "Přesuň Deorana vedle Mari"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:252
