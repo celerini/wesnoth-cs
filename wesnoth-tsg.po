@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 21:53 UTC\n"
-"PO-Revision-Date: 2025-03-11 22:33+0100\n"
+"PO-Revision-Date: 2025-03-12 22:32+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -594,10 +594,8 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:743
-#, fuzzy
-#| msgid "Bandits"
 msgid "Bandits! Where?"
-msgstr "Bandité"
+msgstr "Banditi! Kde?"
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:779
@@ -647,10 +645,8 @@ msgstr "Deoran zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:818
-#, fuzzy
-#| msgid "Death of Deoran"
 msgid "Death of Mari"
-msgstr "Deoran zemře"
+msgstr "Mari zemře"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:848
@@ -780,16 +776,12 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1031
-#, fuzzy
-#| msgid ""
-#| "The dawn breaks — now is the time for us to attack and drive these "
-#| "bandits from our lands. To me, men of the South Guard!"
 msgid ""
 "Day has come! We will be strongest in the light — now is the time for us to "
 "attack and drive these bandits from our lands. To me, men of the South Guard!"
 msgstr ""
-"Rozednívá se – je čas zaútočit a vyhnat ty bandity z naší země. Muži Jižní "
-"hlídky, ke mně!"
+"Nastal den! Za světla budeme nejsilnější – nyní je čas zaútočit a vyhnat ty "
+"bandity z naší země. Muži Jižní hlídky, ke mně!"
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1045
@@ -815,17 +807,10 @@ msgstr ""
 
 #. [message]: speaker=Urza Mathin
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1129
-#, fuzzy
-#| msgid ""
-#| "Reinforcements from my brothers! Excellent. Let us go and crush this "
-#| "vermin boy who fancies himself a knight. These lands belong to the "
-#| "brothers Urza!"
 msgid ""
 "Reinforcements from my brothers! Excellent. These lands belong to the "
 "brothers Urza!"
-msgstr ""
-"Posily od mých bratrů! Výtečně. Pojďme a zlikvidujme toho fracka, který si "
-"hraje na rytíře. Tyto země patří bratřím Urzům!"
+msgstr "Posily od mých bratrů! Výtečně. Tato zem patří bratřím Urzům!"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1133
