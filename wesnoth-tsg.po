@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 21:53 UTC\n"
-"PO-Revision-Date: 2025-03-12 22:32+0100\n"
+"PO-Revision-Date: 2025-03-13 20:31+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -987,10 +987,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:275
-#, fuzzy
-#| msgid "Defeat Urza Mathin"
 msgid "Defeat Urza Fastik"
-msgstr "Poraz Urzu Mathina"
+msgstr "Poraz Urzu Fastika"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:331
@@ -1183,10 +1181,8 @@ msgstr ""
 
 #. [scenario]: id=02x_Westin
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:5
-#, fuzzy
-#| msgid "Westin"
 msgid "Westin Town"
-msgstr "Westin"
+msgstr "Město Westin"
 
 #. [side]
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:42
@@ -1372,10 +1368,8 @@ msgstr ""
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:322
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:341
-#, fuzzy
-#| msgid "Sir Gerrick"
 msgid "Ask about Sir Gerrick"
-msgstr "Sir Gerrick"
+msgstr "Zeptat se sira Gerricka"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:330
@@ -1406,10 +1400,8 @@ msgstr ""
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:357
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:388
-#, fuzzy
-#| msgid "Minister Hylas"
 msgid "Ask about Minister Hylas"
-msgstr "Purkmistr Hylas"
+msgstr "Zeptat se purkmistra Hylase"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:365
