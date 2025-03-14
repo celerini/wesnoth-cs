@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 21:53 UTC\n"
-"PO-Revision-Date: 2025-03-13 20:31+0100\n"
+"PO-Revision-Date: 2025-03-14 23:29+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1605,10 +1605,8 @@ msgstr "Talchar"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:235
-#, fuzzy
-#| msgid "Halt! Who enters our sacred grove without leave?"
 msgid "Halt! Who enters our sacred vale without leave?"
-msgstr "Stát! Kdo bez dovolení vchází do našeho posvátného háje?"
+msgstr "Stát! Kdo bez dovolení vchází do našeho posvátného údolí?"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:238
@@ -1627,24 +1625,18 @@ msgstr ""
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:245
-#, fuzzy
-#| msgid ""
-#| "Choose your words wisely, human. Know that the penalty for trespassing on "
-#| "our lands is death. What is your name?"
 msgid ""
 "Choose your words wisely, bandits. Speak, knowing that the penalty for "
 "trespassing on our lands is death."
 msgstr ""
-"Vol svá slova moudře, člověče. Věz, že trestem za nedovolený vstup do našich "
-"zemí je smrt. Jaké je tvé jméno?"
+"Volte svá slova moudře, bandité. Mluvte s vědomím, že trestem za vniknutí na "
+"naše území je smrt."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:249
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:265
-#, fuzzy
-#| msgid "De—"
 msgid "I—"
-msgstr "De..."
+msgstr "Já..."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:253
@@ -1656,10 +1648,8 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:257
-#, fuzzy
-#| msgid "Deora—"
 msgid "To—"
-msgstr "Deora..."
+msgstr "Abych..."
 
 #. [message]: speaker=Vaenuith
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:261
@@ -1751,10 +1741,8 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:316
-#, fuzzy
-#| msgid "?"
 msgid "!?"
-msgstr "?"
+msgstr "!?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:373
@@ -2015,10 +2003,8 @@ msgstr ""
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:741
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:660
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:480
-#, fuzzy
-#| msgid "Survive until end of turns"
 msgid "Survive until turns run out"
-msgstr "Zůstaň naživu až do konce kol"
+msgstr "Zůstaň naživu do konce kol"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:768
@@ -2204,10 +2190,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1036
-#, fuzzy
-#| msgid "The darkness beckons..."
 msgid "Skeletons. The darkness grows."
-msgstr "Temnota zve..."
+msgstr "Kostlivci. Temnota roste."
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1064
@@ -2265,11 +2249,11 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1136
-#, fuzzy
-#| msgid "... Ethiliel? I know you must be distraught, but—"
 msgid ""
 "...Ethiliel? I know you must be distraught to be the last of your town, but—"
-msgstr "... Ethiliel? Vím, že musíš být silně rozrušená, ale –"
+msgstr ""
+"... Ethiliel? Vím, musíš být silně rozrušená, že jsi poslední ze svého "
+"města, ale –"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1140
