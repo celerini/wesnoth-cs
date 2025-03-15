@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 21:53 UTC\n"
-"PO-Revision-Date: 2025-03-14 23:29+0100\n"
+"PO-Revision-Date: 2025-03-15 23:44+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2388,14 +2388,12 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:211
-#, fuzzy
-#| msgid ""
-#| "This is quite a change from fighting bandits in the farmlands near Westin!"
 msgid ""
 "It’s so cold here! And this fog is so thick. This is quite a change from "
 "fighting bandits in the farmlands near Westin!"
 msgstr ""
-"Tohle je něco trochu jiného než šarvátky s lupiči v polích okolo Westinu!"
+"Je tu taková zima! A ta mlha je tak hustá. Tohle je něco trochu jiného než "
+"šarvátky s lupiči v polích okolo Westinu!"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:214
@@ -2449,31 +2447,23 @@ msgstr ""
 
 #. [object]: description={MESSAGE}
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:242
-#, fuzzy
-#| msgid "Recruit"
 msgid "New Recruit:"
-msgstr "Rekrut"
+msgstr "Nové verbování:"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:251
-#, fuzzy
-#| msgid "You may now recruit Cavalrymen."
 msgid "You can now recruit Fencers!"
-msgstr "Můžeš verbovat kavalérii!"
+msgstr "Nyní můžeš verbovat šermíře!"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:252
-#, fuzzy
-#| msgid "You may now recruit Cavalrymen."
 msgid "You can now recruit Heavy Infantrymen!"
-msgstr "Můžeš verbovat kavalérii!"
+msgstr "Nyní můžeš verbovat těžkooděnce!"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:253
-#, fuzzy
-#| msgid "You may now recruit Cavalrymen."
 msgid "You can now recruit Mages!"
-msgstr "Můžeš verbovat kavalérii!"
+msgstr "Nyní můžeš verbovat mágy!"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:255
