@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-02-17 21:53 UTC\n"
-"PO-Revision-Date: 2025-03-15 23:44+0100\n"
+"PO-Revision-Date: 2025-03-16 18:18+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2602,20 +2602,15 @@ msgstr ""
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:400
-#, fuzzy
-#| msgid ""
-#| "Please, please, just hear me out. I know of these undead that you seek, "
-#| "and I know that you seek to destroy both them and us out of revenge. I am "
-#| "sorry my brothers attacked you. It was never my intention to cause "
-#| "everyone so much suffering."
 msgid ""
 "Please, please, jus’ hear me out. I knows my men and I’ve done evil, and I "
 "knows that you seek to destroy us out o’ revenge. Ah’m sorry my brothers "
 "attacked you. It was never my intention to cause everyone so much sufferin’."
 msgstr ""
-"Prosím, prosím, jen mě vyslechněte. Vím o těch nemrtvých, které hledáte "
-"a vím, že je i nás usilujete zničit, abyste se pomstili. Je mi líto, že vás "
-"moji bratři napadli. Nikdy nebylo mým záměrem způsobit všem tolik utrpení."
+"Prosím, prosím, jen mě vyslechněte. Vím, že jsem se se svými muži dopustil "
+"zla, a vím, že usilujete o to nás zničit, abyste se pomstili. Je mi líto, že "
+"vás moji bratři napadli. Nikdy nebylo mým záměrem způsobit všem tolik "
+"utrpení."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:408
@@ -2627,12 +2622,6 @@ msgstr ""
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:412
-#, fuzzy
-#| msgid ""
-#| "I swear that I am not your enemy! I will gladly tell you what I know. A "
-#| "year ago, we ventured into the land of the elves in secret and we "
-#| "captured a great sage. We forced him to teach us the secrets of this "
-#| "forest."
 msgid ""
 "I swear I ain’t your enemy! I’ll gladly tell ye what I know. I admit that "
 "near a year ago, me brothers and I ventured into the valley of the elves in "
@@ -2640,9 +2629,11 @@ msgid ""
 "powerful and magical sage. Away from his people, he offered to teach us the "
 "secrets o’ summonin’ the dead."
 msgstr ""
-"Přísahám, že nejsem váš nepřítel! Rád vám řeknu, co vím. Před rokem jsme se "
-"odvážili tajně vstoupit do země elfů a zajali velkého mudrce. Donutili jsme "
-"ho, aby nám odhalil tajemství tohoto lesa."
+"Přísahám, že nejsem váš nepřítel! Rád vám řeknu, co vím. Přiznávám, že před "
+"rokem jsme se s bratry tajně vydali do údolí elfů, abychom tam loupili "
+"a kradli. Mnoho jsme jich zabili, ale jednoho zajali – mocného a kouzelného "
+"mudrce. Daleko od svého lidu nám nabídl, že nás naučí tajemství povolávání "
+"mrtvých."
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:416
