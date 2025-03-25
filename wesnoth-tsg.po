@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-03-17 20:44+0100\n"
+"PO-Revision-Date: 2025-03-25 19:57+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2735,25 +2735,17 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:456
-#, fuzzy
-#| msgid ""
-#| "Peace, let me think! <i>I must consider this carefully... If I ally with "
-#| "the elves, I must fight the bandits, but if I ally with the bandits I "
-#| "will make enemies of the elves...</i>"
 msgid ""
 "Peace, let me think! <i>If I listen to Ethiliel I must fight the bandits, "
 "but if I ally with the bandits Ethiliel will surely abandon us...</i>"
 msgstr ""
-"Klid, nechte mne přemýšlet! <i>Musím to důkladně uvážit... Pokud se "
-"přikloním na stranu elfů, budu muset bojovat s bandity, ale když se "
-"s bandity spojím, znepřátelím si elfy...</i>"
+"Klid, nechte mne přemýšlet! <i>Když poslechnu Ethiliel, budu muset bojovat "
+"proti banditům, ale když se s nimi spojím, Ethiliel nás určitě opustí...</i>"
 
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:458
-#, fuzzy
-#| msgid "Death of Ethiliel"
 msgid "Side with Ethiliel"
-msgstr "Ethiliel zemře"
+msgstr "Podpořit Ethiliel"
 
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:464
@@ -2802,10 +2794,8 @@ msgstr ""
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:556
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:576
-#, fuzzy
-#| msgid "Defeat Urza Afalas"
 msgid "Continue fighting Urza Afalas"
-msgstr "Poraz Urzu Afalase"
+msgstr "Pokračuj v boji s Urzou Afalasem"
 
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:563
@@ -2946,10 +2936,8 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:770
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:915
-#, fuzzy
-#| msgid "Defeat Mal M’Brin"
 msgid "Defeat Mebrin"
-msgstr "Poraz Mal Mebrina"
+msgstr "Poraz Mebrina"
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:803
