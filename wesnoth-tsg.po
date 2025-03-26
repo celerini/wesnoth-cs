@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-03-25 19:57+0100\n"
+"PO-Revision-Date: 2025-03-26 23:20+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3091,21 +3091,16 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:937
-#, fuzzy
-#| msgid ""
-#| "Join me! Stand by my side! We shall rise and eradicate the humans from "
-#| "the green world. Their corpses will serve us! Their bones will dance for "
-#| "our pleasure! We will make them into the mindless slaves that they "
-#| "deserve to be!"
 msgid ""
 "Rise, my minions, and let all vermin tremble! The race of man shall be "
 "stricken off the face of the green world. Your corpses will serve me! Your "
 "bones will dance for my pleasure! I’ll make humanity into the mindless "
 "slaves that you all deserve to be!"
 msgstr ""
-"Přidej se ke mně! Stůj mi po boku! Povstaneme a vyhladíme lidi ze světa "
-"zeleně. Jejich těla nám budou sloužit! Jejich kosti nám zatančí pro "
-"potěšení! Uděláme z nich bezduché otroky, jakými si zaslouží být!"
+"Povstaňte, moji služebníci, ať se všechna havěť třese! Lidská rasa bude "
+"vymazána z povrchu zeleného světa. Vaše mrtvoly mi budou sloužit! Vaše kosti "
+"budou tančit pro mé potěšení! Udělám z lidstva nemyslící otroky, kterými si "
+"všichni zasloužíte být!"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:940
@@ -3138,10 +3133,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:946
-#, fuzzy
-#| msgid "On your order, Sir Deoran."
 msgid "On your order, Master Deoran."
-msgstr "Na tvůj příkaz, sire Deorane."
+msgstr "Na tvůj příkaz, pane Deorane."
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:947
@@ -3168,10 +3161,6 @@ msgstr ""
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:996
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:710
-#, fuzzy
-#| msgid ""
-#| "You dare strike me?! Puny humans, I am darkness incarnate! I am power "
-#| "beyond your comprehension!"
 msgid ""
 "You dare strike me?! Puny humans, I’m darkness incarnate! I’m power beyond "
 "your comprehension!"
@@ -3197,17 +3186,13 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:1001
-#, fuzzy
-#| msgid ""
-#| "You are merely a servant of the power that corrupted you, lich! You have "
-#| "not mastered the darkness; it, instead, has enslaved you."
 msgid ""
 "You’re merely a servant of the power that corrupted you, lich! You’ve not "
 "mastered the darkness; it, instead, has enslaved you. We will put you out of "
 "your misery."
 msgstr ""
 "Jsi jen služebníkem moci, která tě zkazila, lichu! Neovládl jsi temnotu, to "
-"ona tě zotročila."
+"ona tě zotročila. Zbavíme tě tvého trápení."
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:1005
