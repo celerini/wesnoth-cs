@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-03-26 23:20+0100\n"
+"PO-Revision-Date: 2025-03-27 21:43+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3379,17 +3379,14 @@ msgstr ""
 
 #. [message]: role=avenger
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:316
-#, fuzzy
-#| msgid ""
-#| "Humans! You are the curs who kidnapped the Sage Mebrin! Tell us where you "
-#| "have hidden him and perhaps we will grant you a quick death!"
 msgid ""
 "Humans! You’re the curs who kidnapped the Sage Mebrin. Where is Mebrin? "
 "Where is Afalas? Produce the heads of those responsible, or we shall take "
 "yours!"
 msgstr ""
-"Lidé! Vy psi jste unesli mudrce Mebrina! Řekněte nám, kam jste ho ukryli, a "
-"snad vám zajistíme rychlou smrt!"
+"Lidé! Vy jste ti podvraťáci, kteří unesli mudrce Mebrina. Kde je? A kde je "
+"Afalas? Předložte hlavy těch, kdo jsou za to zodpovědní, nebo si vezmeme "
+"vaše!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:320
@@ -3408,19 +3405,14 @@ msgstr ""
 
 #. [message]: role=ranger1
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:328
-#, fuzzy
-#| msgid ""
-#| "How dare you speak of Mebrin with such lies?! Though he has knowledge of "
-#| "the undead, he is no human, so easily corrupted by the temptation of such "
-#| "power. Did you think that you could fool us with such a fictitious story?"
 msgid ""
 "How dare you speak of Mebrin thusly?! Ethiliel warned us of this lie — "
 "though Mebrin has knowledge of the undead, he’s no human, so easily "
 "corrupted by the temptation of such power."
 msgstr ""
-"Jak se opovažuješ tak lživě mluvit o Mebrinovi?! Přestože má znalosti o "
-"nemrtvých, není člověk, aby snadno podlehl pokušení takové moci. Mysleli "
-"jste si, že nás můžete oklamat tak vybájeným příběhem?"
+"Jak se opovažuješ takhle mluvit o Mebrinovi?! Ethiliel nás před touto lží "
+"varovala – Mebrin sice má znalosti o nemrtvých, ale není to člověk, aby "
+"snadno podlehl pokušení takové moci."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:332
@@ -3432,16 +3424,12 @@ msgstr ""
 
 #. [message]: role=avenger
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:336
-#, fuzzy
-#| msgid ""
-#| "Enough! I should have known that the stupidity of humans knows no bounds. "
-#| "We have nothing more to say here."
 msgid ""
 "Enough! I should have expected that the stupidity of humans knows no bounds. "
 "We’ve nothing more to say here. You won’t see us coming."
 msgstr ""
-"Dost! Měl jsem vědět, že hloupost lidí nezná hranic. Už tu nemáme o čem "
-"mluvit."
+"Dost! Měl jsem čekat, že lidská hloupost nezná hranic. Už tu nemáme o čem "
+"mluvit. Neuvidíte nás přicházet."
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:356
