@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-03-27 21:43+0100\n"
+"PO-Revision-Date: 2025-03-28 23:31+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3473,24 +3473,18 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:384
-#, fuzzy
-#| msgid "Move Deoran through the woods and over the river"
 msgid "Move Deoran and Captain Mari across the river"
-msgstr "Přesuň Deorana skrz les a za řeku"
+msgstr "Přesuň Deorana a kapitánku Mari přes řeku"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:391
-#, fuzzy
-#| msgid "Move Deoran through the woods and over the river"
 msgid "Move Deoran and Sir Gerrick across the river"
-msgstr "Přesuň Deorana skrz les a za řeku"
+msgstr "Přesuň Deorana a sira Gerricka přes řeku"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:398
-#, fuzzy
-#| msgid "Move Deoran through the woods and over the river"
 msgid "Move Deoran and Minister Hylas across the river"
-msgstr "Přesuň Deorana skrz les a za řeku"
+msgstr "Přesuň Deorana a purkmistra Hylase přes řeku"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:423
