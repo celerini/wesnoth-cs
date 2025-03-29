@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-03-28 23:31+0100\n"
+"PO-Revision-Date: 2025-03-29 23:23+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3559,37 +3559,24 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:507
-#, fuzzy
-#| msgid ""
-#| "What? We are your friends, not your enemies! We mean no harm to you. My "
-#| "men and I are simply tired and wish to return to our homes."
 msgid ""
 "We have no quarrel with you, elves of the Aethenwood. We simply wish to "
 "return to our homes."
 msgstr ""
-"Cože? Nejsme vaši nepřátelé, ale přátelé! Nechceme vám ublížit. Moji muži "
-"a já jsme jen unavení a přejeme si vrátit se do našich domovů."
+"Nemáme s vámi žádný spor, elfové z Aethenwoodu. Chceme se jen vrátit do "
+"svých domovů."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:511
-#, fuzzy
-#| msgid ""
-#| "And so does our Sage Mebrin, yet you have not returned him to us! Even if "
-#| "you did, we would still dispatch of you for your heinous transgressions, "
-#| "you treacherous scum!"
 msgid ""
 "And so does our sage Mebrin, yet you’ve not returned him to us! Even if you "
 "did, I would still seek to dispatch of you for your heinous transgressions!"
 msgstr ""
 "A stejně tak i náš mudrc Mebrin! Přesto jste nám ho nevrátili! I kdybyste to "
-"udělali, pořád bychom vás stíhali za vaše ohavné přestupky, vy špinaví "
-"zrádci!"
+"udělali, pořád bych se vás hleděl zbavit pro vaše ohavné přestupky!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:516
-#, fuzzy
-#| msgid ""
-#| "There is no reasoning with the elves. We will either have to fight or run."
 msgid "There’s no reasoning with the elves. We’ll either have to fight or run."
 msgstr "S těmi elfy není řeč. Budeme muset bojovat nebo utíkat."
 
@@ -3600,10 +3587,8 @@ msgstr ""
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:700
-#, fuzzy
-#| msgid "Halt! Who comes to the border of Wesnoth?"
 msgid "Halt! Who comes to the border of Southport?"
-msgstr "Stát! Kdo to přichází na hranice Wesnothu?"
+msgstr "Stát! Kdo to přichází na pomezí Jižního Přístavu?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05a_The_Long_March.cfg:704
