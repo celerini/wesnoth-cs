@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-03-29 23:23+0100\n"
+"PO-Revision-Date: 2025-03-31 23:35+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3778,14 +3778,6 @@ msgstr "Mebrine prosím..."
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:246
-#, fuzzy
-#| msgid ""
-#| "I am called Mal M’Brin now, Ethiliel. It is the name I took when I "
-#| "unchained myself from the shallow-mindedness of the elves and passed over "
-#| "into enlightenment. There is infinity here in death; I have touched the "
-#| "void at the heart of all things, and I have begun to probe the mystic "
-#| "arts far beyond what any living human or elf knows. You, too, can partake "
-#| "of its boundless power."
 msgid ""
 "I am called Mal M’Brin now, Ethiliel. It is the name I took when I unchained "
 "myself from the shallow-mindedness of the elves and passed over into "
@@ -3793,10 +3785,9 @@ msgid ""
 "indirectly, have opened my eyes to power I would have never thought possible."
 msgstr ""
 "Teď se nazývám Mal Mebrin, Ethiliel. Toto jméno jsem přijal, když jsem se "
-"odpoutal od povrchní všímavosti elfů a přešel k osvícení. Ve smrti je "
-"přítomno nekonečno. Já se dotkl té prázdnoty v srdci všehomíra a začal "
-"zkoumat tajemná umění daleko nad rámec toho, co ví kterýkoli žijící člověk "
-"nebo elf. I ty můžeš mít podíl na této nespoutané moci."
+"odpoutal od povrchní všímavosti elfů a přešel k osvícení. Svým způsobem jsem "
+"těmto lidem vděčný. I když nepřímo, otevřeli mi oči a ukázali mi sílu, "
+"o které bych si nikdy nemyslel, že je možná."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:254
@@ -3911,20 +3902,14 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:401
-#, fuzzy
-#| msgid ""
-#| "But we cannot flee like this forever... the horses are tired, and the men "
-#| "are tired, and I am tired as well. The undead can march day and night "
-#| "without rest, but we cannot. They will certainly overtake us before we "
-#| "reach Westin."
 msgid ""
 "And besides... the horses are tired, the men are tired and I’m tired as "
 "well. The undead can march day and night without rest, but we can’t. Our "
 "only choice is to fight, as unlikely as our victory may be."
 msgstr ""
-"Ale nemůžeme takto prchat pořád... koně, muži i já jsme unaveni. Nemrtví "
-"mohou pochodovat dnem i nocí bez odpočinku, ale my ne. Určitě nás "
-"předeženou, než dorazíme do Westinu."
+"A kromě toho... koně jsou unavení, muži jsou unavení a já jsem také unavený. "
+"Nemrtví mohou pochodovat dnem i nocí bez odpočinku, ale my ne. Naší jedinou "
+"možností je bojovat, jakkoli je naše vítězství nepravděpodobné."
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:407
@@ -3943,21 +3928,16 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:411
-#, fuzzy
-#| msgid ""
-#| "Then we have only one course of action to take. Deoran, you must hasten "
-#| "back to Westin to prepare a defense against them. I will command the "
-#| "defense of the border forts. Leave me a few men, and we will hold back "
-#| "the undead as long as we can."
 msgid ""
 "Then there’s only one thing we can do. Sir, you must hasten back to Westin "
 "t’ warn the magistrate. I’ll command the defense of the town. Leave me th’ "
 "few men ye’ve already recruited, and we’ll hold back the undead as long as "
 "we can."
 msgstr ""
-"Pak můžem udělat jen jedno, Deorane. Musíš si rychle pospíšit do Westinu a "
-"připravit obranu. Já povedu obranu pohraničních pevností. Nech mi pár mužů, "
-"s nimi budeme držet nemrtvé tak dlouho, jak to půjde."
+"Pak můžem udělat jen jednu věc. Pane, musíš se urychleně vrátit do Westinu "
+"a varovat starostu. Já budu velet obraně města. Nech mi tu těch pár mužů, "
+"které jsi už naverboval, a my budeme zadržovat nemrtvé tak dlouho, jak "
+"budeme moct."
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:412
