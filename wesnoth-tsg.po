@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-03-31 23:35+0200\n"
+"PO-Revision-Date: 2025-04-01 21:46+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3981,51 +3981,36 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:424
-#, fuzzy
-#| msgid ""
-#| "I... I understand. Minister Hylas, come ride with me to Westin. You must "
-#| "summon the city council while I prepare the defenses. Sir Gerrick, "
-#| "Afalas, we shall return as soon as we can and relieve you."
 msgid ""
 "I... I understand. I will ride with all haste to Westin, to rally the "
 "garrison and make ready the defense. Captain Mari, we shall return as soon "
 "as we can, and surely relieve you!"
 msgstr ""
-"Já... já chápu. Hylasi, pojeď se mnou do Westinu. Musíš svolat westinskou "
-"radu, zatímco budu připravovat obranu. Sire Gerricku, Afalasi, vrátíme se co "
-"nejdříve s posilami a vyprostíme vás."
+"Já... rozumím. Pojedu co nejrychleji do Westinu, abych shromáždil posádku "
+"a připravil obranu. Kapitánko Mari, vrátíme se co nejdříve a určitě vás "
+"vysvobodíme!"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:425
-#, fuzzy
-#| msgid ""
-#| "I... I understand. Minister Hylas, come ride with me to Westin. You must "
-#| "summon the city council while I prepare the defenses. Sir Gerrick, "
-#| "Afalas, we shall return as soon as we can and relieve you."
 msgid ""
 "I... I understand. I will ride with all haste to Westin, to rally the "
 "garrison and make ready the defense. Sir Gerrick, we shall return as soon as "
 "we can, and surely relieve you!"
 msgstr ""
-"Já... já chápu. Hylasi, pojeď se mnou do Westinu. Musíš svolat westinskou "
-"radu, zatímco budu připravovat obranu. Sire Gerricku, Afalasi, vrátíme se co "
-"nejdříve s posilami a vyprostíme vás."
+"Já... rozumím. Pojedu co nejrychleji do Westinu, abych shromáždil posádku "
+"a připravil obranu. Sire Gerricku, vrátíme se co nejdříve a určitě vás "
+"vysvobodíme!"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:426
-#, fuzzy
-#| msgid ""
-#| "I... I understand. Minister Hylas, come ride with me to Westin. You must "
-#| "summon the city council while I prepare the defenses. Sir Gerrick, "
-#| "Afalas, we shall return as soon as we can and relieve you."
 msgid ""
 "I... I understand. I will ride with all haste to Westin, to rally the "
 "garrison and make ready the defense. Minister Hylas, we shall return as soon "
 "as we can, and surely relieve you!"
 msgstr ""
-"Já... já chápu. Hylasi, pojeď se mnou do Westinu. Musíš svolat westinskou "
-"radu, zatímco budu připravovat obranu. Sire Gerricku, Afalasi, vrátíme se co "
-"nejdříve s posilami a vyprostíme vás."
+"Já... rozumím. Pojedu co nejrychleji do Westinu, abych shromáždil posádku "
+"a připravil obranu. Purkmistře Hylasi, vrátíme se co nejdříve a určitě vás "
+"vysvobodíme!"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:429
@@ -4036,19 +4021,13 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:430
-#, fuzzy
-#| msgid ""
-#| "You know what the outcome of our battle here will be. I trust you to "
-#| "protect our home from the undead and only ask you to remember those who "
-#| "fell defending our land. Farewell, Sir Deoran!"
 msgid ""
 "You know full well what the outcome of our battle here will be. I’m trustin’ "
 "you to protect m’ home from the undead; all I ask o’ you is to remember us. "
 "Farewell, Sir Deoran!"
 msgstr ""
-"Dobře víš, jak tu náš boj dopadne. Věřím, že ochráníš náš domov před "
-"nemrtvými. Žádám tě jen o to, abys pamatoval na ty, co padli při obraně naší "
-"země. Sbohem, sire Deorane!"
+"Dobře víš, jak tu náš boj dopadne. Věřím, že ochráníš můj domov před "
+"nemrtvými. Žádám tě jen o to, abys na nás nezapomněl. Sbohem, sire Deorane!"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:431
@@ -4060,10 +4039,8 @@ msgstr ""
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:435
-#, fuzzy
-#| msgid "We will never forget your sacrifice here. Thank you, my friend."
 msgid "We’ll never forget your sacrifice here. Thank you, my friend."
-msgstr "Nikdy nezapomenu na tvou oběť. Děkuji ti, příteli."
+msgstr "Nikdy nezapomeneme na vaši oběť. Děkuji ti, příteli."
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:456
