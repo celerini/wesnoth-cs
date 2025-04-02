@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-01 21:46+0200\n"
+"PO-Revision-Date: 2025-04-02 21:13+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4171,18 +4171,13 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:698
-#, fuzzy
-#| msgid ""
-#| "Pesky little humans! You have only delayed the inevitable. We will sweep "
-#| "through your cities and raze them to the ground! March onward, my "
-#| "skeletons! We go to destroy Westin!"
 msgid ""
 "Pesky little humans! You may have delayed me, but my victory is inevitable. "
 "March onward, my skeletons! We’ll sweep through Westin and raze it to the "
 "ground!"
 msgstr ""
-"Otravní človíčci! Jen jste oddálili nevyhnutelné. Provalíme se vašimi městy "
-"a srovnáme je se zemí! Vpřed, kostlivci! Jdeme zničit Westin!"
+"Otravní človíčci! Možná jste mě zdrželi, ale mé vítězství je nevyhnutelné. "
+"Pochodujte vpřed, moji kostlivci! Uchvátíme Westin a srovnáme ho se zemí!"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:712
@@ -4202,31 +4197,23 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:743
-#, fuzzy
-#| msgid ""
-#| "Fools! Imbeciles! You humans are a worthless blight upon this wretched "
-#| "world! I must purge you all— I must destroy all who live... I must..."
 msgid ""
 "What!? Impossible! Beaten by a mere handful of humans? This cannot be! I "
 "must purge you all — I must destroy all who live... I must..."
 msgstr ""
-"Blázni! Pitomci! Vy lidé jste bezcenná plíseň na povrchu tohoto ubohého "
-"světa! Musím vás všechny očistit... musím zničit všechno živé... musím..."
+"Cože!? Nemožné! Poražen pouhou hrstkou lidí? To nemůže být pravda! Musím se "
+"vás všech zbavit – musím zničit všechno živé... Musím..."
 
 #. [event]
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:746
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:974
-#, fuzzy
-#| msgid ""
-#| "These worthless humans just bested you and your armies. Your time has "
-#| "come, once wise sage of the elves."
 msgid ""
 "These worthless humans just bested you and your armies. Your time has come, "
 "once-wise sage of the elves."
 msgstr ""
-"Tato bezcenná plíseň tebe i tvé jednotky právě dostala na lopatky. Tvůj čas "
-"se nachýlil, elfí mudrci, cos byl kdysi moudrý."
+"Tito bezcenní lidé tebe i tvé armády právě dostali na lopatky. Tvůj čas se "
+"nachýlil, elfí mudrci, cos byl kdysi moudrý."
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:747
@@ -4237,16 +4224,12 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:748
-#, fuzzy
-#| msgid ""
-#| "These worthless humans just bested you and your armies. Your time has "
-#| "come, once wise sage of the elves."
 msgid ""
 "The light will always triumph over the darkness. Your time has come, once-"
 "wise sage of the elves."
 msgstr ""
-"Tato bezcenná plíseň tebe i tvé jednotky právě dostala na lopatky. Tvůj čas "
-"se nachýlil, elfí mudrci, cos byl kdysi moudrý."
+"Světlo vždy zvítězí nad temnotou. Tvůj čas se nachýlil, elfí mudrci, cos byl "
+"kdysi moudrý."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:771
