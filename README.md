@@ -15,14 +15,14 @@ wesnoth-nr | 1229 | 99% | 7 |
 wesnoth-sotbe | 643 | 99% | 1 |
 wesnoth-tdg | 1244 | 0% | 1243 |
 wesnoth-thot | 361 | 99% | 2 |
-wesnoth-tsg | 861 | 10% | 772 | Michal
+wesnoth-tsg | 861 | 14% | 736 | Michal
 wesnoth-units | 859 | 99% | 6 |
 wesnoth | 1451 | 99% | 12 | Michal
 
-Total messages remaining: **2108**
+Total messages remaining: **2072**
 
-Progress since 2025-03-18: **6** messages per day
+Progress since 2025-03-18: **4** messages per day
 
-ETA: **2026-03-10**
+ETA: **2026-09-03**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
