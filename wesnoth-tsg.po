@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-03 22:22+0200\n"
+"PO-Revision-Date: 2025-04-04 21:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4448,21 +4448,16 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:475
-#, fuzzy
-#| msgid ""
-#| "Join me! Stand by my side! We shall rise and eradicate the humans from "
-#| "the green world. Their corpses will serve us! Their bones will dance for "
-#| "our pleasure! We will make them into the mindless slaves that they "
-#| "deserve to be!"
 msgid ""
 "For if I was wise before, I have now become omniscient! The race of man "
 "shall be stricken off the face of the green world. Your corpses will serve "
 "me! Your bones will dance for my pleasure! I’ll make humanity into the "
 "mindless slaves that you all deserve to be!"
 msgstr ""
-"Přidej se ke mně! Stůj mi po boku! Povstaneme a vyhladíme lidi ze světa "
-"zeleně. Jejich těla nám budou sloužit! Jejich kosti nám zatančí pro "
-"potěšení! Uděláme z nich bezduché otroky, jakými si zaslouží být!"
+"Neboť jestliže jsem byl dříve moudrý, nyní jsem se stal vševědoucím! Lidská "
+"rasa bude vymazána z povrchu zeleného světa. Vaše mrtvoly mi budou sloužit! "
+"Vaše kosti budou tančit pro mé potěšení! Udělám z lidstva nemyslící otroky, "
+"kterými si všichni zasloužíte být!"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:507
@@ -4754,10 +4749,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:551
-#, fuzzy
-#| msgid "Survive until end of turns"
 msgid "Survive until turns runs out"
-msgstr "Zůstaň naživu až do konce kol"
+msgstr "Zůstaň naživu do konce kol"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:581
@@ -4819,17 +4812,14 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:627
-#, fuzzy
-#| msgid ""
-#| "Hold fast, men of the South Guard! No matter how daunting the evil that "
-#| "opposes us, we must weather this darkness and defend our homes!"
 msgid ""
 "I shall assume command, my friend. Now hold fast, men of the South Guard! No "
 "matter how daunting the armies that oppose us, we must weather this shadow "
 "and defend our homes!"
 msgstr ""
-"Stůjte pevně, muži Jižní hlídky! Bez ohledu na to, jak strašlivé je zlo, "
-"kterému čelíme, musíme tu temnotu překonat a ubránit své domovy!"
+"Převezmu velení, příteli. Nyní stůjte pevně, muži Jižní hlídky! Bez ohledu "
+"na to, jak hrozivé armády stojí proti nám, musíme přečkat tento stín "
+"a bránit své domovy!"
 
 #. [option]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:632
@@ -4838,17 +4828,14 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:636
-#, fuzzy
-#| msgid ""
-#| "Hold fast, men of the South Guard! No matter how daunting the evil that "
-#| "opposes us, we must weather this darkness and defend our homes!"
 msgid ""
 "Command of Westin remains yours, my friend. Hold fast, men of the South "
 "Guard! No matter how daunting the armies that oppose us, we must weather "
 "this shadow and defend our homes!"
 msgstr ""
-"Stůjte pevně, muži Jižní hlídky! Bez ohledu na to, jak strašlivé je zlo, "
-"kterému čelíme, musíme tu temnotu překonat a ubránit své domovy!"
+"Velení Westinu zůstává na tobě, příteli. Držte se, muži Jižní hlídky! Bez "
+"ohledu na to, jak hrozivé armády stojí proti nám, musíme přečkat tento stín "
+"a bránit své domovy!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:650
@@ -4937,12 +4924,12 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:802
-#, fuzzy
-#| msgid "For every one of us you strike down, more will rise!"
 msgid ""
 "My kin will avenge me! For every one of us you strike down... more will "
 "come..."
-msgstr "Za každého z nás, kterého srazíte, povstanou další!"
+msgstr ""
+"Moji příbuzní mě pomstí! Za každého z nás, kterého srazíte... přijdou "
+"další..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:809
@@ -4972,10 +4959,8 @@ msgstr ""
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:924
-#, fuzzy
-#| msgid "Eltenmir! What in the world is going on here?"
 msgid "Ethiliel! What in Irdya is going on here?"
-msgstr "Eltenmire! Co se tu pro všechno na světě děje?"
+msgstr "Ethiliel! Co se tu pro všechno v Irdyi děje?"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:928
