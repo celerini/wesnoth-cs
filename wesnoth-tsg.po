@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-04 21:12+0200\n"
+"PO-Revision-Date: 2025-04-05 23:19+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5145,15 +5145,12 @@ msgstr "Války čas"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:385
-#, fuzzy
-#| msgid ""
-#| "Look there! The undead have broken through Sir Gerrick’s line! Alas, he "
-#| "is lost!"
 msgid ""
 "Look there! The undead army has broken through Captain Mari’s lines! I had "
 "almost dared to hope... but alas, she is lost."
 msgstr ""
-"Pohleďte! Vojsko nemrtvých prorazilo linii sira Gerricka! Běda, je ztracen!"
+"Pohleďte! Vojsko nemrtvých prorazilo linie kapitánky Mari! Skoro jsem se "
+"odvážil doufat... ale běda, je ztracena."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:389
@@ -5199,24 +5196,14 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:402
-#, fuzzy
-#| msgid ""
-#| "So, this is it. Sir Gerrick has bought us enough time to rally our forces "
-#| "and fortify the city. A mighty battle is upon us, but as surely as the "
-#| "dawn breaks after every night, the courage and valor of men will prevail "
-#| "over the wicked creatures of darkness. We must stand fast against the "
-#| "undead and defend our homes! We fight for Sir Gerrick! We fight for "
-#| "Wesnoth!"
 msgid ""
 "Captain Mari bought us time — I only hope it was enough. A mighty battle is "
 "upon us, but as surely as the dawn breaks after every night, the courage and "
 "valor of men will prevail over the wicked creatures of darkness."
 msgstr ""
-"To je správný postoj. Sir Gerrick nám získal dost času na shromáždění sil a "
-"opevnění města. Čeká nás těžká bitva. Ale stejně jako po každé noci přijde "
-"úsvit, tak odvaha a chrabrost lidí zvítězí nad ničemnými stvořeními temnoty. "
-"Musíme stát pevně proti nemrtvým a bránit své domovy! Bojujme za sira "
-"Gerricka! Bojujme za Wesnoth!"
+"Kapitánka Mari nám získala čas – jen doufám, že to stačilo. Čeká nás těžká "
+"bitva, ale stejně jistě jako po každé noci přichází úsvit, zvítězí odvaha "
+"a chrabrost lidí nad ničemnými stvořeními temnoty."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:406
@@ -5229,15 +5216,12 @@ msgstr ""
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:416
-#, fuzzy
-#| msgid ""
-#| "Look there! The undead have broken through Sir Gerrick’s line! Alas, he "
-#| "is lost!"
 msgid ""
 "Look there! The undead army has broken through Sir Gerrick’s lines! I had "
 "almost dared to hope... but alas, he is lost."
 msgstr ""
-"Pohleďte! Vojsko nemrtvých prorazilo linii sira Gerricka! Běda, je ztracen!"
+"Pohleďte! Vojsko nemrtvých prorazilo linie sira Gerricka! Skoro jsem se "
+"odvážil doufat... ale běda, je ztracen."
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:420
@@ -5275,36 +5259,23 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:433
-#, fuzzy
-#| msgid ""
-#| "So, this is it. Sir Gerrick has bought us enough time to rally our forces "
-#| "and fortify the city. A mighty battle is upon us, but as surely as the "
-#| "dawn breaks after every night, the courage and valor of men will prevail "
-#| "over the wicked creatures of darkness. We must stand fast against the "
-#| "undead and defend our homes! We fight for Sir Gerrick! We fight for "
-#| "Wesnoth!"
 msgid ""
 "Sir Gerrick bought us time — I only hope it was enough. A mighty battle is "
 "upon us, but as surely as the dawn breaks after every night, the courage and "
 "valor of men will prevail over the wicked creatures of darkness."
 msgstr ""
-"To je správný postoj. Sir Gerrick nám získal dost času na shromáždění sil a "
-"opevnění města. Čeká nás těžká bitva. Ale stejně jako po každé noci přijde "
-"úsvit, tak odvaha a chrabrost lidí zvítězí nad ničemnými stvořeními temnoty. "
-"Musíme stát pevně proti nemrtvým a bránit své domovy! Bojujme za sira "
-"Gerricka! Bojujme za Wesnoth!"
+"Sir Gerrick nám získal čas – jen doufám, že to stačilo. Čeká nás těžká "
+"bitva, ale stejně jistě jako po každé noci přichází úsvit, zvítězí odvaha "
+"a chrabrost lidí nad ničemnými stvořeními temnoty."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:447
-#, fuzzy
-#| msgid ""
-#| "Look there! The undead have broken through Sir Gerrick’s line! Alas, he "
-#| "is lost!"
 msgid ""
 "Look there! The undead army has broken through Minister Hylas’s lines! I had "
 "almost dared to hope... but alas, he is lost."
 msgstr ""
-"Pohleďte! Vojsko nemrtvých prorazilo linii sira Gerricka! Běda, je ztracen!"
+"Pohleďte! Vojsko nemrtvých prorazilo linie purkmistra Hylase! Skoro jsem se "
+"odvážil doufat... ale běda, je ztracen."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:451
@@ -5349,24 +5320,14 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:464
-#, fuzzy
-#| msgid ""
-#| "So, this is it. Sir Gerrick has bought us enough time to rally our forces "
-#| "and fortify the city. A mighty battle is upon us, but as surely as the "
-#| "dawn breaks after every night, the courage and valor of men will prevail "
-#| "over the wicked creatures of darkness. We must stand fast against the "
-#| "undead and defend our homes! We fight for Sir Gerrick! We fight for "
-#| "Wesnoth!"
 msgid ""
 "Minister Hylas bought us time — I only hope it was enough. A mighty battle "
 "is upon us, but as surely as the dawn breaks after every night, the courage "
 "and valor of men will prevail over the wicked creatures of darkness."
 msgstr ""
-"To je správný postoj. Sir Gerrick nám získal dost času na shromáždění sil a "
-"opevnění města. Čeká nás těžká bitva. Ale stejně jako po každé noci přijde "
-"úsvit, tak odvaha a chrabrost lidí zvítězí nad ničemnými stvořeními temnoty. "
-"Musíme stát pevně proti nemrtvým a bránit své domovy! Bojujme za sira "
-"Gerricka! Bojujme za Wesnoth!"
+"Purkmistr Hylas nám získal čas – jen doufám, že to stačilo. Čeká nás těžká "
+"bitva, ale stejně jistě jako po každé noci přichází úsvit, zvítězí odvaha "
+"a chrabrost lidí nad ničemnými stvořeními temnoty."
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:502
