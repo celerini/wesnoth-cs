@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-05 23:19+0200\n"
+"PO-Revision-Date: 2025-04-06 22:40+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5331,29 +5331,21 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:502
-#, fuzzy
-#| msgid ""
-#| "So, the fleshbags have managed to mount a defense. It would seem that the "
-#| "pesky fly turned out to be more than a minor annoyance after all."
 msgid ""
 "So, the fleshbags have managed to mount a defense. I would seem that the "
 "pesky fly turned out to be more than a minor annoyance after all."
 msgstr ""
-"Takže těm pytlům masa se podařilo sestavit obranu. Ta otravná moucha se "
-"nakonec ukázala být více než drobnou mrzutostí."
+"Takže těm pytlům masa se podařilo sestavit obranu. Zdá se, že ta otravná "
+"moucha se nakonec ukázala být více než jen drobnou mrzutostí."
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:506
-#, fuzzy
-#| msgid ""
-#| "Slay them all! Even if we sustain heavy losses here, the city’s "
-#| "inhabitants will be more than enough to replenish our ranks."
 msgid ""
 "No matter. Slay them all, my servants! Even if we sustain losses here, the "
 "town’s inhabitants will be more than enough to replenish our ranks."
 msgstr ""
-"Všechny je zabte! I kdybychom zde utrpěli těžké ztráty, obyvatelé města mi "
-"poskytnou dostatek materiálu na doplnění našich řad."
+"Na tom nezáleží. Všechny je zabte, moji služebníci! I kdybychom zde utrpěli "
+"ztráty, obyvatelé města nám bohatě postačí na doplnění našich řad."
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:518
