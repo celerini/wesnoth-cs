@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-06 22:40+0200\n"
+"PO-Revision-Date: 2025-04-07 22:49+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5372,36 +5372,25 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:556
-#, fuzzy
-#| msgid ""
-#| "The shroud of darkness descends once more. Night seeps through the cracks "
-#| "and crannies in the humans’ defenses, plaguing their minds and bodies "
-#| "with dreadful fear. As surely as the sanctity of the psyche is shattered, "
-#| "so is the physical form, and all that is left is unthinking, unfeeling "
-#| "servitude."
 msgid ""
 "The shroud of darkness descends once more. Night seeps through the cracks "
 "and crannies in the humans’ defenses, plaguing their minds and bodies with "
 "dreadful fear. As surely as the sanctity of the psyche is shattered, so is "
 "the physical form, and all that’s left is unthinking, unfeeling servitude."
 msgstr ""
-"Ať nás opět zahalí plášť temnoty. Ať noc pronikne mezerami a štěrbinami "
-"lidské obrany a zachvátí jejich myšlenky i těla strašným strachem. A tak, "
-"jak byla narušena nedotknutelnost duše, ať je narušena i tělesná forma, aby "
-"vše co zbylo, bylo nemyslící bezcitné otroctví."
+"Ať nás opět zahalí plášť temnoty. Ať noc pronikne mezerami a štěrbinami "
+"lidské obrany a zachvátí jejich myšlenky i těla strašným strachem. A tak, "
+"jak byla narušena nedotknutelnost duše, ať je narušena i tělesná forma, aby "
+"vše, co zůstane, bylo nemyslící bezcitné otroctví."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:560
-#, fuzzy
-#| msgid ""
-#| "We do not fear your unholy power, lich. We will not succumb to your dark "
-#| "magics and we will not be turned into your undead slaves."
 msgid ""
 "We don’t fear your unholy power, lich. We won’t succumb to your dark magics "
 "and we won’t be turned into your undead slaves."
 msgstr ""
-"Nebojíme se tvé bezbožné moci, lichu. Nepodlehneme tvé temné magii a "
-"nestanou se z nás tvoji nemrtví otroci."
+"Nebojíme se tvé bezbožné moci, lichu. Nepodlehneme tvé temné magii "
+"a nestanou se z nás tvoji nemrtví otroci."
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:564
@@ -5410,14 +5399,8 @@ msgstr "Věř si čemu chceš, člověče. Uvidíme, jestli přežijete noc."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:571
-#, fuzzy
-#| msgid ""
-#| "Dawn breaks over the horizon! We have weathered the night and can now "
-#| "begin our counterattack against the undead!"
 msgid "Dawn breaks over the horizon! We’ve weathered the nighttime attack!"
-msgstr ""
-"Nastává úsvit! Přečkali jsme noc a nyní můžeme zahájit náš protiútok na "
-"nemrtvé!"
+msgstr "Nad obzorem se rozednívá! Přečkali jsme noční útok!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:648
