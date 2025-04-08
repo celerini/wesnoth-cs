@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-07 22:49+0200\n"
+"PO-Revision-Date: 2025-04-08 21:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5433,26 +5433,14 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:685
-#, fuzzy
-#| msgid ""
-#| "So, you have defeated my lackey. A great accomplishment, for ones so "
-#| "pitiful."
 msgid ""
 "So, you’ve defeated my lackey. A great accomplishment, for ones so pitiful."
 msgstr ""
-"Takže jsi porazil mého lokaje. Pro takovou žalostnou existenci jako jsi ty, "
+"Takže jsi porazil mého lokaje. Pro takovou žalostnou existenci, jako jsi ty, "
 "je to jistě velký úspěch."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:689
-#, fuzzy
-#| msgid ""
-#| "What is truly pitiful is the plight you have put yourself in, once wise "
-#| "sage of the elves. You have fallen to the black arts, twisted and "
-#| "corrupted by its use. Though you and your undead have ravaged our lands "
-#| "with your profane sorceries, I feel nothing but pity for the shambling "
-#| "shell you have become. Perhaps I can take solace in putting you out of "
-#| "your misery."
 msgid ""
 "What’s truly pitiful is the plight you’ve put yourself in, once wise sage of "
 "the elves. You’ve fallen to the black arts, twisted and corrupted by its "
@@ -5461,26 +5449,21 @@ msgid ""
 "Perhaps we can take solace in putting you out of your misery."
 msgstr ""
 "Skutečně žalostná je situace, do které ses dostal. Ty, kdysi moudrý elfí "
-"mudrc. Zabředl jsi do černého umění a jsi celý pokroucený a zkažený jeho "
-"používáním. I když jsi se svými nemrtvými pomocí zvrácených kouzel zpustošil "
-"naši zemi, necítím k tobě nic jiného než lítost, když vidím tu vyprázdněnou "
-"trosku, kterou ses stal. Možná ti poskytnu útěchu, až tě tvé bídné existence "
-"zbavím."
+"mudrc. Zabředl jsi do černého umění a jsi celý pokroucený a zkažený jeho "
+"používáním. I když jsi se svými nemrtvými pomocí zvrácených kouzel zpustošil "
+"naši zemi, necítím k tobě nic jiného než lítost, když vidím tu vyprázdněnou "
+"trosku, kterou ses stal. Snad se můžeme utěšit tím, že tě zbavíme tvého "
+"trápení."
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:693
-#, fuzzy
-#| msgid ""
-#| "How little you understand. Such pompous words do not befit such an "
-#| "ignorant boy. Your foolish babble means nothing in the face of my "
-#| "insurmountable power! Rise, my warriors!"
 msgid ""
 "How little you understand. Such pompous words don’t benefit such an ignorant "
 "boy. Your foolish babble means nothing in the face of my insurmountable "
 "power! Rise, my warriors!"
 msgstr ""
 "Jak málo chápeš. Na tak neznalého chlapce se nehodí taková pompézní slova. "
-"Tvoje pošetilé blábolení tváří v tvář mé nepřekonatelné moci neznamená nic! "
+"Tvoje pošetilé blábolení tváří v tvář mé nepřekonatelné moci neznamená nic! "
 "Povstaňte, moji válečníci!"
 
 #. [message]: speaker=Mebrin
