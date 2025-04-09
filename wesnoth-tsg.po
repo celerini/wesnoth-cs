@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-08 21:23+0200\n"
+"PO-Revision-Date: 2025-04-09 20:37+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5501,36 +5501,25 @@ msgstr ""
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:817
-#, fuzzy
-#| msgid ""
-#| "Surely you see it! Take a good look at yourself! Your servants are "
-#| "abominations worse than any human. They stink of death, and tainted "
-#| "magic, and... and corruption! Even you! Mebrin... you were the kindest "
-#| "and gentlest of the sages. How could you become something like this? "
-#| "Mebrin, answer me!"
 msgid ""
 "You’ve become <b><i>evil</i></b>, Mebrin. Surely you see it! Take a good "
 "look at yourself! Your servants are abominations worse than any human. They "
 "stink of death, tainted magic and... and corruption! Even you! Mebrin... you "
 "were the kindest and gentlest of the sages..."
 msgstr ""
-"Určitě to vidíš! Dobře se na sebe podívej! Tvými služebníky jsou odpornosti "
-"horší než kterýkoli člověk. Páchnou smrtí a zkaženou magií a... hnilobou! "
-"Dokonce i ty! Mebrine... byl jsi nejlaskavější a nejmírnější z mudrců. Jak "
-"ses mohl stát něčím takovým? Mebrine, odpověz mi!"
+"Stal ses <b><i>zlým</i></b>, Mebrine. Určitě to vidíš! Dobře se na sebe "
+"podívej! Tvými služebníky jsou odpornosti horší než kterýkoli člověk. "
+"Páchnou smrtí, zkaženou magií a... a hnilobou! Dokonce i ty! Mebrine... byl "
+"jsi nejlaskavější a nejmírnější z mudrců..."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:821
-#, fuzzy
-#| msgid ""
-#| "No... No. The sage Mebrin is dead. You are not the master I once revered. "
-#| "I will cleanse your soul and put you to rest, my beloved teacher."
 msgid ""
 "No, the sage Mebrin is dead. You’re not the master I once revered. I have "
 "come to cleanse your soul and put you to rest, my beloved teacher."
 msgstr ""
-"Ne... Ne. Mudrc Mebrin je mrtev. Nejsi ten mistr, kterého jsem dříve ctila. "
-"Očistím tvou duši a nechám tě spočinout, můj drahý učiteli."
+"Ne, mudrc Mebrin je mrtev. Nejsi ten mistr, kterého jsem dříve ctila. Přišla "
+"jsem očistit tvou duši a uložit tě k odpočinku, můj drahý učiteli."
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:825
@@ -5550,33 +5539,24 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:942
-#, fuzzy
-#| msgid ""
-#| "Join me! Stand by my side! We shall rise and eradicate the humans from "
-#| "the green world. Their corpses will serve us! Their bones will dance for "
-#| "our pleasure! We will make them into the mindless slaves that they "
-#| "deserve to be!"
 msgid ""
 "Why do you aid these fools, Ethiliel? Join me! Stand by my side! The race of "
 "man shall be stricken off the face of the green world. Their corpses will "
 "serve us! Their bones will dance for our pleasure! We’ll make humanity into "
 "the mindless slaves that they all deserve to be!"
 msgstr ""
-"Přidej se ke mně! Stůj mi po boku! Povstaneme a vyhladíme lidi ze světa "
-"zeleně. Jejich těla nám budou sloužit! Jejich kosti nám zatančí pro "
-"potěšení! Uděláme z nich bezduché otroky, jakými si zaslouží být!"
+"Proč pomáháš těmhle bláznům, Ethiliel? Přidej se ke mně! Stůj mi po boku! "
+"Lidská rasa bude vymazána z povrchu zeleného světa. Jejich mrtvá těla nám "
+"budou sloužit! Jejich kosti nám zatančí pro potěšení! Uděláme z lidstva "
+"bezduché otroky, jakými si všichni zaslouží být!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:946
-#, fuzzy
-#| msgid ""
-#| "And when that is done, what will we have become? Naught but hungering "
-#| "shadows, devouring all we once cherished."
 msgid ""
 "And when that’s done, what will us elves have become? Naught but hungering "
 "shadows, devouring all we once cherished."
 msgstr ""
-"A až se to stane, kým budeme my? Ničím než hladovějícími stíny, které "
+"A až se to stane, kým budeme my elfové? Ničím než hladovějícími stíny, které "
 "pohlcují vše, co jsme kdysi střežili."
 
 #. [message]: speaker=Deoran
