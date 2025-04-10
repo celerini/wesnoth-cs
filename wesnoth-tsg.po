@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-09 20:37+0200\n"
+"PO-Revision-Date: 2025-04-10 21:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5561,47 +5561,35 @@ msgstr ""
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:950
-#, fuzzy
-#| msgid ""
-#| "Even a mere human can see that you have become a mockery of all that you "
-#| "once believed in. I will destroy you and bury your perverse ideals, even "
-#| "if it costs me my own life!"
 msgid ""
 "Even a mere human can see that you have become a mockery of all that you "
 "once believed in, Mebrin of the elves. We will destroy you and bury your "
 "perverse corruption!"
 msgstr ""
 "I pouhý člověk může vidět, že ses stal směšnou napodobeninou všeho, v co jsi "
-"kdysi věřil. Zničím tě a pohřbím tvé zvrhlé ideály, i kdyby mě to stálo "
-"život!"
+"kdysi věřil, Mebrine z elfů. Zničíme tě a pohřbíme tvou zvrácenou zkaženost!"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:954
-#, fuzzy
-#| msgid ""
-#| "You? Destroy me? Your flesh will provide a fine feast for my ghouls, and "
-#| "once they are through with you, you will serve me forever in undeath!"
 msgid ""
 "Ethiliel I respect, but you? Destroy me? Your man-flesh will provide a fine "
 "feast for my ghouls, and once they’re through, your bones will serve me "
 "forever in undeath!"
 msgstr ""
-"Ty? Zničíš mne? Tvé tělo zajistí mým požíračům mrtvých dobrou hostinu "
-"a hned, jak s tebou skončí, mi budeš navždy sloužit v nemrtvu!"
+"Ethiliel si vážím, ale tebe? Zničíš mne? Vaše lidská těla zajistí mým "
+"požíračům mrtvých dobrou hostinu a hned, jak s vámi skončí, mi vaše kosti "
+"budou navždy sloužit v nemrtvu!"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:970
-#, fuzzy
-#| msgid ""
-#| "Fools! Imbeciles! You humans are a worthless blight upon this wretched "
-#| "world! I must purge you all— I must destroy all who live... I must..."
 msgid ""
 "Fools! Imbeciles! You humans are a worthless blight upon this wretched "
 "world! I must purge you all — I must take revenge on all your race... I "
 "must..."
 msgstr ""
 "Blázni! Pitomci! Vy lidé jste bezcenná plíseň na povrchu tohoto ubohého "
-"světa! Musím vás všechny očistit... musím zničit všechno živé... musím..."
+"světa! Musím se vás všech zbavit... Musím se pomstít celé vaší rase... "
+"Musím..."
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:978
@@ -5617,27 +5605,17 @@ msgstr "Trvalo to, ale je to hotovo."
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1005
-#, fuzzy
-#| msgid ""
-#| "Ethiliel! Wait... think about it! Think of everything you are throwing "
-#| "away! We could build an empire together, where the humans are our slaves "
-#| "and you and I are the immortal rulers of the world!"
 msgid ""
 "Wait! Ethiliel... think about it! Think of everything you’re throwing away! "
 "We could build an empire together, where the humans are our slaves and you "
 "and I are the immortal rulers of the world!"
 msgstr ""
-"Ethiliel! Počkej... přemýšlej o tom! Mysli na všechno, co zahazuješ! Spolu "
+"Počkej! Ethiliel... přemýšlej o tom! Mysli na všechno, co zahazuješ! Spolu "
 "můžeme vybudovat říši, ve které lidé budou našimi otroky a ty a já "
 "nesmrtelnými vládci světa!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1009
-#, fuzzy
-#| msgid ""
-#| "It would only be an empire of misery, Mebrin. I wish it had not come to "
-#| "this, but you have been corrupted beyond saving. Still, I will fondly "
-#| "cherish the memories I had with the old you."
 msgid ""
 "It would only be an empire of misery, Mebrin. I wish it hadn’t come to this, "
 "but you’ve been corrupted beyond saving. Still, I’ll fondly cherish the "
@@ -5649,10 +5627,6 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1013
-#, fuzzy
-#| msgid ""
-#| "You wouldn’t dare strike me! I am the darkness incarnate! I am your "
-#| "master! You will obey me!"
 msgid ""
 "You wouldn’t dare strike me! I’m the darkness incarnate! I’m your master! "
 "You’ll obey me!"
