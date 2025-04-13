@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-12 23:52+0200\n"
+"PO-Revision-Date: 2025-04-13 22:37+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6349,43 +6349,33 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:109
-#, fuzzy
-#| msgid "Death of Deoran"
 msgid "Death of Deoran or Captain Mari"
-msgstr "Deoran zemře"
+msgstr "Deoran nebo kapitánka Mari zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:116
-#, fuzzy
-#| msgid "Death of Sir Gerrick"
 msgid "Death of Deoran or Sir Gerrick"
-msgstr "Sir Gerrick zemře"
+msgstr "Deoran nebo sir Gerrick zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:123
-#, fuzzy
-#| msgid "Death of Minister Hylas"
 msgid "Death of Deoran or Minister Hylas"
-msgstr "Purkmistr Hylas zemře"
+msgstr "Deoran nebo purkmistr Hylas zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:130
 msgid "Death of Deoran, Captain Mari, or Ethiliel"
-msgstr ""
+msgstr "Zemře Deoran, kapitánka Mari nebo Ethiliel"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:137
-#, fuzzy
-#| msgid "Death of Sir Gerrick"
 msgid "Death of Deoran, Sir Gerrick, or Ethiliel"
-msgstr "Sir Gerrick zemře"
+msgstr "Zemře Deoran, sir Gerrick nebo Ethiliel"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:144
-#, fuzzy
-#| msgid "Death of Minister Hylas"
 msgid "Death of Deoran, Minister Hylas, or Ethiliel"
-msgstr "Purkmistr Hylas zemře"
+msgstr "Zemře Deoran, purkmistr Hylas nebo Ethiliel"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:161
