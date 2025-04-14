@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-13 22:37+0200\n"
+"PO-Revision-Date: 2025-04-14 23:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6199,10 +6199,8 @@ msgstr "Velitel pěchoty"
 
 #. [unit_type]: id=Cage, race=mechanical
 #: data/campaigns/The_South_Guard/units/MECH_Cage.cfg:5
-#, fuzzy
-#| msgid "Enraged Elves"
 msgid "Caged Elf"
-msgstr "Rozzuření elfové"
+msgstr "Elf v kleci"
 
 #. [unit_type]: id=Cage, race=mechanical
 #: data/campaigns/The_South_Guard/units/MECH_Cage.cfg:10
@@ -6402,10 +6400,8 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:241
-#, fuzzy
-#| msgid "I have given all for my kingdom! Avenge me, Deoran!"
 msgid "I have given all in service of my kingdom..."
-msgstr "Svému království jsem obětoval vše! Pomsti mne, Deorane!"
+msgstr "Ve službě svému království jsem obětoval vše..."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:261
@@ -6490,16 +6486,12 @@ msgstr ""
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:267
-#, fuzzy
-#| msgid ""
-#| "Our weapons are useless against these skeletons! They have nothing for "
-#| "our shafts to pierce but air!"
 msgid ""
 "Our bows and spears are nearly useless against these skeletons! They have "
 "nothing for our shafts to pierce but air!"
 msgstr ""
-"Naše zbraně nejsou proti těm kostlivcům k ničemu! Neprobodneme nic než "
-"vzduch!"
+"Naše luky a kopí jsou proti těm kostlivcům skoro k ničemu! Nemají nic, co by "
+"naše šípy probodly, jen vzduch!"
 
 #. [message]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:271
