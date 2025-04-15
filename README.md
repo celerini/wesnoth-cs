@@ -8,15 +8,15 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
-wesnoth-ei | 1859 | 98% | 28 |
+wesnoth-ei | 1859 | 98% | 28 | Septim
 wesnoth-help | 768 | 95% | 31 |
 wesnoth-lib | 1659 | 99% | 6 | Michal
-wesnoth-nr | 1229 | 99% | 7 |
+wesnoth-nr | 1229 | 99% | 7 | Septim
 wesnoth-sotbe | 643 | 99% | 1 |
 wesnoth-tdg | 1244 | 0% | 1243 |
-wesnoth-thot | 361 | 99% | 2 |
+wesnoth-thot | 361 | 99% | 2 | Septim
 wesnoth-tsg | 861 | 14% | 736 | Michal
-wesnoth-units | 859 | 99% | 6 |
+wesnoth-units | 859 | 99% | 6 | Septim
 wesnoth | 1451 | 99% | 12 | Michal
 
 Total messages remaining: **2072**
