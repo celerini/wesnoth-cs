@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-15 21:41+0200\n"
+"PO-Revision-Date: 2025-04-16 23:19+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5804,22 +5804,16 @@ msgstr ""
 #. [part]
 #. Epilogue text
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:100
-#, fuzzy
-#| msgid ""
-#| "For several days, the healers of Westin worked feverishly to save as many "
-#| "of the wounded as they were able. The villagers set out to rebuild their "
-#| "homes and bury the dead to the north of the city, where many mounds "
-#| "joined the garden of graves already there."
 msgid ""
 "For several days, the healers of the Aethenwood worked feverishly to save as "
 "many of the wounded as they were able, both man and elf. The villagers set "
 "out to rebuild their homes and bury the dead to the north of the town, where "
 "many mounds joined the small garden of graves already there."
 msgstr ""
-"Po několik dalších dní se westinští felčaři horečnatě snažili zachránit "
-"tolik zraněných, kolik bylo možné. Vesničané se pustili do oprav svých "
-"domovů. Mrtví byli pohřbíváni na sever od města. Na tamním hřbitově vyrostlo "
-"mnoho nových mohyl."
+"Léčitelky z Aethenského lesa několik dní horečně pracovaly, aby zachránily "
+"co nejvíce zraněných, a to jak lidí, tak elfů. Vesničané se pustili do oprav "
+"svých domovů. Mrtví byli pohřbíváni na sever od města. Na tamním malém "
+"hřbitově vyrostlo mnoho nových mohyl."
 
 #. [part]
 #. Epilogue text
