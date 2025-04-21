@@ -3302,7 +3302,7 @@ msgid ""
 "make them imposing foes indeed."
 msgstr ""
 "Vybaveni tou nejsilnější plátovou a kroužkovou zbrojí z kováren Knalgy, "
-"těžkooděnci stojí v přední linii trpasličích armád. Jsou proslulí svou "
+"stojí těžkooděnci v přední linii trpasličích armád. Jsou proslulí svou "
 "odolností v žáru bitvy a jejich dokonalé ovládání válečné sekery i kladiva "
 "je činí skutečně působivými nepřáteli."
 
