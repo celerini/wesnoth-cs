@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-23 23:59+0200\n"
+"PO-Revision-Date: 2025-04-24 23:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5712,7 +5712,7 @@ msgstr ""
 "přátelství.\n"
 "\n"
 "Westin sice čekaly roky obnovy, ale díky Deoranovu vedení a hrdinství Jižní "
-"hlídky se odehrávaly ve společné shodě."
+"hlídky probíhaly ve společné shodě."
 
 #. [part]
 #. Epilogue text
@@ -5750,7 +5750,7 @@ msgstr ""
 "k obnovení přátelství mezi člověkem a elfem.\n"
 "\n"
 "Westin sice čekaly roky obnovy, ale díky Deoranovu vedení a hrdinství Jižní "
-"hlídky se odehrávaly ve společné shodě."
+"hlídky probíhaly ve společné shodě."
 
 #. [part]
 #. Epilogue text
@@ -5919,35 +5919,20 @@ msgstr ""
 #. [part]
 #. Epilogue text
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:146
-#, fuzzy
-#| msgid ""
-#| "Finally, as the snow melted and green buds marked the onset of spring, "
-#| "Deoran knew the time had come to report back to King Haldric. He bade the "
-#| "people of Westin farewell and made his journey northward to Weldyn. While "
-#| "years of rebuilding lay ahead for Kerlath, they would take place in peace "
-#| "thanks to Deoran’s leadership and the heroics of the South Guard."
 msgid ""
 "And thus, man alone stood triumphant in victory over the dead.\n"
 "\n"
 "While years of rebuilding lay ahead for Westin, they’d take place in harmony "
 "thanks to Deoran’s leadership and the heroics of the South Guard."
 msgstr ""
-"Když konečně roztál sníh a zelené pupeny ohlásily nástup jara, uvědomil si "
-"Deoran, že nastal čas podat hlášení králi Haldrikovi. Rozloučil se s "
-"obyvateli Westinu a vydal se na sever k Weldynu. Před provincií Kerlath "
-"ležely roky práce na její obnově. Ta ale díky Deoranovu vedení a hrdinství "
-"Jižní hlídky mohla probíhat v míru."
+"A tak člověk sám slavně zvítězil nad mrtvými.\n"
+"\n"
+"Westin sice čekaly roky obnovy, ale díky Deoranovu vedení a hrdinství Jižní "
+"hlídky probíhaly ve společné shodě."
 
 #. [part]
 #. Epilogue text
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:155
-#, fuzzy
-#| msgid ""
-#| "Finally, as the snow melted and green buds marked the onset of spring, "
-#| "Deoran knew the time had come to report back to King Haldric. He bade the "
-#| "people of Westin farewell and made his journey northward to Weldyn. While "
-#| "years of rebuilding lay ahead for Kerlath, they would take place in peace "
-#| "thanks to Deoran’s leadership and the heroics of the South Guard."
 msgid ""
 "And thus, man and elf stood side by side, together in victory over the "
 "dead.\n"
@@ -5955,11 +5940,10 @@ msgid ""
 "While years of rebuilding lay ahead for Westin, they’d take place in harmony "
 "thanks to Deoran’s leadership and the heroics of the South Guard."
 msgstr ""
-"Když konečně roztál sníh a zelené pupeny ohlásily nástup jara, uvědomil si "
-"Deoran, že nastal čas podat hlášení králi Haldrikovi. Rozloučil se s "
-"obyvateli Westinu a vydal se na sever k Weldynu. Před provincií Kerlath "
-"ležely roky práce na její obnově. Ta ale díky Deoranovu vedení a hrdinství "
-"Jižní hlídky mohla probíhat v míru."
+"A tak člověk a elf, stojíce bok po boku, společně zvítězili nad mrtvými.\n"
+"\n"
+"Westin sice čekaly roky obnovy, ale díky Deoranovu vedení a hrdinství Jižní "
+"hlídky probíhaly ve společné shodě."
 
 #. [unit]
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:234
