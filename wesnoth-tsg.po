@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-24 23:26+0200\n"
+"PO-Revision-Date: 2025-04-25 23:59+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6032,13 +6032,6 @@ msgstr ""
 
 #. [unit_type]: id=Cavalryman Commander, race=human
 #: data/campaigns/The_South_Guard/units/Deoran1_Cavalryman.cfg:40
-#, fuzzy
-#| msgid ""
-#| "At scarcely 17 or 18 years of age, squires are not yet full knights, but "
-#| "still have the knowledge and skill to master their mounts whilst in full "
-#| "panoply. Talented squires are sometimes given command of small units in "
-#| "Wesnoth’s army, where they gain experience leading fellow troops and "
-#| "honing their prowess in battle."
 msgid ""
 "At scarcely 17 or 18 years of age, squires are not yet full knights, but "
 "still have the knowledge and skill to master their mounts whilst in full "
@@ -6054,8 +6047,13 @@ msgstr ""
 "Panoši nejsou ve svých sotva 17 nebo 18 letech ještě plnohodnotnými rytíři, "
 "ale přesto mají znalosti a dovednosti, aby v plné zbroji zvládli své koně. "
 "Nadaní panoši někdy dostanou na povel malé jednotky ve wesnothském vojsku, "
-"čímž získají zkušenost s vedením spolubojovníků a zdokonalují svou zdatnost "
-"v bitvě."
+"kde získávají zkušenost se spolubojovníky a zdokonalují svou zdatnost "
+"v bitvě.\n"
+"\n"
+"<span color='#c7c7c7'><i>Pokud jsi zkušený hráč, jistě sis všiml, že Deoran "
+"vychází z kaveleristy, ale postrádá jeho odolnost proti útoku čepelí "
+"a úderem. To bylo uděláno pro zjednodušení jednotky, tak aby to nezatěžovalo "
+"nové hráče.</i></span>"
 
 #. [attack]: type=blade
 #: data/campaigns/The_South_Guard/units/Deoran1_Cavalryman.cfg:62
