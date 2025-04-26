@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-25 23:59+0200\n"
+"PO-Revision-Date: 2025-04-26 09:35+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6028,7 +6028,7 @@ msgstr ""
 #. [unit_type]: id=Cavalryman Commander, race=human
 #: data/campaigns/The_South_Guard/units/Deoran1_Cavalryman.cfg:13
 msgid "Cavalryman"
-msgstr ""
+msgstr "Kavalerista"
 
 #. [unit_type]: id=Cavalryman Commander, race=human
 #: data/campaigns/The_South_Guard/units/Deoran1_Cavalryman.cfg:40
@@ -6052,19 +6052,19 @@ msgstr ""
 "\n"
 "<span color='#c7c7c7'><i>Pokud jsi zkušený hráč, jistě sis všiml, že Deoran "
 "vychází z kaveleristy, ale postrádá jeho odolnost proti útoku čepelí "
-"a úderem. To bylo uděláno pro zjednodušení jednotky, tak aby to nezatěžovalo "
+"a úderem. To bylo uděláno pro zjednodušení jednotky, aby to nezatěžovalo "
 "nové hráče.</i></span>"
 
 #. [attack]: type=blade
 #: data/campaigns/The_South_Guard/units/Deoran1_Cavalryman.cfg:62
 #: data/campaigns/The_South_Guard/units/Deoran2_Dragoon.cfg:49
 msgid "sword"
-msgstr ""
+msgstr "meč"
 
 #. [unit_type]: id=Dragoon Commander, race=human
 #: data/campaigns/The_South_Guard/units/Deoran2_Dragoon.cfg:4
 msgid "Dragoon"
-msgstr ""
+msgstr "Dragoun"
 
 #. [unit_type]: id=Dragoon Commander, race=human
 #: data/campaigns/The_South_Guard/units/Deoran2_Dragoon.cfg:33
@@ -6083,24 +6083,15 @@ msgstr ""
 #. [attack]: type=pierce
 #: data/campaigns/The_South_Guard/units/Deoran2_Dragoon.cfg:58
 msgid "crossbow"
-msgstr ""
+msgstr "kuše"
 
 #. [unit_type]: id=Cavalier Commander, race=human
 #: data/campaigns/The_South_Guard/units/Deoran3_Cavalier.cfg:4
 msgid "Cavalier"
-msgstr ""
+msgstr "Jezdec"
 
 #. [unit_type]: id=Cavalier Commander, race=human
 #: data/campaigns/The_South_Guard/units/Deoran3_Cavalier.cfg:34
-#, fuzzy
-#| msgid ""
-#| "Switching seamlessly between lance and mace, mounted generals boast "
-#| "tremendous skill in individual combat and can hold their own against even "
-#| "the most powerful opposition. They are masters of their mounts, able to "
-#| "cover great distances quickly on their patrols, and have keen eyes for "
-#| "detecting and eliminating all manner of perilous dangers. Their greatest "
-#| "strength, however, lies in their ability to inspire great courage in "
-#| "their men, who fight fearlessly and tenaciously under their command."
 msgid ""
 "Cavaliers are masters at the use of both sword and crossbow from horseback, "
 "able to cover great distances quickly on their patrols, and have keen eyes "
@@ -6113,13 +6104,16 @@ msgid ""
 "impact resistances. This was done to simplify the unit, so as not to "
 "overwhelm new players.</i></span>"
 msgstr ""
-"Díky tomu, že hladce prohazují dřevec a palcát, pyšní se jízdní generálové "
-"ohromnou dovedností v boji muže proti muži a dokáží uhájit své i proti "
-"nejsilnějšímu protivníkovi. Mistrně ovládají svého koně, schopni na svých "
+"Jezdci mistrně ovládají meč i kuši z koňského hřbetu, jsou schopni na svých "
 "hlídkách rychle ujet ohromné vzdálenosti a mají pronikavý zrak, pomocí "
 "kterého zjistí a odstraní nejrůznější nebezpečí. Nicméně jejich největší "
 "síla spočívá ve schopnosti dodat svým mužům velikou kuráž. Ti pod jejich "
-"velením bojují neohroženě a neústupně."
+"velením bojují neohroženě a neústupně.\n"
+"\n"
+"<span color='#c7c7c7'><i>Pokud jsi zkušený hráč, jistě sis všiml, že Deoran "
+"vychází z kaveleristy, ale postrádá jeho odolnost proti útoku čepelí "
+"a úderem. To bylo uděláno pro zjednodušení jednotky, aby to nezatěžovalo "
+"nové hráče.</i></span>"
 
 #. [unit_type]: id=Veteran Infantryman, race=human
 #: data/campaigns/The_South_Guard/units/Gerrick2_Veteran_Infantryman.cfg:4
