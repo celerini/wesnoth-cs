@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-27 19:08+0200\n"
+"PO-Revision-Date: 2025-04-27 22:24+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -13596,8 +13596,8 @@ msgid ""
 "—I... —I am no necromancer! Everything I have done is for the good of "
 "Wesnoth."
 msgstr ""
-"… Já... … já nejsem žádný nekromant! Všechno, co jsem udělal, bylo pro dobro "
-"Wesnothu."
+"... Já... ... já nejsem žádný nekromant! Všechno, co jsem udělal, bylo pro "
+"dobro Wesnothu."
 
 #. [message]: speaker=spirit
 #: data/campaigns/Eastern_Invasion/utils/final_battle/final_battle.cfg:783
@@ -13987,8 +13987,8 @@ msgid ""
 "...what foul thing is this? Remove it from my presence; necromancy shall not "
 "take root in Wesnoth, not under my watch."
 msgstr ""
-"… co je to za odpornost? Dej mi to pryč z očí. Nekromancie nezapustí kořeny "
-"ve Wesnothu, ne pod mým dohledem."
+"... co je to za odpornost? Dej mi to pryč z očí. Nekromancie nezapustí "
+"kořeny ve Wesnothu, ne pod mým dohledem."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/utils/items.cfg:840
