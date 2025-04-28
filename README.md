@@ -10,7 +10,7 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-help | 768 | 95% | 31 |
 wesnoth-lib | 1659 | 99% | 6 | Michal
-wesnoth-sotbe | 643 | 99% | 1 |
+wesnoth-sotbe | 643 | 99% | 1 | Septim
 wesnoth-tdg | 1244 | 0% | 1243 |
 wesnoth-tsg | 861 | 21% | 680 | Michal
 wesnoth | 1451 | 99% | 12 | Michal
