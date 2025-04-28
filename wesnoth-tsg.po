@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-03-17 04:21 UTC\n"
-"PO-Revision-Date: 2025-04-26 09:35+0200\n"
+"PO-Revision-Date: 2025-04-28 23:59+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6118,7 +6118,7 @@ msgstr ""
 #. [unit_type]: id=Veteran Infantryman, race=human
 #: data/campaigns/The_South_Guard/units/Gerrick2_Veteran_Infantryman.cfg:4
 msgid "Veteran Infantryman"
-msgstr ""
+msgstr "Staršina pěchoty"
 
 #. [unit_type]: id=Veteran Infantryman, race=human
 #. [unit_type]: id=Master Infantryman, race=human
@@ -6149,10 +6149,8 @@ msgstr "kůsa"
 
 #. [unit_type]: id=Master Infantryman, race=human
 #: data/campaigns/The_South_Guard/units/Gerrick3_Master_Infantryman.cfg:4
-#, fuzzy
-#| msgid "Infantry Commander"
 msgid "Master Infantryman"
-msgstr "Velitel pěchoty"
+msgstr "Kapitán pěchoty"
 
 #. [unit_type]: id=Cage, race=mechanical
 #: data/campaigns/The_South_Guard/units/MECH_Cage.cfg:5
