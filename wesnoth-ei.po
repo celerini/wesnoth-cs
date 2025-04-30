@@ -8,15 +8,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-04-28 03:22 UTC\n"
-"PO-Revision-Date: 2025-04-27 22:24+0200\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2025-04-30 22:56+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.5\n"
 
 #. [campaign]: id=Eastern_Invasion
 #. [achievement_group]
@@ -628,10 +627,8 @@ msgstr "Vugredyr"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:297
-#, fuzzy
-#| msgid "Survive until turns run out"
 msgid "Survive until turns run out, then move any unit to 10,15"
-msgstr "Přežij do konce kol"
+msgstr "Přežij do konce kol, pak přesuň libovolnou jednotku na 10,15"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/01_Eastern_Invasion.cfg:307
@@ -5204,16 +5201,12 @@ msgstr "Je zima, den je kratší"
 #. The amount is likely between 1 and 10 per turn.
 #. With the current balancing it’s the same for every difficulty, starting at 1/turn and rising by 1 every 6 turns.
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:464
-#, fuzzy
-#| msgid ""
-#| "Living units take $|frostbite_amount cold damage every turn. Damage "
-#| "increases every 10 turns."
 msgid ""
 "Living units take $|frostbite_amount cold damage every turn. Damage "
 "increases every 6 turns."
 msgstr ""
-"Živé jednotky obdrží každé kolo zranění chladem $|frostbite_amount. Zranění "
-"se každých 10 kol zvyšuje."
+"Živé jednotky utrží každé kolo zranění chladem $|frostbite_amount. Zranění "
+"se každých 6 kol zvyšuje."
 
 #. [message]: speaker=Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:479
@@ -6185,10 +6178,8 @@ msgstr ""
 #. [message]: speaker=unit
 #. 200, 160, or 130 gold
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1215
-#, fuzzy
-#| msgid "This wyvern was rich! I count $gold gold in its hoard."
 msgid "This yeti was rich! I count $gold gold in its hoard."
-msgstr "Tahle wyverna byla bohatá! Nasyslila si $gold zlatých."
+msgstr "Tenhle yetti byl bohatý! Nasyslil si $gold zlatých."
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:1220
