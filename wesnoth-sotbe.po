@@ -1700,7 +1700,7 @@ msgid ""
 "consuming but much safer compared to the direct route through the Desert of "
 "Death."
 msgstr ""
-"Nejspíš zvolili cestou podhůřím. Cesta je časově náročná, ale mnohem "
+"Nejspíš zvolili cestu podhůřím. Je časově náročná, ale mnohem "
 "bezpečnější ve srovnání s přímou cestou přes Poušť smrti."
 
 #. [message]: speaker=Pirk
