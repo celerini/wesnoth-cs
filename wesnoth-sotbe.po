@@ -1700,8 +1700,8 @@ msgid ""
 "consuming but much safer compared to the direct route through the Desert of "
 "Death."
 msgstr ""
-"Nejspíš zvolili cestu podhůřím. Je časově náročná, ale mnohem "
-"bezpečnější ve srovnání s přímou cestou přes Poušť smrti."
+"Nejspíš zvolili cestu podhůřím. Je časově náročná, ale mnohem bezpečnější ve "
+"srovnání s přímou cestou přes Poušť smrti."
 
 #. [message]: speaker=Pirk
 #: data/campaigns/Son_Of_The_Black_Eye/scenarios/06_Black_Flag.cfg:399
