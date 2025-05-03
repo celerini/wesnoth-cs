@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-04-28 03:22 UTC\n"
-"PO-Revision-Date: 2025-05-02 23:34+0200\n"
+"PO-Revision-Date: 2025-05-03 23:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6094,12 +6094,6 @@ msgstr "Staršina pěchoty"
 #. [unit_type]: id=Master Infantryman, race=human
 #: data/campaigns/The_South_Guard/units/Gerrick2_Veteran_Infantryman.cfg:16
 #: data/campaigns/The_South_Guard/units/Gerrick3_Master_Infantryman.cfg:17
-#, fuzzy
-#| msgid ""
-#| "Commanders of the infantry of Wesnoth are responsible for the garrison "
-#| "and defense of the border towns and villages. They are drawn from the "
-#| "ranks of veteran soldiers, not nobility, and all have shown leadership "
-#| "and courage in battle."
 msgid ""
 "The best and brightest of the heavy infantry are made responsible for the "
 "garrison and defense of border towns and villages. Fighting with unmatched "
@@ -6107,9 +6101,11 @@ msgid ""
 "not nobility, and all have shown great courage in battle. One of these "
 "veteran fighters in a battle line will stiffen it considerably."
 msgstr ""
-"Velitelé pěchoty Wesnothu jsou zodpovědní za posádku a obranu hraničních "
-"měst a vesnic. Jsou vybíráni z řad zkušených vojáků, ne šlechty, a všichni "
-"již dokázali své vůdcovství a odvahu v boji."
+"Nejlepší a nejschopnější příslušníci těžké pěchoty jsou odpovědní za posádku "
+"a obranu pohraničních měst a vesnic. Zblízka bojují s nepřekonatelnou silou, "
+"jsou vybíráni z řad zkušených vojáků, ne šlechty, a všichni prokázali "
+"velkou odvahu v boji. Jeden takový ostřílený bojovník výrazně utuží bitevní "
+"linii."
 
 #. [attack]: type=blade
 #: data/campaigns/The_South_Guard/units/Gerrick2_Veteran_Infantryman.cfg:20
