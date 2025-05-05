@@ -14,11 +14,11 @@ wesnoth-lib | 1660 | 99% | 9 | Michal
 wesnoth-manpages | 313 | 99% | 3 | Michal
 wesnoth-multiplayer | 325 | 97% | 7 | Michal
 wesnoth-tdg | 1245 | 0% | 1244 |
-wesnoth-tsg | 863 | 21% | 677 | Michal
+wesnoth-tsg | 863 | 21% | 674 |
 wesnoth-wof | 816 | 99% | 1 |
 wesnoth | 1452 | 98% | 21 | Michal
 
-Total messages remaining: **2132**
+Total messages remaining: **2129**
 
 Progress since 2025-04-29: **1** message per day
 
