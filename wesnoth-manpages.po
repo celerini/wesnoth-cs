@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-04-27 22:22-0500\n"
-"PO-Revision-Date: 2025-02-20 21:35+0100\n"
+"PO-Revision-Date: 2025-05-06 22:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -225,10 +225,8 @@ msgstr "B<--core>I<\\ id_jádra>"
 
 #. type: Plain text
 #: doc/man/wesnoth.6:75
-#, fuzzy
-#| msgid "overrides the loaded core with the one whose id is specified."
 msgid "Overrides the loaded core with the one whose id is specified."
-msgstr "nahradí načtené jádro tím, jehož identifikátor je zadán."
+msgstr "Nahradí načtené jádro tím, jehož identifikátor je zadán."
 
 #. type: TP
 #: doc/man/wesnoth.6:75
