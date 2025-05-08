@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-04-27 22:22-0500\n"
-"PO-Revision-Date: 2025-03-21 23:55+0100\n"
+"PO-Revision-Date: 2025-05-08 20:49+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7409,16 +7409,12 @@ msgid "Schedule"
 msgstr "Plán"
 
 #: src/help/help_impl.cpp:528
-#, fuzzy
-#| msgid "<header>text='Units with this special attack'</header>"
 msgid "Units with this special attack"
-msgstr "<header>text='Jednotky s tímto speciálním útokem'</header>"
+msgstr "Jednotky s tímto speciálním útokem"
 
 #: src/help/help_impl.cpp:592
-#, fuzzy
-#| msgid "<header>text='Units with this ability'</header>"
 msgid "Units with this ability"
-msgstr "<header>text='Jednotky s touto schopností'</header>"
+msgstr "Jednotky s touto schopností"
 
 #: src/help/help_impl.cpp:628
 msgid "Factions"
@@ -7456,40 +7452,28 @@ msgstr "Příslušnost: "
 #. TRANSLATORS: this is expected to say "[Dunefolk are] a group of units, all of whom are Humans",
 #. or "[Quenoth Elves are] a group of units, all of whom are Elves".
 #: src/help/help_impl.cpp:1152
-#, fuzzy
-#| msgid ""
-#| "This is a group of units, all of whom are <ref>dst='$topic_id' "
-#| "text='$help_taxonomy'</ref>."
 msgid ""
 "This is a group of units, all of whom are <ref "
 "dst='$topic_id'>$help_taxonomy</ref>."
 msgstr ""
-"Toto je skupina jednotek, z nichž jsou všichni <ref>dst='$topic_id' "
-"text='$help_taxonomy'</ref>."
+"Toto je skupina jednotek, z nichž jsou všichni <ref "
+"dst='$topic_id'>$help_taxonomy</ref>."
 
 #: src/help/help_impl.cpp:1157
-#, fuzzy
-#| msgid "<header>text='Subgroups of units within this group'</header>"
 msgid "Subgroups of units within this group"
-msgstr "<header>text='Podskupiny jednotek v této skupině'</header>"
+msgstr "Podskupiny jednotek v této skupině"
 
 #: src/help/help_impl.cpp:1159
-#, fuzzy
-#| msgid "<header>text='Groups of units within this race'</header>"
 msgid "Groups of units within this race"
-msgstr "<header>text='Skupiny jednotek v této rase'</header>"
+msgstr "Skupiny jednotek v této rase"
 
 #: src/help/help_impl.cpp:1168
-#, fuzzy
-#| msgid "<header>text='Units of this group'</header>"
 msgid "Units of this group"
-msgstr "<header>text='Jednotky této skupiny'</header>"
+msgstr "Jednotky této skupiny"
 
 #: src/help/help_impl.cpp:1170
-#, fuzzy
-#| msgid "<header>text='Units of this race'</header>"
 msgid "Units of this race"
-msgstr "<header>text='Jednotky této rasy'</header>"
+msgstr "Jednotky této rasy"
 
 #: src/hotkey/command_executor.cpp:404
 msgid "Do you really want to surrender the game?"
@@ -9229,12 +9213,9 @@ msgstr "Tato denní doba je pouze útržek!"
 msgid "name"
 msgstr ""
 
-# v nápovědě podrobnosti jednotky když k ní není žádný text
 #: src/units/abilities.cpp:955
-#, fuzzy
-#| msgid "No description available."
 msgid "description"
-msgstr "Žádné informace nejsou k dispozici."
+msgstr "popis"
 
 #: src/units/abilities.cpp:1063
 msgid "Owned: "
