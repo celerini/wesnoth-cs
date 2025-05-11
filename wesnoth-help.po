@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-04-27 22:22-0500\n"
-"PO-Revision-Date: 2025-05-10 22:09+0200\n"
+"PO-Revision-Date: 2025-05-11 22:49+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1911,16 +1911,12 @@ msgstr "Arkan-thoria"
 
 #. [topic]: id=arkan_thoria
 #: data/core/encyclopedia/geography.cfg:27
-#, fuzzy
-#| msgid ""
-#| "A river rising in the <ref>dst='heart_mountains' text='Heart Mountains'</"
-#| "ref> and running east to the Listra."
 msgid ""
 "A river rising in the <ref dst='heart_mountains'>Heart Mountains</ref> and "
 "running east to the Listra."
 msgstr ""
-"Řeka tekoucí ze <ref>dst='heart_mountains' text='Srdcových hor'</ref>, která "
-"se na západě vlévá do Listry."
+"Řeka tekoucí ze <ref dst='heart_mountains'>Srdcových hor</ref>, která se na "
+"západě vlévá do Listry."
 
 #. [topic]: id=great_river
 #: data/core/encyclopedia/geography.cfg:32
@@ -1929,22 +1925,16 @@ msgstr "Velká řeka"
 
 #. [topic]: id=great_river
 #: data/core/encyclopedia/geography.cfg:33
-#, fuzzy
-#| msgid ""
-#| "The Great River forms the boundary between the <ref>dst='kingdom_wesnoth' "
-#| "text='Kingdom of Wesnoth'</ref> and the <ref>dst='northlands' "
-#| "text='Northlands'</ref>. It empties to the <ref>dst='great_ocean' "
-#| "text='ocean'</ref> at <ref>dst='elensefar' text='Elensefar'</ref>."
 msgid ""
 "The Great River forms the boundary between the <ref "
 "dst='kingdom_wesnoth'>Kingdom of Wesnoth</ref> and the <ref "
 "dst='northlands'>Northlands</ref>. It empties to the <ref "
 "dst='great_ocean'>ocean</ref> at <ref dst='elensefar'>Elensefar</ref>."
 msgstr ""
-"Velká řeka tvoří hranici mezi <ref>dst='kingdom_wesnoth' text='Wesnothským "
-"královstvím'</ref> a <ref>dst='northlands' text='Severními zeměmi'</ref>. "
-"U <ref>dst='elensefar' text='Elensefaru'</ref> se vlévá do "
-"<ref>dst='great_ocean' text='oceánu'</ref>."
+"Velká řeka tvoří hranici mezi <ref dst='kingdom_wesnoth'>Wesnothským "
+"královstvím</ref> a <ref dst='northlands'>Severními zeměmi</ref>. U <ref "
+"dst='elensefar'>Elensefaru</ref> se vlévá do <ref dst='great_ocean'>oceánu</"
+"ref>."
 
 #. [topic]: id=great_river
 #: data/core/encyclopedia/geography.cfg:35
@@ -1962,19 +1952,14 @@ msgstr "Velký oceán"
 
 #. [topic]: id=great_ocean
 #: data/core/encyclopedia/geography.cfg:41
-#, fuzzy
-#| msgid ""
-#| "Lies to the west of the <ref>dst='great_continent' text='continent'</ref> "
-#| "and all rivers eventually flow to it. Far to the west in the Great Ocean "
-#| "is a huge archipelago called <ref>dst='morogor' text='Morogor'</ref>."
 msgid ""
 "Lies to the west of the <ref dst='great_continent'>continent</ref> and all "
 "rivers eventually flow to it. Far to the west in the Great Ocean is a huge "
 "archipelago called <ref dst='morogor'>Morogor</ref>."
 msgstr ""
-"Leží na západ od <ref>dst='great_continent' text='kontinentu'</ref> a tečou "
-"do něj všechny řeky. Daleko na západě se v něm nachází velké souostroví "
-"zvané <ref>dst='morogor' text='Morogor'</ref>."
+"Leží na západ od <ref dst='great_continent'>kontinentu</ref> a tečou do něj "
+"všechny řeky. Daleko na západě se v něm nachází velké souostroví zvané <ref "
+"dst='morogor'>Morogor</ref>."
 
 #. [topic]: id=great_ocean
 #. Great Ocean
