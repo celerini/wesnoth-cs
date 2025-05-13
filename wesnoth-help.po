@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-04-27 22:22-0500\n"
-"PO-Revision-Date: 2025-05-12 23:22+0200\n"
+"PO-Revision-Date: 2025-05-13 21:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2076,20 +2076,14 @@ msgstr "Starý kontinent"
 
 #. [topic]: id=old_continent
 #: data/core/encyclopedia/geography.cfg:89
-#, fuzzy
-#| msgid ""
-#| "Lies to the west of <ref>dst='morogor' text='Morogor'</ref> and the "
-#| "<ref>dst='green_isle' text='Green Isle'</ref> across the "
-#| "<ref>dst='great_ocean' text='Great Ocean'</ref>. It is the original "
-#| "homeland of both humans and orcs."
 msgid ""
 "Lies to the west of <ref dst='morogor'>Morogor</ref> and the <ref "
 "dst='green_isle'>Green Isle</ref> across the <ref dst='great_ocean'>Great "
 "Ocean</ref>. It is the original homeland of both humans and orcs."
 msgstr ""
-"Leží za <ref>dst='great_ocean' text='Velkým oceánem'</ref>, na západ od "
-"<ref>dst='morogor' text='Morogoru'</ref> a <ref>dst='green_isle' "
-"text='Zeleného ostrova'</ref>. Je to původní domovina lidí i skřetů."
+"Leží za <ref dst='great_ocean'>Velkým oceánem</ref>, na západ od <ref "
+"dst='morogor'>Morogoru</ref> a <ref dst='green_isle'>Zeleného ostrova</ref>. "
+"Je to původní domovina lidí i skřetů."
 
 #. [topic]: id=great_continent
 #: data/core/encyclopedia/geography.cfg:94
@@ -2098,19 +2092,14 @@ msgstr "Velký kontinent"
 
 #. [topic]: id=great_continent
 #: data/core/encyclopedia/geography.cfg:95
-#, fuzzy
-#| msgid ""
-#| "The continent on which the <ref>dst='kingdom_wesnoth' text='Kingdom of "
-#| "Wesnoth'</ref> lies. Its west coast is surrounded by the "
-#| "<ref>dst='great_ocean' text='Great Ocean'</ref>."
 msgid ""
 "The continent on which the <ref dst='kingdom_wesnoth'>Kingdom of Wesnoth</"
 "ref> lies. Its west coast is surrounded by the <ref dst='great_ocean'>Great "
 "Ocean</ref>."
 msgstr ""
-"Kontinent, na němž se nachází <ref>dst='kingdom_wesnoth' text='Wesnothské "
-"království'</ref>. Jeho západní pobřeží omývá <ref>dst='great_ocean' "
-"text='Velký oceán'</ref>."
+"Kontinent, na němž se nachází <ref dst='kingdom_wesnoth'>Wesnothské "
+"království</ref>. Jeho západní pobřeží omývá <ref dst='great_ocean'>Velký "
+"oceán</ref>."
 
 #. [topic]: id=irdya
 #: data/core/encyclopedia/geography.cfg:100
@@ -2119,23 +2108,17 @@ msgstr "Irdye"
 
 #. [topic]: id=irdya
 #: data/core/encyclopedia/geography.cfg:101
-#, fuzzy
-#| msgid ""
-#| "The name of the world in which the kingdom of <ref>dst='kingdom_wesnoth' "
-#| "text='Wesnoth'</ref> is situated is ‘Irdya’. This term is, however, only "
-#| "rarely used in the era depicted by the main map. People normally just say "
-#| "“the world” or, poetically, “the wide green world”."
 msgid ""
 "The name of the world in which the kingdom of <ref "
 "dst='kingdom_wesnoth'>Wesnoth</ref> is situated is ‘Irdya’. This term is, "
 "however, only rarely used in the era depicted by the main map. People "
 "normally just say “the world” or, poetically, “the wide green world”."
 msgstr ""
-"Svět, na němž se nachází <ref>dst='kingdom_wesnoth' text='Wesnothské "
-"království'</ref>, jeho obyvatelé nazývají „Irdye“. Tento termín je však "
-"v éře odpovídající poměrům na hlavní mapě používán zřídkavě. Lidé jej "
-"obvykle označují prostě jako „svět“, případně „široširý zelený svět“, pokud "
-"mají poetičtější náladu."
+"Svět, na němž se nachází <ref dst='kingdom_wesnoth'>Wesnothské království</"
+"ref>, jeho obyvatelé nazývají „Irdye“. Tento termín je však v éře "
+"odpovídající poměrům na hlavní mapě používán zřídkavě. Lidé jej obvykle "
+"označují prostě jako „svět“, případně „široširý zelený svět“, pokud mají "
+"poetičtější náladu."
 
 #. [topic]: id=kingdom_wesnoth
 #: data/core/encyclopedia/geography.cfg:106
