@@ -3,7 +3,7 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2024
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2025
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2020 - 2022
 #
 msgid ""
@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 12:38-0500\n"
-"PO-Revision-Date: 2024-12-28 23:20+0100\n"
+"PO-Revision-Date: 2025-05-16 23:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2854,8 +2854,7 @@ msgstr ""
 "Množství života je také u každé jednotky naznačeno ukazatelem energie, který "
 "může být zelený, žlutý nebo červený. Jednotka, která má alespoň 1 "
 "zkušenostní bod má druhý ukazatel zbarvený do modra, který se v případě "
-"blížícího se <ref>dst='experience_and_advancement' text='povýšení'</ref> "
-"změní na bílý."
+"blížícího se <ref>dst='advancement' text='povýšení'</ref> změní na bílý."
 
 #. [topic]: id=advancement
 #: data/core/help.cfg:251
