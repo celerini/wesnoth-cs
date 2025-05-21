@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 17:31-0500\n"
-"PO-Revision-Date: 2025-05-21 22:12+0200\n"
+"PO-Revision-Date: 2025-05-21 22:18+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2550,6 +2550,8 @@ msgid ""
 "A vast region south of Kerlath home to many mysterious races, including jinn "
 "and wyverns. Very little is known for certain about what lies here."
 msgstr ""
+"Rozsáhlá oblast jižně od Kerlathu, která je domovem mnoha tajemných ras, "
+"včetně džinů a wyvern. O tom, co se zde nachází, se ví jen velmi málo."
 
 #. [topic]: id=far_south
 #. Geography of the Far South
@@ -8962,13 +8964,6 @@ msgstr "Cena rozhledu"
 #: src/help/help_topic_generators.cpp:842
 msgid "Jamming Cost"
 msgstr "Cena rušení"
-
-#~ msgid ""
-#~ "A vast region south of Kerlath home to the Dunefolk Civilization. It is "
-#~ "also inhabited by many local creatures, including the Jinn and Wyverns."
-#~ msgstr ""
-#~ "Rozsáhlá oblast jižně od Kerlathu, kde žije civilizace pouštního lidu. "
-#~ "Obývá ji také mnoho místních tvorů, včetně džinů a wyvern."
 
 #~ msgid ""
 #~ "Raised elevation editor palette icon\n"
