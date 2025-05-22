@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 17:31-0500\n"
-"PO-Revision-Date: 2025-03-20 20:17+0100\n"
+"PO-Revision-Date: 2025-05-22 22:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5143,10 +5143,8 @@ msgstr ""
 
 #. [button]: id=leave_queue
 #: data/gui/themes/default/dialogs/lobby_main.cfg:702
-#, fuzzy
-#| msgid "Leave"
 msgid "Leave Queue"
-msgstr "Opustit"
+msgstr "Opustit frontu"
 
 #. [label]
 #: data/gui/themes/default/dialogs/lobby_main.cfg:801
@@ -8393,10 +8391,8 @@ msgid "Rename Unit"
 msgstr "Přejmenovat jednotku"
 
 #: src/gui/dialogs/units_dialog.cpp:273
-#, fuzzy
-#| msgid "This unit is loyal and requires no upkeep."
 msgid "This unit requires no upkeep."
-msgstr "Tato jednotka je věrná a nevyžaduje žádné zaopatření."
+msgstr "Tato jednotka nevyžaduje žádné zaopatření."
 
 #: src/gui/dialogs/units_dialog.cpp:274 src/gui/dialogs/units_dialog.cpp:279
 #: src/gui/dialogs/units_dialog.cpp:284
