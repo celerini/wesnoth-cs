@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 22:31 UTC\n"
-"PO-Revision-Date: 2025-04-16 23:59+0200\n"
+"PO-Revision-Date: 2025-05-23 22:45+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1325,10 +1325,8 @@ msgstr "trosky"
 
 #. [unit_type]: id=Elvish Cutter, race=ship
 #: data/core/units/boats/Elf_Cutter.cfg:5
-#, fuzzy
-#| msgid "Elvish Outrider"
 msgid "Elvish Cutter"
-msgstr "Elfí eskorta"
+msgstr "Elfí kutr"
 
 #. [unit_type]: id=Elvish Cutter, race=ship
 #. [unit_type]: id=Elvish Sloop, race=ship
@@ -1352,10 +1350,8 @@ msgstr "polapení"
 
 #. [unit_type]: id=Elvish Sloop, race=ship
 #: data/core/units/boats/Elf_Sloop.cfg:5
-#, fuzzy
-#| msgid "Elvish Scout"
 msgid "Elvish Sloop"
-msgstr "Elfí průzkumník"
+msgstr "Elfí šalupa"
 
 #. [unit_type]: id=Fireship, race=ship
 #: data/core/units/boats/Fireship.cfg:4
@@ -1408,10 +1404,8 @@ msgstr ""
 
 #. [unit_type]: id=Ghost Ship, race=ship
 #: data/core/units/boats/Ghost_Ship.cfg:16
-#, fuzzy
-#| msgid "Ghost"
 msgid "Ghost Ship"
-msgstr "Duch"
+msgstr "Loď duchů"
 
 #. [attack]: type=fire
 #: data/core/units/boats/Ghost_Ship.cfg:182
@@ -1428,10 +1422,8 @@ msgstr ""
 
 #. [unit_type]: id=Orcish Barge, race=ship
 #: data/core/units/boats/Orc_Barge.cfg:5
-#, fuzzy
-#| msgid "Orcish Archer"
 msgid "Orcish Barge"
-msgstr "Skřetí lučištník"
+msgstr "Skřetí bárka"
 
 #. [unit_type]: id=Orcish Barge, race=ship
 #: data/core/units/boats/Orc_Barge.cfg:20
@@ -1455,10 +1447,8 @@ msgstr ""
 
 #. [unit_type]: id=Orcish Battle Barge, race=ship
 #: data/core/units/boats/Orc_Battle-Barge.cfg:5
-#, fuzzy
-#| msgid "Orcish Ruler"
 msgid "Orcish Battle Barge"
-msgstr "Skřetí vládce"
+msgstr "Skřetí bitevní bárka"
 
 #. [attack]: type=impact
 #: data/core/units/boats/Orc_Battle-Barge.cfg:112
@@ -1467,25 +1457,19 @@ msgstr ""
 
 #. [unit_type]: id=Orcish Rigship, race=ship
 #: data/core/units/boats/Orc_Rigship.cfg:5
-#, fuzzy
-#| msgid "Orcish Nightblade"
 msgid "Orcish Rigship"
-msgstr "Skřetí šerobřit"
+msgstr "Skřetí galéra"
 
 #. [attack]: type=fire
 #: data/core/units/boats/Orc_Rigship.cfg:85
 #: data/core/units/boats/Orc_Warship.cfg:85
-#, fuzzy
-#| msgid "fire"
 msgid "firebow"
-msgstr "oheň"
+msgstr "ohnivý luk"
 
 #. [unit_type]: id=Orcish Warship, race=ship
 #: data/core/units/boats/Orc_Warship.cfg:5
-#, fuzzy
-#| msgid "Orcish Warrior"
 msgid "Orcish Warship"
-msgstr "Skřetí válečník"
+msgstr "Skřetí válečná loď"
 
 #. [unit_type]: id=Pirate Galleon, race=mechanical
 #: data/core/units/boats/Pirate_Galleon.cfg:10
@@ -1518,11 +1502,6 @@ msgstr ""
 
 #. [unit_type]: id=Pirate Ship, race=ship
 #: data/core/units/boats/Pirate_Ship.cfg:22
-#, fuzzy
-#| msgid ""
-#| "Pirate Galleons are to transport ships what wolves are to sheep. The "
-#| "pirates who crew them are more than happy to help relieve other ships of "
-#| "their weighty cargo."
 msgid ""
 "Pirate galleons are to transport ships what wolves are to sheep. The pirates "
 "who crew them are more than happy to help relieve other ships of their "
@@ -1614,10 +1593,6 @@ msgstr ""
 
 #. [unit_type]: id=Skiff, race=ship
 #: data/core/units/boats/Skiff.cfg:22
-#, fuzzy
-#| msgid ""
-#| "Propelled by oars or small sails, Boats are used to travel short "
-#| "distances and in shallows where large ships cannot navigate."
 msgid ""
 "Propelled by oars or small sails, skiffs are used to travel short distances "
 "and in shallows where large ships cannot navigate."
@@ -1644,10 +1619,8 @@ msgstr ""
 
 #. [unit_type]: id=Transport Ship, race=ship
 #: data/core/units/boats/Transport_Ship.cfg:4
-#, fuzzy
-#| msgid "Transport Galleon"
 msgid "Transport Ship"
-msgstr "Dopravní galeona"
+msgstr "Dopravní loď"
 
 #. [unit_type]: id=Drake Arbiter, race=drake, gender=male,female
 #: data/core/units/drakes/Arbiter.cfg:4
