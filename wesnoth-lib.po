@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 17:31-0500\n"
-"PO-Revision-Date: 2025-05-25 21:09+0200\n"
+"PO-Revision-Date: 2025-05-26 23:45+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6594,22 +6594,22 @@ msgstr "Možnosti mapy dosahu"
 #. [label]
 #: data/gui/themes/default/dialogs/reachmap_options.cfg:112
 msgid "Highlight Color"
-msgstr ""
+msgstr "Barva zvýraznění"
 
 #. [label]
 #: data/gui/themes/default/dialogs/reachmap_options.cfg:130
 msgid "Enemy Highlight Color"
-msgstr ""
+msgstr "Barva zvýraznění nepřítele"
 
 #. [grid]
 #: data/gui/themes/default/dialogs/reachmap_options.cfg:142
 msgid "Border Opacity:"
-msgstr ""
+msgstr "Neprůhlednost okraje:"
 
 #. [grid]
 #: data/gui/themes/default/dialogs/reachmap_options.cfg:144
 msgid "Tint Opacity:"
-msgstr ""
+msgstr "Neprůhlednost odstínu:"
 
 #. [button]: id=open
 #: data/gui/themes/default/dialogs/screenshot_notification.cfg:49
