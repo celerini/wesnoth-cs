@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 17:31-0500\n"
-"PO-Revision-Date: 2025-05-08 20:49+0200\n"
+"PO-Revision-Date: 2025-05-27 23:30+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4395,37 +4395,37 @@ msgstr ""
 #. [advancement]: id=hitpoints_increase
 #: data/internal/resources/AMLAs/_main.cfg:95
 msgid "Gain +8 hitpoints."
-msgstr ""
+msgstr "Získat +8 životů."
 
 #. [advancement]: id=melee_increase1
 #: data/internal/resources/AMLAs/_main.cfg:121
 msgid "Gain +4 melee damage."
-msgstr ""
+msgstr "Získat +4 zranění pro boj zblízka."
 
 #. [advancement]: id=melee_increase2
 #: data/internal/resources/AMLAs/_main.cfg:154
 msgid "Gain +2 melee damage."
-msgstr ""
+msgstr "Získat +2 zranění pro boj zblízka."
 
 #. [advancement]: id=melee_increase3
 #: data/internal/resources/AMLAs/_main.cfg:187
 msgid "Gain +1 melee damage."
-msgstr ""
+msgstr "Získat +1 zranění pro boj zblízka."
 
 #. [advancement]: id=ranged_increase1
 #: data/internal/resources/AMLAs/_main.cfg:217
 msgid "Gain +4 ranged damage."
-msgstr ""
+msgstr "Získat +4 zranění pro boj na dálku."
 
 #. [advancement]: id=ranged_increase2
 #: data/internal/resources/AMLAs/_main.cfg:250
 msgid "Gain +2 ranged damage."
-msgstr ""
+msgstr "Získat +2 zranění pro boj na dálku."
 
 #. [advancement]: id=ranged_increase3
 #: data/internal/resources/AMLAs/_main.cfg:283
 msgid "Gain +1 ranged damage."
-msgstr ""
+msgstr "Získat +1 zranění pro boj na dálku."
 
 #. [message]: speaker=narrator
 #. newlines at the end are deliberate, and function as spacers before the [option]s
@@ -9512,18 +9512,3 @@ msgstr "Skryj plány pro hráče $player"
 #: src/whiteboard/manager.cpp:1140
 msgid "Whiteboard Options"
 msgstr "Nastavení plánovacího módu"
-
-#~ msgid "Era:"
-#~ msgstr "Éra:"
-
-#~ msgid "Lato Light"
-#~ msgstr "Lato Light"
-
-#~ msgid "No units found."
-#~ msgstr "Žádné jednotky nenalezeny."
-
-#~ msgid "No unit recruited."
-#~ msgstr "Žádná jednotka nebyla naverbována."
-
-#~ msgid "No unit recalled."
-#~ msgstr "Žádná jednotka nebyla povolána."
