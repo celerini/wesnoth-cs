@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 17:31-0500\n"
-"PO-Revision-Date: 2025-05-27 23:30+0200\n"
+"PO-Revision-Date: 2025-05-28 23:01+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -189,7 +189,7 @@ msgstr "Upravit barvy koulí"
 #. [advanced_preference]: type=custom
 #: data/advanced_preferences.cfg:142
 msgid "Customize Reach Map (Unit Movement UI)"
-msgstr ""
+msgstr "Přizpůsobení mapy dosahu (uživatelské rozhraní pro pohyb jednotek)"
 
 #. [advanced_preference]: type=custom
 #: data/advanced_preferences.cfg:148
@@ -4335,6 +4335,9 @@ msgid ""
 "villages, providing no income or healing. They are difficult to navigate "
 "quickly, but offer significant protection."
 msgstr ""
+"Hustě zabydlené stavby jsou pro posádku méně vhodné než tradiční vesnice, "
+"neposkytují žádný příjem ani léčení. Je obtížné se v nich rychle orientovat, "
+"ale nabízí významnou ochranu."
 
 #. [terrain_type]: id=urbanjungleA
 #. [terrain_type]: id=urbanjungle{ID}
@@ -4390,7 +4393,7 @@ msgstr "Druhá hlídka"
 #. [advancement]: id=amla_default
 #: data/internal/resources/AMLAs/_main.cfg:73
 msgid "Max HP bonus +3, Max XP +20%"
-msgstr ""
+msgstr "Přídavek k maximu životů +3, maximum zkušeností +20 %"
 
 #. [advancement]: id=hitpoints_increase
 #: data/internal/resources/AMLAs/_main.cfg:95
@@ -4450,7 +4453,7 @@ msgstr ""
 #. [option]
 #: data/internal/resources/AMLAs/_main.cfg:365
 msgid "Ok, continue with the game"
-msgstr ""
+msgstr "V pořádku, pokračovat ve hře"
 
 #. [option]
 #: data/internal/resources/AMLAs/_main.cfg:368
@@ -9211,7 +9214,7 @@ msgstr "Tato denní doba je pouze útržek!"
 
 #: src/units/abilities.cpp:954
 msgid "name"
-msgstr ""
+msgstr "název"
 
 #: src/units/abilities.cpp:955
 msgid "description"
