@@ -10,16 +10,13 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-ei | 1861 | 99% | 4 | Septim
 wesnoth-help | 769 | 96% | 28 |
-wesnoth-lib | 1664 | 99% | 12 | Michal
-wesnoth-manpages | 313 | 99% | 1 | Michal
 wesnoth-sotbe | 644 | 99% | 1 | Septim
 wesnoth-tdg | 1244 | 0% | 1243 |
 wesnoth-tsg | 866 | 21% | 677 |
 wesnoth-units | 880 | 98% | 10 |
-wesnoth-wof | 816 | 99% | 1 |
-wesnoth | 1452 | 99% | 13 | Michal
+wesnoth-wof | 816 | 99% | 1 | Michal
 
-Total messages remaining: **1990**
+Total messages remaining: **1964**
 
 Progress since 2025-05-21: **4** messages per day
 
