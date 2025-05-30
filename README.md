@@ -13,10 +13,9 @@ wesnoth-help | 769 | 96% | 28 |
 wesnoth-sotbe | 644 | 99% | 1 | Septim
 wesnoth-tdg | 1244 | 0% | 1243 |
 wesnoth-tsg | 866 | 21% | 677 |
-wesnoth-units | 880 | 98% | 10 |
-wesnoth-wof | 816 | 99% | 1 | Michal
+wesnoth-units | 880 | 98% | 10 | Michal
 
-Total messages remaining: **1964**
+Total messages remaining: **1963**
 
 Progress since 2025-05-21: **4** messages per day
 
