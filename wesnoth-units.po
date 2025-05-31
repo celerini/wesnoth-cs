@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 22:31 UTC\n"
-"PO-Revision-Date: 2025-05-23 22:45+0200\n"
+"PO-Revision-Date: 2025-05-31 23:09+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1288,7 +1288,7 @@ msgstr ""
 #. [unit_type]: id=Canoe, race=ship
 #: data/core/units/boats/Canoe.cfg:5
 msgid "Canoe"
-msgstr ""
+msgstr "Kánoe"
 
 #. [unit_type]: id=Canoe, race=ship
 #: data/core/units/boats/Canoe.cfg:19
@@ -1298,6 +1298,10 @@ msgid ""
 "around barriers or between unconnected bodies of water.  Almost every "
 "intelligent race has some form of canoe."
 msgstr ""
+"Kánoe je malé, otevřené vodní plavidlo, které se běžně používá k přepravě "
+"nebo lovu. Její lehká stavba umožňuje přenášení kolem překážek nebo mezi "
+"nespojenými vodními plochami. Téměř každá inteligentní rasa má nějaký druh "
+"kánoe."
 
 #. [unit_type]: id=Derelict Hulk, race=ship
 #: data/core/units/boats/Derelict_Ship.cfg:4
