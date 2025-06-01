@@ -12,15 +12,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 22:31 UTC\n"
-"PO-Revision-Date: 2025-05-31 23:09+0200\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2025-06-01 21:14+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.5\n"
 
 #. [attack]: type=impact
 #: data/campaigns/Dead_Water/units/Soldier_King.cfg:30
@@ -1343,7 +1342,7 @@ msgstr "Elfí kutr"
 #: data/core/units/boats/Orc_Rigship.cfg:19
 #: data/core/units/boats/Orc_Warship.cfg:19
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [attack]: type=impact
 #: data/core/units/boats/Elf_Cutter.cfg:104
@@ -1422,7 +1421,7 @@ msgstr "blesk"
 #. [attack]: type=impact
 #: data/core/units/boats/Ghost_Ship.cfg:194
 msgid "black wind"
-msgstr ""
+msgstr "černý dech"
 
 #. [unit_type]: id=Orcish Barge, race=ship
 #: data/core/units/boats/Orc_Barge.cfg:5
