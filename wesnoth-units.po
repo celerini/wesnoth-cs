@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 22:31 UTC\n"
-"PO-Revision-Date: 2025-06-02 22:34+0200\n"
+"PO-Revision-Date: 2025-06-03 20:37+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1470,7 +1470,7 @@ msgstr "Skřetí bitevní bárka"
 #. [attack]: type=impact
 #: data/core/units/boats/Orc_Battle-Barge.cfg:112
 msgid "catapult"
-msgstr ""
+msgstr "katapult"
 
 #. [unit_type]: id=Orcish Rigship, race=ship
 #: data/core/units/boats/Orc_Rigship.cfg:5
@@ -1515,7 +1515,7 @@ msgstr "balista"
 #. [unit_type]: id=Pirate Ship, race=ship
 #: data/core/units/boats/Pirate_Ship.cfg:4
 msgid "Pirate Ship"
-msgstr ""
+msgstr "Pirátská loď"
 
 #. [unit_type]: id=Pirate Ship, race=ship
 #: data/core/units/boats/Pirate_Ship.cfg:22
@@ -1531,7 +1531,7 @@ msgstr ""
 #. [unit_type]: id=Raft, race=ship
 #: data/core/units/boats/Raft.cfg:5
 msgid "Raft"
-msgstr ""
+msgstr "Vor"
 
 #. [unit_type]: id=Raft, race=ship
 #: data/core/units/boats/Raft.cfg:19
@@ -1540,6 +1540,9 @@ msgid ""
 "an improvised vessel of desperation, patched together from the wreck of a "
 "larger ship."
 msgstr ""
+"Vory mohou být účinným prostředkem pro přepravu po řece, ale také "
+"improvizovaným plavidlem ze zoufalství, které bylo poskládáno z vraku větší "
+"lodi."
 
 #. [unit_type]: id=Coastal Raider, race=ship
 #: data/core/units/boats/Raider_Coastal.cfg:4
@@ -1606,7 +1609,7 @@ msgstr "kloun"
 #. [unit_type]: id=Skiff, race=ship
 #: data/core/units/boats/Skiff.cfg:5
 msgid "Skiff"
-msgstr ""
+msgstr "Lodice"
 
 #. [unit_type]: id=Skiff, race=ship
 #: data/core/units/boats/Skiff.cfg:22
