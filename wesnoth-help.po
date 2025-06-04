@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 17:31-0500\n"
-"PO-Revision-Date: 2025-05-21 22:18+0200\n"
+"PO-Revision-Date: 2025-06-04 23:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -117,93 +117,93 @@ msgstr "Chytré jednotky potřebují ke svému povýšení o 20 % méně zkuše
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:50
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:57
 msgid "Methor"
-msgstr ""
+msgstr "Methor"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:64
 msgid "Deoran"
-msgstr ""
+msgstr "Deoran"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:74
 msgid "Arand"
-msgstr ""
+msgstr "Arand"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:83
 msgid "Asheviere"
-msgstr ""
+msgstr "Ašvíra"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:92
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:101
 msgid "Eldred"
-msgstr ""
+msgstr "Eldred"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:111
 msgid "Lionel"
-msgstr ""
+msgstr "Lionel"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:125
 msgid "Lord Maddock"
-msgstr ""
+msgstr "Lord Maddok"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:133
 msgid "Colonel Dommel"
-msgstr ""
+msgstr "Plukovník Dommel"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:142
 msgid "Kestrel"
-msgstr ""
+msgstr "Kestrel"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:150
 msgid "Omaranth"
-msgstr ""
+msgstr "Omarant"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:174
 msgid "Iliah-Malal"
-msgstr ""
+msgstr "Iliah-Malal"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:210
 msgid "Garard II"
-msgstr ""
+msgstr "Garard II."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:515
 msgid "No, it can’t end yet! I have so much left to do..."
-msgstr ""
+msgstr "Ne, ještě to nemůže skončit! Ještě toho musím tolik udělat..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:526
 msgid "No! Magic, why have you failed me..."
-msgstr ""
+msgstr "Ne! Magie, proč jsi mě zklamala..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:537
 msgid "If only I had been a little wiser..."
-msgstr ""
+msgstr "Kdybych jen byl trochu moudřejší..."
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:549
 msgid "War, pain, death... I tried so hard to change things..."
-msgstr ""
+msgstr "Válka, bolest, smrt... Tolik jsem se snažil věci změnit..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:561
 msgid "I have failed my kingdom and my duty..."
-msgstr ""
+msgstr "Zklamal jsem své království a nedostál své povinnosti..."
 
 #. [message]: speaker=Garard
 #. reference to Shakespeare's Richard III
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:573
 msgid "A horse! A horse! My kingdom for a horse..."
-msgstr ""
+msgstr "Koně! Koně! Mé království za koně..."
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:583
 msgid "It’s finally over..."
-msgstr ""
+msgstr "Konečně je po všem..."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:593
 msgid "Blasted orcs..."
-msgstr ""
+msgstr "Zatracení skřeti..."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:605
