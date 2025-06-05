@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 17:31-0500\n"
-"PO-Revision-Date: 2025-06-04 23:56+0200\n"
+"PO-Revision-Date: 2025-06-05 23:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -208,27 +208,27 @@ msgstr "Zatracení skřeti..."
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:605
 msgid "Nobody can cheat death forever..."
-msgstr ""
+msgstr "Nikdo nemůže unikat smrti věčně..."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:616
 msgid "Deoran, I never had a chance to tell you—"
-msgstr ""
+msgstr "Deorane, nikdy jsem neměl příležitost ti říct..."
 
 #. [message]: speaker=Lynyan
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:631
 msgid "Boss, I ain’t feelin’ too hot..."
-msgstr ""
+msgstr "Šéfe, necítím se moc dobře..."
 
 #. [message]: speaker=Lynyan
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:636
 msgid "I ain’t feelin’ too hot..."
-msgstr ""
+msgstr "Necítím se moc dobře..."
 
 #. [message]: speaker=Barin
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:647
 msgid "I shoulda never left my swamp..."
-msgstr ""
+msgstr "Nikdy jsem neměl opustit svůj močál..."
 
 #. [message]: speaker=Kaylan
 #. since he reappears in HttT's blackwater port, he can't die here.
@@ -237,6 +237,8 @@ msgid ""
 "I am grievously injured; I can be of no further aid in your quest. Fight on "
 "without me, Delfador!"
 msgstr ""
+"Jsem těžce zraněný, nemohu vám s vaším úkolem dál pomáhat. Bojuj beze mě, "
+"Delfadore!"
 
 #. [resistance]: id=garak_steadfast
 #. [resistance]: id=steadfast
@@ -6871,6 +6873,8 @@ msgid ""
 "This unit has an attack that can only be used against units in watery "
 "terrain."
 msgstr ""
+"Tato jednotka má útok, který lze použít pouze proti jednotkám ve vodnatém "
+"terénu."
 
 #. [damage]: id=charge
 #: data/core/macros/weapon_specials.cfg:142
@@ -8921,9 +8925,9 @@ msgstr "Zvláštnosti"
 #: src/help/help_topic_generators.cpp:715
 msgid "uses $num attack"
 msgid_plural "uses $num attacks"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "používá $num útok"
+msgstr[1] "používá $num útoky"
+msgstr[2] "používá $num útoků"
 
 #: src/help/help_topic_generators.cpp:795
 msgid "Resistances"
