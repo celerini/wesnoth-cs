@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 22:31 UTC\n"
-"PO-Revision-Date: 2025-03-07 20:11+0100\n"
+"PO-Revision-Date: 2025-06-06 23:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -156,22 +156,22 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:23
 msgid "Complete the hidden victory condition in ‘<i>Fort Garard</i>'"
-msgstr ""
+msgstr "V „<i>Pevnosti Garard</i>“ splň skrytou podmínku vítězství."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:23
 msgid "Scenario 2: Bloodthirsty"
-msgstr ""
+msgstr "Scénář 2: Krvežíznivý"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
 msgid "Complete ‘<i>The Ambassador</i>’ without any of your units dying."
-msgstr ""
+msgstr "Dokonči „<i>Velvyslance</i>“ bez ztráty jediné jednotky."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
 msgid "Scenario 3: Mellon"
-msgstr ""
+msgstr "Scénář 3: Mellon"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:25
@@ -257,12 +257,12 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:36
 msgid "Destroy all villages in ‘<i>The Traitor</i>’."
-msgstr ""
+msgstr "Ve „<i>Zrádci</i>“ znič všechny vesnice."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:36
 msgid "Scenario 12: Scorched Earth"
-msgstr ""
+msgstr "Scénář 12: Spálená země"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:37
@@ -1259,7 +1259,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:76
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:90
 msgid "Fort Garard"
-msgstr ""
+msgstr "Pevnost Garard"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:33
@@ -1646,7 +1646,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:4
 msgid "The Ambassador"
-msgstr ""
+msgstr "Velvyslanec"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:33
@@ -6012,7 +6012,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:11
 msgid "The Traitor"
-msgstr ""
+msgstr "Zrádce"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:29
