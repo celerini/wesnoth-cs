@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 22:31 UTC\n"
-"PO-Revision-Date: 2025-06-10 22:50+0200\n"
+"PO-Revision-Date: 2025-06-11 22:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -146,12 +146,12 @@ msgstr "Scénář 0: Filuta"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:22
 msgid "Complete ‘<i>Stirrings of War</i>’ without killing any goblin spearmen."
-msgstr ""
+msgstr "Dokonči „<i>Plameny války</i>“ bez zabití jediného gobliního kopiníka."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:22
 msgid "Scenario 1: Goblinitarian"
-msgstr ""
+msgstr "Scénář 1: Gobliní"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:23
@@ -906,7 +906,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:8
 msgid "Stirrings of War"
-msgstr ""
+msgstr "Plameny války"
 
 #. [part]
 #. newlines at the beginning help to (depending on the screne size) center this vertically. The space at the end stops the last letter from getting cut off
