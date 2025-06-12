@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 22:31 UTC\n"
-"PO-Revision-Date: 2025-06-11 22:39+0200\n"
+"PO-Revision-Date: 2025-06-12 22:42+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -176,12 +176,12 @@ msgstr "Scénář 3: Mellon"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:25
 msgid "Drown the silverback in ‘<i>The Sylvan Seer</i>’."
-msgstr ""
+msgstr "V „<i>Sylvánské vidoucí</i>“ utop stříbrohřbetého."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:25
 msgid "Scenario 4: Gurgle gurgle"
-msgstr ""
+msgstr "Scénář 4: Glo glo glo glo"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:26
@@ -1887,7 +1887,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:42
 msgid "The Sylvan Seer"
-msgstr ""
+msgstr "Sylvánská vidoucí"
 
 #. [time]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:46
