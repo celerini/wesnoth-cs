@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 22:31 UTC\n"
-"PO-Revision-Date: 2025-06-13 23:41+0200\n"
+"PO-Revision-Date: 2025-06-14 23:27+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -206,12 +206,12 @@ msgstr "Scénář 6: Královská výsada"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:28
 msgid "Complete ‘<i>The Great River</i>’ in 20 turns or less."
-msgstr ""
+msgstr "Dokonči „<i>Velkou řeku</i>“ za 20 nebo méně kol."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:28
 msgid "Scenario 7: On the Clock"
-msgstr ""
+msgstr "Scénář 7: Na čas"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:29
@@ -3206,7 +3206,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:16
 msgid "The Great River"
-msgstr ""
+msgstr "Velká řeka"
 
 #. [part]
 #. newlines at the beginning help to (depending on the screne size) center this vertically. The space at the end stops the last letter from getting cut off
