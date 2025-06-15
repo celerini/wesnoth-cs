@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-05-20 22:31 UTC\n"
-"PO-Revision-Date: 2025-06-14 23:27+0200\n"
+"PO-Revision-Date: 2025-06-15 23:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -218,11 +218,12 @@ msgstr "Scénář 7: Na čas"
 msgid ""
 "Complete ‘<i>Ruins of Saurgrath</i>’ on the same turn you’re first spotted."
 msgstr ""
+"Dokonči „<i>Trosky Saurgratu</i>“ ve stejném kole, kdy budeš poprvé spatřen."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:29
 msgid "Scenario 8: Monster in the Mist"
-msgstr ""
+msgstr "Scénář 8: Jožin z bažin"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:30
@@ -3685,7 +3686,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:40
 msgid "Ruins of Saurgrath"
-msgstr ""
+msgstr "Trosky Saurgratu"
 
 #. [trait]: id=aged2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:83
