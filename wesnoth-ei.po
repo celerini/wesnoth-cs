@@ -5791,7 +5791,7 @@ msgstr "Goblini"
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:261
 msgid "Injured Yeti"
-msgstr "Zraněný Yeti"
+msgstr "Zraněný yetti"
 
 #. [message]: speaker=unit
 #. a significant hint, exploring would take a long time with no reward
