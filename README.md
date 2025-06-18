@@ -12,13 +12,13 @@ wesnoth-help | 771 | 99% | 2 |
 wesnoth-httt | 1227 | 99% | 2 |
 wesnoth-sotbe | 644 | 99% | 1 |
 wesnoth-tdg | 1246 | 2% | 1212 |
-wesnoth-tsg | 866 | 21% | 678 | Michal
+wesnoth-tsg | 866 | 21% | 677 |
 wesnoth-units | 878 | 99% | 2 | Michal
 wesnoth-utbs | 2020 | 99% | 2 |
 wesnoth | 1450 | 99% | 2 | Michal
 
-Total messages remaining: **1901**
+Total messages remaining: **1900**
 
-I see no progress.
+The translation speed is lower than one message per day.
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
