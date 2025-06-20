@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-15 22:18-0500\n"
-"PO-Revision-Date: 2025-06-19 22:34+0200\n"
+"PO-Revision-Date: 2025-06-20 22:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6529,7 +6529,7 @@ msgstr "Umlčí všechny pozorovatele. (přepínač)"
 
 #: src/chat_command_handler.hpp:92
 msgid "Measure roundtrip packet time between client and server."
-msgstr ""
+msgstr "Změří dobu odezvy mezi klientem a serverem."
 
 #: src/chat_command_handler.hpp:94
 msgid ""
@@ -9519,16 +9519,3 @@ msgstr "Skryj plány pro hráče $player"
 #: src/whiteboard/manager.cpp:1140
 msgid "Whiteboard Options"
 msgstr "Nastavení plánovacího módu"
-
-#~ msgid ""
-#~ "Send some data to the server. Can be used to verify the network "
-#~ "connection and notice disconnects."
-#~ msgstr ""
-#~ "Pošle na server nějaká data. Lze použít pro ověření síťového připojení "
-#~ "a k pozorování rozpojení."
-
-#~ msgid "name"
-#~ msgstr "název"
-
-#~ msgid "description"
-#~ msgstr "popis"
