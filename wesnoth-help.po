@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-15 22:18-0500\n"
-"PO-Revision-Date: 2025-06-05 23:54+0200\n"
+"PO-Revision-Date: 2025-06-22 10:30+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5618,12 +5618,12 @@ msgstr ""
 #. [chance_to_hit]: id=diversion
 #: data/core/macros/abilities.cfg:149
 msgid "<span color='#DD6F6F'>accuracy: -20%</span>"
-msgstr ""
+msgstr "<span color='#DD6F6F'>přesnost: -20 %</span>"
 
 #. [chance_to_hit]: id=diversion
 #: data/core/macros/abilities.cfg:150
 msgid "Due to the diversion, the accuracy of this attack is reduced by 20%."
-msgstr ""
+msgstr "Přesnost tohoto útoku je díky rozptýlení snížena o 20 %."
 
 #. [leadership]: id=leadership
 #: data/core/macros/abilities.cfg:202
