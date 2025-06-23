@@ -9340,9 +9340,3 @@ msgstr ""
 "Unikl s Konrádem do Aethenského lesa jihozápadně od hranic Wesnothu, kde ho "
 "vychovával pod ochranu elfů. Přitom však musel smutně přihlížet, jak začala "
 "Ašvířina strašná vláda strachu..."
-
-#~ msgid "Water Serpent"
-#~ msgstr "Mořský had"
-
-#~ msgid "Cuttle Fish"
-#~ msgstr "Sépie"
