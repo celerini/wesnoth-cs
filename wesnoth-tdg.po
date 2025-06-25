@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-06-15 23:44+0200\n"
+"PO-Revision-Date: 2025-06-25 21:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -228,12 +228,12 @@ msgstr "Scénář 8: Jožin z bažin"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:30
 msgid "Complete ‘<i>Omaranth</i>’ before turns run out."
-msgstr ""
+msgstr "Dokonči „<i>Omaranta</i>“, než vyprší počet kol."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:30
 msgid "Scenario 9: Sapper"
-msgstr ""
+msgstr "Scénář 9: Sapér"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:33
@@ -280,7 +280,8 @@ msgstr ""
 msgid ""
 "Complete the first phase of ‘<i>Long Live the Queen</i>’ without moving "
 "Delfador."
-msgstr "Dokonči první fázi „<i>Ať žije královna</i>“ aniž pohneš s Delfadorem."
+msgstr ""
+"Dokonči první fázi „<i>Ať žije královna</i>“, aniž pohneš s Delfadorem."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:38
@@ -4244,7 +4245,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:302
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:389
 msgid "Omaranth"
-msgstr ""
+msgstr "Omarant"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:41
