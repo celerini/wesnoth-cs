@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-06-25 21:10+0200\n"
+"PO-Revision-Date: 2025-06-26 20:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -238,12 +238,12 @@ msgstr "Scénář 9: Sapér"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:33
 msgid "Command four ghosts at once in ‘<i>Houses of the Dead</i>’."
-msgstr ""
+msgstr "V „<i>Domech mrtvých</i>“ vel čtyřem duchům naráz."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:33
 msgid "Scenario 10: Army of the Dead"
-msgstr ""
+msgstr "Scénář 10: Armáda mrtvých"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:35
@@ -4629,7 +4629,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:4
 msgid "Houses of the Dead"
-msgstr ""
+msgstr "Domy mrtvých"
 
 #. [message]
 #. notice that appears at the beginning of the scenario if you select Brutal difficulty
