@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-06-26 20:58+0200\n"
+"PO-Revision-Date: 2025-07-06 22:42+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -248,12 +248,12 @@ msgstr "Scénář 10: Armáda mrtvých"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:35
 msgid "Complete ‘<i>Clan Blackcrest</i>’ in 10 turns or less."
-msgstr ""
+msgstr "Dokonči „<i>Klan Černého hřebenu</i>“ za 10 nebo méně kol."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:35
 msgid "Scenario 11: Combined Arms"
-msgstr ""
+msgstr "Scénář 11: Spojené síly"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:36
@@ -3284,7 +3284,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:121
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:126
 msgid "Clan Blackcrest"
-msgstr ""
+msgstr "Klan Černého hřebenu"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:110
