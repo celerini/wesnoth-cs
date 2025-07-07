@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-07-06 22:42+0200\n"
+"PO-Revision-Date: 2025-07-07 23:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -268,12 +268,12 @@ msgstr "Scénář 12: Spálená země"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:37
 msgid "Defeat all enemy leaders in ‘<i>Revelry, Revisited</i>’."
-msgstr ""
+msgstr "V „<i>Oslavě, znovu</i>“ poraz všechny nepřátelské vůdce."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:37
 msgid "Scenario 13: Stand Fast"
-msgstr ""
+msgstr "Scénář 13: Stůj pevně"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:38
@@ -6263,7 +6263,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:23
 msgid "Revelry, Revisited"
-msgstr ""
+msgstr "Oslava, znovu"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:41
