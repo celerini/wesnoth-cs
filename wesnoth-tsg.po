@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-06-18 22:56+0200\n"
+"PO-Revision-Date: 2025-07-09 23:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -62,7 +62,7 @@ msgstr ""
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:53
 msgid "1x enemies, 70% XP"
-msgstr ""
+msgstr "1x nepřátelé, 70 % zkušeností"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:53
@@ -72,7 +72,7 @@ msgstr "Lehká"
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:54
 msgid "2x enemies, 90% XP"
-msgstr ""
+msgstr "2x nepřátelé, 90 % zkušeností"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:54
@@ -82,12 +82,12 @@ msgstr "Normální"
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:55
 msgid "4x enemies, 100% XP"
-msgstr ""
+msgstr "4x nepřátelé, 100 % zkušeností"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:55
 msgid "Hard"
-msgstr ""
+msgstr "Těžká"
 
 #. [about]
 #: data/campaigns/The_South_Guard/_main.cfg:62
