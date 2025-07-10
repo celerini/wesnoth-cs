@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-07-09 23:50+0200\n"
+"PO-Revision-Date: 2025-07-10 21:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -58,6 +58,8 @@ msgid ""
 "Story continued in:\n"
 "“The Deceiver’s Gambit”"
 msgstr ""
+"Příběh pokračuje v tažení:\n"
+"„Podvodníkův gambit“"
 
 #. [campaign]: id=The_South_Guard
 #: data/campaigns/The_South_Guard/_main.cfg:53
