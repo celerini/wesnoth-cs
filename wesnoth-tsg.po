@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-07-11 23:38+0200\n"
+"PO-Revision-Date: 2025-07-12 23:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -129,12 +129,12 @@ msgstr "Scénář 1: Postrach lupičů"
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:20
 msgid "Defeat Urza Fastik in <i>Proven by the Sword</i>."
-msgstr ""
+msgstr "V <i>Prověřeném mečem</i> poraz Urzu Fastika."
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:20
 msgid "Scenario 2: Trapper Trapper"
-msgstr ""
+msgstr "Scénář 2: Lovec lovců"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:21
