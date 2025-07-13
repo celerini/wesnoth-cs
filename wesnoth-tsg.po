@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-07-12 23:16+0200\n"
+"PO-Revision-Date: 2025-07-13 22:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -139,12 +139,12 @@ msgstr "Scénář 2: Lovec lovců"
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:21
 msgid "Personally defeat Urza Nalmath in <i>Vale of Tears</i>."
-msgstr ""
+msgstr "V <i>Údolí slz</i> osobně poraz Urzu Nalmata."
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:21
 msgid "Scenario 3: Thief Slayer"
-msgstr ""
+msgstr "Scénář 3: Zabiják zlodějů"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:22
