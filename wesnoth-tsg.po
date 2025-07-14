@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-07-13 22:09+0200\n"
+"PO-Revision-Date: 2025-07-14 22:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -149,12 +149,12 @@ msgstr "Scénář 3: Zabiják zlodějů"
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:22
 msgid "Defeat all enemy units in <i>Choice in the Fog</i>."
-msgstr ""
+msgstr "Ve <i>Volbě v mlze</i> poraz všechny nepřátelské jednotky."
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:22
 msgid "Scenario 4: Scorched Earth"
-msgstr ""
+msgstr "Scénář 4: Spálená země"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:23
