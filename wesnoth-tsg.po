@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-07-14 22:09+0200\n"
+"PO-Revision-Date: 2025-07-15 22:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -159,12 +159,12 @@ msgstr "Scénář 4: Spálená země"
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:23
 msgid "Complete <i>The Long March</i> in 10 turns or less."
-msgstr ""
+msgstr "Dokonči <i>Dlouhý pochod</i> za 10 nebo méně kol."
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:23
 msgid "Scenario 5a: A Short March"
-msgstr ""
+msgstr "Scénář 5a: Krátký pochod"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:24
