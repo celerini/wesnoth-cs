@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-07-15 22:33+0200\n"
+"PO-Revision-Date: 2025-07-16 22:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -169,12 +169,12 @@ msgstr "Scénář 5a: Krátký pochod"
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:24
 msgid "Defeat any enemy leader in <i>Pebbles in the Flood</i>."
-msgstr ""
+msgstr "V <i>Oblázcích v přívalu</i> poraz každého nepřátelského vůdce."
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:24
 msgid "Scenario 5b: Probably Improbable"
-msgstr ""
+msgstr "Scénář 5b: Pravděpodobně nepravděpodobné"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:25
