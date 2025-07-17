@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-07-16 22:52+0200\n"
+"PO-Revision-Date: 2025-07-17 21:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -179,12 +179,12 @@ msgstr "Scénář 5b: Pravděpodobně nepravděpodobné"
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:25
 msgid "Complete the campaign after playing <i>Into the Depths</i>."
-msgstr ""
+msgstr "Dokonči tažení po dohrání <i>Do hlubin</i>."
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:25
 msgid "Scenario 5c: Rocks Fall, Everyone Dies"
-msgstr ""
+msgstr "Scénář 5c: Padají kameny, všichni umírají"
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:26
