@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-07-18 23:22+0200\n"
+"PO-Revision-Date: 2025-07-19 23:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -199,12 +199,12 @@ msgstr "Scénář 6a: Jejda..."
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:27
 msgid "Complete <i>The Tides of War</i> before receiving reinforcements."
-msgstr ""
+msgstr "Dokonči <i>Války čas</i> předtím, než dorazí posily."
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:27
 msgid "Scenario 6b: Man Stands Alone"
-msgstr ""
+msgstr "Scénář 6b: Sám voják v poli"
 
 #. [lua]: display_tip
 #: data/campaigns/The_South_Guard/lua/popups.lua:52
