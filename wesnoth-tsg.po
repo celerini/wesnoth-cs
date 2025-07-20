@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-07-19 23:44+0200\n"
+"PO-Revision-Date: 2025-07-20 16:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -119,7 +119,7 @@ msgstr "Jižní hlídka"
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:19
 msgid "Defeat Urza Mathin in <i>Born to the Banner</i>."
-msgstr "V <i>Rozeném veliteli</i> poraz Urzu Mathina."
+msgstr "V <i>Rozeném veliteli</i> poraz Urzu Matina."
 
 #. [achievement_group]
 #: data/campaigns/The_South_Guard/achievements.cfg:19
@@ -247,7 +247,7 @@ msgstr "Jižní hlídka"
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:753
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:1210
 msgid "Urza Mathin"
-msgstr "Urza Mathin"
+msgstr "Urza Matin"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:111
@@ -633,7 +633,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:810
 msgid "Defeat Urza Mathin"
-msgstr "Poraz Urzu Mathina"
+msgstr "Poraz Urzu Matina"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:814
@@ -6798,7 +6798,7 @@ msgstr ""
 #~ "use against the bandits that Urza Mathin recruits."
 #~ msgstr ""
 #~ "Když jsi v ležení, můžeš verbovat další jednotky. Postav vojsko pro boj "
-#~ "s bandity, které najímá Urza Mathin."
+#~ "s bandity, které najímá Urza Matin."
 
 #~ msgid ""
 #~ "Bowmen have a strong ranged attack and are very effective against units "
@@ -6871,7 +6871,7 @@ msgstr ""
 #~ "during the day."
 #~ msgstr ""
 #~ "Všechny tvé jednotky jsou <i>zákonné</i>. Znamená to, že jsou v boji "
-#~ "během dne zvýhodněny a po setmění v nevýhodě. Jednotky Urzy Mathina jsou "
+#~ "během dne zvýhodněny a po setmění v nevýhodě. Jednotky Urzy Matina jsou "
 #~ "všechny <i>chaotické</i>, což znamená přesný opak – bonus v noci, "
 #~ "penalizace ve dne. Tudíž je pro tebe mnohem výhodnější bojovat ve dne."
 
@@ -6888,7 +6888,7 @@ msgstr ""
 #~ "day, the better."
 #~ msgstr ""
 #~ "Během dne způsobují tvé jednotky větší zranění a bandité menší. Čím více "
-#~ "jednotek Urzy Mathina porazíš ve dne, tím lépe."
+#~ "jednotek Urzy Matina porazíš ve dne, tím lépe."
 
 #~ msgid "Aleron"
 #~ msgstr "Aleron"
@@ -6965,7 +6965,7 @@ msgstr ""
 #~ "target. Archers will be especially effective against him because he has "
 #~ "no ranged attack."
 #~ msgstr ""
-#~ "Pamatuj, tvým úkolem je porazit Urzu Mathina. Ten by měl být tvým hlavním "
+#~ "Pamatuj, tvým úkolem je porazit Urzu Matina. Ten by měl být tvým hlavním "
 #~ "cílem. Proti němu budou obvzlášť účinní lučištníci, protože on nemá útok "
 #~ "na dálku."
 
@@ -6983,7 +6983,7 @@ msgstr ""
 #~ "that the King sent only you to help us. Did Sir Loris not send word of "
 #~ "our plight?"
 #~ msgstr ""
-#~ "Urza Mathin je mrtvý! Veliteli, blahopřeji, i když mě překvapuje, že král "
+#~ "Urza Matin je mrtvý! Veliteli, blahopřeji, i když mě překvapuje, že král "
 #~ "nám vyslal na pomoc jen tebe. Poslal sir Loris zprávu o naší vážné "
 #~ "situaci?"
 
@@ -7068,7 +7068,7 @@ msgstr ""
 #~ "my brother Mathin is dead. Those fiends! They will pay for his death!"
 #~ msgstr ""
 #~ "Cože?! Tihle vojáci přišli ze severních pevností..., to může znamenat "
-#~ "jediné, že můj bratr Mathin je mrtev. Ty zrůdy! Za jeho smrt zaplatí!"
+#~ "jediné, že můj bratr Matin je mrtev. Ty zrůdy! Za jeho smrt zaplatí!"
 
 #~ msgid "I have reached the citadel!"
 #~ msgstr "Dostal jsem se do citadely!"
@@ -9570,7 +9570,7 @@ msgstr ""
 #~ "land, terrorizing the peasants and villagers. Nowhere did they find "
 #~ "soldiers of the South Guard."
 #~ msgstr ""
-#~ "Po porážce Urzy Mathina vyslal Deoran ihned po celé krajině zvědy. Jeho "
+#~ "Po porážce Urzy Matina vyslal Deoran ihned po celé krajině zvědy. Jeho "
 #~ "muži hlásili, že se bandité volně potulují zemí a zastrašují sedláky "
 #~ "a vesničany. Vojáky Jižní hlídky nikde nenašli."
 
