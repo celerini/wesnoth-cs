@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-06-16 03:18 UTC\n"
-"PO-Revision-Date: 2025-07-20 16:23+0200\n"
+"PO-Revision-Date: 2025-07-21 23:40+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -209,7 +209,7 @@ msgstr "Scénář 6b: Sám voják v poli"
 #. [lua]: display_tip
 #: data/campaigns/The_South_Guard/lua/popups.lua:52
 msgid "Tip: "
-msgstr ""
+msgstr "Tip: "
 
 #. [lua]: display_tip
 #: data/campaigns/The_South_Guard/lua/popups.lua:80
@@ -219,7 +219,7 @@ msgstr "Rozumím"
 #. [lua]: display_tip
 #: data/campaigns/The_South_Guard/lua/popups.lua:85
 msgid "Disable Tip Popups &amp; Dialogue"
-msgstr ""
+msgstr "Zakázat vyskakovací a dialogová okna s tipy"
 
 #. [scenario]: id=01_Born_to_the_Banner
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:11
