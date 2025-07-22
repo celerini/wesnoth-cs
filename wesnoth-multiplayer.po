@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2025-04-28 03:22 UTC\n"
+"POT-Creation-Date: 2025-07-21 03:54 UTC\n"
 "PO-Revision-Date: 2025-07-08 22:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -2752,6 +2752,36 @@ msgstr ""
 "Sílící zvuky bitvy se opět rozléhají po tomto časem opotřebeném bojišti, kde "
 "duchové tisíců hrdinných válečníků neviditelně proplouvají horami, stromy a "
 "řekami."
+
+#. [multiplayer]: id=multiplayer_Double_Siege
+#: data/multiplayer/scenarios/6p_Double_Siege.cfg:7
+msgid "6p — Double Siege"
+msgstr ""
+
+#. [multiplayer]: id=multiplayer_Double_Siege
+#: data/multiplayer/scenarios/6p_Double_Siege.cfg:8
+msgid ""
+"Two armies attacked a single city, both emerged victorious. Now, only one "
+"can claim the victory."
+msgstr ""
+
+#. [side]
+#: data/multiplayer/scenarios/6p_Double_Siege.cfg:25
+#: data/multiplayer/scenarios/6p_Double_Siege.cfg:61
+#: data/multiplayer/scenarios/6p_Double_Siege.cfg:73
+#, fuzzy
+#| msgid "teamname^North"
+msgid "teamname^Top"
+msgstr "Seveřané"
+
+#. [side]
+#: data/multiplayer/scenarios/6p_Double_Siege.cfg:37
+#: data/multiplayer/scenarios/6p_Double_Siege.cfg:49
+#: data/multiplayer/scenarios/6p_Double_Siege.cfg:85
+#, fuzzy
+#| msgid "teamname^North"
+msgid "teamname^Bottom"
+msgstr "Seveřané"
 
 #. [multiplayer]: id=multiplayer_Hexcake
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:5

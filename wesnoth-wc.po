@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2025-04-28 03:22 UTC\n"
+"POT-Creation-Date: 2025-07-21 03:54 UTC\n"
 "PO-Revision-Date: 2025-07-08 22:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -299,7 +299,6 @@ msgstr "Získat tuto položku"
 #. [button]: id=ok
 #: data/campaigns/World_Conquest/gui/invest_dialog.cfg:327
 #: data/campaigns/World_Conquest/gui/invest_tellunit.cfg:58
-#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:236
 msgid "OK"
 msgstr "OK"
 
@@ -324,59 +323,82 @@ msgid "No"
 msgstr "Ne"
 
 #. [label]: id=title
-#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:29
-msgid "Map Settings"
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:48
+#, fuzzy
+#| msgid "Map Settings"
+msgid "Map Generator Settings"
 msgstr "Nastavení mapy"
 
-#. [label]
-#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:50
-msgid " players: "
+#. [grid]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:57
+#, fuzzy
+#| msgid " players: "
+msgid "Players:"
 msgstr " hráčů: "
 
-#. [label]
-#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:64
-msgid " scenario: "
-msgstr " scénář: "
+#. [grid]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:58
+#, fuzzy
+#| msgid "Scenario "
+msgid "Scenario:"
+msgstr "Scénář "
 
-#. [label]
-#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:85
-msgid " map: "
-msgstr " mapa: "
+#. [grid]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:59
+msgid "Map:"
+msgstr ""
 
-#. [label]
-#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:112
-msgid "map size"
-msgstr "velikost mapy"
+#. [grid]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:60
+msgid "Map Size:"
+msgstr ""
 
-#. [label]
-#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:128
-msgid "village density"
+#. [grid]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:61
+#, fuzzy
+#| msgid "village density"
+msgid "Village Density:"
 msgstr "hustota vesnic"
 
-#. [label]
-#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:144
-msgid "keep size"
+#. [grid]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:62
+#, fuzzy
+#| msgid "keep size"
+msgid "Keep Size:"
 msgstr "velikost tvrze"
 
-#. [label]
-#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:160
-msgid "iterations"
+#. [grid]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:63
+#, fuzzy
+#| msgid "iterations"
+msgid "Iterations:"
 msgstr "opakování"
 
-#. [label]
-#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:176
-msgid "terrain factor"
+#. [grid]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:64
+#, fuzzy
+#| msgid "terrain factor"
+msgid "Terrain Factor:"
 msgstr "činitel pro terén"
 
-#. [label]
-#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:192
-msgid "island factor"
+#. [grid]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:65
+#, fuzzy
+#| msgid "island factor"
+msgid "Island Factor:"
 msgstr "činitel pro ostrovy"
 
-#. [label]
-#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:208
-msgid "number of keeps"
+#. [grid]
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:66
+#, fuzzy
+#| msgid "number of keeps"
+msgid "Number of Keeps:"
 msgstr "počet tvrzí"
+
+#. [button]: id=ok
+#: data/campaigns/World_Conquest/gui/settings_dialog.cfg:76
+msgid "Close"
+msgstr ""
 
 #: data/campaigns/World_Conquest/lua/campaign/enemy_themed.lua:5
 msgid "$name|’s pet"
@@ -4104,3 +4126,12 @@ msgstr "Testování"
 #: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:177
 msgid "Campaign Maintenance"
 msgstr "Údržba kampaně"
+
+#~ msgid " scenario: "
+#~ msgstr " scénář: "
+
+#~ msgid " map: "
+#~ msgstr " mapa: "
+
+#~ msgid "map size"
+#~ msgstr "velikost mapy"
