@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-07-08 22:10+0200\n"
+"PO-Revision-Date: 2025-07-23 21:45+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2769,19 +2769,15 @@ msgstr ""
 #: data/multiplayer/scenarios/6p_Double_Siege.cfg:25
 #: data/multiplayer/scenarios/6p_Double_Siege.cfg:61
 #: data/multiplayer/scenarios/6p_Double_Siege.cfg:73
-#, fuzzy
-#| msgid "teamname^North"
 msgid "teamname^Top"
-msgstr "Seveřané"
+msgstr "Horní"
 
 #. [side]
 #: data/multiplayer/scenarios/6p_Double_Siege.cfg:37
 #: data/multiplayer/scenarios/6p_Double_Siege.cfg:49
 #: data/multiplayer/scenarios/6p_Double_Siege.cfg:85
-#, fuzzy
-#| msgid "teamname^North"
 msgid "teamname^Bottom"
-msgstr "Seveřané"
+msgstr "Dolní"
 
 #. [multiplayer]: id=multiplayer_Hexcake
 #: data/multiplayer/scenarios/6p_Hexcake.cfg:5
