@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-20 22:54-0500\n"
-"PO-Revision-Date: 2025-06-22 10:30+0200\n"
+"PO-Revision-Date: 2025-07-23 21:34+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8885,9 +8885,6 @@ msgstr "Cena rušení"
 
 #~ msgid "Iliah-Malal"
 #~ msgstr "Iliah-Malal"
-
-#~ msgid "Garard II"
-#~ msgstr "Garard II."
 
 #~ msgid "No, it can’t end yet! I have so much left to do..."
 #~ msgstr "Ne, ještě to nemůže skončit! Ještě toho musím tolik udělat..."

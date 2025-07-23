@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-07-07 23:54+0200\n"
+"PO-Revision-Date: 2025-07-23 21:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8470,10 +8470,8 @@ msgid "Iliah-Malal"
 msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:210
-#, fuzzy
-#| msgid "Fort Garard"
 msgid "Garard II"
-msgstr "Pevnost Garard"
+msgstr "Garard II."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:515
