@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-07-08 22:10+0200\n"
+"PO-Revision-Date: 2025-07-23 21:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -324,24 +324,18 @@ msgstr "Ne"
 
 #. [label]: id=title
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:48
-#, fuzzy
-#| msgid "Map Settings"
 msgid "Map Generator Settings"
-msgstr "Nastavení mapy"
+msgstr "Nastavení generátoru map"
 
 #. [grid]
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:57
-#, fuzzy
-#| msgid " players: "
 msgid "Players:"
-msgstr " hráčů: "
+msgstr "Hráčů:"
 
 #. [grid]
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:58
-#, fuzzy
-#| msgid "Scenario "
 msgid "Scenario:"
-msgstr "Scénář "
+msgstr "Scénář:"
 
 #. [grid]
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:59
@@ -355,45 +349,33 @@ msgstr ""
 
 #. [grid]
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:61
-#, fuzzy
-#| msgid "village density"
 msgid "Village Density:"
-msgstr "hustota vesnic"
+msgstr "Hustota vesnic:"
 
 #. [grid]
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:62
-#, fuzzy
-#| msgid "keep size"
 msgid "Keep Size:"
-msgstr "velikost tvrze"
+msgstr "Velikost tvrze:"
 
 #. [grid]
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:63
-#, fuzzy
-#| msgid "iterations"
 msgid "Iterations:"
-msgstr "opakování"
+msgstr "Opakování:"
 
 #. [grid]
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:64
-#, fuzzy
-#| msgid "terrain factor"
 msgid "Terrain Factor:"
-msgstr "činitel pro terén"
+msgstr "Činitel pro terén:"
 
 #. [grid]
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:65
-#, fuzzy
-#| msgid "island factor"
 msgid "Island Factor:"
-msgstr "činitel pro ostrovy"
+msgstr "Činitel pro ostrovy:"
 
 #. [grid]
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:66
-#, fuzzy
-#| msgid "number of keeps"
 msgid "Number of Keeps:"
-msgstr "počet tvrzí"
+msgstr "Počet tvrzí:"
 
 #. [button]: id=ok
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:76
