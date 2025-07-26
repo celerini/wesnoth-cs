@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-20 22:54-0500\n"
-"PO-Revision-Date: 2025-06-20 22:39+0200\n"
+"PO-Revision-Date: 2025-07-26 21:24+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -260,12 +260,12 @@ msgstr ""
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:192
 msgid "Show missed attack indicator"
-msgstr ""
+msgstr "Zobrazit minutí cíle při útoku"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:193
 msgid "Display a visual indicator above a defender when an attack misses."
-msgstr ""
+msgstr "Ukázat nad obráncem zmínku, když ho útok mine."
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
@@ -5816,10 +5816,8 @@ msgid "An invalid attacker weapon got selected."
 msgstr "Byla vybrána neplatná zbraň útočníka."
 
 #: src/actions/attack.cpp:1086
-#, fuzzy
-#| msgid "Attacks: "
 msgid "attack^miss"
-msgstr "Útoky: "
+msgstr "vedle"
 
 #: src/actions/create.cpp:340
 msgid "You do not have a leader to recall with."
@@ -6938,7 +6936,7 @@ msgstr "Vlastní mapa."
 
 #: src/game_initialization/create_engine.cpp:411
 msgid "multiplayer^MP"
-msgstr ""
+msgstr "HVH"
 
 #: src/game_initialization/depcheck.cpp:505
 msgid "Failed to resolve dependencies"
@@ -7539,20 +7537,16 @@ msgid "Accelerated speed disabled!"
 msgstr "Zrychlení vypnuto!"
 
 #: src/hotkey/hotkey_handler.cpp:404
-#, fuzzy
-#| msgid "Back to Turn "
 msgid "Back to Turn $number"
-msgstr "Zpět na kolo "
+msgstr "Zpět na kolo $number"
 
 #: src/hotkey/hotkey_handler.cpp:405
 msgid "Back to Start"
 msgstr "Zpět na začátek"
 
 #: src/hotkey/hotkey_handler.cpp:419
-#, fuzzy
-#| msgid "Replay from Turn "
 msgid "Replay from Turn $number"
-msgstr "Přehrát od kola "
+msgstr "Přehrát od kola $number"
 
 #: src/hotkey/hotkey_handler.cpp:420
 msgid "Replay from Start"
@@ -8546,36 +8540,28 @@ msgid "Do you really want to quit?"
 msgstr "Určitě chceš odejít?"
 
 #: src/reports.cpp:196
-#, fuzzy
-#| msgid "Type: "
 msgid "Type:"
-msgstr "Typ: "
+msgstr "Typ:"
 
 #: src/reports.cpp:199
 msgid "Special Notes:"
 msgstr "Zvláštní poznámky:"
 
 #: src/reports.cpp:223
-#, fuzzy
-#| msgid "Race: "
 msgid "Race:"
-msgstr "Národ: "
+msgstr "Národ:"
 
 #: src/reports.cpp:242
 msgid "Side: <b>$side_name</b> ($color_name)"
 msgstr "Strana: <b>$side_name</b> ($color_name)"
 
 #: src/reports.cpp:320
-#, fuzzy
-#| msgid "Trait: "
 msgid "Trait:"
-msgstr "Vlastnost: "
+msgstr "Vlastnost:"
 
 #: src/reports.cpp:343
-#, fuzzy
-#| msgid "invisible: "
 msgid "invisible:"
-msgstr "neviditelnost: "
+msgstr "neviditelnost:"
 
 #: src/reports.cpp:344
 msgid "This unit is invisible. It cannot be seen or attacked by enemy units."
@@ -8584,10 +8570,8 @@ msgstr ""
 "zaútočit."
 
 #: src/reports.cpp:347
-#, fuzzy
-#| msgid "slowed: "
 msgid "slowed:"
-msgstr "zpomalení: "
+msgstr "zpomalení:"
 
 #: src/reports.cpp:348
 msgid ""
@@ -8598,10 +8582,8 @@ msgstr ""
 "pohyb ji stojí dvojnásobek bodů pohybu."
 
 #: src/reports.cpp:351
-#, fuzzy
-#| msgid "poisoned: "
 msgid "poisoned:"
-msgstr "otrava: "
+msgstr "otrava:"
 
 #: src/reports.cpp:352
 msgid ""
@@ -8620,20 +8602,16 @@ msgstr ""
 "neklesne pod 1."
 
 #: src/reports.cpp:355
-#, fuzzy
-#| msgid "petrified: "
 msgid "petrified:"
-msgstr "zkamenění: "
+msgstr "zkamenění:"
 
 #: src/reports.cpp:356
 msgid "This unit has been petrified. It may not move or attack."
 msgstr "Tato jednotka byla proměněna v kámen. Nemůže se ani hýbat, ani útočit."
 
 #: src/reports.cpp:359
-#, fuzzy
-#| msgid "unhealable: "
 msgid "unhealable:"
-msgstr "neléčitelnost: "
+msgstr "neléčitelnost:"
 
 #: src/reports.cpp:360
 msgid ""
@@ -8644,52 +8622,40 @@ msgstr ""
 "a z odpočinku nemá žádný prospěch."
 
 #: src/reports.cpp:363
-#, fuzzy
-#| msgid "invulnerable: "
 msgid "invulnerable:"
-msgstr "nezranitelnost: "
+msgstr "nezranitelnost:"
 
 #: src/reports.cpp:364
 msgid "This unit is invulnerable. It cannot be harmed by any attack."
 msgstr "Tato jednotka je nezranitelná. Žádný útok jí nemůže ublížit."
 
 #: src/reports.cpp:394 src/reports.cpp:975
-#, fuzzy
-#| msgid "Alignment: "
 msgid "Alignment:"
-msgstr "Příslušnost: "
+msgstr "Příslušnost:"
 
 #: src/reports.cpp:441
-#, fuzzy
-#| msgid "Ability: "
 msgid "Ability:"
-msgstr "Schopnost: "
+msgstr "Schopnost:"
 
 #: src/reports.cpp:443 src/reports.cpp:1010 src/reports.cpp:1050
 msgid " (inactive)"
 msgstr " (neaktivní)"
 
 #: src/reports.cpp:507
-#, fuzzy
-#| msgid "Resistances: "
 msgid "Resistances:"
-msgstr "Odolnosti: "
+msgstr "Odolnosti:"
 
 #: src/reports.cpp:509
 msgid "(Att / Def)"
 msgstr "(Út / Obr)"
 
 #: src/reports.cpp:538
-#, fuzzy
-#| msgid "Experience Modifier: "
 msgid "Experience Modifier:"
-msgstr "Modifikátor zkušeností: "
+msgstr "Modifikátor zkušeností:"
 
 #: src/reports.cpp:588
-#, fuzzy
-#| msgid "Terrain: "
 msgid "Terrain:"
-msgstr "Terén: "
+msgstr "Terén:"
 
 #: src/reports.cpp:605
 msgid "maximum^max."
@@ -8700,10 +8666,8 @@ msgid "minimum^min."
 msgstr "min."
 
 #: src/reports.cpp:610
-#, fuzzy
-#| msgid "Defense: "
 msgid "Defense:"
-msgstr "Obrana: "
+msgstr "Obrana:"
 
 #: src/reports.cpp:645 src/reports.cpp:646
 msgid "vision:"
@@ -8718,105 +8682,73 @@ msgid "Movement Costs:"
 msgstr "Pohyb stojí:"
 
 #: src/reports.cpp:821 src/reports.cpp:1142 src/reports.cpp:1154
-#, fuzzy
-#| msgid "Weapon: "
 msgid "Weapon:"
-msgstr "Zbraň: "
+msgstr "Zbraň:"
 
 # !!!! prozkoumat jestli se sem nehodí něco jiného
 #: src/reports.cpp:822 src/reports.cpp:1143
-#, fuzzy
-#| msgid "Damage: "
 msgid "Damage:"
-msgstr "Zranění: "
+msgstr "Zranění:"
 
 #: src/reports.cpp:826
-#, fuzzy
-#| msgid "Base damage: "
 msgid "Base damage:"
-msgstr "Základní zranění: "
+msgstr "Základní zranění:"
 
 #: src/reports.cpp:828 src/reports.cpp:862 src/reports.cpp:872
-#, fuzzy
-#| msgid "With specials: "
 msgid "With specials:"
-msgstr "S vylepšeními: "
+msgstr "S vylepšeními:"
 
 #: src/reports.cpp:831 src/reports.cpp:1367
 msgid "Time of day:"
 msgstr "Denní doba:"
 
 #: src/reports.cpp:835
-#, fuzzy
-#| msgid "Leadership: "
 msgid "Leadership:"
-msgstr "Velení: "
+msgstr "Velení:"
 
 #: src/reports.cpp:839
-#, fuzzy
-#| msgid "Slowed: "
 msgid "Slowed:"
-msgstr "Zpomalený: "
+msgstr "Zpomalený:"
 
 #: src/reports.cpp:843
-#, fuzzy
-#| msgid "Attacks: "
 msgid "Attacks:"
-msgstr "Útoky: "
+msgstr "Útoky:"
 
 #: src/reports.cpp:847
-#, fuzzy
-#| msgid "Max swarm bonus: "
 msgid "Max swarm bonus:"
-msgstr "Bonus za kolo: "
+msgstr "Maximální bonus za hejno:"
 
 #: src/reports.cpp:848 src/reports.cpp:867
-#, fuzzy
-#| msgid "Swarm: "
 msgid "Swarm:"
-msgstr "Hejno: "
+msgstr "Hejno:"
 
 #: src/reports.cpp:849 src/reports.cpp:860 src/reports.cpp:871
-#, fuzzy
-#| msgid "Base attacks: "
 msgid "Base attacks:"
-msgstr "Základní útoky: "
+msgstr "Základní útoky:"
 
 #: src/reports.cpp:855
-#, fuzzy
-#| msgid "Specials: "
 msgid "Specials:"
-msgstr "Zvláštnosti: "
+msgstr "Zvláštnosti:"
 
 #: src/reports.cpp:865
-#, fuzzy
-#| msgid "Subject to swarm: "
 msgid "Subject to swarm:"
-msgstr "Důvod rojení: "
+msgstr "Podléhající hejnu:"
 
 #: src/reports.cpp:905
-#, fuzzy
-#| msgid "Weapon range: "
 msgid "Weapon range:"
-msgstr "Dosah zbraně: "
+msgstr "Dosah zbraně:"
 
 #: src/reports.cpp:906
-#, fuzzy
-#| msgid "Damage type: "
 msgid "Damage type:"
-msgstr "Druh zranění: "
+msgstr "Druh zranění:"
 
 #: src/reports.cpp:907
-#, fuzzy
-#| msgid "Damage versus: "
 msgid "Damage versus:"
-msgstr "Zranění proti: "
+msgstr "Zranění proti:"
 
 #: src/reports.cpp:1008 src/reports.cpp:1048
-#, fuzzy
-#| msgid "Weapon special: "
 msgid "Weapon special:"
-msgstr "Zvláštnosti zbraně: "
+msgstr "Zvláštnosti zbraně:"
 
 #: src/reports.cpp:1125
 msgid "weapon^None"
@@ -8847,28 +8779,20 @@ msgid "Time of day schedule:"
 msgstr "Rozvrh denní doby:"
 
 #: src/reports.cpp:1368 src/reports.cpp:1422
-#, fuzzy
-#| msgid "Lawful units: "
 msgid "Lawful units:"
-msgstr "Zákonné jednotky: "
+msgstr "Zákonné jednotky:"
 
 #: src/reports.cpp:1370 src/reports.cpp:1424
-#, fuzzy
-#| msgid "Neutral units: "
 msgid "Neutral units:"
-msgstr "Neutrální jednotky: "
+msgstr "Neutrální jednotky:"
 
 #: src/reports.cpp:1371 src/reports.cpp:1425
-#, fuzzy
-#| msgid "Chaotic units: "
 msgid "Chaotic units:"
-msgstr "Chaotické jednotky: "
+msgstr "Chaotické jednotky:"
 
 #: src/reports.cpp:1373 src/reports.cpp:1427
-#, fuzzy
-#| msgid "Liminal units: "
 msgid "Liminal units:"
-msgstr "Šeré jednotky: "
+msgstr "Šeré jednotky:"
 
 #: src/reports.cpp:1488
 msgid "Turn Number"
@@ -9479,10 +9403,8 @@ msgid "You do not have enough gold to recruit this unit."
 msgstr "K naverbování této jednotky nemáš dost zlata."
 
 #: src/units/helper.cpp:195
-#, fuzzy
-#| msgid "You have no units available to recruit."
 msgid "The $unit_type is not available to recruit."
-msgstr "Nemáš žádné jednotky k naverbování."
+msgstr "$unit_type se nedá naverbovat."
 
 #: src/units/types.cpp:802 src/units/types.cpp:810
 msgid "female^lawful"
@@ -9625,12 +9547,3 @@ msgstr "Skryj plány pro hráče $player"
 #: src/whiteboard/manager.cpp:1140
 msgid "Whiteboard Options"
 msgstr "Nastavení plánovacího módu"
-
-#~ msgid "Time of day: "
-#~ msgstr "Denní doba: "
-
-#~ msgid "Internal error. Please report this as a bug! Details:\n"
-#~ msgstr "Vnitřní chyba. Prosím nahlas to jako chybu programu! Podrobnosti:\n"
-
-#~ msgid "You cannot recruit a $unit_type_name at this time."
-#~ msgstr "V tuto chvíli nemůžeš verbovat jednotku $unit_type_name."
