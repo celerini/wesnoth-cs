@@ -11,7 +11,7 @@ Domain | Messages | Translated | Remaining | Translator
 wesnoth-help | 745 | 99% | 1 | Michal
 wesnoth-multiplayer | 329 | 99% | 2 | Michal
 wesnoth-tdg | 1267 | 3% | 1220 |
-wesnoth-tsg | 862 | 24% | 653 |
+wesnoth-tsg | 862 | 24% | 653 | Septim
 wesnoth-units | 880 | 99% | 2 | Michal
 wesnoth-utbs | 2020 | 99% | 1 | Michal
 wesnoth-wc | 519 | 99% | 3 | Michal
