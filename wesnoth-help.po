@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-20 22:54-0500\n"
-"PO-Revision-Date: 2025-07-23 21:34+0200\n"
+"PO-Revision-Date: 2025-07-27 19:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5492,7 +5492,7 @@ msgstr ""
 #. [chance_to_hit]: id=diversion
 #: data/core/macros/abilities.cfg:149
 msgid "accuracy:"
-msgstr ""
+msgstr "přesnost:"
 
 #. [chance_to_hit]: id=diversion
 #: data/core/macros/abilities.cfg:150
@@ -8931,9 +8931,6 @@ msgstr "Cena rušení"
 #~ msgstr ""
 #~ "Jsem těžce zraněný, nemohu vám s vaším úkolem dál pomáhat. Bojuj beze mě, "
 #~ "Delfadore!"
-
-#~ msgid "<span color='#DD6F6F'>accuracy: -20%</span>"
-#~ msgstr "<span color='#DD6F6F'>přesnost: -20 %</span>"
 
 #~ msgid ""
 #~ "Raised elevation editor palette icon\n"
