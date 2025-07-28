@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-07-23 21:45+0200\n"
+"PO-Revision-Date: 2025-07-28 23:35+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2756,7 +2756,7 @@ msgstr ""
 #. [multiplayer]: id=multiplayer_Double_Siege
 #: data/multiplayer/scenarios/6p_Double_Siege.cfg:7
 msgid "6p — Double Siege"
-msgstr ""
+msgstr "6hr – Dvojité obléhání"
 
 #. [multiplayer]: id=multiplayer_Double_Siege
 #: data/multiplayer/scenarios/6p_Double_Siege.cfg:8
@@ -2764,6 +2764,8 @@ msgid ""
 "Two armies attacked a single city, both emerged victorious. Now, only one "
 "can claim the victory."
 msgstr ""
+"Dvě vojska zaútočila na jedno město a obě zvítězila. Nyní si vítězství může "
+"připsat jen jedno z nich."
 
 #. [side]
 #: data/multiplayer/scenarios/6p_Double_Siege.cfg:25
