@@ -486,7 +486,7 @@ msgid ""
 "corner of the screen, or press <b>Ctrl+Space</b>."
 msgstr ""
 "Chceš-li ukončit tah, klikni na tlačítko <b>„Ukončit tah“</b> v pravém "
-"dolním rohu obrazovky nebo stiskni <b>Ctrl+Mezerník</b>."
+"dolním rohu obrazovky nebo stiskni <b>Ctrl+mezerník</b>."
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:487
