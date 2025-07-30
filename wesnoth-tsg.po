@@ -307,7 +307,7 @@ msgid ""
 "Yes ma’am. —sir. And as the prince ordered, I’ve brought with me a "
 "contingent of fresh soldiers to reinforce Westin’s faltering South Guard!"
 msgstr ""
-"Ano, paní... ... veliteli. A jak princ nařídil, přivedl jsem s sebou "
+"Ano, paní. ... veliteli. A jak princ nařídil, přivedl jsem s sebou "
 "jednotku čerstvých vojáků k posílení slábnoucí westinské Jižní hlídky!"
 
 #. [message]: speaker=Mari
