@@ -2417,7 +2417,7 @@ msgstr "Gral"
 #. [scenario]: id=04_Choice_in_the_Fog
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:110
 msgid "Grish"
-msgstr "Grish"
+msgstr "Griš"
 
 #. [scenario]: id=04_Choice_in_the_Fog
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:112
