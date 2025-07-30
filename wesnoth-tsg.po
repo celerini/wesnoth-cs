@@ -619,7 +619,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:683
 msgid "Destroy Mari’s quintain"
-msgstr "Znič Marinina panáka"
+msgstr "Znič Marina panáka"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:701
