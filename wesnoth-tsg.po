@@ -292,7 +292,7 @@ msgstr "Nulová údržba"
 #. deoran is fresh out of training, bright-eyed and eager to prove himself
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:151
 msgid "Lieutenant Deoran, reporting for duty SIR! ...err, ma’am."
-msgstr "Poručík Deoran se hlásí do služby, PANE! … ehm, paní."
+msgstr "Poručík Deoran se hlásí do služby, PANE! ... ehm, paní."
 
 #. [message]: speaker=Mari
 #. "academy" refers to some sort of Wesnoth military academy
