@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-07-23 21:54+0200\n"
+"PO-Revision-Date: 2025-07-31 21:59+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -340,12 +340,12 @@ msgstr "Scénář:"
 #. [grid]
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:59
 msgid "Map:"
-msgstr ""
+msgstr "Mapa:"
 
 #. [grid]
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:60
 msgid "Map Size:"
-msgstr ""
+msgstr "Velikost mapy:"
 
 #. [grid]
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:61
@@ -380,7 +380,7 @@ msgstr "Počet tvrzí:"
 #. [button]: id=ok
 #: data/campaigns/World_Conquest/gui/settings_dialog.cfg:76
 msgid "Close"
-msgstr ""
+msgstr "Zavřít"
 
 #: data/campaigns/World_Conquest/lua/campaign/enemy_themed.lua:5
 msgid "$name|’s pet"
@@ -4108,12 +4108,3 @@ msgstr "Testování"
 #: data/campaigns/World_Conquest/scenarios/WC_II_scenario.cfg:177
 msgid "Campaign Maintenance"
 msgstr "Údržba kampaně"
-
-#~ msgid " scenario: "
-#~ msgstr " scénář: "
-
-#~ msgid " map: "
-#~ msgstr " mapa: "
-
-#~ msgid "map size"
-#~ msgstr "velikost mapy"
