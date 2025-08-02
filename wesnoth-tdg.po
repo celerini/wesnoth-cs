@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-07-23 21:33+0200\n"
+"PO-Revision-Date: 2025-08-02 22:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -25,35 +25,35 @@ msgstr "Podvodníkův gambit"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:61
 msgid "1x enemies, 70% XP"
-msgstr ""
+msgstr "1x nepřátelé, 70 % zkušeností"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:61
 msgid "Easy"
-msgstr ""
+msgstr "Lehká"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:62
 msgid "2x enemies, 90% XP"
-msgstr ""
+msgstr "2x nepřátelé, 90 % zkušeností"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:62
 msgid "Normal"
-msgstr ""
+msgstr "Normální"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:63
 msgid "3x enemies, 100% XP"
-msgstr ""
+msgstr "3x nepřátelé, 100 % zkušeností"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:63
 msgid "Hard"
-msgstr ""
+msgstr "Těžká"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:64
 msgid "4x enemies, 100% XP"
-msgstr ""
+msgstr "4x nepřátelé, 100 % zkušeností"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:64
 msgid "Deadly"
-msgstr ""
+msgstr "Smrtící"
 
 #. [about]
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:71
