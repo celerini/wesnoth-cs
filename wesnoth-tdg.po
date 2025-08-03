@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-08-02 22:31+0200\n"
+"PO-Revision-Date: 2025-08-03 22:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -58,24 +58,24 @@ msgstr "Smrtící"
 #. [about]
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:71
 msgid "Campaign Design"
-msgstr ""
+msgstr "Návrh tažení"
 
 #. [about]
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:77
 msgid "Setting and Story"
-msgstr ""
+msgstr "Prostředí a příběh"
 
 #. [about]
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:83
 msgid "Miscellaneous Graphics"
-msgstr ""
+msgstr "Různá grafika"
 
 #. [campaign]: id=The Deceivers Gambit 1
 #. [campaign]: id=The Deceivers Gambit 2
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:134
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:160
 msgid "TDG"
-msgstr ""
+msgstr "PG"
 
 #. [campaign]: id=The Deceivers Gambit 1
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:145
@@ -92,7 +92,7 @@ msgstr ""
 #. [campaign]: id=The Deceivers Gambit 1
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:149
 msgid "(Intermediate level, 7 scenarios.)"
-msgstr ""
+msgstr "(Úroveň pokročilý hráč, 7 scénářů.)"
 
 #. [campaign]: id=The Deceivers Gambit 1
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:150
@@ -100,11 +100,13 @@ msgid ""
 "Story continued in:\n"
 "The Deceiver’s Gambit II"
 msgstr ""
+"Příběh pokračuje v tažení:\n"
+"Podvodníkův gambit II"
 
 #. [campaign]: id=The Deceivers Gambit 2
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:159
 msgid "The Deceiver’s Gambit II"
-msgstr ""
+msgstr "Podvodníkův gambit II"
 
 #. [campaign]: id=The Deceivers Gambit 2
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:171
@@ -118,7 +120,7 @@ msgstr ""
 #. [campaign]: id=The Deceivers Gambit 2
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:173
 msgid "(Intermediate level, 8 scenarios.)"
-msgstr ""
+msgstr "(Úroveň pokročilý hráč, 8 scénářů.)"
 
 #. [campaign]: id=The Deceivers Gambit 2
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:174
