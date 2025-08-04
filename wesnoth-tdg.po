@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-08-03 22:50+0200\n"
+"PO-Revision-Date: 2025-08-04 23:27+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -88,6 +88,12 @@ msgid ""
 "battlefield victories Wesnoth seems to be slipping inexorably into chaos...\n"
 "\n"
 msgstr ""
+"Novopečený učedník magické akademie v Alduinu, který touží po dobrodružství, "
+"bojuje po boku krále Wesnothu během velké války proti skřetům ze severu.\n"
+"\n"
+"Sehraj klíčovou roli v tomto období zmatků, protože to vypadá, že se Wesnoth "
+"navzdory řadě vítězství na bitevním poli nezadržitelně propadá do chaosu...\n"
+"\n"
 
 #. [campaign]: id=The Deceivers Gambit 1
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:149
@@ -100,7 +106,7 @@ msgid ""
 "Story continued in:\n"
 "The Deceiver’s Gambit II"
 msgstr ""
-"Příběh pokračuje v tažení:\n"
+"Příběh pokračuje v tažení:\n"
 "Podvodníkův gambit II"
 
 #. [campaign]: id=The Deceivers Gambit 2
@@ -116,6 +122,10 @@ msgid ""
 "be worse still. What does it truly mean to be a hero?\n"
 "    \n"
 msgstr ""
+"Ztráty stále narůstají a Delfador se vydává na nebezpečnou misi za "
+"nepřátelskou linii. Cesta bude nebezpečná, ale to, co čeká na jejím konci, "
+"bude ještě horší. Co skutečně znamená být hrdinou?\n"
+"    \n"
 
 #. [campaign]: id=The Deceivers Gambit 2
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:173
@@ -128,6 +138,8 @@ msgid ""
 "Story continued in:\n"
 "“Asheviere’s Dogs”"
 msgstr ""
+"Příběh pokračuje v tažení:\n"
+"„Ašvířini psi“"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
