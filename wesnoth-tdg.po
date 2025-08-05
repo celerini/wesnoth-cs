@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-08-04 23:27+0200\n"
+"PO-Revision-Date: 2025-08-05 22:06+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2307,7 +2307,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1248
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:64
 msgid "Deoran"
-msgstr ""
+msgstr "Deoran"
 
 #. [message]
 #. referencing the mirror image of Deoran
@@ -7540,7 +7540,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:92
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:101
 msgid "Eldred"
-msgstr ""
+msgstr "Eldred"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:976
@@ -8453,35 +8453,35 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:50
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:57
 msgid "Methor"
-msgstr ""
+msgstr "Methor"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:74
 msgid "Arand"
-msgstr ""
+msgstr "Arand"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:83
 msgid "Asheviere"
-msgstr ""
+msgstr "Ašvíra"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:111
 msgid "Lionel"
-msgstr ""
+msgstr "Lionel"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:125
 msgid "Lord Maddock"
-msgstr ""
+msgstr "Lord Maddok"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:133
 msgid "Colonel Dommel"
-msgstr ""
+msgstr "Plukovník Dommel"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:142
 msgid "Kestrel"
-msgstr ""
+msgstr "Kestrel"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:174
 msgid "Iliah-Malal"
-msgstr ""
+msgstr "Iliah-Malal"
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:210
 msgid "Garard II"

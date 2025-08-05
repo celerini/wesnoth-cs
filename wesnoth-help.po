@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-20 22:54-0500\n"
-"PO-Revision-Date: 2025-07-27 19:31+0200\n"
+"PO-Revision-Date: 2025-08-05 22:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8852,39 +8852,6 @@ msgstr "Cena rozhledu"
 #: src/help/help_topic_generators.cpp:841
 msgid "Jamming Cost"
 msgstr "Cena rušení"
-
-#~ msgid "Methor"
-#~ msgstr "Methor"
-
-#~ msgid "Deoran"
-#~ msgstr "Deoran"
-
-#~ msgid "Arand"
-#~ msgstr "Arand"
-
-#~ msgid "Asheviere"
-#~ msgstr "Ašvíra"
-
-#~ msgid "Eldred"
-#~ msgstr "Eldred"
-
-#~ msgid "Lionel"
-#~ msgstr "Lionel"
-
-#~ msgid "Lord Maddock"
-#~ msgstr "Lord Maddok"
-
-#~ msgid "Colonel Dommel"
-#~ msgstr "Plukovník Dommel"
-
-#~ msgid "Kestrel"
-#~ msgstr "Kestrel"
-
-#~ msgid "Omaranth"
-#~ msgstr "Omarant"
-
-#~ msgid "Iliah-Malal"
-#~ msgstr "Iliah-Malal"
 
 #~ msgid "No, it can’t end yet! I have so much left to do..."
 #~ msgstr "Ne, ještě to nemůže skončit! Ještě toho musím tolik udělat..."
