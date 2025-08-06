@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-08-05 22:06+0200\n"
+"PO-Revision-Date: 2025-08-06 23:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -621,7 +621,7 @@ msgstr "Maturita"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:132
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:135
 msgid "Apprentice"
-msgstr ""
+msgstr "Učedník"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:22
@@ -633,7 +633,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:38
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:26
 msgid "Isle of Alduin"
-msgstr ""
+msgstr "Ostrov Alduin"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:36
@@ -653,17 +653,17 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:107
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:171
 msgid "Leollyn"
-msgstr ""
+msgstr "Leollyn"
 
 #. [unit]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:123
 msgid "Saegwylyn"
-msgstr ""
+msgstr "Saegwylyn"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:156
 msgid "The Author"
-msgstr ""
+msgstr "Autor"
 
 #. [message]
 #. notice that appears at the beginning of the scenario if you select Deadly difficulty
@@ -687,7 +687,7 @@ msgstr ""
 #. the fire wraiths are not visible yet. Delfador is about to appear on the left edge of the map
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:177
 msgid "Faster, faster! The wraiths will soon be upon you!"
-msgstr ""
+msgstr "Rychleji, rychleji! Přízraky tě brzy dostihnou!"
 
 #. [message]: speaker=Delfador
 #. referencing events that happened minutes before the beginning of the campaign
@@ -712,7 +712,7 @@ msgstr ""
 #. Delfador is currently just named "apprentice". He doesn't get his name until scenario 2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:210
 msgid "Death of the Apprentice"
-msgstr ""
+msgstr "Učedník zemře"
 
 #. [message]: speaker=Methor
 #. this tells the player that 1) Delfador is Methor's apprentice, and 2) Delfador is very reckless
