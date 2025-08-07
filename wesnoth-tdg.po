@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-08-06 23:07+0200\n"
+"PO-Revision-Date: 2025-08-07 21:46+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -673,6 +673,9 @@ msgid ""
 "challenge even for experienced players! If you’re new to Wesnoth, I strongly "
 "suggest trying a lower difficulty."
 msgstr ""
+"POZNÁMKA: „Smrtící“ obtížnost  má být děsivě těžkou výzvou i pro zkušené "
+"hráče! Pokud jsi ve Wesnothu nováčkem, důrazně doporučuji zkusit obtížnost "
+"nižší."
 
 #. [message]
 #. notice that appears at the beginning of the scenario if you select Hard difficulty
@@ -682,6 +685,9 @@ msgid ""
 "experienced players! If you’re new to Wesnoth, you may want to try a lower "
 "difficulty."
 msgstr ""
+"POZNÁMKA: „Těžká“ obtížnost je zamýšlena jako vážná výzva i pro zkušené "
+"hráče! Pokud jsi ve Wesnothu nováčkem, možná budeš chtít zkusit obtížnost "
+"nižší."
 
 #. [message]: speaker=Methor
 #. the fire wraiths are not visible yet. Delfador is about to appear on the left edge of the map
