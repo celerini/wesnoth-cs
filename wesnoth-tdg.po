@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-08-07 21:46+0200\n"
+"PO-Revision-Date: 2025-08-08 23:37+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7829,7 +7829,7 @@ msgstr ""
 #. [unit_type]: id=Delfador L1, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L1.cfg:8
 msgid "Mage"
-msgstr ""
+msgstr "Mág"
 
 #. [unit_type]: id=Delfador L1, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L1.cfg:12
@@ -8070,7 +8070,7 @@ msgstr ""
 #. [unit_type]: id=Eyestalk, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Eyestalk.cfg:4
 msgid "Eyestalk"
-msgstr ""
+msgstr "Kukar"
 
 #. [unit_type]: id=Eyestalk, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Eyestalk.cfg:22
@@ -8081,11 +8081,16 @@ msgid ""
 "against melee attacks, their deadly gaze from afar is not to be "
 "underestimated."
 msgstr ""
+"Tato rostlinná stvoření, která byla z pochopitelných důvodů pojmenována "
+"„kukar“, mohou upřít svůj pohled na nic netušící oběť a vysát z ní životní "
+"sílu, aby doplnila svou vlastní. Ačkoli jsou snadno hořlavá a téměř "
+"bezbranná proti útokům zblízka, jejich smrtící pohled z dálky není radno "
+"podceňovat."
 
 #. [attack]: type=arcane
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Eyestalk.cfg:27
 msgid "gaze"
-msgstr ""
+msgstr "pohled"
 
 #. [unit_type]: id=Silverback, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Silverback.cfg:8
