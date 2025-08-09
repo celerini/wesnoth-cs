@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-08-08 23:37+0200\n"
+"PO-Revision-Date: 2025-08-09 22:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7864,7 +7864,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Sorceress.cfg:31
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Devotee.cfg:45
 msgid "staff"
-msgstr ""
+msgstr "hůl"
 
 #. [unit_type]: id=Delfador L2, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L2.cfg:8
@@ -8267,7 +8267,7 @@ msgstr ""
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:66
 msgid "missile"
-msgstr ""
+msgstr "střela"
 
 #. [floating_text]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:224
