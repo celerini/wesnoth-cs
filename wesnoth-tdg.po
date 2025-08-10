@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-08-09 22:48+0200\n"
+"PO-Revision-Date: 2025-08-10 22:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -702,17 +702,19 @@ msgid ""
 "Hey, how was I supposed to know the halfway cave was warded! All I did was "
 "throw a few celebratory firebolts! For the spectators, you know?"
 msgstr ""
+"Hej, jak jsem měl vědět, že ta jeskyně na půli cesty je hlídaná! Vždyť jsem "
+"jen hodil pár ohnivých blesků na oslavu! Pro diváky, víte?"
 
 #. [message]: speaker=Methor
 #. there's a blue orb at the east edge of the map, which will dispel the fire guardians that will soon appear to chase Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:197
 msgid "Just hurry and get to the dispel orb!"
-msgstr ""
+msgstr "Jen si pospěš a dostaň se k rozptylovací kouli!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:205
 msgid "Reach the blue orb at the east edge of the map"
-msgstr ""
+msgstr "Dostaň se k modré kouli na východním okraji mapy."
 
 #. [objective]: condition=lose
 #. Delfador is currently just named "apprentice". He doesn't get his name until scenario 2
