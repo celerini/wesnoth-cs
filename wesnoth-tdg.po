@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-08-10 22:32+0200\n"
+"PO-Revision-Date: 2025-08-11 23:46+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -729,12 +729,14 @@ msgid ""
 "Out of all the masters in Alduin, why did the sages curse me with the most "
 "reckless apprentice in all Wesnoth?"
 msgstr ""
+"Proč právě mne, ze všech mistrů v Alduinu, moudří potrestali tím "
+"nejlehkovážnějším učedníkem v celém Weshnothu?"
 
 #. [message]: speaker=Methor
 #. this line is spoken as soon as the fire guardians enter the map
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:245
 msgid "The wraiths are catching up! Keep moving!"
-msgstr ""
+msgstr "Přízraky tě dohánějí! Nezastavuj!"
 
 #. [message]: speaker=Saegwylyn
 #. another of Delfador's instructors; implying Delfador has attempted to firebolt the fire guardians before, and it ended badly
