@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-08-11 23:46+0200\n"
+"PO-Revision-Date: 2025-08-12 23:42+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -298,13 +298,15 @@ msgstr "Scénář 14: Generál v záloze"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:17
 msgid "Magic Missile"
-msgstr ""
+msgstr "Kouzelná střela"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:19
 msgid ""
 "<span color='#ad6a61'><i><b>Attack:</b></i></span> Ranged 7x3 fire, "
 "<i>magical</i>."
 msgstr ""
+"<span color='#ad6a61'><i><b>Útok:</b></i></span> Oheň 7x3 na dálku, "
+"<i>magický</i>."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:26
 msgid "Shield"
@@ -354,7 +356,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:79
 msgid "Levitate"
-msgstr ""
+msgstr "Vznášení se"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:81
 msgid ""
