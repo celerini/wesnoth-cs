@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-08-12 23:42+0200\n"
+"PO-Revision-Date: 2025-08-13 23:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -744,7 +744,7 @@ msgstr "Přízraky tě dohánějí! Nezastavuj!"
 #. another of Delfador's instructors; implying Delfador has attempted to firebolt the fire guardians before, and it ended badly
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:250
 msgid "10 copper says he tries to firebolt them again..."
-msgstr ""
+msgstr "10 měďáků na to, že na ně zase zkusí ohnivý blesk..."
 
 #. [message]: speaker=Methor
 #. Levitate is one of many spells that Delfador will have access to throughout this scenario. It grants him flight and skirmisher, which
@@ -754,6 +754,9 @@ msgid ""
 "the eyestalks! You may need to cast it several turns in a row to keep ahead "
 "of the wraiths."
 msgstr ""
+"Neposlouchej ji. Zatím si vedeš dobře – teď sešli kouzlo vznášení se "
+"a proklouzni kolem těch kukarů! Možná budeš muset seslat kouzlo několikrát "
+"za sebou, abys udržel náskok před přízraky."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:259
@@ -761,6 +764,8 @@ msgid ""
 "<i>Levitate!?</i> Why bother with utility spells when fireballs are so much "
 "better?"
 msgstr ""
+"<i>Vznášet se!?</i> Proč se obtěžovat s užitkovými kouzly, když ohnivé koule "
+"jsou mnohem lepší?"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:263
@@ -768,16 +773,18 @@ msgid ""
 "Oh for the love of— remember what happened last time you tried to fight? "
 "Just do it!"
 msgstr ""
+"Á, pro lásku... pamatuješ si, co se naposledy stalo, když ses pokusil "
+"bojovat? Prostě to udělej!"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:268
 msgid "Casting Spells:"
-msgstr ""
+msgstr "Sesílání kouzel:"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:269
 msgid "Double- or right-click on the apprentice to cast spells."
-msgstr ""
+msgstr "Kouzla sesíláš dvojitým nebo pravým kliknutím na učedníka."
 
 #. [message]: speaker=Methor
 #. spoken after Delfador attacks the fire guardians, referencing the "10 copper" bet from earlier. Since there are 3 guardians and they have 50% fire resistance, this is not a wise move by Delfador.
