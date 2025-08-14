@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-07-21 03:54 UTC\n"
-"PO-Revision-Date: 2025-08-13 23:16+0200\n"
+"PO-Revision-Date: 2025-08-14 21:13+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -553,22 +553,22 @@ msgstr ""
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:49
 msgid "Cast Delfador’s Spells"
-msgstr ""
+msgstr "Seslat Delfadorova kouzla"
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:49
 msgid "Select Delfador’s Spells"
-msgstr ""
+msgstr "Vybrat Delfadorova kouzla"
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:50
 msgid "Cast the Apprentice’s Spells"
-msgstr ""
+msgstr "Seslat učedníkova kouzla"
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:50
 msgid "Select the Apprentice’s Spells"
-msgstr ""
+msgstr "Vybrat učedníkova kouzla"
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:56
@@ -8444,7 +8444,7 @@ msgstr ""
 #. [set_menu_item]: id=TDG_spellcasting
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2506
 msgid "Cast Spells"
-msgstr ""
+msgstr "Seslat kouzla"
 
 #. [floating_text]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2534
