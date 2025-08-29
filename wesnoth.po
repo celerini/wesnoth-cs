@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 10:14-0500\n"
-"PO-Revision-Date: 2025-07-26 21:24+0200\n"
+"PO-Revision-Date: 2025-08-29 22:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7579,11 +7579,9 @@ msgid "Planning mode deactivated!"
 msgstr "Plánovací mód byl ukončen!"
 
 #: src/hotkey/hotkey_handler_sp.cpp:331
-#, fuzzy
-#| msgid "The file you have tried to load has no replay information. "
 msgid "The file you have tried to load has no replay information."
 msgstr ""
-"Soubor, který ses pokusil načíst, neobsahuje žádné informace o přehrávání. "
+"Soubor, který ses pokusil načíst, neobsahuje žádné informace o přehrávání."
 
 #: src/hotkey/hotkey_handler_sp.cpp:335
 msgid "The file you have tried to load is not from the current session."
