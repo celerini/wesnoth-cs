@@ -10,16 +10,12 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-ei | 1855 | 98% | 22 | Michal
 wesnoth-help | 745 | 99% | 4 | Michal
-wesnoth-l | 426 | 99% | 1 | Michal
 wesnoth-tdg | 1256 | 7% | 1160 | Michal
-wesnoth-thot | 361 | 99% | 3 | Michal
-wesnoth-trow | 1010 | 99% | 2 | Michal
 wesnoth-tsg | 865 | 29% | 614 | Septim
 wesnoth-units | 880 | 97% | 22 | Michal
-wesnoth-utbs | 2022 | 99% | 2 | Michal
-wesnoth | 1457 | 99% | 4 | Michal
+wesnoth | 1457 | 99% | 3 | Michal
 
-Total messages remaining: **1834**
+Total messages remaining: **1825**
 
 I see no progress.
 
