@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 10:14-0500\n"
-"PO-Revision-Date: 2025-08-05 22:07+0200\n"
+"PO-Revision-Date: 2025-08-30 23:08+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6743,32 +6743,26 @@ msgstr "Tento útok má vždy alespoň 60% šanci zásahu, je-li užit ofensivn�
 
 #. [dummy]: id=naval
 #: data/core/macros/weapon_specials.cfg:129
-#, fuzzy
-#| msgid "naval ram"
 msgid "naval"
-msgstr "kloun"
+msgstr "lodní"
 
 #. [dummy]: id=naval
 #: data/core/macros/weapon_specials.cfg:130
-#, fuzzy
-#| msgid "This attack can only be used against units in water terrain."
 msgid ""
 "This attack can only be used when both the attacker and the defender are in "
 "water or swamp."
-msgstr "Tento útok lze použít pouze proti jednotkám ve vodním terénu."
+msgstr ""
+"Tento útok lze použít pouze tehdy, když jsou útočník i obránce ve vodě nebo "
+"močále."
 
 #. [dummy]: id=naval
 #: data/core/macros/weapon_specials.cfg:131
-#, fuzzy
-#| msgid ""
-#| "This unit has an attack that can only be used against units in watery "
-#| "terrain."
 msgid ""
 "This unit has an attack that can only be used when both the attacker and the "
 "defender are in water or swamp."
 msgstr ""
-"Tato jednotka má útok, který lze použít pouze proti jednotkám ve vodnatém "
-"terénu."
+"Tato jednotka má útok, který lze použít pouze tehdy, když jsou útočník "
+"i obránce ve vodě nebo močále."
 
 #. [chance_to_hit]: id=honed
 #: data/core/macros/weapon_specials.cfg:158
@@ -7943,21 +7937,14 @@ msgstr "Lodě"
 
 #. [race]: id=ship
 #: data/core/units.cfg:296
-#, fuzzy
-#| msgid ""
-#| "Animated neither by natural life nor by necromancy, the term "
-#| "<italic>text='mechanical'</italic> describes a created artifact of an "
-#| "intelligent being. Most mechanical things neither move nor think on their "
-#| "own, but some do so as a result of magical enchantment."
 msgid ""
 "Ships are not living beings, but they are crafted and (usually) controlled "
 "by living beings. Most ships neither move nor think on their own, but some "
 "do so as a result of magical enchantment."
 msgstr ""
-"Termín <italic>text='stroj'</italic> popisuje výtvor inteligentní bytosti, "
-"který nemá vlastní život ani jej nepohání nekromancie. Většina strojů "
-"nedokáže sama nijak „myslet“, natož se pohybovat, ale tato omezení může "
-"překonat magie na ně vložená."
+"Lodě nejsou živé bytosti, ale jsou jimi vyrobeny a (obvykle) ovládány. "
+"Většina lodí se sama nepohybuje ani nemyslí, ale některé to dělají díky "
+"očarování."
 
 #. [race]: id=merman
 #: data/core/units.cfg:328
