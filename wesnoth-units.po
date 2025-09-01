@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 15:14 UTC\n"
-"PO-Revision-Date: 2025-08-01 23:51+0200\n"
+"PO-Revision-Date: 2025-09-02 00:40+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1254,10 +1254,8 @@ msgstr ""
 #: data/core/units/boats/Orc_Battle-Barge.cfg:35
 #: data/core/units/boats/Raider_Coastal.cfg:43
 #: data/core/units/boats/Raider_Iron.cfg:44 data/core/units/boats/Skiff.cfg:39
-#, fuzzy
-#| msgid "Poacher"
 msgid "archers"
-msgstr "Pytlák"
+msgstr "lukostřelci"
 
 #. [unit_type]: id=Pirate Carrack, race=ship
 #: data/core/units/boats/Carrack_Pirate.cfg:4
@@ -1282,22 +1280,16 @@ msgstr ""
 
 #. [attack]: type=pierce
 #: data/core/units/boats/Carrack_Pirate.cfg:38
-#, fuzzy
-#| msgid "ballista"
 msgid "ballistae"
-msgstr "balista"
+msgstr "balisty"
 
 #. [attack]: type=pierce
 #: data/core/units/boats/Carrack_Pirate.cfg:47
-#, fuzzy
-#| msgid "Trapper"
 msgid "grapple"
-msgstr "Lovec"
+msgstr "lodní hák"
 
 #. [unit_type]: id=Derelict, race=ship
 #: data/core/units/boats/Derelict_Ship.cfg:4
-#, fuzzy
-#| msgid "Derelict Hulk"
 msgid "Derelict"
 msgstr "Bludný vrak"
 
@@ -1572,8 +1564,6 @@ msgstr ""
 #: data/core/units/boats/Orc_Rigship.cfg:44
 #: data/core/units/boats/Orc_Warship.cfg:36
 #: data/core/units/boats/Orc_Warship.cfg:45
-#, fuzzy
-#| msgid "crossbow"
 msgid "crossbows"
 msgstr "kuše"
 
