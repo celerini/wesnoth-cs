@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 15:14 UTC\n"
-"PO-Revision-Date: 2025-08-15 23:57+0200\n"
+"PO-Revision-Date: 2025-09-03 21:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -143,10 +143,8 @@ msgstr ""
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
-#, fuzzy
-#| msgid "Blast the fire elementals in ‘<i>Graduation</i>’."
 msgid "Blast the fire elementals in <i>Graduation</i>."
-msgstr "V „<i>Maturitě</i>“ znič elementály ohně."
+msgstr "V <i>Maturitě</i> znič elementály ohně."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
@@ -155,11 +153,8 @@ msgstr "Scénář 0: Filuta"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:22
-#, fuzzy
-#| msgid ""
-#| "Complete ‘<i>Stirrings of War</i>’ without killing any goblin spearmen."
 msgid "Complete <i>Stirrings of War</i> without killing any goblin spearmen."
-msgstr "Dokonči „<i>Plameny války</i>“ bez zabití jediného gobliního kopiníka."
+msgstr "Dokonči <i>Plameny války</i> bez zabití jediného gobliního kopiníka."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:22
@@ -168,10 +163,8 @@ msgstr "Scénář 1: Gobliní"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:23
-#, fuzzy
-#| msgid "Complete the hidden victory condition in ‘<i>Fort Garard</i>'"
 msgid "Complete the hidden victory condition in <i>Fort Garard</i>."
-msgstr "V „<i>Pevnosti Garard</i>“ splň skrytou podmínku vítězství."
+msgstr "V <i>Pevnosti Garard</i> splň skrytou podmínku vítězství."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:23
@@ -180,10 +173,8 @@ msgstr "Scénář 2: Krvežíznivý"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
-#, fuzzy
-#| msgid "Complete ‘<i>The Ambassador</i>’ without any of your units dying."
 msgid "Complete <i>The Ambassador</i> without any of your units dying."
-msgstr "Dokonči „<i>Velvyslance</i>“ bez ztráty jediné jednotky."
+msgstr "Dokonči <i>Velvyslance</i> bez ztráty jediné jednotky."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
@@ -192,10 +183,8 @@ msgstr "Scénář 3: Mellon"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:25
-#, fuzzy
-#| msgid "Drown the silverback in ‘<i>The Sylvan Seer</i>’."
 msgid "Drown the silverback in <i>The Sylvan Seer</i>."
-msgstr "V „<i>Sylvánské vidoucí</i>“ utop stříbrohřbetého."
+msgstr "V <i>Sylvánské vidoucí</i> utop stříbrohřbetého."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:25
@@ -204,11 +193,8 @@ msgstr "Scénář 4: Glo glo glo glo"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:26
-#, fuzzy
-#| msgid ""
-#| "Defeat both enemy leaders in ‘<i>The Deceiver</i>’ before Garard does."
 msgid "Defeat both enemy leaders in <i>The Deceiver</i> before Garard does."
-msgstr "Poraz oba nepřátelské vůdce v „<i>Podvodníkovi</i>“ dřív než Garard."
+msgstr "Poraz oba nepřátelské vůdce v <i>Podvodníkovi</i> dřív než Garard."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:26
@@ -217,10 +203,8 @@ msgstr "Scénář 5: Nahodit, zaseknout, přitáhnout"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:27
-#, fuzzy
-#| msgid "Complete ‘<i>Ring of Swords</i>’ with Garard at full hp."
 msgid "Complete <i>Ring of Swords</i> with Garard at full hp."
-msgstr "Dokonči „<i>Kruh mečů</i>“ při Garardově plném zdraví."
+msgstr "Dokonči <i>Kruh mečů</i> při Garardově plném zdraví."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:27
@@ -229,10 +213,8 @@ msgstr "Scénář 6: Královská výsada"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:28
-#, fuzzy
-#| msgid "Complete ‘<i>The Great River</i>’ in 20 turns or less."
 msgid "Complete <i>The Great River</i> in 20 turns or less."
-msgstr "Dokonči „<i>Velkou řeku</i>“ za 20 nebo méně kol."
+msgstr "Dokonči <i>Velkou řeku</i> za 20 nebo méně kol."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:28
@@ -241,14 +223,10 @@ msgstr "Scénář 7: Na čas"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:29
-#, fuzzy
-#| msgid ""
-#| "Complete ‘<i>Ruins of Saurgrath</i>’ on the same turn you’re first "
-#| "spotted."
 msgid ""
 "Complete <i>Ruins of Saurgrath</i> on the same turn you’re first spotted."
 msgstr ""
-"Dokonči „<i>Trosky Saurgratu</i>“ ve stejném kole, kdy budeš poprvé spatřen."
+"Dokonči <i>Trosky Saurgratu</i> ve stejném kole, kdy budeš poprvé spatřen."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:29
@@ -257,10 +235,8 @@ msgstr "Scénář 8: Jožin z bažin"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:30
-#, fuzzy
-#| msgid "Complete ‘<i>Omaranth</i>’ before turns run out."
 msgid "Complete <i>Omaranth</i> before turns run out."
-msgstr "Dokonči „<i>Omaranta</i>“, než vyprší počet kol."
+msgstr "Dokonči <i>Omaranta</i>, než vyprší počet kol."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:30
@@ -269,10 +245,8 @@ msgstr "Scénář 9: Sapér"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:33
-#, fuzzy
-#| msgid "Command four ghosts at once in ‘<i>Houses of the Dead</i>’."
 msgid "Command four ghosts at once in <i>Houses of the Dead</i>."
-msgstr "V „<i>Domech mrtvých</i>“ vel čtyřem duchům naráz."
+msgstr "V <i>Domech mrtvých</i> vel čtyřem duchům naráz."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:33
@@ -281,10 +255,8 @@ msgstr "Scénář 10: Armáda mrtvých"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:35
-#, fuzzy
-#| msgid "Complete ‘<i>Clan Blackcrest</i>’ in 10 turns or less."
 msgid "Complete <i>Clan Blackcrest</i> in 10 turns or less."
-msgstr "Dokonči „<i>Klan Černého hřebenu</i>“ za 10 nebo méně kol."
+msgstr "Dokonči <i>Klan Černého hřebenu</i> za 10 nebo méně kol."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:35
@@ -293,10 +265,8 @@ msgstr "Scénář 11: Spojené síly"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:36
-#, fuzzy
-#| msgid "Destroy all villages in ‘<i>The Traitor</i>’."
 msgid "Destroy all villages in <i>The Traitor</i>."
-msgstr "Ve „<i>Zrádci</i>“ znič všechny vesnice."
+msgstr "Ve <i>Zrádci</i> znič všechny vesnice."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:36
@@ -305,10 +275,8 @@ msgstr "Scénář 12: Spálená země"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:37
-#, fuzzy
-#| msgid "Defeat all enemy leaders in ‘<i>Revelry, Revisited</i>’."
 msgid "Defeat all enemy leaders in <i>Revelry, Revisited</i>."
-msgstr "V „<i>Oslavě, znovu</i>“ poraz všechny nepřátelské vůdce."
+msgstr "V <i>Oslavě, znovu</i> poraz všechny nepřátelské vůdce."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:37
@@ -317,15 +285,10 @@ msgstr "Scénář 13: Stůj pevně"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:38
-#, fuzzy
-#| msgid ""
-#| "Complete the first phase of ‘<i>Long Live the Queen</i>’ without moving "
-#| "Delfador."
 msgid ""
 "Complete the first phase of <i>Long Live the Queen</i> without moving "
 "Delfador."
-msgstr ""
-"Dokonči první fázi „<i>Ať žije královna</i>“, aniž pohneš s Delfadorem."
+msgstr "Dokonči první fázi <i>Ať žije královna</i>, aniž pohneš s Delfadorem."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:38
