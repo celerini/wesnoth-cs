@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 15:14 UTC\n"
-"PO-Revision-Date: 2025-09-05 22:00+0200\n"
+"PO-Revision-Date: 2025-09-07 08:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1237,7 +1237,7 @@ msgstr ""
 #. [unit_type]: id=Merchant Carrack, race=ship
 #: data/core/units/boats/Carrack_Merchant.cfg:4
 msgid "Merchant Carrack"
-msgstr ""
+msgstr "Kupecká karaka"
 
 #. [unit_type]: id=Merchant Carrack, race=ship
 #: data/core/units/boats/Carrack_Merchant.cfg:20
@@ -1260,7 +1260,7 @@ msgstr "lukostřelci"
 #. [unit_type]: id=Pirate Carrack, race=ship
 #: data/core/units/boats/Carrack_Pirate.cfg:4
 msgid "Pirate Carrack"
-msgstr ""
+msgstr "Pirátská karaka"
 
 #. [unit_type]: id=Pirate Carrack, race=ship
 #: data/core/units/boats/Carrack_Pirate.cfg:21
@@ -1569,11 +1569,6 @@ msgstr "Vor"
 
 #. [unit_type]: id=Raft, race=ship
 #: data/core/units/boats/Raft.cfg:20
-#, fuzzy
-#| msgid ""
-#| "Rafts can be an efficient means of downriver transport, but they can also "
-#| "be an improvised vessel of desperation, patched together from the wreck "
-#| "of a larger ship."
 msgid ""
 "Rafts can be an efficient means of downriver transport, but they can also be "
 "an improvised vessel of desperation, patched together from the wreck of a "
@@ -1584,7 +1579,10 @@ msgid ""
 msgstr ""
 "Vory mohou být účinným prostředkem pro přepravu po řece, ale také "
 "improvizovaným plavidlem ze zoufalství, které bylo poskládáno z vraku větší "
-"lodi."
+"lodi.\n"
+"\n"
+"Na volném moři jsou tyto vory velmi slabé, jen o málo lepší než plovoucí "
+"vrak."
 
 #. [unit_type]: id=Coastal Raider, race=ship
 #: data/core/units/boats/Raider_Coastal.cfg:4
@@ -1593,19 +1591,6 @@ msgstr "Pobřežní veslice"
 
 #. [unit_type]: id=Coastal Raider, race=ship
 #: data/core/units/boats/Raider_Coastal.cfg:24
-#, fuzzy
-#| msgid ""
-#| "While many larger ships rely on impressive sails to harness the power of "
-#| "the wind, galleys and raiders are propelled by muscle-power of the crew "
-#| "manning the oars. This has the disadvantage of requiring a larger crew, "
-#| "and it does limit the speed and efficiency of transport. But these "
-#| "seeming weaknesses also make the vessel less vulnerable to the whims of "
-#| "weather and the predations of pirates.\n"
-#| "\n"
-#| "Coastal Raider ships are a very basic warship, used by several races to "
-#| "move armed forces rapidly through shallow and coastal water. They do not "
-#| "possess any specific armaments, but there are always archers amongst the "
-#| "crew."
 msgid ""
 "While Carracks and Cogs rely on impressive sails to harness the power of the "
 "wind, galleys and raiders are propelled by muscle-power of the crew manning "
@@ -1619,15 +1604,17 @@ msgid ""
 "not possess any specific armaments, but oared propulsion makes the vessel "
 "much more maneuverable when ramming or beaching."
 msgstr ""
-"Zatímco mnohé větší lodě závisí na mohutném plachtoví, aby využily sílu "
-"větru, galéry a veslice jsou poháněny silou svalů mužstva, které obsluhuje "
-"vesla. To má tu nevýhodu, že je třeba větší posádky, a omezuje to rychlost "
+"Zatímco karaky a kogy závisí na mohutném plachtoví, aby využily sílu větru, "
+"galéry a veslice jsou poháněny silou svalů mužstva, které obsluhuje vesla. "
+"To má tu nevýhodu, že je třeba větší posádky, a omezuje to rychlost "
 "a účinnost přepravy. Tyto zdánlivé nedostatky však také činí plavidlo méně "
 "zranitelným vůči rozmarům počasí a drancování pirátů.\n"
 "\n"
-"Pobřežní veslice jsou velmi jednoduché válečné lodě, které několik ras "
-"používá k rychlému přesunu ozbrojených sil na mělkých a pobřežních vodách. "
-"Nemají žádnou zvláštní výzbroj, ale v posádce jsou vždy nějací lučištníci."
+"Pobřežní veslice jsou velmi jednoduché válečné lodě, chráněné proti "
+"proražení a používané k rychlému přesunu ozbrojených sil na mělkých "
+"a pobřežních vodách. Nemají žádnou zvláštní výzbroj, ale díky pohonu pomocí "
+"vesel jsou tato plavidla mnohem lépe ovladatelná při prorážení nebo "
+"najíždění na břeh."
 
 #. [unit_type]: id=Iron Raider, race=ship
 #: data/core/units/boats/Raider_Iron.cfg:4
@@ -1636,19 +1623,6 @@ msgstr "Okovaná veslice"
 
 #. [unit_type]: id=Iron Raider, race=ship
 #: data/core/units/boats/Raider_Iron.cfg:25
-#, fuzzy
-#| msgid ""
-#| "While Galleons and Cogs rely on impressive sails to harness the power of "
-#| "the wind, galleys and raiders are propelled by muscle-power of the crew "
-#| "manning the oars. This has the disadvantage of requiring a larger crew, "
-#| "and it does limit the speed and efficiency of transport. But these "
-#| "seeming weaknesses also make the vessel less vulnerable to the whims of "
-#| "weather and the predations of pirates.\n"
-#| "\n"
-#| "Iron Raiders are Coastal Raiders that have been hardened to become "
-#| "tougher targets and harder hitters, at the expense of speed. They are "
-#| "often used as front-line escorts of slower cargo ships in rivers and "
-#| "coasts."
 msgid ""
 "While Carracks and Cogs rely on impressive sails to harness the power of the "
 "wind, galleys and raiders are propelled by muscle-power of the crew manning "
@@ -1662,14 +1636,16 @@ msgid ""
 "escorts of slower cargo ships in rivers and coasts, where their heavy iron "
 "ram proves the most effective."
 msgstr ""
-"Zatímco galeony a kogy závisí na mohutném plachtoví, aby využily sílu větru, "
+"Zatímco karaky a kogy závisí na mohutném plachtoví, aby využily sílu větru, "
 "galéry a veslice jsou poháněny silou svalů mužstva, které obsluhuje vesla. "
 "To má tu nevýhodu, že je třeba větší posádky, a omezuje to rychlost "
 "a účinnost přepravy. Tyto zdánlivé nedostatky však také činí plavidlo méně "
 "zranitelným vůči rozmarům počasí a drancování pirátů.\n"
-"Okované veslice jsou pobřežní veslice, které byly vyztuženy, aby se na úkor "
-"rychlosti staly odolnějšími cíli a tvrdšími úderníky. Často se používají na "
-"řekách a při pobřežích jako přední doprovod pomalejších nákladních lodí."
+"\n"
+"Okované veslice jsou dlouho sloužící pobřežní veslice, které byly vyztuženy, "
+"aby se staly odolnějšími cíli a tvrdšími úderníky. Často se používají jako "
+"přední doprovod pomalejších nákladních lodí na řekách a při pobřežích, kde "
+"se jejich silný okovaný kloun ukazuje jako nejúčinnější."
 
 #. [unit_type]: id=Skiff, race=ship
 #: data/core/units/boats/Skiff.cfg:5
