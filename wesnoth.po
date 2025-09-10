@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 10:14-0500\n"
-"PO-Revision-Date: 2025-08-29 22:33+0200\n"
+"PO-Revision-Date: 2025-09-11 00:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4337,7 +4337,7 @@ msgstr "DejaVu Sans Mono"
 #. [fonts]
 #: data/hardwired/fonts.cfg:20
 msgid "WesScript"
-msgstr ""
+msgstr "WesScript"
 
 #. [terrain_type]: id=urbanjungle
 #: data/internal/Urban_Jungle/terrain.cfg:8
@@ -5812,6 +5812,10 @@ msgid ""
 "Moves, End Turn, Recruit/Recall) to comfortable keys can noticeably speed up "
 "your turns and improve your quality of life."
 msgstr ""
+"Téměř každou klávesovou zkratku lze přizpůsobit v <b>Nastavení</b> "
+"na kartě <b>Klávesy</b>. Přiřazení pohodlných kláves často používaným akcím (Zpět, "
+"Ukázat tahy nepřítele, Ukončit kolo, Naverbovat/Povolat) "
+"může znatelně urychlit tvoje tahy a zlepšit kvalitu života."
 
 # text místo klikacího seznamu povýšení v nápovědě
 #. TRANSLATORS: In networked games, when one player has the choice
@@ -5942,7 +5946,7 @@ msgstr ""
 
 #: src/actions/undo.cpp:342
 msgid "Unhandled choices while redoing"
-msgstr ""
+msgstr "Nezpracované volby při opakování"
 
 #: src/addon/client.cpp:78
 msgid "Connecting to $server_address|..."
@@ -9551,15 +9555,3 @@ msgstr "Skryj plány pro hráče $player"
 #: src/whiteboard/manager.cpp:1140
 msgid "Whiteboard Options"
 msgstr "Nastavení plánovacího módu"
-
-#~ msgid "Oldania ADF Std"
-#~ msgstr "Oldania ADF Std"
-
-#~ msgid "Do you want to load it anyway?"
-#~ msgstr "Chceš jej přesto načíst?"
-
-#~ msgid ""
-#~ "Warning: The file you have tried to load is corrupt. Loading anyway.\n"
-#~ msgstr ""
-#~ "Upozornění: Soubor, který ses snažil načíst, je poškozený. Pokouším se "
-#~ "pokračovat.\n"
