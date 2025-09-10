@@ -10,10 +10,9 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-tdg | 1256 | 8% | 1145 |
 wesnoth-tsg | 865 | 29% | 614 | Septim
-wesnoth-units | 880 | 98% | 10 |
-wesnoth | 1457 | 99% | 3 | Michal
+wesnoth-units | 880 | 98% | 10 | Michal
 
-Total messages remaining: **1772**
+Total messages remaining: **1769**
 
 Progress since 2025-08-21: **2** messages per day
 
