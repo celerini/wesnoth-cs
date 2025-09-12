@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 15:14 UTC\n"
-"PO-Revision-Date: 2025-09-07 08:57+0200\n"
+"PO-Revision-Date: 2025-09-12 20:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1247,6 +1247,10 @@ msgid ""
 "platform, and their spacious holds can carry both medical supplies and "
 "repair equipment."
 msgstr ""
+"Obchodní karaky jsou rychlé lodě s velkými nákladovými prostory. Ačkoli "
+"nejsou určeny pro válku, jejich velká a rovná paluba je dobrou plochou pro "
+"lukostřelbu a v jejich prostorném podpalubí lze přepravovat jak lékařské "
+"zásoby, tak opravárenské vybavení."
 
 #. [attack]: type=pierce
 #: data/core/units/boats/Carrack_Merchant.cfg:42
@@ -1316,6 +1320,11 @@ msgid ""
 "Artfully grafted together from still-living trees, these sleek ships can "
 "recover from minor injuries without their crews’ intervention."
 msgstr ""
+"Elfové nejsou od přírody mořeplavci, raději dávají přednost klidné lesní "
+"samotě. Přesto existuje určitá poptávka po říčním obchodu a dopravě, zejména "
+"mezi enklávami Wesmérií a Lintanirem. Tyto elegantní lodě, umně sroubované "
+"z dosud živých stromů, se dokáží zotavit z drobných poškození bez zásahu "
+"posádky."
 
 #. [attack]: type=pierce
 #: data/core/units/boats/Elf_Cutter.cfg:38
@@ -1323,7 +1332,7 @@ msgstr ""
 #: data/core/units/boats/Elf_Sloop.cfg:39
 #: data/core/units/boats/Elf_Sloop.cfg:48
 msgid "marksmen"
-msgstr ""
+msgstr "ostrostřelci"
 
 #. [unit_type]: id=Elvish Sloop, race=ship
 #: data/core/units/boats/Elf_Sloop.cfg:5
@@ -1338,6 +1347,9 @@ msgid ""
 "times of crisis, for their living timber can survive only a handful of years "
 "after being launched."
 msgstr ""
+"Tyto nejmohutnější elfské lodě, ladné ve vodě a ozdobené zelení, beztrestně "
+"odolávají vlnám i bouřím. Takto velké lodě jsou k vidění pouze v dobách "
+"krize, protože jejich živé dřevo vydrží jen několik let po spuštění na vodu."
 
 #. [unit_type]: id=Fireship, race=ship
 #: data/core/units/boats/Fireship.cfg:4
@@ -1361,7 +1373,7 @@ msgstr ""
 #. [dummy]: id=deteriorate
 #: data/core/units/boats/Fireship.cfg:25
 msgid "deteriorate"
-msgstr ""
+msgstr "chátrání"
 
 #. [dummy]: id=deteriorate
 #: data/core/units/boats/Fireship.cfg:26
@@ -1369,6 +1381,8 @@ msgid ""
 "This unit is deteriorating. It cannot be healed, and loses 10 hitpoints at "
 "the start of each of its turns."
 msgstr ""
+"Tato jednotka chátrá. Nelze ji opravit a na začátku každého svého kola "
+"ztrácí 10 zásahových bodů."
 
 #. [unit_type]: id=Ghost Ship, race=ship
 #: data/core/units/boats/Ghost_Ship.cfg:16
@@ -1386,7 +1400,7 @@ msgstr "blesk"
 #. [attack]: type=cold
 #: data/core/units/boats/Ghost_Ship.cfg:63
 msgid "lost souls"
-msgstr ""
+msgstr "ztracené duše"
 
 #. [unit_type]: id=Boat, race=mechanical
 #: data/core/units/boats/Legacy_Boat.cfg:7
