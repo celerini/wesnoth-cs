@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 15:14 UTC\n"
-"PO-Revision-Date: 2025-09-12 20:14+0200\n"
+"PO-Revision-Date: 2025-09-13 08:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1531,6 +1531,14 @@ msgid ""
 "These barges are very ineffective in the high seas; little better than a "
 "floating wreck."
 msgstr ""
+"Navzdory své zjednodušené konstrukci zajišťují bárky překvapivě mnoho "
+"užitečných služeb: hromadnou přepravu zboží nebo lidí, plavbu v mělké vodě "
+"nebo močále a bezpečné místo pro odpočinek zraněných bojovníků. Poskytují "
+"také širokou a rovnou palubu, na kterou lze připevnit obléhací zařízení, "
+"čehož jsou si skřeti dobře vědomi.\n"
+"\n"
+"Na volném moři jsou tyto bárky velmi slabé, jen o málo lepší než plovoucí "
+"vrak."
 
 #. [attack]: type=impact
 #: data/core/units/boats/Orc_Battle-Barge.cfg:44
@@ -1552,6 +1560,11 @@ msgid ""
 "The so-called “Rigship” is but one of many designs bearing testament to "
 "their skill."
 msgstr ""
+"Většina skřetů plachetnice moc nepotřebuje a raději bojuje na suchých "
+"vrcholcích a kopcích Srdcových hor. Podél severozápadního pobřeží Velkého "
+"kontinentu, ve městech Bitok a Tirigaz, však skřetí loďaři usilovně pracují "
+"na zdokonalování svých plavidel. Takzvaná „galéra“ je jen jednou z mnoha "
+"konstrukcí, které svědčí o jejich zručnosti."
 
 #. [attack]: type=pierce
 #. [attack]: type=fire
@@ -1575,6 +1588,10 @@ msgid ""
 "shipwrights of the Tirigaz coast have not forgotten that lesson, and devote "
 "significant effort to the construction of newer and ever-better vessels."
 msgstr ""
+"Když se skřeti poprvé vylodili na západních březích Velkého kontinentu, "
+"našli nedotčený ráj, po kterém se mohli rozšířit. Loďaři na pobřeží Tirigazu "
+"na tuto lekci nezapomněli a věnují značné úsilí stavbě stále nových "
+"a lepších plavidel."
 
 #. [unit_type]: id=Raft, race=ship
 #: data/core/units/boats/Raft.cfg:5
