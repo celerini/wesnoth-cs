@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 15:14 UTC\n"
-"PO-Revision-Date: 2025-09-14 18:51+0200\n"
+"PO-Revision-Date: 2025-09-15 23:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -818,6 +818,7 @@ msgstr ""
 msgid ""
 "So he does know proper magic after all. It only took four failed exams..."
 msgstr ""
+"Takže nakonec pořádnou magii umí. Zabralo to jen čtyři neúspěšné zkoušky..."
 
 #. [message]: speaker=Methor
 #. if the levitate spell ends over impassable terrain (like lava), Delfador dies
