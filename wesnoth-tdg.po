@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 15:14 UTC\n"
-"PO-Revision-Date: 2025-09-15 23:48+0200\n"
+"PO-Revision-Date: 2025-09-16 21:18+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -503,7 +503,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:215
 msgid "Contingency"
-msgstr ""
+msgstr "Plán B"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:217
 msgid ""
@@ -847,7 +847,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:395
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1665
 msgid "<span color='#ffffff' size='x-small'>Contingency</span>"
-msgstr ""
+msgstr "<span color='#ffffff' size='x-small'>Plán B</span>"
 
 #. [message]: speaker=Delfador
 #. Delfador has just reached the end of the obstacle course / final exam (and the end of the scenario0
@@ -936,13 +936,13 @@ msgstr ""
 #. Delfador has just taken lethal damage
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:558
 msgid "Oh no! Master, help!"
-msgstr ""
+msgstr "Ale ne! Mistře, pomoc!"
 
 #. [message]: speaker=Methor
 #. Methor casts a spell to save Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:563
 msgid "I’ll save you!"
-msgstr ""
+msgstr "Zachráním tě!"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:578
@@ -950,6 +950,8 @@ msgid ""
 "(sigh) Not again! I suppose you’ll have to retry the exam next year... for "
 "the sixth time."
 msgstr ""
+"(povzdechne si) Už zase! Asi budeš muset zkoušku opakovat příští rok... po "
+"šesté."
 
 #. [scenario]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:8
