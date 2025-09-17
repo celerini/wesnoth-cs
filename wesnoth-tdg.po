@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 15:14 UTC\n"
-"PO-Revision-Date: 2025-09-16 21:18+0200\n"
+"PO-Revision-Date: 2025-09-17 23:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -806,12 +806,12 @@ msgstr "Kouzla sesíláš dvojitým nebo pravým kliknutím na učedníka."
 #. spoken after Delfador attacks the fire guardians, referencing the "10 copper" bet from earlier. Since there are 3 guardians and they have 50% fire resistance, this is not a wise move by Delfador.
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:286
 msgid "All right, all right! It’s just as you said."
-msgstr ""
+msgstr "Dobrá, dobrá! Je to přesně tak, jak jsi říkala."
 
 #. [message]: speaker=Saegwylyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:291
 msgid "10 more copper for me!"
-msgstr ""
+msgstr "Dalších 10 měďáků pro mne!"
 
 #. [message]: speaker=Saegwylyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:304
