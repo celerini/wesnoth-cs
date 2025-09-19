@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 15:14 UTC\n"
-"PO-Revision-Date: 2025-09-18 21:29+0200\n"
+"PO-Revision-Date: 2025-09-19 23:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -855,12 +855,12 @@ msgstr "<span color='#ffffff' size='x-small'>Plán B</span>"
 #. Delfador has just reached the end of the obstacle course / final exam (and the end of the scenario0
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:459
 msgid "Look at me, I made it! This time just has to be good enough!"
-msgstr ""
+msgstr "Podívejte se na mě, dokázal jsem to! Tentokrát to prostě musí stačit!"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:464
 msgid "<span size='small'>Well, what do you think?</span>"
-msgstr ""
+msgstr "<span size='small'>No, co si o tom myslíte?</span>"
 
 #. [message]: speaker=Saegwylyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:470
@@ -869,6 +869,9 @@ msgid ""
 "for his own amusement. This one is a petty magician, not a wise sage or "
 "advisor of kings.</span>"
 msgstr ""
+"<span size='small'>Já říkám ne. Mág potřebuje moudrost. Tento učeň se stará "
+"jen o vlastní zábavu. Je to nevýrazný kouzelník, ne mudřec nebo rádce králů."
+"</span>"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:474
@@ -877,6 +880,9 @@ msgid ""
 "more than most, but with this much magical aptitude who wouldn’t want to "
 "show off?</span>"
 msgstr ""
+"<span size='small'>Já říkám ano. Přiznávám, že můj učedník si užívá "
+"pozornosti více než většina ostatních, ale kdo by se nechtěl s takovým "
+"magickým nadáním předvést?</span>"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:478
