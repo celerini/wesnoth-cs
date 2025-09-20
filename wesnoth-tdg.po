@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 15:14 UTC\n"
-"PO-Revision-Date: 2025-09-19 23:09+0200\n"
+"PO-Revision-Date: 2025-09-20 22:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -891,6 +891,9 @@ msgid ""
 "we’ve trained in years. The skill is innate; the wisdom will come with time."
 "</span>"
 msgstr ""
+"<span size='small'>Myslím, že tohle je zřejmě jeden z nejnadanějších mágů, "
+"které jsme za poslední roky vycvičili. Jeho schopnosti jsou vrozené, "
+"moudrost přijde s časem.</span>"
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:483
@@ -898,6 +901,8 @@ msgid ""
 "<span size='small'>So mine is the deciding vote. Very well, I’ve made up my "
 "mind.</span>"
 msgstr ""
+"<span size='small'>Takže můj hlas rozhodne. Dobrá, už jsem to rozmyslel.</"
+"span>"
 
 #. [message]: speaker=narrator
 #. non sequitur. The screen has faded to black, and Delfador is hearing a voice with no apparent origin. In scenario 4, this is later revealed to be the elvish seer Elende, prophesying about Delfador's future.
