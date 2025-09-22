@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-08-19 15:14 UTC\n"
-"PO-Revision-Date: 2025-09-20 22:38+0200\n"
+"PO-Revision-Date: 2025-09-22 23:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -910,14 +910,14 @@ msgstr ""
 msgid ""
 "<i>The Deceiver weaves the twine encircling the puppets in the court of "
 "royals.</i>"
-msgstr ""
+msgstr "<i>Podvodník splétá provázek okolo loutek na královském dvoře.</i>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:514
 msgid ""
 "<i>Fatherless prince and sovereignless king, the balance of man hangs upon "
 "this thread.</i>"
-msgstr ""
+msgstr "<i>Princ bez otce a král bez vlády, na tomhle vlásku závisí.</i>"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:518
@@ -925,6 +925,8 @@ msgid ""
 "<i>Should force and fire brandish themselves where wisdom and pity are left "
 "wanting, this string of fate shall inexorably be sundered.</i>"
 msgstr ""
+"<i>Když se síla a oheň ohání tam, kde chybí moudrost a soucit, pak bude "
+"šňůra osudu nenávratně přetržena.</i>"
 
 #. [message]: speaker=Leollyn
 #. the screen has faded back to normal, and master Leollyn is annoyed that Delfador wasn't paying attention
