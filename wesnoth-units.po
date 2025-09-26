@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-09-22 04:01 UTC\n"
-"PO-Revision-Date: 2025-09-13 08:48+0200\n"
+"PO-Revision-Date: 2025-09-26 23:34+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1223,12 +1223,6 @@ msgstr "Kánoe"
 
 #. [unit_type]: id=Canoe, race=ship
 #: data/core/units/boats/Canoe.cfg:33
-#, fuzzy
-#| msgid ""
-#| "A Canoe is a small, open-top water vessel commonly used for "
-#| "transportation or hunting. Their light-weight construction allows them to "
-#| "be carried around barriers or between unconnected bodies of water. Almost "
-#| "every intelligent race has some form of canoe."
 msgid ""
 "A Canoe is a small, open-top water vessel commonly used for transportation "
 "or hunting. Their light-weight construction allows them to be carried around "
@@ -1486,24 +1480,6 @@ msgstr "Skřetí bárka"
 
 #. [unit_type]: id=Orcish Barge, race=ship
 #: data/core/units/boats/Orc_Barge.cfg:26
-#, fuzzy
-#| msgid ""
-#| "Orcish barges are crude constructions, devoid of any of the craftsmanship "
-#| "seen in almost any other ship. But what they lack in speed and grace, "
-#| "they make up for with their rugged durability and utility in navigating "
-#| "rivers and swamps. Their primary means of movement comes from a large, "
-#| "symmetric sail held at three points for downwind propulsion. When "
-#| "currents and winds lead to the wrong direction, the crew must use poles "
-#| "and anchors to move the barge in the intended direction.\n"
-#| "\n"
-#| "Barges serve as transports for either supplies or troops, and when "
-#| "stocked with medicines can provide a safe space — akin to a village — for "
-#| "wounded fighters to rest. They lack any specific weaponry and cannot ram, "
-#| "but the crew is equipped with enough crude orcish bows to provide "
-#| "deterrent.\n"
-#| "\n"
-#| "These barges are very ineffective in the high seas; little better than a "
-#| "floating wreck."
 msgid ""
 "Orcish Barges are crude constructions, devoid of any of the craftsmanship "
 "seen in almost any other ship. But what they lack in speed and grace, they "
@@ -1624,14 +1600,6 @@ msgstr "Vor"
 
 #. [unit_type]: id=Raft, race=ship
 #: data/core/units/boats/Raft.cfg:20
-#, fuzzy
-#| msgid ""
-#| "Rafts can be an efficient means of downriver transport, but they can also "
-#| "be an improvised vessel of desperation, patched together from the wreck "
-#| "of a larger ship.\n"
-#| "\n"
-#| "These rafts are very ineffective in the high seas; little better than a "
-#| "floating wreck."
 msgid ""
 "Rafts can be an efficient means of downriver transport, but they can also be "
 "an improvised vessel of desperation, patched together from the wreck of a "
@@ -1717,10 +1685,6 @@ msgstr "Lodice"
 
 #. [unit_type]: id=Skiff, race=ship
 #: data/core/units/boats/Skiff.cfg:21
-#, fuzzy
-#| msgid ""
-#| "Propelled by oars or small sails, skiffs are used to travel short "
-#| "distances and in shallows where large ships cannot navigate."
 msgid ""
 "Propelled by oars or small sails, Skiffs are used to travel short distances "
 "and in shallows where large ships cannot navigate."
