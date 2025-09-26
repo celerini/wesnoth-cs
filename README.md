@@ -12,12 +12,11 @@ wesnoth-l | 430 | 93% | 27 | Michal
 wesnoth-sotbe | 669 | 96% | 25 |
 wesnoth-tdg | 1256 | 10% | 1124 |
 wesnoth-tsg | 865 | 28% | 615 | Septim
-wesnoth-units | 879 | 99% | 4 | Michal
 
-Total messages remaining: **1795**
+Total messages remaining: **1791**
 
-Progress since 2025-09-24: **1** message per day
+Progress since 2025-09-24: **2** messages per day
 
-ETA: **2030-08-25**
+ETA: **2028-03-09**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
