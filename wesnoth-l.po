@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-09-22 04:01 UTC\n"
-"PO-Revision-Date: 2025-08-29 22:05+0200\n"
+"PO-Revision-Date: 2025-09-28 09:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -117,17 +117,13 @@ msgstr ""
 
 #. [achievement]: id=liberty_nameless
 #: data/campaigns/Liberty/achievements.cfg:14
-#, fuzzy
-#| msgid "The Nameless General"
 msgid "The Nameless Guard"
-msgstr "Bezejmenný generál"
+msgstr "Bezejmenná stráž"
 
 #. [achievement]: id=liberty_nameless
 #: data/campaigns/Liberty/achievements.cfg:15
-#, fuzzy
-#| msgid "Find out the name of the general in <i>Unlawful Orders</i>."
 msgid "Discover the name of the royal guard in <i>Unlawful Orders</i>."
-msgstr "Zjisti jméno generála v <i>Nezákonných rozkazech</i>."
+msgstr "Odhal jméno královské stráže v <i>Nezákonných rozkazech</i>."
 
 #. [achievement]: id=liberty_iron
 #: data/campaigns/Liberty/achievements.cfg:21
@@ -1299,10 +1295,8 @@ msgstr "Elensefar"
 
 #. [objective]: condition=win
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:177
-#, fuzzy
-#| msgid "Defeat both enemy leaders"
 msgid "Defeat the enemy leader"
-msgstr "Poraz oba nepřátelské vůdce"
+msgstr "Poraz nepřátelského vůdce"
 
 #. [objective]: condition=lose
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:189
@@ -1348,20 +1342,14 @@ msgstr ""
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:309
-#, fuzzy
-#| msgid ""
-#| "That was partially my fault, since I was not able to send a messenger to "
-#| "you in time. I shall have to inform you now. Five weeks ago, at the Ford "
-#| "of Abez, Queen Asheviere’s men allied themselves with the northern orcs "
-#| "and betrayed King Garard II."
 msgid ""
 "That was partially my fault, since I was not able to send a messenger to you "
 "in time. I shall have to inform you now. Five weeks ago, at the Ford of "
 "Abez, King Garard II of Wesnoth was murdered."
 msgstr ""
-"To je částečně má chyba, protože jsem k vám nemohl včas poslat posla. Budu "
-"vás muset informovat teď. Před pěti týdny se u Abezského brodu spojili muži "
-"královny Ašvíry se severními skřety a zradili krále Gararda II."
+"To je částečně má chyba, protože jsem k vám nemohl včas poslat posla. Budu "
+"vás muset informovat teď. Před pěti týdny byl u Abezského brodu zavražděn "
+"král Wesnothu, Garard II."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:313
