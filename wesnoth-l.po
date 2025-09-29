@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-09-22 04:01 UTC\n"
-"PO-Revision-Date: 2025-09-28 09:09+0200\n"
+"PO-Revision-Date: 2025-09-29 23:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1362,22 +1362,15 @@ msgstr ""
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:317
-#, fuzzy
-#| msgid ""
-#| "Since Prince Eldred died in the battle, the Queen took the throne and has "
-#| "been consolidating her power. Part of that has been bringing the elders "
-#| "from the local villages here, forcing them to swear allegiance to her. "
-#| "That was the purpose of that patrol."
 msgid ""
 "The Queen is not popular. She is at war with supporters of the old king, and "
 "searches far and wide for new conscripts. Part of that has been taking "
 "elders from the local villages, forcing them to swear allegiance to her. "
 "That was the purpose of that patrol."
 msgstr ""
-"Vzhledem k tomu, že v bitvě zemřel i princ Eldred, nastoupila na trůn "
-"královna. A upevňuje svoji moc. Součástí toho bylo, že nechala přivést "
-"starší z místních vesnic, aby je přinutila přísahat jí věrnost. To byl záměr "
-"té hlídky."
+"Královna není oblíbená. Vede válku s příznivci bývalého krále a všude hledá "
+"nové rekruty. Součástí toho je, že odvádí starší z místních vesnic a nutí je "
+"přísahat jí věrnost. To byl záměr té hlídky."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:321
@@ -1492,16 +1485,11 @@ msgstr "Hej, koukněte! Nějakej zakopanej poklad!"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:421
-#, fuzzy
-#| msgid ""
-#| "It says, “Here lies Daneth, child of the Light, loyal defender of Lord "
-#| "and Land.” Whoever that was."
 msgid ""
 "It says, “Here lies Daneth, child of the Light, loyal defender of Lord and "
 "Land.”"
 msgstr ""
-"Tady se říká: „Zde leží Daneth, dítě Světla, věrný obránce pána a země.“ "
-"Kdoví, kdo to byl."
+"Tady se říká: „Zde leží Daneth, dítě Světla, věrný obránce pána a země.“"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:425
@@ -1590,10 +1578,8 @@ msgstr ""
 
 #. [modify_unit]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:865
-#, fuzzy
-#| msgid "General Kestrel"
 msgid "Kestrel"
-msgstr "Generál Kestrel"
+msgstr "Kestrel"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:872
