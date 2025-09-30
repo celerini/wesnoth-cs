@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-09-22 04:01 UTC\n"
-"PO-Revision-Date: 2025-09-29 23:57+0200\n"
+"PO-Revision-Date: 2025-09-30 23:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1588,22 +1588,15 @@ msgstr "Kdo jste? Co jste?"
 
 #. [message]: speaker=Kestrel
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:876
-#, fuzzy
-#| msgid ""
-#| "We... are accursed. We were the soldiers of Prince Eldred, the King’s son "
-#| "and betrayer... when the Prince was slain at the hands of the mage "
-#| "Delfador, those of us who bore witness to it were warped into these "
-#| "twisted forms. Now, our mortal bodies pass... into another plane of "
-#| "hellish existence..."
 msgid ""
 "We... are accursed. We were the soldiers of Prince Eldred, the King’s son "
 "and betrayer... when the Prince stooped to black magic, we were damned... "
 "those of us who bore witness were warped into these twisted forms."
 msgstr ""
-"My... jsme prokletí. Byli jsme vojáky prince Eldreda, králova syna a "
-"zrádce... Když byl princ zabit rukou mága Delfadora, tak se ti z nás, kteří "
-"u toho byli, přeměnili do těchto deformovaných podob. Nyní naše smrtelná "
-"těla přecházejí... do jiných sfér pekelné existence..."
+"My... jsme prokletí. Byli jsme vojáky prince Eldreda, králova syna "
+"a zrádce... Když se princ uchýlil k černé magii, byli jsme odsouzeni "
+"k věčnému zatracení... Ti z nás, kteří to spatřili na vlastní oči, byli "
+"znetvořeni."
 
 #. [message]: speaker=Kestrel
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:880
@@ -2822,13 +2815,12 @@ msgstr "Na váš rozkaz, poručíku."
 
 #. [message]: speaker=Sir Gwydion
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:395
-#, fuzzy
-#| msgid ""
-#| "Ready thy lances! Let us trample the armies of Weldyn beneath our steeds!"
 msgid ""
 "Lo, Knights of Elensefar, the battle hath begun ere our arrival. Ready thy "
 "lances! Let us trample the armies of Weldyn beneath our steeds!"
-msgstr "Připravte svá kopí! Nechť vojska Weldynu zhynou pod kopyty našich ořů!"
+msgstr ""
+"Hle, rytíři elensefarští, bitva započala již před naším příjezdem. Připravte "
+"svá kopí! Nechť vojska Weldynu zhynou pod kopyty našich ořů!"
 
 #. [message]: role=farseer
 #: data/campaigns/Liberty/scenarios/07_Glory.cfg:408
@@ -3037,13 +3029,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:22
-#, fuzzy
-#| msgid ""
-#| "I’m sure them Wesnothians will come back in time and with Maddock holed "
-#| "up in his stupid tower, they’ll eventually siege Elensefar and take the "
-#| "city... but that don’t be my problem anymore. I has me a village to worry "
-#| "about. I need to get back, consult myself with Relana and figure out what "
-#| "to do next. We gots some more time now, but we can’t wait forever."
 msgid ""
 "I’m sure them Wesnothians will come back in time. Maddock sounded like he "
 "had a plan... we’ll see. But that don’t be my problem anymore. I has me a "
@@ -3051,11 +3036,10 @@ msgid ""
 "figure out what to do next. We gots some more time now, but we can’t wait "
 "forever."
 msgstr ""
-"Jsem si jistej, že začas se wesnothský vrátěj. A když bude Maddok dřepět ve "
-"svý věži, obklíčí wesnothský nakonec Elensefar a město dobyjou... Ale to už "
-"není můj problém. Pro mě je starostí moje vesnice. Potřebuju se vrátit, "
-"promluvit si s Relanou a vymyslet, co dál. Teď jsme získali nějakej čas, ale "
-"to nám nevydrží věčně."
+"Jsem si jistej, že začas se wesnothský vrátěj. Vypadalo to, jako by měl "
+"Maddok nějakej plán... no, uvidíme. Ale to už není můj problém. Pro mě je "
+"starostí moje vesnice. Potřebuju se vrátit, promluvit si s Relanou "
+"a vymyslet, co dál. Teď jsme získali nějakej čas, ale to nám nevydrží věčně."
 
 #. [part]
 #: data/campaigns/Liberty/scenarios/08_Epilogue.cfg:25
