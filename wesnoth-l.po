@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-09-22 04:01 UTC\n"
-"PO-Revision-Date: 2025-09-30 23:53+0200\n"
+"PO-Revision-Date: 2025-10-02 22:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -29,7 +29,7 @@ msgstr "Svoboda"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:20
 msgid "1x enemies"
-msgstr ""
+msgstr "1x nepřátelé"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:20
@@ -39,7 +39,7 @@ msgstr "Lehká"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:21
 msgid "2x enemies"
-msgstr ""
+msgstr "2x nepřátelé"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:21
@@ -49,12 +49,12 @@ msgstr "Normální"
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:22
 msgid "3x enemies"
-msgstr ""
+msgstr "3x nepřátelé"
 
 #. [campaign]: id=Liberty
 #: data/campaigns/Liberty/_main.cfg:22
 msgid "Hard"
-msgstr ""
+msgstr "Těžká"
 
 #. [campaign]: id=Liberty
 #. "marchlander" is archaic English for an inhabitant of a border region, not to be confused with "marshlander"
@@ -83,6 +83,8 @@ msgid ""
 "Story continued in:\n"
 "Heir to the Throne"
 msgstr ""
+"Příběh pokračuje v tažení:\n"
+"Dědic trůnu"
 
 #. [about]
 #: data/campaigns/Liberty/_main.cfg:34
@@ -310,7 +312,7 @@ msgstr "Gorokh"
 #. [event]
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:173
 msgid "Gruk"
-msgstr ""
+msgstr "Gruk"
 
 #. [message]: speaker=Fal Khag
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:195
@@ -534,7 +536,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:435
 msgid "Your footpad has gained +1 ranged damage!"
-msgstr ""
+msgstr "Tvůj lapka získal +1 ke zranění na dálku!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Liberty/scenarios/01_The_Raid.cfg:447
@@ -1182,7 +1184,7 @@ msgstr "Hmm, jaká osvěžující, chutná voda!"
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:443
 msgid "Your unit has gained +1 maximum hitpoints!"
-msgstr ""
+msgstr "Tvá jednotka získala +1 k maximu životů!"
 
 #. [message]: speaker=Urk Delek
 #: data/campaigns/Liberty/scenarios/03_A_Strategy_Of_Hope.cfg:459
