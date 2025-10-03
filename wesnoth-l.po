@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-09-22 04:01 UTC\n"
-"PO-Revision-Date: 2025-10-02 22:58+0200\n"
+"PO-Revision-Date: 2025-10-03 23:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -884,7 +884,7 @@ msgstr "Jo, psanci."
 #. [message]: speaker=narrator
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:521
 msgid "Your units — formerly <i>neutral</i> — are now <i>chaotic</i>!"
-msgstr ""
+msgstr "Tvé jednotky – dříve <i>neutrální</i> – jsou nyní <i>chaotické</i>!"
 
 #. [message]: speaker=Reinforcement Knight
 #: data/campaigns/Liberty/scenarios/02_Civil_Disobedience.cfg:555
@@ -1308,14 +1308,14 @@ msgstr "Lord Maddok zemře"
 #. [event]
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:236
 msgid "The Daneth"
-msgstr ""
+msgstr "Danet"
 
 #. [event]
 #. [unit]: type=Skiff, id=Skiff
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:237
 #: data/campaigns/Liberty/scenarios/05_Hide_and_Seek.cfg:330
 msgid "Mary’s Minnow"
-msgstr ""
+msgstr "Mářina střevle"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:296
@@ -1491,7 +1491,7 @@ msgid ""
 "It says, “Here lies Daneth, child of the Light, loyal defender of Lord and "
 "Land.”"
 msgstr ""
-"Tady se říká: „Zde leží Daneth, dítě Světla, věrný obránce pána a země.“"
+"Tady se říká: „Zde leží Danet, dítě Světla, věrný obránce pána a země.“"
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:425
@@ -1505,7 +1505,7 @@ msgid ""
 "It says, “Here lies Daneth, child of the Light, loyal defender of Lord and "
 "Land.” Whoever that was."
 msgstr ""
-"Tady se říká: „Zde leží Daneth, dítě Světla, věrný obránce pána a země.“ "
+"Tady se říká: „Zde leží Danet, dítě Světla, věrný obránce pána a země.“ "
 "Kdoví, kdo to byl."
 
 #. [message]: speaker=unit
