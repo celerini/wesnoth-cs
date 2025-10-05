@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-09-22 04:01 UTC\n"
-"PO-Revision-Date: 2025-10-03 23:56+0200\n"
+"PO-Revision-Date: 2025-10-05 20:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1361,6 +1361,10 @@ msgid ""
 "Prince Eldred fell in battle not long after, upon which Asheviere claimed "
 "the throne."
 msgstr ""
+"Oficiálně je známo, že se zločinu dopustil jeden z jeho kapitánů. "
+"Nepotvrzeně se proslýchá, že se na něm podílela královna Ašvíra a její syn "
+"Eldred. Ať tak či onak, princ Eldred nedlouho poté padl v bitvě, po níž si "
+"Ašvíra nárokovala trůn."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:317
@@ -1406,6 +1410,10 @@ msgid ""
 "maintains a large garrison south at the great fortress of Halstead, but even "
 "should they mobilize all their troops, I doubt they could take Elensefar."
 msgstr ""
+"Nepřijdou. Nemám v úmyslu si vybírat stranu ve westnothském střetu "
+"a královna ví, že by se mě neměla snažit donutit. Je pravda, že na jihu ve "
+"velké pevnosti Halstead udržuje početnou posádku, ale i kdyby uvedli do "
+"pohybu všechny své oddíly, pochybuji, že by dokázali dobýt Elensefar."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:337
