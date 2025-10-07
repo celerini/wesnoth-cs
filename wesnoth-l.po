@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-09-22 04:01 UTC\n"
-"PO-Revision-Date: 2025-10-05 20:48+0200\n"
+"PO-Revision-Date: 2025-10-07 20:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1433,6 +1433,11 @@ msgid ""
 "and we are not in the habit of maintaining a large standing army. It will "
 "take time to assemble mercenaries of the right caliber."
 msgstr ""
+"Ano, jsem si vědom toho, že královna Ašvíra má sklon najímat si skřety na "
+"doplnění svých sil. Já také začal rozšiřovat své vojsko, i když si myslím, "
+"že k válce nedojde. Ale obyvatel Elensefaru je málo a nemáme ve zvyku "
+"udržovat velkou stálou armádu. Shromáždit žoldnéře těch správných kvalit "
+"bude chvíli trvat."
 
 #. [message]: speaker=Lord Maddock
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:345
@@ -1443,6 +1448,11 @@ msgid ""
 "wizard and his rebels have suffered several defeats. I have some concessions "
 "that I shall have to make..."
 msgstr ""
+"Smlouva mezi Elensefarem a Wesnothem je prastará a nemyslím si, že by ji "
+"Její Veličenstvo chtělo porušit. Ale nemohu si dovolit udělat si "
+"z weldynských nepřátele, jak jistě chápeš. Zdá se, že Ašvíra ve své občanské "
+"válce vítězí. Čaroděj a jeho rebelové utrpěli několik porážek. Musím udělat "
+"několik ústupků..."
 
 #. [message]: speaker=Baldras
 #: data/campaigns/Liberty/scenarios/04_Unlawful_Orders.cfg:349
