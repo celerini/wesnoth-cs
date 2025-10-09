@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-09-22 04:01 UTC\n"
-"PO-Revision-Date: 2025-09-26 23:34+0200\n"
+"PO-Revision-Date: 2025-10-09 23:04+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2724,7 +2724,7 @@ msgstr ""
 #: data/core/units/dunefolk/Raider.cfg:59
 #: data/core/units/goblins/Pillager.cfg:68
 msgid "torch"
-msgstr "louč"
+msgstr "pochodeň"
 
 #. [attack]: type=pierce
 #: data/core/units/dunefolk/Marauder.cfg:71
