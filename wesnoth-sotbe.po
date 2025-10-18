@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-09-22 04:01 UTC\n"
-"PO-Revision-Date: 2025-10-10 23:57+0200\n"
+"PO-Revision-Date: 2025-10-18 22:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4853,16 +4853,32 @@ msgid ""
 "experience bars</b></span>, they’ll only get +3 max hp when they level up.\n"
 "\n"
 msgstr ""
+"Blahopřeji, tvá jednotka jménem $unit.language_name povýšila... ale už je na "
+"své nejvyšší možné úrovni!\n"
+"\n"
+"Když se tohle stane, <span color='#0D87B6'><b>některá tažení</b></span> – "
+"jako například toto – umožňují zvolit menší přídavek k životům nebo zranění. "
+"Tato vylepšení se nazývají „AMLA“: „After Maximum Level Advancements“ "
+"(postupy po dosažení nejvyšší úrovně). Pokud mají tvé jednotky nejvyšší "
+"úrovně obyčejné, <span color='#0D87B6'><b>modré ukazatele zkušeností</b></"
+"span>, znamená to, že tyto AMLA jsou dostupné.\n"
+"\n"
+"<span color='#9608CF'><b><i>Jiná tažení tyto možnosti AMLA nemají a místo "
+"toho dávají jednotkám nejvyšší úrovně při povýšení vždy +3 k maximu životů. "
+"Pokud mají tvé jednotky nejvyšší úrovně <span color='#9608CF'><b>fialové "
+"ukazatele zkušeností</b></span>, dostanou při povýšení pouze +3 k maximu "
+"životů.\n"
+"\n"
 
 #. [option]
 #: data/campaigns/Son_Of_The_Black_Eye/utils/1-amla.cfg:358
 msgid "Ok, continue with the game"
-msgstr ""
+msgstr "V pořádku, pokračovat ve hře"
 
 #. [option]
 #: data/campaigns/Son_Of_The_Black_Eye/utils/1-amla.cfg:361
 msgid "Don’t show this message again"
-msgstr ""
+msgstr "Tuto zprávu už znovu neukazovat"
 
 #. [message]: speaker=unit
 #: data/campaigns/Son_Of_The_Black_Eye/utils/deaths.cfg:17
