@@ -10,17 +10,14 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-ei | 1855 | 99% | 16 | Michal
 wesnoth-help | 772 | 76% | 182 | Michal
-wesnoth-l | 430 | 99% | 1 | Michal
 wesnoth-multiplayer | 329 | 97% | 8 | Michal
 wesnoth-tb | 226 | 99% | 1 | Michal
 wesnoth-tdg | 1257 | 9% | 1133 | Michal
 wesnoth-tsg | 866 | 31% | 596 | Septim
-wesnoth-tutorial | 284 | 99% | 1 | Michal
-wesnoth-utbs | 2020 | 99% | 1 | Michal
 wesnoth-wof | 805 | 99% | 8 | Michal
 
-Total messages remaining: **1947**
+Total messages remaining: **1944**
 
-I see no progress.
+The translation speed is lower than one message per day.
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
