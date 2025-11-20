@@ -8,7 +8,9 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
+wesnoth-dod | 269 | 0% | 267 |
 wesnoth-ei | 1855 | 99% | 4 |
+wesnoth-h2tt | 2975 | 0% | 2973 |
 wesnoth-help | 771 | 99% | 4 | Michal
 wesnoth-httt | 1227 | 99% | 3 | Michal
 wesnoth-tb | 226 | 99% | 1 |
@@ -18,7 +20,7 @@ wesnoth-tsg | 883 | 29% | 621 | Septim
 wesnoth-tutorial | 283 | 97% | 6 | Michal
 wesnoth | 1469 | 99% | 12 | Michal
 
-Total messages remaining: **1940**
+Total messages remaining: **5180**
 
 I see no progress.
 
