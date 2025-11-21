@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-18 02:02 UTC\n"
-"PO-Revision-Date: 2025-11-11 00:27+0100\n"
+"PO-Revision-Date: 2025-11-21 07:45+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8299,68 +8299,68 @@ msgstr "Garard II."
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:514
 msgid "No, it can’t end yet! I have so much left to do..."
-msgstr ""
+msgstr "Ne, ještě to nemůže skončit! Ještě toho musím tolik udělat..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:525
 msgid "No! Magic, why have you failed me..."
-msgstr ""
+msgstr "Ne! Magie, proč jsi mě zklamala..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:536
 msgid "If only I had been a little wiser..."
-msgstr ""
+msgstr "Kdybych jen byl trochu moudřejší..."
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:548
 msgid "War, pain, death... I tried so hard to change things..."
-msgstr ""
+msgstr "Válka, bolest, smrt... Tolik jsem se snažil věci změnit..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:560
 msgid "I have failed my kingdom and my duty..."
-msgstr ""
+msgstr "Zklamal jsem své království a nedostál své povinnosti..."
 
 #. [message]: speaker=Garard
 #. reference to Shakespeare's Richard III
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:572
 msgid "A horse! A horse! My kingdom for a horse..."
-msgstr ""
+msgstr "Koně! Koně! Mé království za koně..."
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:582
 msgid "It’s finally over..."
-msgstr ""
+msgstr "Konečně je po všem..."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:592
 msgid "Blasted orcs..."
-msgstr ""
+msgstr "Zatracení skřeti..."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:604
 msgid "Nobody can cheat death forever..."
-msgstr ""
+msgstr "Nikdo nemůže unikat smrti věčně..."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:615
 msgid "Deoran, I never had a chance to tell you—"
-msgstr ""
+msgstr "Deorane, nikdy jsem neměl příležitost ti říct..."
 
 #. [message]: speaker=Lynyan
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:630
 msgid "Boss, I ain’t feelin’ too hot..."
-msgstr ""
+msgstr "Šéfe, necítím se moc dobře..."
 
 #. [message]: speaker=Lynyan
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:635
 msgid "I ain’t feelin’ too hot..."
-msgstr ""
+msgstr "Necítím se moc dobře..."
 
 #. [message]: speaker=Barin
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:646
 msgid "I shoulda never left my swamp..."
-msgstr ""
+msgstr "Nikdy jsem neměl opustit svůj močál..."
 
 #. [message]: speaker=Kaylan
 #. since he reappears in HttT's blackwater port, he can't die here.
@@ -8369,6 +8369,8 @@ msgid ""
 "I am grievously injured; I can be of no further aid in your quest. Fight on "
 "without me, Delfador!"
 msgstr ""
+"Jsem těžce zraněný, nemohu vám s vaším úkolem dál pomáhat. Bojuj beze mě, "
+"Delfadore!"
 
 #~ msgid ""
 #~ "<i>Levitate!?</i> Why bother with utility spells when fireballs are so "

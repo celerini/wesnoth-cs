@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-17 20:02-0600\n"
-"PO-Revision-Date: 2025-11-18 21:03+0100\n"
+"PO-Revision-Date: 2025-11-21 07:43+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8392,49 +8392,3 @@ msgstr "Cena rušení"
 #~ "z nich dostává jména a jsou jim přisuzovány vlastnosti. Tyto vlastnosti "
 #~ "mohou být technické nebo prostě odrážet společný postoj posádky, ale jsou "
 #~ "skutečné."
-
-#~ msgid "No, it can’t end yet! I have so much left to do..."
-#~ msgstr "Ne, ještě to nemůže skončit! Ještě toho musím tolik udělat..."
-
-#~ msgid "No! Magic, why have you failed me..."
-#~ msgstr "Ne! Magie, proč jsi mě zklamala..."
-
-#~ msgid "If only I had been a little wiser..."
-#~ msgstr "Kdybych jen byl trochu moudřejší..."
-
-#~ msgid "War, pain, death... I tried so hard to change things..."
-#~ msgstr "Válka, bolest, smrt... Tolik jsem se snažil věci změnit..."
-
-#~ msgid "I have failed my kingdom and my duty..."
-#~ msgstr "Zklamal jsem své království a nedostál své povinnosti..."
-
-#~ msgid "A horse! A horse! My kingdom for a horse..."
-#~ msgstr "Koně! Koně! Mé království za koně..."
-
-#~ msgid "It’s finally over..."
-#~ msgstr "Konečně je po všem..."
-
-#~ msgid "Blasted orcs..."
-#~ msgstr "Zatracení skřeti..."
-
-#~ msgid "Nobody can cheat death forever..."
-#~ msgstr "Nikdo nemůže unikat smrti věčně..."
-
-#~ msgid "Deoran, I never had a chance to tell you—"
-#~ msgstr "Deorane, nikdy jsem neměl příležitost ti říct..."
-
-#~ msgid "Boss, I ain’t feelin’ too hot..."
-#~ msgstr "Šéfe, necítím se moc dobře..."
-
-#~ msgid "I ain’t feelin’ too hot..."
-#~ msgstr "Necítím se moc dobře..."
-
-#~ msgid "I shoulda never left my swamp..."
-#~ msgstr "Nikdy jsem neměl opustit svůj močál..."
-
-#~ msgid ""
-#~ "I am grievously injured; I can be of no further aid in your quest. Fight "
-#~ "on without me, Delfador!"
-#~ msgstr ""
-#~ "Jsem těžce zraněný, nemohu vám s vaším úkolem dál pomáhat. Bojuj beze mě, "
-#~ "Delfadore!"
