@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-18 02:02 UTC\n"
-"PO-Revision-Date: 2025-11-21 07:45+0100\n"
+"PO-Revision-Date: 2025-11-21 08:57+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -175,10 +175,8 @@ msgstr "Scénář 2: Krvežíznivý"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
-#, fuzzy
-#| msgid "Complete <i>The Ambassador</i> without any of your units dying."
 msgid "Complete <i>The Ambassador</i> without killing any wose."
-msgstr "Dokonči <i>Velvyslance</i> bez ztráty jediné jednotky."
+msgstr "Dokonči <i>Velvyslance</i> bez zabití jediného stromového člověka."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
@@ -269,10 +267,8 @@ msgstr "Scénář 11: Spojené síly"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:36
-#, fuzzy
-#| msgid "Destroy all villages in <i>The Traitor</i>."
 msgid "Destroy all three enemy keeps in <i>The Traitor</i>."
-msgstr "Ve <i>Zrádci</i> znič všechny vesnice."
+msgstr "Ve <i>Zrádci</i> znič všechny tři nepřátelské tvrze."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:36
@@ -326,10 +322,6 @@ msgid "Shield"
 msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:31
-#, fuzzy
-#| msgid ""
-#| "Spend <span color='#00bbe6' style='italic'>8xp</span> to gain <i>+20% "
-#| "dodge chance</i> until the start of your next turn or until cancelled."
 msgid ""
 "Spend <span color='#00bbe6' style='italic'>8 XP</span> to gain <i>+20% dodge "
 "chance</i> until the start of your next turn or until cancelled."
@@ -376,18 +368,13 @@ msgid "Levitate"
 msgstr "Vznášení se"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:74
-#, fuzzy
-#| msgid ""
-#| "Spend <span color='#00bbe6' style='italic'>8xp</span> to gain <i>flight</"
-#| "i> and the <i><ref dst='ability_skirmisherskirmisher'>skirmisher</ref></"
-#| "i> ability until the start of your next turn or until cancelled."
 msgid ""
 "Spend <span color='#00bbe6' style='italic'>8 XP</span> to gain <i>flight</i> "
 "and the <i><ref dst='ability_skirmisherskirmisher'>skirmisher</ref></i> "
 "ability until the start of your next turn or until cancelled."
 msgstr ""
-"Za <span color='#00bbe6' style='italic'>8 zk. bodů</span> získáš schopnost "
-"<i><létání/i> a <i><ref dst='ability_skirmisherskirmisher'>průbojnost</ref></"
+"Za <span color='#00bbe6' style='italic'>8 zk. bodů</span> získáš schopnosti "
+"<i>létání</i> a <i><ref dst='ability_skirmisherskirmisher'>průbojnost</ref></"
 "i> až do začátku svého dalšího kola nebo do zrušení."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:82
@@ -863,10 +850,8 @@ msgstr ""
 #. [message]: speaker=Delfador
 #. Delfador has just reached the end of the obstacle course / final exam (and the end of the scenario0
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:459
-#, fuzzy
-#| msgid "Look at me, I made it! This time just has to be good enough!"
 msgid "Yes! I’ve made it! This time has to be good enough."
-msgstr "Podívejte se na mě, dokázal jsem to! Tentokrát to prostě musí stačit!"
+msgstr "Ano! Dokázal jsem to! Tentokrát to musí stačit."
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:464
@@ -2455,18 +2440,12 @@ msgstr ""
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1637
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1764
-#, fuzzy
-#| msgid ""
-#| "Spend <span color='#00bbe6' style='italic'>8xp</span> to gain <i>flight</"
-#| "i> and the <i><ref dst='ability_skirmisherskirmisher'>skirmisher</ref></"
-#| "i> ability until the start of your next turn or until cancelled."
 msgid ""
 "Spend 8 XP to gain flight and the skirmisher ability until the start of your "
 "next turn or until cancelled."
 msgstr ""
-"Za <span color='#00bbe6' style='italic'>8 zk. bodů</span> získáš schopnost "
-"<i><létání/i> a <i><ref dst='ability_skirmisherskirmisher'>průbojnost</ref></"
-"i> až do začátku svého dalšího kola nebo do zrušení."
+"Za 8 zkušenostních bodů získáš schopnosti létání a průbojnost až do začátku "
+"svého dalšího kola nebo do zrušení."
 
 #. [message]
 #. pale spy meaning Asheviere. Referencing Asheviere resolving to kill Garard, and working with orcs to arrange the events of the next two scenarios
