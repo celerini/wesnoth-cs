@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-17 20:02-0600\n"
-"PO-Revision-Date: 2025-09-11 00:50+0200\n"
+"PO-Revision-Date: 2025-11-23 10:57+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -314,10 +314,8 @@ msgstr ""
 
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:104
-#, fuzzy
-#| msgid "Bare Branch"
 msgid "Wose Branch"
-msgstr "Holá větev"
+msgstr "Stromova větev"
 
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:106
@@ -331,10 +329,8 @@ msgstr ""
 
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:175
-#, fuzzy
-#| msgid "Legends of the North"
 msgid "Echoes of the Earth"
-msgstr "Legends of the North"
+msgstr "Ozvěny země"
 
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:177
