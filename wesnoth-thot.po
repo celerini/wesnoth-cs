@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-18 02:02 UTC\n"
-"PO-Revision-Date: 2025-11-24 21:00+0100\n"
+"PO-Revision-Date: 2025-11-25 21:56+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -594,14 +594,12 @@ msgstr ""
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:172
-#, fuzzy
-#| msgid ""
-#| "I’m surprised myself that so many of the orcish tribes came over to the "
-#| "Alliance."
 msgid ""
 "I’m surprised myself that so many of the orcish tribes came over to the "
 "Alliance. Not so strange to see humans raiding us, worse luck."
-msgstr "Sám jsem byl překvapen, kolik skřetích kmenů přešlo k Alianci."
+msgstr ""
+"Sám jsem byl překvapen, kolik skřetích kmenů přešlo k Alianci. Není se co "
+"divit, že na nás lidé dělají nájezdy, což je horší."
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:177
@@ -615,22 +613,20 @@ msgstr "Patříme."
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:185
-#, fuzzy
-#| msgid "Well, then, honor the treaty as I have."
 msgid "Well, then, honor the treaty as I have. Fight to repel these invaders."
-msgstr "Dobrá, dodržte teda smlouvu, co nás spojuje."
+msgstr ""
+"Dobrá, dodržte teda smlouvu, co nás spojuje. Bojujte, abyste odrazili tyhle "
+"útočníky."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:189
-#, fuzzy
-#| msgid "That is our duty. For the Alliance!"
 msgid "That is our duty."
-msgstr "Je to naše povinnost. Za Alianci!"
+msgstr "Je to naše povinnost."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:193
 msgid "For the Alliance! Axes up!"
-msgstr ""
+msgstr "Za Alianci! Pozvedněte sekery!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:201
@@ -649,10 +645,8 @@ msgstr "Pomoz Marth-Takovi porazit Gorthase"
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:929
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1094
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1138
-#, fuzzy
-#| msgid "Death of Angarthing"
 msgid "Death of Aiglondur or Angarthing"
-msgstr "Angarthing zemře"
+msgstr "Aiglondur nebo Angarthing zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:209
@@ -673,29 +667,22 @@ msgstr ""
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:255
-#, fuzzy
-#| msgid ""
-#| "What matters is that these raiders are defeated now. My thanks to you, "
-#| "Marth-Tak, for proving there are orcs I can fight alongside rather than "
-#| "against. But we cannot linger here to celebrate; we are journeying east."
 msgid ""
 "My thanks to you, for proving there are orcs I can fight alongside rather "
 "than against. But we cannot linger here to celebrate; we are journeying east."
 msgstr ""
-"Důležité je, že tito nájezdníci jsou teď poraženi. Děkuji ti Marth-Taku, že "
-"jsi prokázal, že existují skřeti, co stojí za to, abychom bojovali po jejich "
-"boku, místo proti nim. Ale nemůžeme tu dál otálet a oslavovat. Cestujeme na "
-"východ."
+"Děkuji ti, že jsi prokázal, že existují skřeti, co stojí za to, abychom "
+"bojovali po jejich boku, místo proti nim. Ale nemůžeme tu dál otálet "
+"a oslavovat. Cestujeme na východ."
 
 #. [message]: speaker=Marth-Tak
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/03_Strange_Allies.cfg:259
-#, fuzzy
-#| msgid ""
-#| "East, eh? You won’t find many friends in that direction. Travel safely."
 msgid ""
 "East, eh? You won’t find many friends in that direction. There’s talk of "
 "wolves, and worse. Travel safely."
-msgstr "Na východ? Tam nenajdete moc přátelskejch tvorů. Cestujte vopatrně."
+msgstr ""
+"Na východ? Tam nenajdete moc přátelskejch tvorů. Prej jsou tam vlci a ještě "
+"horší věci. Cestujte vopatrně."
 
 #. [scenario]: id=04_High_Pass
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:5
@@ -712,15 +699,12 @@ msgstr ""
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:118
-#, fuzzy
-#| msgid ""
-#| "Behold, the High Pass. By the old maps, we are halfway to Kal Kartha here."
 msgid ""
 "Behold, the High Pass. By the old maps, we are two months’ journey from Kal "
 "Kartha here."
 msgstr ""
-"Hleďte, Vysoký průsmyk. Podle staré mapy bychom měli být v půlce cesty do "
-"Kal Karthy."
+"Hleďte, Vysoký průsmyk. Podle staré mapy je to odtud dva měsíce cesty do Kal "
+"Karthy."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:122
@@ -750,10 +734,8 @@ msgstr ""
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:144
-#, fuzzy
-#| msgid "Death of Angarthing"
 msgid "Death of Aiglondur, Angarthing"
-msgstr "Angarthing zemře"
+msgstr "Aiglondur a Angarthing zemřou"
 
 #. [note]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:152
@@ -838,7 +820,7 @@ msgstr ""
 #. [side]: type=Drake Flameheart, id=Glashal
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:39
 msgid "Glashal"
-msgstr ""
+msgstr "Glašal"
 
 #. [side]: type=Arch Mage, id=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:71
@@ -878,14 +860,12 @@ msgstr ""
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:157
-#, fuzzy
-#| msgid ""
-#| "A delegation of the Northern Alliance, seeking the road through to Kal "
-#| "Kartha."
 msgid ""
 "A delegation of the Northern Alliance, traveling east. I believe we’ve found "
 "a friend of yours in the High Pass."
-msgstr "Vyslanci Severní aliance. Hledáme tudy cestu do Kal Karthy."
+msgstr ""
+"Vyslanci Severní aliance. Cestujeme na východ. Myslím, že jsme ve Vysokém "
+"průsmyku našli vašeho přítele."
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:161
@@ -927,10 +907,8 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:192
-#, fuzzy
-#| msgid "Defeat Bashnark"
 msgid "Defeat Glashal"
-msgstr "Poraz Bašnarka"
+msgstr "Poraz Glašala"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:200
