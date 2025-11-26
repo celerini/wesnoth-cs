@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-18 02:02 UTC\n"
-"PO-Revision-Date: 2025-11-25 21:56+0100\n"
+"PO-Revision-Date: 2025-11-26 21:55+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -992,25 +992,21 @@ msgstr "Vesničané"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:131
-#, fuzzy
-#| msgid ""
-#| "We should be on the outskirts of the settled country around Kal Kartha, "
-#| "but something doesn’t feel right here."
 msgid ""
 "The maps show a village nearby. Their keep should be just ahead, but "
 "something doesn’t feel right."
 msgstr ""
-"Měli bychom teď být v blízkosti obydlené krajiny okolo Kal Karthy, ale něco "
-"tu není v pořádku."
+"Podle map jsme blízko vesnice. Jejich tvrz by měla být hned před námi, ale "
+"něco tu není v pořádku."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:135
-#, fuzzy
-#| msgid "It’s too quiet... and I think I smell traces of smoke on the wind."
 msgid ""
 "It’s too quiet... and I think I smell traces of smoke on the wind. There has "
 "been fire near here recently, and not a clean one."
-msgstr "Je podezřelé ticho... a myslím, že ve větru cítím kouř."
+msgstr ""
+"Je podezřelé ticho... a myslím, že ve větru cítím kouř. Nedávno tu někde "
+"hořelo a nebyl to čistý oheň."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:139
@@ -1020,10 +1016,8 @@ msgstr "Vyhledejme nějaké obyvatele. Mohli by nám říct víc."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:147
-#, fuzzy
-#| msgid "Defeat the orcish leaders"
 msgid "Defeat the enemy leader"
-msgstr "Poraz skřetí vůdce"
+msgstr "Poraz nepřátelského vůdce"
 
 #. [event]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:218
@@ -1139,14 +1133,12 @@ msgstr ""
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:363
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:252
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:370
-#, fuzzy
-#| msgid "They are too powerful! Retreat!"
 msgid "They are defeated!"
-msgstr "Sou příliš silný! Zdrháme!"
+msgstr "Jsou poraženi!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:374
@@ -1228,30 +1220,22 @@ msgstr "Kdo vyrušuje náš les?"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:181
-#, fuzzy
-#| msgid ""
-#| "A delegation of the Northern Alliance, seeking the road through to Kal "
-#| "Kartha."
 msgid ""
 "A delegation of the Northern Alliance, urgently seeking the road through to "
 "Kal Kartha."
-msgstr "Vyslanci Severní aliance. Hledáme tudy cestu do Kal Karthy."
+msgstr ""
+"Vyslanci Severní aliance. Nutně hledáme cestu, kterou se dostaneme do Kal "
+"Karthy."
 
 #. [message]: speaker=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:186
-#, fuzzy
-#| msgid ""
-#| "We allow few outsiders in our forest paths, and no dwarves since the "
-#| "masked ones began to trouble our eastern margins. No axe-bearers shall "
-#| "come near our trees. Return whence you came!"
 msgid ""
 "We allow few outsiders in our forest paths, and no dwarves since the war in "
 "the east. No axe-bearers shall come near our trees. Return whence you came!"
 msgstr ""
-"Dovolili jsme jít po našich lesních stezkách jen několika cizincům a už "
-"žádným trpaslíkům od té doby, co ti maskovaní začali dělat problémy na naší "
-"východní hranici. Nikdo, kdo nosí sekeru, se nesmí přiblížit k našim "
-"stromům. Vraťte se, odkud jste přišli!"
+"Dovolili jsme jít po našich lesních stezkách jen několika cizincům a od "
+"války na východě už žádným trpaslíkům. Nikdo, kdo nosí sekeru, se nesmí "
+"přiblížit k našim stromům. Vraťte se, odkud jste přišli!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:191
@@ -1275,20 +1259,16 @@ msgstr "To nejde. Máme poslání. Musíme jít dál."
 #. [message]: speaker=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:206
 msgid "You shall not pass here."
-msgstr "Neprojdete."
+msgstr "Tudy neprojdete."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:211
-#, fuzzy
-#| msgid ""
-#| "Winter comes on our heels, and your forest straddles the only gap in "
-#| "these mountains. You leave us no choice but to fight you."
 msgid ""
 "We must aid our kin. If you will not let us through peacefully, you leave us "
 "no choice but to fight."
 msgstr ""
-"Zima je nám v patách a váš les představuje jedinou mezeru v těchto horách. "
-"Nedáváte nám na výběr. Musíme se probít."
+"Musíme pomoci našim příbuzným. Pokud nás nenecháte projít v míru, nezbývá "
+"nám nic jiného než bojovat."
 
 #. [message]: speaker=Elurin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:216
@@ -1299,10 +1279,8 @@ msgstr "Ať se stane. Vaše kosti nebudou první, které pohnojí zem tohoto les
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:239
-#, fuzzy
-#| msgid "Move both Aiglondur and Angarthing to the eastern signpost"
 msgid "Move both Aiglondur and Angarthing to the eastern edge of the map"
-msgstr "Dostaň Aiglondura i Angarthinga k ukazateli na východě"
+msgstr "Dostaň Aiglondura i Angarthinga k východnímu okraji mapy"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:270
@@ -1318,10 +1296,8 @@ msgstr ""
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:320
-#, fuzzy
-#| msgid "Kal Kartha should be only another day’s march north of here."
 msgid "Kal Kartha should be only another week’s march east of here."
-msgstr "Kal Kartha by měla být jen den cesty odtud na sever."
+msgstr "Kal Kartha by měla být jen týden cesty odtud na východ."
 
 #. [scenario]: id=08_The_Siege_of_Kal_Kartha
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:5
@@ -1330,10 +1306,8 @@ msgstr "Kal Kartha v obležení"
 
 #. [side]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:37
-#, fuzzy
-#| msgid "Kal Karthans"
 msgid "Kal Kartha"
-msgstr "Obyvatelé Kal Karthy"
+msgstr "Kal Kartha"
 
 #. [event]
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:137
