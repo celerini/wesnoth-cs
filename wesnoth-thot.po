@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-18 02:02 UTC\n"
-"PO-Revision-Date: 2025-11-26 21:55+0100\n"
+"PO-Revision-Date: 2025-11-27 18:20+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1317,10 +1317,8 @@ msgstr "Západní brána"
 #. [message]: speaker=Angarthing
 #. Angarthing specifies that Kal Kartha has many entrances. This helps explain how the Fear dwarves managed to leave while the West Gate was under siege.
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:198
-#, fuzzy
-#| msgid "Behold! The West Gate of Kal Kartha!"
 msgid "Behold! The West Gate of Kal Kartha! The largest of their many doors."
-msgstr "Podívejte! Západní brána Kal Karthy na dohled!"
+msgstr "Podívejte! Západní brána Kal Karthy! Největší z jejích mnoha bran."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:204
@@ -1340,21 +1338,17 @@ msgstr ""
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:212
-#, fuzzy
-#| msgid "Let us bring our kin that orc’s head as a guesting-gift."
 msgid ""
 "There is a mighty host between us and our kin. Let us bring them that orc’s "
 "head as a guesting-gift!"
 msgstr ""
-"Pojďme, přineseme našim příbuzným jako dárek na uvítanou hlavy těchhle "
-"skřetů."
+"Mezi námi a našimi příbuznými stojí síla nepřátel. Přinesme našim hlavy těch "
+"skřetů jako dárek na uvítanou!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:219
-#, fuzzy
-#| msgid "Defeat the orcish leaders"
 msgid "Defeat any three orcish leaders"
-msgstr "Poraz skřetí vůdce"
+msgstr "Poraz kterékoli tři skřetí vůdce"
 
 # Návěští scénáře
 #. [objective]: condition=lose
@@ -1387,14 +1381,11 @@ msgstr ""
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:344
-#, fuzzy
-#| msgid ""
-#| "Hail, fellow dwarves. All Kal Kartha thanks you for your timely rescue."
 msgid ""
 "Hail, fellow dwarves! Well fought, and our thanks; we were sorely pressed."
 msgstr ""
-"Buďte pozdraveni, přátelé. My všichni vám za včasnou záchranu skládáme své "
-"díky."
+"Buďte pozdraveni, přátelé. Bojovali jste statečně a za to vám děkujeme. Byli "
+"jsme ve velké tísni."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:348
@@ -1412,20 +1403,14 @@ msgstr ""
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:356
-#, fuzzy
-#| msgid ""
-#| "Well fought, and our thanks; we were sore pressed. You are our honored "
-#| "guests, and I will show you to the best quarters we have myself. Our "
-#| "lord, the runemaster Karrag, will want to have speech with you on the "
-#| "morrow."
 msgid ""
 "You are our honored guests, and I will show you to the best quarters we have "
 "myself. Then I must see to my troop’s care. Lord Karrag will have speech "
 "with you on the morrow."
 msgstr ""
-"Dobře jste bojovali, děkujeme vám. Byli jsme pod velkým tlakem. Buďte našimi "
-"čestnými hosty. Poskytnu vám své nejlepší pokoje. Náš pán, mistr run Karrag, "
-"by s vámi chtěl zítra mluvit."
+"Jste našimi čestnými hosty a já vám osobně ukážu nejlepší pokoje, které "
+"máme. Poté se musím postarat o své vojáky. Lord Karrag s vámi bude hovořit "
+"zítra."
 
 #. [scenario]: id=09_The_Court_of_Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:5
@@ -1457,12 +1442,6 @@ msgstr ""
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:139
-#, fuzzy
-#| msgid ""
-#| "Aye? Well, you’d know such things better than I, loremaster. Lord Karrag "
-#| "toiled for long years to recover the craft lore. He was elevated when our "
-#| "old lord fell in battle against the besieging orcs. Karrag himself was "
-#| "wounded near to death; none thought he would recover."
 msgid ""
 "Aye? Well, you’d know such things better than I, loremaster. Our Karrag "
 "toiled for long years to recover the craft lore. He was elevated when our "
@@ -1473,14 +1452,13 @@ msgstr ""
 "Opravdu? No, asi víš o těchto věcech víc než já, obřadníku. Náš Karrag "
 "dlouhé roky dřel, aby to umění obnovil. Byl povýšen, když náš starý pán padl "
 "v bitvě se skřetími obléhateli. Karrag sám byl těžce zraněn. Nikdo si "
-"nemyslel, že se uzdraví."
+"nemyslel, že se uzdraví. Ale dnes nás vede a jeho runové umění bylo často "
+"jedinou ochranou mezi námi a skřety."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:143
-#, fuzzy
-#| msgid "The Hammer of Thursagan?"
 msgid "He has grasped the Hammer of Thursagan, then?"
-msgstr "Thursaganovo kladivo?"
+msgstr "On tedy vládne Thursaganovým kladivem?"
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:147
@@ -1492,19 +1470,17 @@ msgstr ""
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:151
-#, fuzzy
-#| msgid "The Hammer is a tool of crafting and making, not a weapon."
 msgid ""
 "That is strange. The Hammer is a tool of crafting and making, not a weapon. "
 "What can he mean to do with it?"
-msgstr "Kladivo je nástroj pro výrobu a tvoření, není to zbraň."
+msgstr ""
+"To je divné. Kladivo je nástroj pro výrobu a tvoření, není to zbraň. Co "
+"s ním asi chce dělat?"
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:171
-#, fuzzy
-#| msgid "We are."
 msgid "We are here."
-msgstr "Patříme."
+msgstr "Jsme tu."
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:188
@@ -1520,10 +1496,8 @@ msgstr ""
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:196
-#, fuzzy
-#| msgid "Indeed. There is something very wrong here."
 msgid "I see it. There is something very wrong here."
-msgstr "Pravdu díš. Je tu něco hodně špatně."
+msgstr "Vidím to. Tady je něco hodně špatně."
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:200
