@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-18 02:02 UTC\n"
-"PO-Revision-Date: 2025-11-27 18:20+0100\n"
+"PO-Revision-Date: 2025-11-28 07:54+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1501,15 +1501,12 @@ msgstr "Vidím to. Tady je něco hodně špatně."
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:200
-#, fuzzy
-#| msgid ""
-#| "Hail, fellow dwarves. All Kal Kartha thanks you for your timely rescue."
 msgid ""
 "It is good to once more host Knalgans in these halls. All Kal Kartha thanks "
 "you for your timely rescue."
 msgstr ""
-"Buďte pozdraveni, přátelé. My všichni vám za včasnou záchranu skládáme své "
-"díky."
+"Je dobré zas jednou v těchto sálech hostit Knalgany. My všichni vám za "
+"včasnou záchranu skládáme své díky."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:204
@@ -1522,18 +1519,12 @@ msgstr ""
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:208
-#, fuzzy
-#| msgid ""
-#| "All dwarves are kin, and must prevail against orcs and humans and other "
-#| "dirtgrubbers. You can be part of the fist that smites them through the "
-#| "power of our ancient heirloom, the Hammer of Thursagan."
 msgid ""
 "All dwarves are kin, and must prevail against orcs and humans and other "
 "dirtgrubbers. You can be part of the fist that smites them."
 msgstr ""
 "Všichni trpaslíci jsou bratři a musí si podrobit skřety, lidi a jiné "
-"hlínohraby. I vy můžete být tou pěstí, která na ně drtivě udeří silou "
-"Thursaganova kladiva, našeho starodávného dědictví."
+"hlínohraby. I vy můžete být tou pěstí, která na ně drtivě udeří."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:212
@@ -1542,19 +1533,14 @@ msgstr ""
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:216
-#, fuzzy
-#| msgid ""
-#| "All dwarves are kin, and must prevail against orcs and humans and other "
-#| "dirtgrubbers. You can be part of the fist that smites them through the "
-#| "power of our ancient heirloom, the Hammer of Thursagan."
 msgid ""
 "Trade? Your destruction of the besieging orcs was a far nobler act than "
 "trade. There can be more such victories. And there will be by the power of "
 "our ancient heirloom, the Hammer of Thursagan."
 msgstr ""
-"Všichni trpaslíci jsou bratři a musí si podrobit skřety, lidi a jiné "
-"hlínohraby. I vy můžete být tou pěstí, která na ně drtivě udeří silou "
-"Thursaganova kladiva, našeho starodávného dědictví."
+"Obchod? Vaše zničení obléhajících skřetů bylo mnohem ušlechtilejším činem "
+"než obchod. Takových vítězství může být více. A také bude, díky síle našeho "
+"starodávného dědictví, Thursaganova kladiva."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:220
@@ -1579,16 +1565,12 @@ msgstr ""
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:236
-#, fuzzy
-#| msgid ""
-#| "Quiet, Movrur. Loremaster, you... do not wish to see what is beneath this "
-#| "mask. I was terribly wounded in an orcish attack. Disfigured."
 msgid ""
 "You... do not wish to see what is beneath this mask. I was terribly wounded "
 "in an orcish attack. Disfigured."
 msgstr ""
-"Tiše, Movrure. A ty, obřadníku... nepřej si vidět, co je za tou maskou. Byl "
-"jsem těžce zraněn během skřetího útoku. Jsem zohyzděn."
+"Ty... nepřej si vidět, co je za tou maskou. Byl jsem těžce zraněn během "
+"skřetího útoku. Jsem zohyzděn."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:240
@@ -1601,18 +1583,12 @@ msgstr ""
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:244
-#, fuzzy
-#| msgid ""
-#| "Master, you need not answer to this fool. Even for a loremaster, to "
-#| "dictate to a lord in his own holding... and one who holds the very soul "
-#| "of the dwarves in his hand. It is unthinkable!"
 msgid ""
 "Impertinent fool! It is not for you to dictate to a lord in his own holding, "
 "much less one who holds the very soul of the dwarves in his hand."
 msgstr ""
-"Pane, nemusíte tomu bláznovi odpovídat. Ani obřadník by neměl poroučet pánu "
-"v jeho vlastní državě, tím méně tomu, kdo třímá ve svých rukou samotnou duši "
-"trpaslíků. To je nemyslitelné!"
+"Drzý blázne! Není na tobě, abys poroučel pánu v jeho vlastní državě, tím "
+"méně tomu, kdo třímá ve svých rukou samotnou duši trpaslíků."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:248
@@ -1623,19 +1599,17 @@ msgstr "Zákon hovoří jasně. Před ním neobstojí žádný klam. JSEM DOHLÍ
 
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:256
-#, fuzzy
-#| msgid "So you say."
 msgid "As you wish."
-msgstr "To říkáš ty."
+msgstr "Jak si přeješ."
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:287
-#, fuzzy
-#| msgid "No... no... it is horrible! My lord, how did you come to this?"
 msgid ""
 "An empty skull?! A lich?! No... no... it is horrible! My lord, how did you "
 "come to this?"
-msgstr "Ne... ne... to je strašné! Co se vám to stalo můj pane?"
+msgstr ""
+"Prázdná lebka?! Lich?! Ne... ne... to je strašné! Co se vám to stalo, můj "
+"pane?"
 
 # říká Karrag (lich)
 #. [message]: speaker=Karrag
@@ -1652,12 +1626,6 @@ msgstr ""
 # říká Karrag (lich)
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:300
-#, fuzzy
-#| msgid ""
-#| "And you have sealed your doom. Hundreds of dirtgrubbers have already died "
-#| "to weave a web of blood around the Hammer and the soul of the dwarves. "
-#| "You and your new friends will be the last sacrifices I require to bind "
-#| "the entire dwarvish race to my purpose. TAKE THEM!"
 msgid ""
 "And you have sealed your doom. Hundreds of dirtgrubbers have already died to "
 "weave a web of blood around the Hammer and the soul of the dwarves. You and "
@@ -1668,7 +1636,7 @@ msgstr ""
 "A vy jste zpečetili svůj osud. Stovky hlínohrabů již zemřely, aby utkaly síť "
 "krve kolem kladiva a duše trpaslíků. Vy a vaši noví přátelé budete tou "
 "poslední obětí, jež dokoná připojení veškeré trpasličí rasy k mému záměru. "
-"CHOPTE SE JICH!"
+"Chopte se Knalganů a také Dulkatula! CHOPTE SE JICH!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:346
@@ -1709,31 +1677,23 @@ msgstr ""
 
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:487
-#, fuzzy
-#| msgid ""
-#| "Then Karrag has fled to the underlevels. None but his masked ones go "
-#| "there any more."
 msgid ""
 "Then Karrag has fled to the underlevels. None but the masked ones — his "
 "inner circle — go there any more."
 msgstr ""
-"Potom utekl do podzemí. Nikdo, kromě těchhle zamaskovanců, tam nechodil."
+"Potom utekl do podzemí. Nikdo kromě těchhle zamaskovanců – jeho "
+"nejbližších – už tam nechodí."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:491
-#, fuzzy
-#| msgid ""
-#| "We must follow. Quickly! It may be his talk of perverting the Hammer was "
-#| "merely mad raving, but we cannot allow the risk that his foul spell might "
-#| "succeed."
 msgid ""
 "We must follow. Quickly, and seal the entrance behind us! It may be his talk "
 "of perverting the Hammer was merely mad raving, but we cannot allow the risk "
 "that his foul spell might succeed."
 msgstr ""
-"Musíme za ním. Rychle! Jeho řeči o zneužití kladiva mohly být jen bláhovým "
-"blouzněním, ale my si nemůžeme dovolit riskovat. Co kdyby jeho bídné "
-"kouzlení fungovalo."
+"Musíme za ním. Rychle, a uzavřete za námi vchod! Možná, že jeho řeči "
+"o zneužití kladiva mohly být jen bláhovým blouzněním, ale my si nemůžeme "
+"dovolit riskovat. Co kdyby jeho bídné kouzlení fungovalo."
 
 #. [scenario]: id=10_The_Underlevels
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:5
