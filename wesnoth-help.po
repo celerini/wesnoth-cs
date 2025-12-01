@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-17 20:02-0600\n"
-"PO-Revision-Date: 2025-11-21 07:49+0100\n"
+"PO-Revision-Date: 2025-12-01 20:58+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6133,7 +6133,7 @@ msgstr ""
 #. [trait]: id=oceangoing
 #: data/core/macros/traits.cfg:386
 msgid "oceangoing"
-msgstr ""
+msgstr "námořní"
 
 #. [trait]: id=oceangoing
 #. this is a defense reduction - without this ability most oceangoing ships would have 30% defense on these terrains
@@ -6142,12 +6142,14 @@ msgid ""
 "This unit is limited to 20% defense while in ford, bridge, oasis, or water-"
 "based village/castle terrain."
 msgstr ""
+"Obrana této jednotky je omezena na 20 %, pokud se nachází v terénu brod, "
+"most, oáza nebo vodní vesnice či hrad."
 
 #. [trait]: id=push_poles
 #. https://en.wikipedia.org/wiki/Setting_pole
 #: data/core/macros/traits.cfg:416
 msgid "push-poles"
-msgstr ""
+msgstr "pobřežní"
 
 #. [trait]: id=push_poles
 #: data/core/macros/traits.cfg:417
@@ -6155,6 +6157,8 @@ msgid ""
 "This unit has 30% defense while in ford, bridge, oasis, or water-based "
 "village/castle terrain."
 msgstr ""
+"Tato jednotka má obranu 30 %, pokud se nachází v terénu brod, most, oáza "
+"nebo vodní vesnice či hrad."
 
 #. [disable]: id=unwieldy
 #: data/core/macros/weapon_specials.cfg:7
