@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-10-21 01:10 UTC\n"
-"PO-Revision-Date: 2025-11-16 08:12+0100\n"
+"PO-Revision-Date: 2025-12-02 20:59+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4500,7 +4500,7 @@ msgstr "Xenofobie"
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:30
 msgid "Part II: The Wildlands"
-msgstr ""
+msgstr "Část II: Divočina"
 
 #. [part]
 #: data/campaigns/Eastern_Invasion/scenarios/08_Xenophobia.cfg:35
@@ -5313,7 +5313,7 @@ msgstr ""
 #. other units are taking damage from the cold, but this unit is immune (through the elixir or yetiburger)
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:768
 msgid "resist"
-msgstr ""
+msgstr "odolává"
 
 #. [message]: id=Gweddry,Owaec
 #: data/campaigns/Eastern_Invasion/scenarios/09_Castle_in_the_Ice.cfg:824
@@ -7218,7 +7218,7 @@ msgstr ""
 #. [floating_text]
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:932
 msgid "weapons restored"
-msgstr ""
+msgstr "zbraně navráceny"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/11_Captured.cfg:953
@@ -9069,7 +9069,7 @@ msgstr "Ten amulet si dělá co chce! Já musím..."
 #. up to 6 ghosts or wraiths come out of the chasms, depending on difficulty and how many auto-recalled loyals the player has
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1066
 msgid "And most importantly..."
-msgstr ""
+msgstr "A co je nejdůležitější..."
 
 #. [event]
 #: data/campaigns/Eastern_Invasion/scenarios/14_The_Drowned_Plains.cfg:1073
@@ -14260,31 +14260,6 @@ msgstr ""
 "věznicích a teď o tom může vyprávět. Přeživší si nesou těžké břemeno z doby "
 "strávené v zajetí, ale také se naučili mnohé o silných a slabých stránkách "
 "svých bývalých věznitelů."
-
-#~ msgid ""
-#~ "<span font_family='WesScript' size='90000'>\n"
-#~ "\n"
-#~ "\n"
-#~ "<i>Part II: The Wildlands </i></span>"
-#~ msgstr ""
-#~ "<span font_family='WesScript' size='90000'>\n"
-#~ "\n"
-#~ "\n"
-#~ "<i>Část II: Divočina </i></span>"
-
-#~ msgid "<span color='#00FF00' size='small'>resist</span>"
-#~ msgstr "<span color='#00FF00' size='small'>odolává</span>"
-
-#~ msgid "<span size='small' font-style='italic'>AAAAHHHH!</span>"
-#~ msgstr "<span size='small' font-style='italic'>AAAAHHHH!</span>"
-
-#~ msgid "<span color='#00FF00' size='x-small'>weapons restored</span>"
-#~ msgstr "<span color='#00FF00' size='x-small'>zbraně obnoveny</span>"
-
-#~ msgid ""
-#~ "<span size='small' font-style='italic'>And most importantly...</span>"
-#~ msgstr ""
-#~ "<span size='small' font-style='italic'>A co je nejdůležitější...</span>"
 
 #~ msgid "female^Shadow Lord"
 #~ msgstr "Stínová paní"
