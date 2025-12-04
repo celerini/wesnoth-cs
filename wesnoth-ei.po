@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-10-21 01:10 UTC\n"
-"PO-Revision-Date: 2025-12-03 20:37+0100\n"
+"PO-Revision-Date: 2025-12-04 22:48+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -14335,49 +14335,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Pah, zachránil jsem vás, barbary, před invazí a tohle je poděkování! A "
 #~ "kde je moje trojnásobná mzda? Tolik k seveřanské štědrosti!"
-
-#~ msgid "Urban"
-#~ msgstr "Městský"
-
-#~ msgid ""
-#~ "Densely packed structures are less suitable for garrison than traditional "
-#~ "villages, providing no income or healing. They are difficult to navigate "
-#~ "quickly, but offer significant protection."
-#~ msgstr ""
-#~ "Hustě namačkané stavby jsou pro posádku méně vhodné než tradiční vesnice, "
-#~ "neposkytují žádný příjem ani léčení. Je obtížné se v nich rychle "
-#~ "orientovat, ale nabízí významnou ochranu."
-
-#~ msgid "Urban Jungle"
-#~ msgstr "Městská džungle"
-
-#~ msgid ""
-#~ "In this campaign, whenever a max-level unit advances, they can select one "
-#~ "of several minor bonuses!"
-#~ msgstr ""
-#~ "V této kampani si může jednotka na maximální úrovni při každém postupu "
-#~ "vybrat jeden z několika menších bonusů!"
-
-#~ msgid "Gain +8 hitpoints."
-#~ msgstr "Získat +8 životů."
-
-#~ msgid "Gain +4 melee damage."
-#~ msgstr "Získat +4 poškození pro boj zblízka."
-
-#~ msgid "Gain +2 melee damage."
-#~ msgstr "Získat +2 poškození pro boj zblízka."
-
-#~ msgid "Gain +1 melee damage."
-#~ msgstr "Získat +1 poškození pro boj zblízka."
-
-#~ msgid "Gain +3 ranged damage."
-#~ msgstr "Získat +3 poškození pro boj na dálku."
-
-#~ msgid "Gain +2 ranged damage."
-#~ msgstr "Získat +2 poškození pro boj na dálku."
-
-#~ msgid "Gain +1 ranged damage."
-#~ msgstr "Získat +1 poškození pro boj na dálku."
 
 #~ msgid "-I... -I am no lich! I am no harbinger of darkness, unlike Ravan!"
 #~ msgstr ""
