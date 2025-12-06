@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-17 20:02-0600\n"
-"PO-Revision-Date: 2025-11-23 10:57+0100\n"
+"PO-Revision-Date: 2025-12-06 22:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -273,7 +273,7 @@ msgstr "Ukázat nad obráncem zmínku, když ho útok mine."
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:45
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:46
 msgid "Potion grants steadfast ability and 20% resistance to impact."
-msgstr ""
+msgstr "Lektvar poskytuje schopnost vytrvalosti a 20% odolnost proti úderu."
 
 #. [option]
 #. [button]: id=ok
@@ -294,7 +294,7 @@ msgstr "Modrý lektvar"
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:30
 msgid "A potion of unknown origin."
-msgstr ""
+msgstr "Lektvar neznámého původu."
 
 #. [option]
 #. [button]: id=cancel
@@ -310,7 +310,7 @@ msgstr "Ne"
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:98
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:121
 msgid "This magical branch grants +2 damage to melee attacks."
-msgstr ""
+msgstr "Tato kouzelná větev dává +2 ke zranění při útocích zblízka."
 
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:104
@@ -320,12 +320,12 @@ msgstr "Stromova větev"
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:106
 msgid "The magical branch of some great Wose."
-msgstr ""
+msgstr "Kouzelná větev nějakého velkého stromového muže."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:169
 msgid "This unit will gain the stun weapon special on melee attacks."
-msgstr ""
+msgstr "Tato jednotka získá pro zbraň zvláštnost omráčení při útocích zblízka."
 
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:175
@@ -335,12 +335,12 @@ msgstr "Ozvěny země"
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:177
 msgid "Powerful echoes from the bowels of the earth."
-msgstr ""
+msgstr "Mocná ozvěna z útrob země."
 
 #. [message]: speaker=$unit.id|
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:189
 msgid "The unit gains the stun weapon special on melee attacks."
-msgstr ""
+msgstr "Jednotka získává pro zbraň zvláštnost omráčení při útocích zblízka."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:207
@@ -348,16 +348,18 @@ msgid ""
 "After $unit.name| absorbed the stone’s power, the monolith lost its magical "
 "properties."
 msgstr ""
+"Poté, co $jednotka.jméno| vstřebal/a sílu kamene, monolit ztratil své "
+"kouzelné vlastnosti."
 
 #. [chance_to_hit]: id=unerring
 #: data/campaigns/Dusk_of_Dawn/utils/weapon_specials.cfg:4
 msgid "unerring"
-msgstr ""
+msgstr "jistý"
 
 #. [chance_to_hit]: id=unerring
 #: data/campaigns/Dusk_of_Dawn/utils/weapon_specials.cfg:5
 msgid "This attack never misses."
-msgstr ""
+msgstr "Tento útok nikdy nemine."
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
