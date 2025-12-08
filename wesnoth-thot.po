@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-18 02:02 UTC\n"
-"PO-Revision-Date: 2025-11-29 09:50+0100\n"
+"PO-Revision-Date: 2025-12-08 20:10+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -38,7 +38,7 @@ msgstr "TK"
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:39
 msgid "1x enemies"
-msgstr ""
+msgstr "1x nepřátelé"
 
 # Volba obtížnosti
 #. [campaign]: id=The_Hammer_of_Thursagan
@@ -49,7 +49,7 @@ msgstr "Lehká"
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:40
 msgid "2x enemies"
-msgstr ""
+msgstr "2x nepřátelé"
 
 # Volba obtížnosti
 #. [campaign]: id=The_Hammer_of_Thursagan
@@ -60,22 +60,22 @@ msgstr "Normální"
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:41
 msgid "3x enemies"
-msgstr ""
+msgstr "3x nepřátelé"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:41
 msgid "Hard"
-msgstr ""
+msgstr "Těžká"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:42
 msgid "4x enemies"
-msgstr ""
+msgstr "4x nepřátelé"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:42
 msgid "Deadly"
-msgstr ""
+msgstr "Smrtící"
 
 #. [campaign]: id=The_Hammer_of_Thursagan
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:45
@@ -2580,22 +2580,6 @@ msgstr ""
 #: data/campaigns/The_Hammer_of_Thursagan/utils/herodeaths.cfg:60
 msgid "At least I die with my axe in my hand..."
 msgstr ""
-
-# Volba obtížnosti
-#~ msgid "Fighter"
-#~ msgstr "Bojovník"
-
-# Volba obtížnosti
-#~ msgid "Steelclad"
-#~ msgstr "Těžkooděnec"
-
-# Volba obtížnosti
-#~ msgid "Challenging"
-#~ msgstr "Náročná"
-
-# Volba obtížnosti
-#~ msgid "Lord"
-#~ msgstr "Lord"
 
 #~ msgid ""
 #~ "Hail, kinsmen of Knalga. I have been tracking that orc for several days. "
