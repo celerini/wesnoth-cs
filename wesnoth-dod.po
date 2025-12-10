@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-19 09:43 UTC\n"
-"PO-Revision-Date: 2025-11-20 23:01+0100\n"
+"PO-Revision-Date: 2025-12-10 20:42+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -43,12 +43,12 @@ msgstr ""
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:22
 msgid "(Novice level, 4 scenarios)"
-msgstr ""
+msgstr "(Úroveň nováček, 4 scénáře.)"
 
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:26
 msgid "Easy"
-msgstr ""
+msgstr "Lehká"
 
 #. [campaign]: id=Dusk_of_Dawn
 #. [unit]: type=Fire Wraith, id=SK
@@ -57,7 +57,7 @@ msgstr ""
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:56
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:410
 msgid "Spark"
-msgstr ""
+msgstr "Jiskra"
 
 #. [campaign]: id=Dusk_of_Dawn
 #. [modify_unit]: id=FE
@@ -65,12 +65,12 @@ msgstr ""
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1449
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1147
 msgid "Flame"
-msgstr ""
+msgstr "Plamen"
 
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:27
 msgid "Normal"
-msgstr ""
+msgstr "Normální"
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:30

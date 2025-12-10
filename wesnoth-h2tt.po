@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-19 09:50 UTC\n"
-"PO-Revision-Date: 2025-11-20 23:01+0100\n"
+"PO-Revision-Date: 2025-12-10 20:41+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -43,47 +43,47 @@ msgstr ""
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:69
 msgid "(Intermediate level, 14 scenarios.)"
-msgstr ""
+msgstr "(Úroveň pokročilý hráč, 14 scénářů.)"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:71
 msgid "1x enemies, 16 scenarios"
-msgstr ""
+msgstr "1x nepřátelé, 16 scénářů"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:71
 msgid "Easy"
-msgstr ""
+msgstr "Lehká"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:72
 msgid "2x enemies, 14 scenarios"
-msgstr ""
+msgstr "2x nepřátelé, 14 scénářů"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:72
 msgid "Normal"
-msgstr ""
+msgstr "Normální"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:73
 msgid "3x enemies, 12 scenarios"
-msgstr ""
+msgstr "3x nepřátelé, 12 scénářů"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:73
 msgid "Hard"
-msgstr ""
+msgstr "Těžká"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:74
 msgid "4x enemies, 10 scenarios"
-msgstr ""
+msgstr "4x nepřátelé, 10 scénářů"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:74
 msgid "Deadly"
-msgstr ""
+msgstr "Smrtící"
 
 #. [about]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:86
