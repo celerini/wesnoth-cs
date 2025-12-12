@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-19 09:43 UTC\n"
-"PO-Revision-Date: 2025-12-10 20:42+0100\n"
+"PO-Revision-Date: 2025-12-12 19:48+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -32,6 +32,8 @@ msgid ""
 "Deep underneath the Heart Mountains, a new tribe of trolls awakens. Help "
 "them grow and eventually fulfill Ougl Firstborn’s biggest dream."
 msgstr ""
+"Hluboko pod Srdcovými horami se probouzí nový kmen trollů. Pomoz jim vyrůst "
+"a nakonec splnit největší sen Ougla Prvorozeného."
 
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:20
@@ -39,6 +41,8 @@ msgid ""
 "This is an exerpt from the Book of Crelanu, as transcribed by the Weldyn "
 "Royal Scholars Society."
 msgstr ""
+"Toto je úryvek z Krelanovy knihy, jak jej přepsala Weldynská královská "
+"společnost učenců."
 
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:22
