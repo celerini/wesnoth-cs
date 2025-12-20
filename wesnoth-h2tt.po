@@ -1,11 +1,9 @@
-# Michal Žejdl <lachim@emer.cz>, 2025
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-19 09:50 UTC\n"
-"PO-Revision-Date: 2025-12-19 11:32+0100\n"
+"PO-Revision-Date: 2025-12-20 11:24+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -143,7 +141,7 @@ msgstr "Během <i>Elfů v obležení</i> poraz osobně s Delfadorem 10 nepřá
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:27
 msgid "Complete <i>Flight of the Elves</i> with no elf deaths."
-msgstr "Dokonči <i>Útěk elfů</i> a nenech žádného z nich zahynout."
+msgstr "Dokonči <i>Útěk elfů</i> a nenech žádného z nich zahynout."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:27
@@ -153,22 +151,23 @@ msgstr "Přítel elfů"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:28
 msgid "Calling in the Cavalry"
-msgstr ""
+msgstr "Přivolání kavalerie"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:28
 msgid "Defeat all enemy leaders during <i>Blackwater Port</i>."
-msgstr ""
+msgstr "Během <i>Přístavu Temná Voda</i> poraz všechny nepřátelské vůdce."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:29
 msgid "Persuade an Arch Mage to join your army in <i>Isle of Alduin</i>."
 msgstr ""
+"V <i>Ostrově Alduin</i> přesvědč arcimága, aby se přidal k tvému vojsku."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:29
 msgid "Turncoat"
-msgstr ""
+msgstr "Přeběhlík"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:30
@@ -766,7 +765,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:271
 msgid "Blackwater Port"
-msgstr ""
+msgstr "Přístav Temná Voda"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:290
@@ -948,11 +947,11 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:600
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:98
 msgid "Isle of Alduin"
-msgstr ""
+msgstr "Ostrov Alduin"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:607
 msgid "The Isle of Alduin"
-msgstr ""
+msgstr "Ostrov Alduin"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:617
@@ -990,7 +989,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:650
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:91
 msgid "Seimus"
-msgstr ""
+msgstr "Seimus"
 
 #. [message]: role=alduin_mage_leader
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:674
@@ -6206,7 +6205,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:21
 msgid "scenario name^Blackwater Port"
-msgstr ""
+msgstr "Přístav Temná Voda"
 
 #. [side]: type=Goblin Pillager, id=Mokolo Qimur
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:83
@@ -6983,7 +6982,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:10
 msgid "scenario name^The Isle of Alduin"
-msgstr ""
+msgstr "Ostrov Alduin"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:50
