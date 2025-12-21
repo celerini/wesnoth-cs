@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-18 02:02 UTC\n"
-"PO-Revision-Date: 2025-11-22 08:02+0100\n"
+"PO-Revision-Date: 2025-12-21 07:32+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1540,7 +1540,7 @@ msgstr ""
 #. [scenario]: id=05a_Muff_Malals_Peninsula
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/05a_Muff_Malal_Peninsula.cfg:4
 msgid "Muff Malal’s Peninsula"
-msgstr "Poloostrov Muff Malala"
+msgstr "Poloostrov Muffa Malala"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/05a_Muff_Malal_Peninsula.cfg:23
@@ -1550,7 +1550,7 @@ msgstr "Uteč do Elensefaru"
 #. [objectives]
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/05a_Muff_Malal_Peninsula.cfg:26
 msgid "Defeat Muff Malal"
-msgstr "Poraz Muff Malala"
+msgstr "Poraz Muffa Malala"
 
 #. [side]: type=Dark Sorcerer, id=Muff Malal
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/05a_Muff_Malal_Peninsula.cfg:60
@@ -2744,7 +2744,7 @@ msgid ""
 "That is Moremirmu! He helped us fight the undead in the Isles of the Damned, "
 "let us hope he can help us once more!"
 msgstr ""
-"Tamto je Moremirmu! To on nám pomohl proti Muff Malalovi, doufejme, že nám "
+"Tamto je Moremirmu! To on nám pomohl proti Muffu Malalovi, doufejme, že nám "
 "opět pomůže!"
 
 #. [message]: speaker=Delfador
