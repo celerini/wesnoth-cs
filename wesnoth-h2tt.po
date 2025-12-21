@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-19 09:50 UTC\n"
-"PO-Revision-Date: 2025-12-20 11:30+0100\n"
+"PO-Revision-Date: 2025-12-21 07:26+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -174,12 +174,12 @@ msgstr "Přeběhlík"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:30
 msgid "A Friend in Need..."
-msgstr ""
+msgstr "Přítel v nouzi..."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:30
 msgid "Complete <i>Muff Malals Peninsula</i> before freeing Moremirmu."
-msgstr ""
+msgstr "Dokonči <i>Poloostrov Muffa Malala</i> dříve, než osvobodíš Moremirma."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:31
@@ -1033,14 +1033,14 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:722
 msgid "Muff Malal’s Peninsula"
-msgstr ""
+msgstr "Poloostrov Muffa Malala"
 
 #. [side]: type=Dark Sorcerer, id=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:731
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:32
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:39
 msgid "Muff Malal"
-msgstr ""
+msgstr "Muff Malal"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:745
@@ -7367,7 +7367,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:8
 msgid "scenario name^Muff Malal’s Peninsula"
-msgstr ""
+msgstr "Poloostrov Muffa Malala"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:232
@@ -7462,7 +7462,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:278
 msgid "Defeat Muff Malal"
-msgstr ""
+msgstr "Poraz Muffa Malala"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:292
