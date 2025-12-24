@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-22 03:09 UTC\n"
-"PO-Revision-Date: 2025-12-21 07:26+0100\n"
+"PO-Revision-Date: 2025-12-24 08:38+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -30,50 +30,23 @@ msgstr "DT"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:65
-#, fuzzy
-#| msgid ""
-#| "Seventeen years ago, the traitor queen Asheviere violently usurped the "
-#| "throne of Wesnoth. Now she rules tyrannically over her domain.\n"
-#| "\n"
-#| "You, the old king’s last legitimate living heir, must embark on a long "
-#| "and perilous journey to dismantle the dark queen’s armies and finally end "
-#| "her reign of terror.\n"
-#| "\n"
 msgid ""
 "Seventeen years ago, the traitor queen Asheviere violently usurped the "
 "throne of Wesnoth. Now she rules tyrannically over her domain."
 msgstr ""
 "Před sedmnácti lety zrádná královna Ašvíra násilím uchvátila trůn Wesnothu. "
-"Nyní krutě vládne svému panství.\n"
-"\n"
-"Ty, poslední žijící zákonný dědic starého krále, se musíš vydat na dlouhou "
-"a nebezpečnou cestu, abys rozbil vojska temné královny a konečně zastavil "
-"její hrůzovládu.\n"
-"\n"
+"Nyní krutě vládne svému panství."
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:67
-#, fuzzy
-#| msgid ""
-#| "Seventeen years ago, the traitor queen Asheviere violently usurped the "
-#| "throne of Wesnoth. Now she rules tyrannically over her domain.\n"
-#| "\n"
-#| "You, the old king’s last legitimate living heir, must embark on a long "
-#| "and perilous journey to dismantle the dark queen’s armies and finally end "
-#| "her reign of terror.\n"
-#| "\n"
 msgid ""
 "You, the old king’s last legitimate living heir, must embark on a long and "
 "perilous journey to dismantle the dark queen’s armies and finally end her "
 "reign of terror."
 msgstr ""
-"Před sedmnácti lety zrádná královna Ašvíra násilím uchvátila trůn Wesnothu. "
-"Nyní krutě vládne svému panství.\n"
-"\n"
 "Ty, poslední žijící zákonný dědic starého krále, se musíš vydat na dlouhou "
 "a nebezpečnou cestu, abys rozbil vojska temné královny a konečně zastavil "
-"její hrůzovládu.\n"
-"\n"
+"její hrůzovládu."
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:69
@@ -206,8 +179,6 @@ msgstr "Přítel v nouzi..."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:30
-#, fuzzy
-#| msgid "Complete <i>Muff Malals Peninsula</i> before freeing Moremirmu."
 msgid "Complete <i>Muff Malal’s Peninsula</i> before freeing Moremirmu."
 msgstr "Dokonči <i>Poloostrov Muffa Malala</i> dříve, než osvobodíš Moremirma."
 
@@ -741,10 +712,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:133
-#, fuzzy
-#| msgid "Flight of the Elves"
 msgid "Flight of the Elves - 2 seasons remaining"
-msgstr "Útěk elfů"
+msgstr "Útěk elfů – zbývají 2 období"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:134
