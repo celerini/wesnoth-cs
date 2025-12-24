@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-22 03:09 UTC\n"
-"PO-Revision-Date: 2025-12-13 22:00+0100\n"
+"PO-Revision-Date: 2025-12-24 08:28+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -168,8 +168,6 @@ msgstr "Scénář 3: Sběr hub"
 
 #. [achievement]: id=dod_mp
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:49
-#, fuzzy
-#| msgid "Harvest at least half of the mushrooms groves in <i>Fateful Day</i>."
 msgid "Harvest at least half of the mushroom groves in <i>Fateful Day</i>."
 msgstr "V <i>Osudném dni</i> skliď alespoň polovinu houbových hájů."
 
