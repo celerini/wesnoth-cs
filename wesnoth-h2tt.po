@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-22 03:09 UTC\n"
-"PO-Revision-Date: 2025-12-24 08:38+0100\n"
+"PO-Revision-Date: 2025-12-24 08:54+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -718,7 +718,7 @@ msgstr "Útěk elfů – zbývají 2 období"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:134
 msgid "Flight of the Elves - 1 season remaining (last chance!)"
-msgstr ""
+msgstr "Útěk elfů – zbývá 1 období (poslední šance!)"
 
 #. [message]: race=elf
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:193
@@ -773,12 +773,12 @@ msgstr "Přístav Temná Voda"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:290
 msgid "Blackwater Port - 2 seasons remaining"
-msgstr ""
+msgstr "Přístav Temná Voda – zbývají 2 období"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:291
 msgid "Blackwater Port - 1 season remaining (last chance!)"
-msgstr ""
+msgstr "Přístav Temná Voda – zbývá 1 období (poslední šance!)"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:351
@@ -1335,27 +1335,27 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1277
 msgid "The Siege of Elensefar - 5 seasons remaining"
-msgstr ""
+msgstr "Obléhání Elensefaru – zbývá 5 období"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1278
 msgid "The Siege of Elensefar - 4 seasons remaining"
-msgstr ""
+msgstr "Obléhání Elensefaru – zbývají 4 období"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1279
 msgid "The Siege of Elensefar - 3 seasons remaining"
-msgstr ""
+msgstr "Obléhání Elensefaru – zbývají 3 období"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1280
 msgid "The Siege of Elensefar - 2 seasons remaining"
-msgstr ""
+msgstr "Obléhání Elensefaru – zbývají 2 období"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1281
 msgid "The Siege of Elensefar - 1 season remaining (last chance!)"
-msgstr ""
+msgstr "Obléhání Elensefaru – zbývá 1 období (poslední šance!)"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1456
@@ -1924,32 +1924,32 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:750
 msgid "Crossroads"
-msgstr ""
+msgstr "Křižovatka"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:754
 msgid "Crossroads - 5 seasons remaining"
-msgstr ""
+msgstr "Křižovatka – zbývá 5 období"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:755
 msgid "Crossroads - 4 seasons remaining"
-msgstr ""
+msgstr "Křižovatka – zbývají 4 období"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:756
 msgid "Crossroads - 3 seasons remaining"
-msgstr ""
+msgstr "Křižovatka – zbývají 3 období"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:757
 msgid "Crossroads - 2 seasons remaining"
-msgstr ""
+msgstr "Křižovatka – zbývají 2 období"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:758
 msgid "Crossroads - 1 season remaining (last chance!)"
-msgstr ""
+msgstr "Křižovatka – zbývá 1 období (poslední šance!)"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:796
