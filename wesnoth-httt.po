@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-10-28 17:38 UTC\n"
-"PO-Revision-Date: 2025-12-21 07:41+0100\n"
+"PO-Revision-Date: 2025-12-24 08:59+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1896,7 +1896,7 @@ msgstr "Získáváš zpět své jednotky a $isle_damned_starting_gold zlatých!
 #. [scenario]: id=06_The_Siege_of_Elensefar
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:4
 msgid "The Siege of Elensefar"
-msgstr "Obležení Elensefaru"
+msgstr "Obléhání Elensefaru"
 
 #. [label]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Siege_of_Elensefar.cfg:43
