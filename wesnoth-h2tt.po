@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-22 03:09 UTC\n"
-"PO-Revision-Date: 2025-12-24 08:54+0100\n"
+"PO-Revision-Date: 2025-12-24 08:56+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8128,7 +8128,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:11
 msgid "The Siege of Elensefar"
-msgstr ""
+msgstr "Obléhání Elensefaru"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:76
