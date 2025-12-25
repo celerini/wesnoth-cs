@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-21 21:09-0600\n"
-"PO-Revision-Date: 2025-12-01 20:58+0100\n"
+"PO-Revision-Date: 2025-12-25 10:11+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -244,45 +244,33 @@ msgstr ""
 
 #. [lua]: set_status
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:2127
-#, fuzzy
-#| msgid "female^stunned"
 msgid "female^poisoned"
-msgstr "omráčená"
+msgstr "otrávená"
 
 #. [lua]: set_status
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:2127
-#, fuzzy
-#| msgid "poison"
 msgid "poisoned"
-msgstr "otrava"
+msgstr "otrávený"
 
 #. [lua]: set_status
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:2129
-#, fuzzy
-#| msgid "female^slow"
 msgid "female^slowed"
-msgstr "pomalá"
+msgstr "zpomalená"
 
 #. [lua]: set_status
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:2129
-#, fuzzy
-#| msgid "slow"
 msgid "slowed"
-msgstr "pomalý"
+msgstr "zpomalený"
 
 #. [lua]: set_status
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:2130
-#, fuzzy
-#| msgid "female^resilient"
 msgid "female^petrified"
-msgstr "houževnatá"
+msgstr "zkamenělá"
 
 #. [lua]: set_status
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:2130
-#, fuzzy
-#| msgid "petrifies"
 msgid "petrified"
-msgstr "zkamenění"
+msgstr "zkamenělý"
 
 #. [artifact]
 #. [chance]
