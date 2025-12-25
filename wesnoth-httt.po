@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-21 21:40 UTC\n"
-"PO-Revision-Date: 2025-12-24 08:58+0100\n"
+"PO-Revision-Date: 2025-12-25 09:47+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -34,30 +34,18 @@ msgstr "DTK"
 #: data/campaigns/Heir_To_The_Throne_Classic/_main.cfg:19
 msgid ""
 "Fight to regain the throne of Wesnoth, of which you are the legitimate heir."
-msgstr ""
+msgstr "Bojuj, abys získal zpět trůn Wesnothu, jehož jsi právoplatným dědicem."
 
 #. [campaign]: id=Heir_To_The_Throne_Classic
 #: data/campaigns/Heir_To_The_Throne_Classic/_main.cfg:21
-#, fuzzy
-#| msgid ""
-#| "Fight to regain the throne of Wesnoth, of which you are the legitimate "
-#| "heir.\n"
-#| "\n"
-#| "This is the original version of this classic campaign, preserved for "
-#| "historical reasons. Also optionally includes the old <i>Battle Training</"
-#| "i> tutorial.\n"
-#| "\n"
 msgid ""
 "This is the original version of this classic campaign, preserved for "
 "historical reasons. Also optionally includes the old <i>Battle Training</i> "
 "tutorial."
 msgstr ""
-"Bojuj, abys získal zpět trůn Wesnothu, jehož jsi právoplatným dědicem.\n"
-"\n"
 "Jedná se o původní verzi tohoto klasického tažení, která byla zachována "
 "z historických důvodů. Volitelně obsahuje také starý tutoriál <i>Bojový "
-"výcvik</i>.\n"
-"\n"
+"výcvik</i>."
 
 #. [campaign]: id=Heir_To_The_Throne_Classic
 #: data/campaigns/Heir_To_The_Throne_Classic/_main.cfg:23
@@ -8496,10 +8484,6 @@ msgstr ""
 
 #. [message]: speaker=Li'sar
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/24_Battle_for_Wesnoth.cfg:238
-#, fuzzy
-#| msgid ""
-#| "Surrender, mother. The land’s blood is spent. I have come to take my "
-#| "rightful place."
 msgid ""
 "Surrender, Mother. The land’s blood is spent. I have come to take my "
 "rightful place."
