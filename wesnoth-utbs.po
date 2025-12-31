@@ -13276,7 +13276,7 @@ msgid ""
 msgstr ""
 "Mám nápad. Vsadím se, že je Eloh dala těm, kterým nejvíc věří. A dveře "
 "hlídal jeden ještěrák a jeden kostlivec. Klíče musel mít jeden z každé "
-"frakce. Vsadím se, že za takové cenné předměty by dostali na starost vůdci."
+"frakce. Vsadím se, že takové cenné předměty by dostali na starost vůdci."
 
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/11_Battle_for_Zocthanol_Isle.cfg:1365
