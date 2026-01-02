@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-21 21:26-0600\n"
-"PO-Revision-Date: 2025-02-07 20:48+0100\n"
+"PO-Revision-Date: 2026-01-02 22:00+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -133,7 +133,7 @@ msgstr ""
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:95
 msgid "Use 12-hour clock format"
-msgstr "Používat 12ti hodinový formát času"
+msgstr "Používat 12hodinový formát času"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:102
