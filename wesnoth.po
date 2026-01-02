@@ -138,7 +138,7 @@ msgstr ""
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:95
 msgid "Use 12-hour clock format"
-msgstr "Používat 12ti hodinový formát času"
+msgstr "Používat 12hodinový formát času"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:102
