@@ -12,15 +12,13 @@ wesnoth-dod | 270 | 10% | 242 |
 wesnoth-h2tt | 3030 | 1% | 2979 |
 wesnoth-tdg | 1248 | 11% | 1101 |
 wesnoth-thot | 375 | 71% | 108 |
-wesnoth-tsg | 891 | 29% | 629 | Septim
-wesnoth-units | 876 | 99% | 3 | Michal
-wesnoth-utbs | 2068 | 96% | 64 |
-wesnoth | 1469 | 99% | 1 | Michal
+wesnoth-tsg | 891 | 29% | 624 | Septim
+wesnoth-utbs | 2068 | 98% | 36 | Michal
 
-Total messages remaining: **5127**
+Total messages remaining: **5090**
 
-Progress since 2025-12-23: **16** messages per day
+Progress since 2025-12-23: **6** messages per day
 
-ETA: **2026-11-10**
+ETA: **2028-05-01**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
