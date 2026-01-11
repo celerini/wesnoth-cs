@@ -1,11 +1,11 @@
-# Michal Žejdl <lachim@emer.cz>, 2025
+# Michal Žejdl <lachim@emer.cz>, 2025, 2026
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-22 03:09 UTC\n"
-"PO-Revision-Date: 2025-12-24 08:56+0100\n"
+"PO-Revision-Date: 2026-01-11 20:30+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -185,12 +185,12 @@ msgstr "Dokonči <i>Poloostrov Muffa Malala</i> dříve, než osvobodíš Moremi
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:31
 msgid "Kill an enemy with Delurin during <i>Isle of the Damned</i>."
-msgstr ""
+msgstr "V <i>Ostrově zatracení</i> zabij nepřítele s Delurinem."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:31
 msgid "Town Guard"
-msgstr ""
+msgstr "Městská stráž"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:32
@@ -1096,7 +1096,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:873
 msgid "Isle of the Damned"
-msgstr ""
+msgstr "Ostrov zatracení"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:910
@@ -1119,7 +1119,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:936
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:170
 msgid "Delurin"
-msgstr ""
+msgstr "Delurin"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:942
@@ -1163,7 +1163,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:971
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:9
 msgid "Isle of the Damned II"
-msgstr ""
+msgstr "Ostrov zatracení II"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:989
@@ -7665,7 +7665,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:8
 msgid "scenario name^Isle of the Damned"
-msgstr ""
+msgstr "Ostrov zatracení"
 
 #. [side]: type=Bone Shooter, id=leader3
 #. [side]: type=Necrophage, id=leader4
