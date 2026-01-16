@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-22 03:09 UTC\n"
-"PO-Revision-Date: 2026-01-11 20:30+0100\n"
+"PO-Revision-Date: 2026-01-16 23:03+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -195,12 +195,12 @@ msgstr "Městská stráž"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:32
 msgid "Exterminator"
-msgstr ""
+msgstr "Hubitel"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:32
 msgid "Kill all giant spiders during <i>Isle of the Damned II</i>."
-msgstr ""
+msgstr "V <i>Ostrově zatracení II</i> zabij všechny obří pavouky."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
