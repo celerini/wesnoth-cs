@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-22 03:09 UTC\n"
-"PO-Revision-Date: 2026-01-16 23:03+0100\n"
+"PO-Revision-Date: 2026-01-17 10:05+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -96,38 +96,38 @@ msgstr "Smrtící"
 #. [about]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:86
 msgid "Campaign Design"
-msgstr ""
+msgstr "Návrh tažení"
 
 #. [about]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:92
 msgid "Artwork and Graphics Design"
-msgstr ""
+msgstr "Návrh a tvorba grafiky"
 
 #. [about]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:116
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Různé"
 
 #. [dummy]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:167
 msgid "summoned"
-msgstr ""
+msgstr "povolaný"
 
 #. [dummy]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:168
 msgid "This elemental will dissipate at the end of the scenario."
-msgstr ""
+msgstr "Tento elementál se na konci scénáře rozplyne."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:216
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:225
 msgid "Brother $name_before_adding_brother"
-msgstr ""
+msgstr "Bratr $name_before_adding_brother"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:226
 msgid "Sister $name_before_adding_brother"
-msgstr ""
+msgstr "Sestra $name_before_adding_brother"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:26
@@ -205,22 +205,22 @@ msgstr "V <i>Ostrově zatracení II</i> zabij všechny obří pavouky."
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
 msgid "Complete <i>The Siege of Elensefar</i> on Nightmare difficulty."
-msgstr ""
+msgstr "Dokonči <i>Obléhání Elensefaru</i> na obtížnost zlý sen."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
 msgid "Probably Impossible"
-msgstr ""
+msgstr "Pravděpodobně neproveditelné"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:35
 msgid "Complete <i>The Silver City</i> without capturing any villages."
-msgstr ""
+msgstr "Dokonči <i>Stříbrné město</i> bez obsazení jediné vesnice."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:35
 msgid "Laissez-faire"
-msgstr ""
+msgstr "Nech to být"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:38
@@ -1382,7 +1382,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1506
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:8
 msgid "The Silver City"
-msgstr ""
+msgstr "Stříbrné město"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1510
 msgid ""
