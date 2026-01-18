@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-21 21:09-0600\n"
-"PO-Revision-Date: 2026-01-04 09:12+0100\n"
+"PO-Revision-Date: 2026-01-18 08:44+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -491,7 +491,7 @@ msgstr "Tvorba balíčků"
 #. [about]
 #: data/core/about.cfg:1136
 msgid "Miscellaneous Contributors"
-msgstr "Různé"
+msgstr "Různí přispěvatelé"
 
 #. [about]
 #: data/core/about.cfg:1890
