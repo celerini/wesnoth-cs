@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-22 03:08 UTC\n"
-"PO-Revision-Date: 2026-01-07 23:22+0100\n"
+"PO-Revision-Date: 2026-01-18 09:01+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -112,7 +112,7 @@ msgstr "Údržba tažení"
 #. [about]
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:68
 msgid "Artwork and Graphics Design"
-msgstr "Kresby a grafika"
+msgstr "Návrh a tvorba grafiky"
 
 #. [about]
 #: data/campaigns/Under_the_Burning_Suns/_main.cfg:134
