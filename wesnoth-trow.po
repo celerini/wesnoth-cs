@@ -4,14 +4,14 @@
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2008, 2011, 2020
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2023, 2026
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2024-12-28 23:33+0100\n"
+"PO-Revision-Date: 2026-01-18 09:11+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -93,7 +93,7 @@ msgstr "Údržba tažení"
 #. [about]
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:48
 msgid "Artwork and Graphics Design"
-msgstr "Kresby a grafika"
+msgstr "Návrh a tvorba grafiky"
 
 #. [about]
 #: data/campaigns/The_Rise_Of_Wesnoth/_main.cfg:73
