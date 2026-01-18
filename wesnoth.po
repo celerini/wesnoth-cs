@@ -3,7 +3,7 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2025
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2026
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2020, 2021
 #
 msgid ""
@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-21 21:26-0600\n"
-"PO-Revision-Date: 2026-01-02 22:00+0100\n"
+"PO-Revision-Date: 2026-01-18 08:45+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -377,7 +377,7 @@ msgstr "Tvorba balíčků"
 #. [about]
 #: data/core/about.cfg:1131
 msgid "Miscellaneous Contributors"
-msgstr "Různé"
+msgstr "Různí přispěvatelé"
 
 #. [about]
 #: data/core/about.cfg:1882
