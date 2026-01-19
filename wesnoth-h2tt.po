@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-12-22 03:09 UTC\n"
-"PO-Revision-Date: 2026-01-17 10:05+0100\n"
+"PO-Revision-Date: 2026-01-20 00:47+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -225,7 +225,7 @@ msgstr "Nech to být"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:38
 msgid "Counter-Sniper"
-msgstr ""
+msgstr "Protistřelec"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:38
@@ -233,6 +233,8 @@ msgid ""
 "Defeat the Master Bowman in <i>Fort Tahn</i> without attacking him with "
 "melee weapons."
 msgstr ""
+"V <i>Pevnosti Tahn</i> poraz mistra lučištníka bez útoku zbraní pro boj "
+"zblízka."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:39
@@ -1432,7 +1434,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:9
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:15
 msgid "Fort Tahn"
-msgstr ""
+msgstr "Pevnost Tahn"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:18
 msgid ""
@@ -8958,12 +8960,12 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:10
 msgid "scenario name^Fort Tahn"
-msgstr ""
+msgstr "Pevnost Tahn"
 
 #. [side]: type=Master Bowman, id=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:39
 msgid "Fort Tahn Garrison"
-msgstr ""
+msgstr "Posádka pevnosti Tahn"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:152
