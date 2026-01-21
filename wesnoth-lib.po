@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2025-12-21 21:09-0600\n"
+"POT-Creation-Date: 2026-01-20 11:31-0600\n"
 "PO-Revision-Date: 2025-07-25 23:04+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -7016,6 +7016,31 @@ msgstr "<span font_family='DejaVu Sans'>✔</span> Zkopírováno"
 #: data/gui/themes/default/widgets/chatbox.cfg:40
 msgid "Messages waiting"
 msgstr "Čekající zprávy"
+
+#. [terrain_type]: id=urbanjungle
+#: data/internal/Urban_Jungle/terrain.cfg:8
+#: data/internal/Urban_Jungle/terrain.cfg:9
+msgid "Urban"
+msgstr ""
+
+#. [terrain_type]: id=urbanjungle
+#: data/internal/Urban_Jungle/terrain.cfg:10
+msgid ""
+"Densely packed structures are less suitable for garrison than traditional "
+"villages, providing no income or healing. They are difficult to navigate "
+"quickly, but offer significant protection."
+msgstr ""
+
+#. [terrain_type]: id=urbanjungleA
+#. [terrain_type]: id=urbanjungle{ID}
+#: data/internal/Urban_Jungle/terrain.cfg:17
+#: data/internal/Urban_Jungle/terrain.cfg:18
+#: data/internal/Urban_Jungle/terrain.cfg:19
+#: data/internal/Urban_Jungle/terrain.cfg:32
+#: data/internal/Urban_Jungle/terrain.cfg:33
+#: data/internal/Urban_Jungle/terrain.cfg:34
+msgid "Urban Jungle"
+msgstr ""
 
 #: src/build_info.cpp:285
 msgid "feature^Lua console completion"
