@@ -8,17 +8,23 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
-wesnoth-dod | 270 | 10% | 242 |
-wesnoth-h2tt | 3030 | 1% | 2979 | Michal
-wesnoth-tdg | 1248 | 11% | 1101 |
+wesnoth-dod | 267 | 10% | 239 |
+wesnoth-editor | 123 | 99% | 1 | Michal
+wesnoth-ei | 1872 | 98% | 20 | Michal
+wesnoth-h2tt | 3031 | 2% | 2959 | Michal
+wesnoth-help | 778 | 99% | 2 | Michal
+wesnoth-httt | 1230 | 99% | 2 | Michal
+wesnoth-lib | 1671 | 99% | 3 | Michal
+wesnoth-sof | 708 | 93% | 49 | Michal
+wesnoth-tdg | 1262 | 11% | 1115 | Michal
 wesnoth-thot | 375 | 71% | 108 |
-wesnoth-tsg | 891 | 29% | 624 | Septim
-wesnoth-utbs | 2068 | 98% | 31 |
+wesnoth-tsg | 892 | 28% | 634 | Septim
+wesnoth-units | 874 | 99% | 1 | Michal
+wesnoth-utbs | 2058 | 98% | 37 | Michal
+wesnoth | 1468 | 99% | 2 | Michal
 
-Total messages remaining: **5085**
+Total messages remaining: **5172**
 
-Progress since 2025-12-23: **5** messages per day
-
-ETA: **2028-10-21**
+I see no progress.
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
