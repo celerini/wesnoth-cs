@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 11:31-0600\n"
-"PO-Revision-Date: 2026-01-22 20:09+0100\n"
+"PO-Revision-Date: 2026-01-22 20:22+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8189,21 +8189,18 @@ msgid "Damage versus:"
 msgstr "Zranění proti:"
 
 #: src/reports.cpp:988
-#, fuzzy
-#| msgid "$number attack used"
-#| msgid_plural "$number attacks used"
 msgid "uses $num attack"
 msgid_plural "uses $num attacks"
-msgstr[0] "$number užitý útok"
-msgstr[1] "$number užité útoky"
-msgstr[2] "$number užitých útoků"
+msgstr[0] "užívá $num útok"
+msgstr[1] "užívá $num útoky"
+msgstr[2] "užívá $num útoků"
 
 #: src/reports.cpp:996
 msgid "This attack uses $num attack point"
 msgid_plural "This attack uses $num attack points"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "Tento útok užívá $num bod útoku"
+msgstr[1] "Tento útok užívá $num body útoku"
+msgstr[2] "Tento útok užívá $num bodů útoku"
 
 #: src/reports.cpp:1034 src/reports.cpp:1074
 msgid "Weapon special:"

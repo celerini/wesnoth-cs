@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-01-18 09:01+0100\n"
+"PO-Revision-Date: 2026-01-22 20:23+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -17976,42 +17976,6 @@ msgstr "Hrad duchů"
 #: data/campaigns/Under_the_Burning_Suns/utils/terrain.cfg:64
 msgid "Phantom Keep"
 msgstr "Tvrz duchů"
-
-#~ msgid "uses 1 attack"
-#~ msgstr "užívá 1 útok"
-
-#~ msgid "uses 2 attacks"
-#~ msgstr "užívá 2 útoky"
-
-#~ msgid "uses 3 attacks"
-#~ msgstr "užívá 3 útoky"
-
-#~ msgid "uses 4 attacks"
-#~ msgstr "užívá 4 útoky"
-
-#~ msgid "uses 5 attacks"
-#~ msgstr "užívá 5 útoků"
-
-#~ msgid "uses 6 attacks"
-#~ msgstr "užívá 6 útoků"
-
-#~ msgid "This attack uses 1 attack"
-#~ msgstr "Tento útok užívá 1 útok"
-
-#~ msgid "This attack uses 2 attacks"
-#~ msgstr "Tento útok užívá 2 útoky"
-
-#~ msgid "This attack uses 3 attacks"
-#~ msgstr "Tento útok užívá 3 útoky"
-
-#~ msgid "This attack uses 4 attacks"
-#~ msgstr "Tento útok užívá 4 útoky"
-
-#~ msgid "This attack uses 5 attacks"
-#~ msgstr "Tento útok užívá 5 útoků"
-
-#~ msgid "This attack uses 6 attacks"
-#~ msgstr "Tento útok užívá 6 útoků"
 
 #~ msgid ""
 #~ "Every time Nym hits an enemy she gains +10% accuracy and 10% parry until "
