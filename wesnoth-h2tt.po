@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-01-20 00:47+0100\n"
+"PO-Revision-Date: 2026-01-23 22:23+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -55,10 +55,8 @@ msgstr "(Úroveň pokročilý hráč, 14 scénářů.)"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:71
-#, fuzzy
-#| msgid "1x enemies, 16 scenarios"
 msgid "1x enemies, 15 scenarios"
-msgstr "1x nepřátelé, 16 scénářů"
+msgstr "1x nepřátelé, 15 scénářů"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:71
@@ -77,10 +75,8 @@ msgstr "Normální"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:73
-#, fuzzy
-#| msgid "3x enemies, 12 scenarios"
 msgid "3x enemies, 13 scenarios"
-msgstr "3x nepřátelé, 12 scénářů"
+msgstr "3x nepřátelé, 13 scénářů"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:73
@@ -89,10 +85,8 @@ msgstr "Těžká"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:74
-#, fuzzy
-#| msgid "3x enemies, 12 scenarios"
 msgid "4x enemies, 12 scenarios"
-msgstr "3x nepřátelé, 12 scénářů"
+msgstr "4x nepřátelé, 12 scénářů"
 
 #. [campaign]: id=Heir 2 The Throne
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:74
@@ -210,10 +204,8 @@ msgstr "V <i>Ostrově zatracení II</i> zabij všechny obří pavouky."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
-#, fuzzy
-#| msgid "Complete <i>The Siege of Elensefar</i> on Nightmare difficulty."
 msgid "Complete <i>The Siege of Elensefar</i> on Deadly difficulty."
-msgstr "Dokonči <i>Obléhání Elensefaru</i> na obtížnost zlý sen."
+msgstr "Dokonči <i>Obléhání Elensefaru</i> na smrtící obtížnost."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:34
@@ -19943,6 +19935,3 @@ msgstr ""
 msgid ""
 "Delfador is a leader, and can recruit elementals when standing on a keep."
 msgstr ""
-
-#~ msgid "4x enemies, 10 scenarios"
-#~ msgstr "4x nepřátelé, 10 scénářů"
