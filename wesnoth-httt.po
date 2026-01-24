@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-01-18 08:54+0100\n"
+"PO-Revision-Date: 2026-01-24 20:15+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -110,12 +110,12 @@ msgstr "Různé"
 #. [achievement]: id=completed
 #: data/campaigns/Heir_To_The_Throne_Classic/achievements.cfg:7
 msgid "Trained for Battle"
-msgstr ""
+msgstr "Vycvičen pro bitvu"
 
 #. [achievement]: id=completed
 #: data/campaigns/Heir_To_The_Throne_Classic/achievements.cfg:8
 msgid "Complete the old <i>Battle Training</i> tutorial."
-msgstr ""
+msgstr "Dokonči starý tutoriál <i>Bojový výcvik</i>."
 
 #. [scenario]: id=01_The_Elves_Besieged
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/01_The_Elves_Besieged.cfg:4
