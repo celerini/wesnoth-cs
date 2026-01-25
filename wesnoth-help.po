@@ -3,7 +3,7 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2025
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2026
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2020 - 2022, 2024
 #
 msgid ""
@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 11:31-0600\n"
-"PO-Revision-Date: 2025-12-25 10:11+0100\n"
+"PO-Revision-Date: 2026-01-25 21:02+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5064,6 +5064,8 @@ msgid ""
 "A nearby enemy’s <i>diversion</i> ability is reducing this attack’s accuracy "
 "by 20%."
 msgstr ""
+"Schopnost <i>rozptýlení</i>, kterou má sousední nepřátelská jednotka, "
+"snižuje přesnost tohoto útoku o 20 %."
 
 #. [leadership]: id=leadership
 #: data/core/macros/abilities.cfg:207
@@ -8414,6 +8416,3 @@ msgstr "Cena rozhledu"
 #: src/help/help_topic_generators.cpp:837
 msgid "Jamming Cost"
 msgstr "Cena rušení"
-
-#~ msgid "Due to the diversion, the accuracy of this attack is reduced by 20%."
-#~ msgstr "Přesnost tohoto útoku je díky rozptýlení snížena o 20 %."
