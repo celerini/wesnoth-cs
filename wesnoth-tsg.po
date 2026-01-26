@@ -1069,7 +1069,7 @@ msgid ""
 "hunker down and hold a defensive position until dawn. Castles and especially "
 "villages (because they heal) make for good defensive positions."
 msgstr ""
-"Opatrně, Deorane. Pokud nemáš převahu, možná by ses měl krýt se a do úsvitu "
+"Opatrně, Deorane. Pokud nemáš převahu, možná by ses měl krýt a do úsvitu "
 "držet obrannou pozici. Dobrými obrannými pozicemi jsou hrady a hlavně "
 "vesnice (protože poskytují léčení)."
 
