@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 11:31-0600\n"
-"PO-Revision-Date: 2026-01-25 21:02+0100\n"
+"PO-Revision-Date: 2026-01-27 20:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5187,6 +5187,8 @@ msgid ""
 "This unit can burrow under loose dirt, sand, or leaves, concealing itself if "
 "it does not change location."
 msgstr ""
+"Tato jednotka se může zavrtat do kypré hlíny, písku nebo listí a zůstat tam "
+"skryta, dokud se nepohne."
 
 #. [hides]: id=nightstalk
 #: data/core/macros/abilities.cfg:337
