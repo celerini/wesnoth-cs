@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-01-18 08:54+0100\n"
+"PO-Revision-Date: 2026-02-01 09:07+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1937,185 +1937,135 @@ msgstr "Pouštní lidé ti v dalším scénáři nebudou k dispozici."
 
 #. [else]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:643
-#, fuzzy
-#| msgid ""
-#| "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! "
-#| "We’ll need $herbs_needed more (and $gold_cost gold) to travel east."
 msgid ""
 "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! We’ll "
 "need 6 more (and $gold_cost gold) to travel east."
 msgstr ""
-"Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! Budeme "
-"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
-"mohli pokračovat na východ."
+"Mám výhonek alsuvdanu a jsem teď odolný vůči jedu z močálu! Budeme jich "
+"potřebovat ještě 6 (a $gold_cost zlatých), abychom mohli pokračovat na "
+"východ."
 
 #. [else]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:644
-#, fuzzy
-#| msgid ""
-#| "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! "
-#| "We’ll need $herbs_needed more (and $gold_cost gold) to travel east."
 msgid ""
 "female^I’ve found a sprig of alswdan and am now immune to the swamp’s "
 "poison! We’ll need 6 more (and $gold_cost gold) to travel east."
 msgstr ""
-"Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! Budeme "
-"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
-"mohli pokračovat na východ."
+"Našla jsem výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! "
+"Budeme jich potřebovat ještě 6 (a $gold_cost zlatých), abychom mohli "
+"pokračovat na východ."
 
 #. [else]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:645
-#, fuzzy
-#| msgid ""
-#| "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! "
-#| "We’ll need $herbs_needed more (and $gold_cost gold) to travel east."
 msgid ""
 "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! We’ll "
 "need 5 more (and $gold_cost gold) to travel east."
 msgstr ""
-"Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! Budeme "
-"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
-"mohli pokračovat na východ."
+"Mám výhonek alsuvdanu a jsem teď odolný vůči jedu z močálu! Budeme jich "
+"potřebovat ještě 5 (a $gold_cost zlatých), abychom mohli pokračovat na "
+"východ."
 
 #. [else]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:646
-#, fuzzy
-#| msgid ""
-#| "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! "
-#| "We’ll need $herbs_needed more (and $gold_cost gold) to travel east."
 msgid ""
 "female^I’ve found a sprig of alswdan and am now immune to the swamp’s "
 "poison! We’ll need 5 more (and $gold_cost gold) to travel east."
 msgstr ""
-"Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! Budeme "
-"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
-"mohli pokračovat na východ."
+"Našla jsem výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! "
+"Budeme jich potřebovat ještě 5 (a $gold_cost zlatých), abychom mohli "
+"pokračovat na východ."
 
 #. [else]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:647
-#, fuzzy
-#| msgid ""
-#| "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! "
-#| "We’ll need $herbs_needed more (and $gold_cost gold) to travel east."
 msgid ""
 "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! We’ll "
 "need 4 more (and $gold_cost gold) to travel east."
 msgstr ""
-"Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! Budeme "
-"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
-"mohli pokračovat na východ."
+"Mám výhonek alsuvdanu a jsem teď odolný vůči jedu z močálu! Budeme "
+"potřebovat ještě 4 (a $gold_cost zlatých), abychom mohli pokračovat na "
+"východ."
 
 #. [else]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:648
-#, fuzzy
-#| msgid ""
-#| "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! "
-#| "We’ll need $herbs_needed more (and $gold_cost gold) to travel east."
 msgid ""
 "female^I’ve found a sprig of alswdan and am now immune to the swamp’s "
 "poison! We’ll need 4 more (and $gold_cost gold) to travel east."
 msgstr ""
-"Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! Budeme "
-"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
-"mohli pokračovat na východ."
+"Našla jsem výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! "
+"Budeme potřebovat ještě 4 (a $gold_cost zlatých), abychom mohli pokračovat "
+"na východ."
 
 #. [else]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:649
-#, fuzzy
-#| msgid ""
-#| "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! "
-#| "We’ll need $herbs_needed more (and $gold_cost gold) to travel east."
 msgid ""
 "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! We’ll "
 "need 3 more (and $gold_cost gold) to travel east."
 msgstr ""
-"Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! Budeme "
-"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
-"mohli pokračovat na východ."
+"Mám výhonek alsuvdanu a jsem teď odolný vůči jedu z močálu! Budeme "
+"potřebovat ještě 3 (a $gold_cost zlatých), abychom mohli pokračovat na "
+"východ."
 
 #. [else]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:650
-#, fuzzy
-#| msgid ""
-#| "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! "
-#| "We’ll need $herbs_needed more (and $gold_cost gold) to travel east."
 msgid ""
 "female^I’ve found a sprig of alswdan and am now immune to the swamp’s "
 "poison! We’ll need 3 more (and $gold_cost gold) to travel east."
 msgstr ""
-"Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! Budeme "
-"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
-"mohli pokračovat na východ."
+"Našla jsem výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! "
+"Budeme potřebovat ještě 3 (a $gold_cost zlatých), abychom mohli pokračovat "
+"na východ."
 
 #. [else]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:651
-#, fuzzy
-#| msgid ""
-#| "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! "
-#| "We’ll need $herbs_needed more (and $gold_cost gold) to travel east."
 msgid ""
 "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! We’ll "
 "need 2 more (and $gold_cost gold) to travel east."
 msgstr ""
-"Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! Budeme "
-"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
-"mohli pokračovat na východ."
+"Mám výhonek alsuvdanu a jsem teď odolný vůči jedu z močálu! Budeme "
+"potřebovat ještě 2 (a $gold_cost zlatých), abychom mohli pokračovat na "
+"východ."
 
 #. [else]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:652
-#, fuzzy
-#| msgid ""
-#| "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! "
-#| "We’ll need $herbs_needed more (and $gold_cost gold) to travel east."
 msgid ""
 "female^I’ve found a sprig of alswdan and am now immune to the swamp’s "
 "poison! We’ll need 2 more (and $gold_cost gold) to travel east."
 msgstr ""
-"Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! Budeme "
-"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
-"mohli pokračovat na východ."
+"Našla jsem výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! "
+"Budeme potřebovat ještě 2 (a $gold_cost zlatých), abychom mohli pokračovat "
+"na východ."
 
 #. [else]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:653
-#, fuzzy
-#| msgid ""
-#| "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! "
-#| "We’ll need $herbs_needed more (and $gold_cost gold) to travel east."
 msgid ""
 "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! We’ll "
 "need 1 more (and $gold_cost gold) to travel east."
 msgstr ""
-"Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! Budeme "
-"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
-"mohli pokračovat na východ."
+"Mám výhonek alsuvdanu a jsem teď odolný vůči jedu z močálu! Budeme "
+"potřebovat ještě 1 (a $gold_cost zlatých), abychom mohli pokračovat na "
+"východ."
 
 #. [else]
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:654
-#, fuzzy
-#| msgid ""
-#| "I’ve found a sprig of alswdan and am now immune to the swamp’s poison! "
-#| "We’ll need $herbs_needed more (and $gold_cost gold) to travel east."
 msgid ""
 "female^I’ve found a sprig of alswdan and am now immune to the swamp’s "
 "poison! We’ll need 1 more (and $gold_cost gold) to travel east."
 msgstr ""
-"Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! Budeme "
-"potřebovat ještě $herbs_needed ks rostlin (a $gold_cost zlatých), abychom "
-"mohli pokračovat na východ."
+"Našla jsem výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu! "
+"Budeme potřebovat ještě 1 (a $gold_cost zlatých), abychom mohli pokračovat "
+"na východ."
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:662
 msgid "I’ve found a sprig of alswdan and am now immune to the swamp’s poison!"
-msgstr "Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu!"
+msgstr "Mám výhonek alsuvdanu a jsem teď odolný vůči jedu z močálu!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:663
-#, fuzzy
-#| msgid ""
-#| "I’ve found a sprig of alswdan and am now immune to the swamp’s poison!"
 msgid ""
 "female^I’ve found a sprig of alswdan and am now immune to the swamp’s poison!"
-msgstr "Mám výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu!"
+msgstr ""
+"Našla jsem výhonek alsuvdanu a získávám tak odolnost vůči jedu z močálu!"
 
 #. [message]: speaker=Hahid al-Ali
 #: data/campaigns/Eastern_Invasion/scenarios/04b_Ill_Humors.cfg:715
