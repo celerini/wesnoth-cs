@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-02-02 20:08+0100\n"
+"PO-Revision-Date: 2026-02-07 00:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3921,6 +3921,8 @@ msgid ""
 "That’s almost all the undead leaders defeated! If time remains, we should "
 "introduce Owaec to the city garrison before we continue north."
 msgstr ""
+"Skoro všichni vůdci nemrtvých jsou poraženi! Pokud zbývá čas, měli bychom "
+"Owaeca seznámit s městskou posádkou, než budeme pokračovat na sever."
 
 #. [message]: speaker=Gweddry
 #. there were originally 4 of them, and 3 are now defeated
@@ -4170,7 +4172,7 @@ msgstr "Obři"
 #. The ogre is trying to escape, but Gweddry's units keep forcing him to change directions.
 #: data/campaigns/Eastern_Invasion/scenarios/07a_Capturing_the_Ogres.cfg:66
 msgid "Gah! Raa! Get out of my way!!"
-msgstr ""
+msgstr "Fuj! Kšá! Uhněte mi z cesty!!"
 
 #. [objective]: condition=win
 #: data/campaigns/Eastern_Invasion/scenarios/07a_Capturing_the_Ogres.cfg:160
@@ -4379,6 +4381,7 @@ msgstr "Dosáhni severního břehu dříve, než Grug zemře"
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:213
 msgid "The ogres will join you once any human reaches the north shore."
 msgstr ""
+"Obři se k tobě připojí, jakmile se někdo z lidí dostane na severní břeh."
 
 #. [message]: speaker=Gweddry
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:259
@@ -4548,7 +4551,7 @@ msgstr "Nemyslete si, že uniknete tak snadno!"
 #. [message]
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:746
 msgid "Run away!"
-msgstr ""
+msgstr "Utečte!"
 
 #. [message]: speaker=Izziasch
 #: data/campaigns/Eastern_Invasion/scenarios/07b_Ogre_Crossing.cfg:754
@@ -7709,6 +7712,8 @@ msgid ""
 "This looks like a disused mineshaft. I don’t feel any fresh air, so we "
 "shouldn’t expect to escape this way."
 msgstr ""
+"Tohle vypadá jako opuštěná důlní šachta. Necítím žádný čerstvý vzduch, takže "
+"bychom neměli očekávat, že tudy unikneme."
 
 #. [message]: speaker=unit
 #. if the disguised unit runs out of the caves alone, without rescuing any other prisoners
