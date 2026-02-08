@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-01-28 22:28+0100\n"
+"PO-Revision-Date: 2026-02-08 07:12+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9880,27 +9880,6 @@ msgstr ""
 #~ msgid "Run By (Taunting strike)"
 #~ msgstr "Únik (výsměšný úder)"
 
-#~ msgid "Strength Training"
-#~ msgstr "Silový trénink"
-
-#~ msgid "Bowmanship Training"
-#~ msgstr "Výcvik lukostřelby"
-
-#~ msgid "Strong Shots"
-#~ msgstr "Silné výstřely"
-
-#~ msgid "Piercing Shot"
-#~ msgstr "Průbojná střela"
-
-#~ msgid ""
-#~ "Once great warriors across the plains, these mounted riders atop their "
-#~ "skeletal horses were raised from the ground by unholy magic to spread "
-#~ "fear and destruction."
-#~ msgstr ""
-#~ "Tito kostlivci, kdysi velcí válečníci a postrach plání, opět osedlali "
-#~ "kostry koní, jež povstaly nečistými silami ze země spolu s nimi, a vydali "
-#~ "se šířit strach a zkázu."
-
 #~ msgid "Shadow Lord"
 #~ msgstr "Stínový pán"
 
@@ -9948,9 +9927,6 @@ msgstr ""
 # Nejsou to úplně trosky, ale náklad, který byl úmyslně vhozen přes palubu, např. pro odlehčení lodi.
 #~ msgid "jetsam"
 #~ msgstr "trosky"
-
-#~ msgid "..."
-#~ msgstr "..."
 
 #~ msgid "ember"
 #~ msgstr "oharky"

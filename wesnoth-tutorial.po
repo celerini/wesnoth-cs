@@ -2394,12 +2394,3 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne_Classic/utils/tutorial_utils.cfg:128
 msgid "Click a mouse button or press the spacebar to continue..."
 msgstr "Pro pokračování klikni myší nebo zmáčkni mezerník..."
-
-#~ msgid "Old Tutorial"
-#~ msgstr "Starý tutoriál"
-
-#~ msgid "Completed the Tutorial"
-#~ msgstr "Dokončen tutoriál"
-
-#~ msgid "Complete the Battle Training."
-#~ msgstr "Dokonči bojový výcvik."
