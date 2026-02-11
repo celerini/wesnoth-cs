@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-01-23 22:23+0100\n"
+"PO-Revision-Date: 2026-02-11 22:35+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -239,14 +239,14 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:39
 msgid "Conservationist"
-msgstr ""
+msgstr "Ochránce přírody"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:39
 msgid ""
 "Defeat the Mother Gryphon in <i>Gryphon Mountain</i> without killing any "
 "other gryphons."
-msgstr ""
+msgstr "V <i>Hoře gryfů</i> poraz matku gryfů a nezabij žádného jiného gryfa."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:40
@@ -1648,7 +1648,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:308
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:313
 msgid "Gryphon Mountain"
-msgstr ""
+msgstr "Hora gryfů"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:334
@@ -9151,7 +9151,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:8
 msgid "scenario name^Gryphon Mountain"
-msgstr ""
+msgstr "Hora gryfů"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:37
@@ -9161,14 +9161,14 @@ msgstr ""
 #. [side]: type=Gryphon, id=Mother Gryphon
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:65
 msgid "Mother Gryphon"
-msgstr ""
+msgstr "Matka gryfů"
 
 #. [side]: type=Gryphon, id=Mother Gryphon
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:72
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:109
 msgid "Gryphons"
-msgstr ""
+msgstr "Gryfové"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:167
