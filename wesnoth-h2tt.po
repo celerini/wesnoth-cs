@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-02-11 22:35+0100\n"
+"PO-Revision-Date: 2026-02-12 20:22+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -251,22 +251,22 @@ msgstr "V <i>Hoře gryfů</i> poraz matku gryfů a nezabij žádného jiného 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:40
 msgid "Complete part 1 of <i>Valley of Death</i> AFTER completing part 2."
-msgstr ""
+msgstr "Dokonči 1. část <i>Údolí smrti</i> po dokončení 2. části."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:40
 msgid "Quest Unrequested"
-msgstr ""
+msgstr "Dobrovolný úkol"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:41
 msgid "Defeat both liches before turns run out in <i>Valley of Death II</i>."
-msgstr ""
+msgstr "V <i>Údolí smrti II</i> poraz oba lichy, než vyprší počet kol."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:41
 msgid "The Best Defense..."
-msgstr ""
+msgstr "Nejlepší obrana..."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:42
@@ -1707,7 +1707,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:415
 msgid "Valley of Death"
-msgstr ""
+msgstr "Údolí smrti"
 
 #. [side]: type=Shock Trooper, id=Kaelor
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:424
@@ -1731,7 +1731,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:479
 msgid "Valley of Death II"
-msgstr ""
+msgstr "Údolí smrti II"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:488
@@ -9434,7 +9434,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:7
 msgid "scenario name^Valley of Death"
-msgstr ""
+msgstr "Údolí smrti"
 
 #. [side]: type=Shock Trooper, id=Kaelor
 #. [side]
@@ -9657,7 +9657,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:12
 msgid "scenario name^Valley of Death II"
-msgstr ""
+msgstr "Údolí smrti II"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:58
