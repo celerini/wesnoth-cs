@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-02-12 20:22+0100\n"
+"PO-Revision-Date: 2026-02-13 23:48+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -271,12 +271,12 @@ msgstr "Nejlepší obrana..."
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:42
 msgid "Best Served Hot"
-msgstr ""
+msgstr "Někdo to rád horké"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:42
 msgid "Get the finishing blow on Li’sar with Ulfdain during <i>Crossroads</i>."
-msgstr ""
+msgstr "Během <i>Křižovatky</i> uštědři Lisar poslední ránu s Ulfdainem."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:43
@@ -4680,7 +4680,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:126
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:541
 msgid "Li’sar"
-msgstr ""
+msgstr "Lisar"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:464
@@ -19740,7 +19740,7 @@ msgstr ""
 #. [unit]: id=Ulfdain, type=Dwarvish Ulfserker
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:611
 msgid "Ulfdain"
-msgstr ""
+msgstr "Ulfdain"
 
 #. [unit]: id=Harper, type=Fugitive, gender=female
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:620
