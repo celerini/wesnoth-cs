@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-02-13 23:48+0100\n"
+"PO-Revision-Date: 2026-02-14 09:08+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -281,12 +281,12 @@ msgstr "Během <i>Křižovatky</i> uštědři Lisar poslední ránu s Ulfdainem
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:43
 msgid "Defeat all caravans by turn 20 in <i>The Highwaymen</i>."
-msgstr ""
+msgstr "V <i>Lupičích</i> poraz všechny karavany do 20. kola."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:43
 msgid "Grand Theft Wagon"
-msgstr ""
+msgstr "Velká vozová loupež"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:44
@@ -10427,7 +10427,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:10
 msgid "scenario name^The Highwaymen"
-msgstr ""
+msgstr "Lupiči"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:172
