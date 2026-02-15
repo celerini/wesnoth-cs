@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-02-14 09:08+0100\n"
+"PO-Revision-Date: 2026-02-15 08:52+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -291,12 +291,12 @@ msgstr "Velká vozová loupež"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:44
 msgid "Arrive on the north shore at the start of <i>The Ford of Abez</i>."
-msgstr ""
+msgstr "Na začátku <i>Abezského brodu</i> doraz na severní břeh."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:44
 msgid "Switcheroo"
-msgstr ""
+msgstr "Plán B"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:47
@@ -2133,7 +2133,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1061
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1066
 msgid "The Ford of Abez"
-msgstr ""
+msgstr "Abezský brod"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1092
@@ -10774,7 +10774,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:8
 msgid "scenario name^The Ford of Abez"
-msgstr ""
+msgstr "Abezský brod"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:34
