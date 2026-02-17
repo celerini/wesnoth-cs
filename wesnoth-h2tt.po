@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-02-15 08:52+0100\n"
+"PO-Revision-Date: 2026-02-17 21:58+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -301,12 +301,12 @@ msgstr "Plán B"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:47
 msgid "Fight Fire With Fire"
-msgstr ""
+msgstr "Oko za oko"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:47
 msgid "Recruit a Troll Whelp in <i>Glamdrol</i>."
-msgstr ""
+msgstr "V <i>Glamdrolu</i> naverbuj trollí mládě."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:48
@@ -2261,7 +2261,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:17
 msgid "Glamdrol"
-msgstr ""
+msgstr "Glamdrol"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:20
 msgid ""
@@ -10879,7 +10879,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:8
 msgid "scenario name^Glamdrol"
-msgstr ""
+msgstr "Glamdrol"
 
 #. [side]
 #. [side]: type={TYPE}, id=leader{SIDE}
