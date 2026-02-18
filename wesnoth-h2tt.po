@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-02-17 21:58+0100\n"
+"PO-Revision-Date: 2026-02-18 21:25+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -311,12 +311,12 @@ msgstr "V <i>Glamdrolu</i> naverbuj trollí mládě."
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:48
 msgid "Complete the <i>Northern Winter</i> scenario."
-msgstr ""
+msgstr "Dokonči scénář <i>Zima na severu</i>."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:48
 msgid "Poor Timing"
-msgstr ""
+msgstr "Špatné načasování"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:49
@@ -2476,7 +2476,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:387
 msgid "Northern Winter"
-msgstr ""
+msgstr "Zima na severu"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:414
@@ -11814,7 +11814,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:692
 msgid "scenario name^Northern Winter"
-msgstr ""
+msgstr "Zima na severu"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:8
