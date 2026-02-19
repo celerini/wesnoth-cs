@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-02-18 21:25+0100\n"
+"PO-Revision-Date: 2026-02-19 20:10+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -322,11 +322,13 @@ msgstr "Špatné načasování"
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:49
 msgid "Complete <i>An Old Friend</i> with the enemy leader above half health."
 msgstr ""
+"Dokonči <i>Starého přítele</i> s nepřátelským vůdcem, který bude mít více "
+"než půl zdraví."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:49
 msgid "Rest in Pieces"
-msgstr ""
+msgstr "Odpočívej po kouscích"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:50
@@ -2576,7 +2578,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:561
 msgid "An Old Friend"
-msgstr ""
+msgstr "Starý přítel"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:565
 msgid "<b>-OR-</b> (choose one reward)"
@@ -11819,7 +11821,7 @@ msgstr "Zima na severu"
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:8
 msgid "scenario name^An Old Friend"
-msgstr ""
+msgstr "Starý přítel"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:64
