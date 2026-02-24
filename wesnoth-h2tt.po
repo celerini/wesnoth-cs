@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-01-20 17:31 UTC\n"
-"PO-Revision-Date: 2026-02-23 19:52+0100\n"
+"PO-Revision-Date: 2026-02-24 20:55+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -343,13 +343,15 @@ msgstr "Drž se své naděje"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:51
 msgid "Cavefish"
-msgstr ""
+msgstr "Jeskynní ryba"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:51
 msgid ""
 "Complete <i>The Lost General</i> while only recruiting or recalling Merfolk."
 msgstr ""
+"Dokonči <i>Ztraceného generála</i> a přitom verbuj nebo povolávej pouze "
+"mořský lid."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:52
@@ -2909,7 +2911,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1090
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:9
 msgid "The Lost General"
-msgstr ""
+msgstr "Ztracený generál"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1094
 msgid ""
