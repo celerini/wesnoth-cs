@@ -8,19 +8,28 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
-wesnoth-dod | 267 | 10% | 239 |
-wesnoth-h2tt | 3031 | 2% | 2941 | Michal
+wesnoth-dod | 282 | 9% | 254 |
+wesnoth-editor | 122 | 97% | 3 | Michal
+wesnoth-ei | 1859 | 99% | 8 | Michal
+wesnoth-h2tt | 3158 | 3% | 3052 | Michal
+wesnoth-help | 774 | 99% | 7 | Michal
+wesnoth-l | 430 | 99% | 1 | Michal
+wesnoth-lib | 1682 | 99% | 11 | Michal
+wesnoth-nr | 1235 | 99% | 7 |
 wesnoth-pap | 264 | 0% | 262 |
-wesnoth-sof | 708 | 96% | 24 |
-wesnoth-tdg | 1262 | 11% | 1114 |
-wesnoth-thot | 375 | 71% | 108 |
-wesnoth-tsg | 892 | 32% | 601 | Septim
-wesnoth-utbs | 2058 | 98% | 34 |
+wesnoth-sof | 709 | 95% | 33 | Michal
+wesnoth-tb | 234 | 96% | 8 |
+wesnoth-tdg | 1262 | 11% | 1118 | Michal
+wesnoth-thot | 386 | 66% | 131 | Michal
+wesnoth-tsg | 896 | 31% | 612 | Septim
+wesnoth-units | 879 | 99% | 8 | Michal
+wesnoth-utbs | 2059 | 98% | 35 |
+wesnoth-wc | 526 | 98% | 7 | Michal
+wesnoth-wof | 803 | 96% | 31 | Michal
+wesnoth | 1465 | 99% | 9 | Michal
 
-Total messages remaining: **5323**
+Total messages remaining: **5597**
 
-Progress since 2026-02-09: **3** messages per day
-
-ETA: **2030-12-22**
+I see no progress.
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
