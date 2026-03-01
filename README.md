@@ -10,7 +10,7 @@ Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
 wesnoth-dod | 282 | 9% | 254 |
 wesnoth-editor | 122 | 97% | 3 | Michal
-wesnoth-ei | 1859 | 99% | 8 | Michal
+wesnoth-ei | 1859 | 99% | 3 |
 wesnoth-h2tt | 3158 | 3% | 3052 | Michal
 wesnoth-help | 774 | 99% | 7 | Michal
 wesnoth-lib | 1682 | 99% | 11 | Michal
@@ -27,10 +27,10 @@ wesnoth-wc | 526 | 98% | 7 | Michal
 wesnoth-wof | 803 | 96% | 31 | Michal
 wesnoth | 1465 | 99% | 9 | Michal
 
-Total messages remaining: **5593**
+Total messages remaining: **5588**
 
-Progress since 2026-02-26: **1** message per day
+Progress since 2026-02-26: **2** messages per day
 
-ETA: **2041-06-22**
+ETA: **2033-10-24**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
