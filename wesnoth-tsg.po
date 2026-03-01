@@ -790,7 +790,7 @@ msgid ""
 "...he’s fine. Just out cold, and of no use to you for the rest of our "
 "journey."
 msgstr ""
-"… je v pořádku. Jen je v bezvědomí a po zbytek cesty vám nebude k ničemu."
+"... je v pořádku. Jen je v bezvědomí a po zbytek cesty vám nebude k ničemu."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:762
