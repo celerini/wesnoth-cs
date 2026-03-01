@@ -279,7 +279,7 @@ msgstr "Bílý mág"
 #. [lua]: choose_companion
 #: data/campaigns/The_South_Guard/lua/popups.lua:178
 msgid "Leave with Sir Gerrick"
-msgstr "Bude to Sir Gerrick"
+msgstr "Bude to sir Gerrick"
 
 #. [lua]: choose_companion
 #: data/campaigns/The_South_Guard/lua/popups.lua:179
