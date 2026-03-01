@@ -1285,7 +1285,7 @@ msgid ""
 "is the rest of the South Guard? How have things gotten so far out of control?"
 msgstr ""
 "Uvědomuji si, že lupičství není na bezprávném jihu nic neobvyklého, ale "
-"nekromancie!? Kde je zbytek Jižní gardy? Jak se věci mohly tak vymknout "
+"nekromancie!? Kde je zbytek Jižní hlídky? Jak se věci mohly tak vymknout "
 "kontrole?"
 
 #. [message]: speaker=Mari
