@@ -2138,7 +2138,7 @@ msgstr ""
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:378
 msgid "If that’s what it was, it didn’t work. Look!"
-msgstr "Ať to bylo, co to bylo, funkční to nebylo. Podívej!"
+msgstr "Ať to bylo, co to bylo, nefungovalo to. Podívej!"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:379
