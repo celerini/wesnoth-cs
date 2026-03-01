@@ -982,7 +982,7 @@ msgstr ""
 "tlačítkem myši kamkoli a výběrem možnosti „Tipy: Zapnuto/Vypnuto“ v "
 "nabídce.\n"
 "\n"
-"Protože jsi přeskočil(a) tutoriál, tipy jsou momentálně vypnuté."
+"Protože jsi přeskočil/a tutoriál, tipy jsou momentálně vypnuté."
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:995
