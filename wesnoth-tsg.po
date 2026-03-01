@@ -2132,7 +2132,7 @@ msgid ""
 "intruders?"
 msgstr ""
 "To vůbec nebyli skuteční elfové! Byla to nějaká... předem vytvořená iluze? "
-"Napůl živá ozvěna? Mělo tohle něco, co mělo pomoci chránit údolí před "
+"Napůl živá ozvěna? Bylo tohle něco, co mělo pomoci chránit údolí před "
 "vetřelci?"
 
 #. [companion_message]
