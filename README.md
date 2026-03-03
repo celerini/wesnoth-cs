@@ -16,7 +16,7 @@ wesnoth-help | 774 | 99% | 7 | Michal
 wesnoth-lib | 1682 | 99% | 11 | Michal
 wesnoth-nr | 1235 | 99% | 7 |
 wesnoth-pap | 264 | 0% | 262 |
-wesnoth-sof | 709 | 95% | 33 | Michal
+wesnoth-sof | 709 | 96% | 25 |
 wesnoth-tdg | 1262 | 11% | 1115 |
 wesnoth-thot | 386 | 67% | 126 |
 wesnoth-tsg | 896 | 35% | 578 | Septim
@@ -26,10 +26,10 @@ wesnoth-wc | 526 | 98% | 7 | Michal
 wesnoth-wof | 803 | 96% | 31 | Michal
 wesnoth | 1465 | 99% | 9 | Michal
 
-Total messages remaining: **5541**
+Total messages remaining: **5533**
 
-Progress since 2026-02-26: **11** messages per day
+Progress since 2026-02-26: **10** messages per day
 
-ETA: **2027-07-18**
+ETA: **2027-09-07**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
