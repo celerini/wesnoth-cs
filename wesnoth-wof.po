@@ -1,5 +1,5 @@
 # Martin Hrubý <hrubymar10@gmail.com>, 2019 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019, 2022 - 2025
+# Michal Žejdl <lachim@emer.cz>, 2019, 2022 - 2026
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2022 - 2023.
 #
 msgid ""
@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2026-02-08 07:15+0100\n"
+"PO-Revision-Date: 2026-03-05 20:21+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -133,12 +133,10 @@ msgstr "Lov"
 #. In this campaign, the drake narrator and other drake characters speak with the Morogor dialect, which has some unique syntax and terms.
 #. The file data/campaigns/Winds_of_Fate/story/Morogor_Dialect.txt has details about how these drakes speak in English, as well as a glossary for the campaign.
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:20
-#, fuzzy
-#| msgid "From the skies above, the glider caste felt the Winds of Fate."
 msgid "From the skies above, the glider caste felt the Winds."
 msgstr ""
 "V nebeské výšce mohli příslušníci kasty plachtících drakonidů pociťovat "
-"vanutí Větrů osudu."
+"vanutí Větrů."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/01_The_Hunt.cfg:23
@@ -1529,14 +1527,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/02x_Victory_Feast.cfg:72
-#, fuzzy
-#| msgid ""
-#| "Perilous that way is.\n"
-#| "A wide stretch of sea unexceptional flyers might cross with fortune from "
-#| "the Winds of Fate.\n"
-#| "\n"
-#| "Then only a cluster of shoals to rest them, which might be slid past "
-#| "unnoticed with perilous ease."
 msgid ""
 "Perilous that way is.\n"
 "A wide stretch of sea unexceptional flyers might cross with fortune from the "
@@ -1547,7 +1537,7 @@ msgid ""
 msgstr ""
 "Ta cesta skýtá mnohá nebezpečí.\n"
 "Široký úsek moře mohou překonat jen nadprůměrní letci, kterým bude přát "
-"vanutí Větrů osudu.\n"
+"vanutí Větrů.\n"
 "\n"
 "Odpočinout si lze jen na shlucích mělčin, které se dají s nebezpečnou "
 "lehkostí minout bez povšimnutí."
@@ -4241,14 +4231,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:169
-#, fuzzy
-#| msgid ""
-#| "Speak no more of your fears!\n"
-#| "\n"
-#| "So many challenges have we overcome.\n"
-#| "So many foes vanquished.\n"
-#| "Yet still you feel not how we shift the Winds of Fate by the force of our "
-#| "Will."
 msgid ""
 "Speak no more of your fears!\n"
 "\n"
@@ -4260,7 +4242,7 @@ msgstr ""
 "\n"
 "Překonali jsme tolik výzev.\n"
 "Porazili jsme tolik nepřátel.\n"
-"Přesto stále necítíte, jak usměrňujeme Větry osudu silou naší Vůle."
+"Přesto stále necítíte, jak usměrňujeme Větry silou naší Vůle."
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:178
@@ -4276,19 +4258,6 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Winds_of_Fate/scenarios/06x_Winds_of_Fate.cfg:185
-#, fuzzy
-#| msgid ""
-#| "Nay!\n"
-#| "\n"
-#| "We are not merely tossed about by the Winds of Fate.\n"
-#| "We <b>shape</b> them.\n"
-#| "\n"
-#| "We fumble not for a Windpath.\n"
-#| "We make it.\n"
-#| "\n"
-#| "Feel the world as it should be with all the fire of your heart.\n"
-#| "With no room left for <i>fear</i>.\n"
-#| "With all your Willful heart, make that world be!"
 msgid ""
 "Nay!\n"
 "\n"
@@ -4304,7 +4273,7 @@ msgid ""
 msgstr ""
 "Ne!\n"
 "\n"
-"Nejsme jen zmítáni Větry osudu.\n"
+"Nejsme jen zmítáni Větry.\n"
 "My je <b>tvarujeme</b>.\n"
 "\n"
 "Nepátráme po Větrné stezce.\n"
@@ -4603,15 +4572,6 @@ msgstr ""
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:377
-#, fuzzy
-#| msgid ""
-#| "This is my castle Saethrania — the Castle of Sharing.\n"
-#| "\n"
-#| "You may make an abode of castle Gliinoler — the Castle of Caring.\n"
-#| "\n"
-#| "My attendants will bestow whatever form of floral nourishment you most "
-#| "desire. Mayhap Bread of the Locust Fruit softened with Milk of the Hazel "
-#| "and sweetened with Sap of the Birch?"
 msgid ""
 "This is my castle Saethrania — the Castle of Virtue.\n"
 "\n"
@@ -4621,9 +4581,9 @@ msgid ""
 "desire. Mayhap Bread of the Locust Fruit softened with Milk of the Hazel and "
 "sweetened with Sap of the Birch?"
 msgstr ""
-"Toto je můj hrad Saetranie – hrad sdílení.\n"
+"Toto je můj hrad Saetranie – hrad ctnosti.\n"
 "\n"
-"Můžete spočinout v hradě Glinoler – hradě péče.\n"
+"Můžete spočinout v hradě Glinoler – hradě obětování.\n"
 "\n"
 "Moji ošetřovatelé vám poskytnou jakoukoli formu květinové výživy, která vám "
 "bude nejvíc po chuti. Možná rohovníkový chléb zjemněný lískovým mlékem a "
