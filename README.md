@@ -2,6 +2,8 @@
 
 This branch reflects [upstream master branch](https://github.com/wesnoth/wesnoth/tree/master).
 
+The [string freeze](https://groups.io/g/wesnoth-translations/message/4) is now in effect. Our two-person team needs reinforcements to finish the translation in time. Your help is welcome.
+
 Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) page on the Wesnoth Wiki for more information.
 
 ## To Do
@@ -23,13 +25,13 @@ wesnoth-tsg | 896 | 35% | 578 | Septim
 wesnoth-units | 879 | 99% | 8 | Michal
 wesnoth-utbs | 2059 | 98% | 35 |
 wesnoth-wc | 526 | 98% | 7 | Michal
-wesnoth-wof | 803 | 96% | 31 | Michal
+wesnoth-wof | 803 | 98% | 13 |
 wesnoth | 1465 | 99% | 9 | Michal
 
-Total messages remaining: **5519**
+Total messages remaining: **5501**
 
-Progress since 2026-02-26: **11** messages per day
+Progress since 2026-02-26: **10** messages per day
 
-ETA: **2027-07-18**
+ETA: **2027-09-07**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
