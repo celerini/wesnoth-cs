@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2026-02-08 07:12+0100\n"
+"PO-Revision-Date: 2026-03-07 08:04+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -542,10 +542,8 @@ msgstr "prokletí"
 
 #. [unit_type]: id=Pirate Flagship, race=ship
 #: data/campaigns/Of_Pearls_and_Pirates/units/Pirate_Flagship.cfg:9
-#, fuzzy
-#| msgid "Pirate Ship"
 msgid "Pirate Flagship"
-msgstr "Pirátská loď"
+msgstr "Pirátská vlajková loď"
 
 #. [unit_type]: id=Pirate Flagship, race=ship
 #. [unit_type]: id=Pirate Carrack, race=ship
@@ -597,10 +595,8 @@ msgstr "lodní hák"
 
 #. [unit_type]: id=Pirate Skiff, race=ship
 #: data/campaigns/Of_Pearls_and_Pirates/units/Pirate_Skiff.cfg:9
-#, fuzzy
-#| msgid "Pirate Ship"
 msgid "Pirate Skiff"
-msgstr "Pirátská loď"
+msgstr "Pirátská lodice"
 
 #. [unit_type]: id=Pirate Skiff, race=ship
 #. [unit_type]: id=Skiff, race=ship
@@ -1804,19 +1800,6 @@ msgstr "Okovaná veslice"
 
 #. [unit_type]: id=Iron Raider, race=ship
 #: data/core/units/boats/Raider_Iron.cfg:26
-#, fuzzy
-#| msgid ""
-#| "While Carracks and Cogs rely on impressive sails to harness the power of "
-#| "the wind, galleys and raiders are propelled by muscle-power of the crew "
-#| "manning the oars. This has the disadvantage of requiring a larger crew, "
-#| "and it does limit the speed and efficiency of transport. But these "
-#| "seeming weaknesses also make the vessel less vulnerable to the whims of "
-#| "weather and the predations of pirates.\n"
-#| "\n"
-#| "Iron Raiders are veteran Coastal Raiders that have been hardened to "
-#| "become tougher targets and harder hitters. They are often used as front-"
-#| "line escorts of slower cargo ships in rivers and coasts, where their "
-#| "heavy iron ram proves the most effective."
 msgid ""
 "While Carracks and Cogs rely on impressive sails to harness the power of the "
 "wind, galleys and raiders are propelled by muscle-power of the crew manning "
@@ -1829,12 +1812,7 @@ msgstr ""
 "galéry a veslice jsou poháněny silou svalů mužstva, které obsluhuje vesla. "
 "To má tu nevýhodu, že je třeba větší posádky, a omezuje to rychlost "
 "a účinnost přepravy. Tyto zdánlivé nedostatky však také činí plavidlo méně "
-"zranitelným vůči rozmarům počasí a drancování pirátů.\n"
-"\n"
-"Okované veslice jsou dlouho sloužící pobřežní veslice, které byly vyztuženy, "
-"aby se staly odolnějšími cíli a tvrdšími úderníky. Často se používají jako "
-"přední doprovod pomalejších nákladních lodí na řekách a při pobřežích, kde "
-"se jejich silný okovaný kloun ukazuje jako nejúčinnější."
+"zranitelným vůči rozmarům počasí a drancování pirátů."
 
 #. [unit_type]: id=Iron Raider, race=ship
 #: data/core/units/boats/Raider_Iron.cfg:28
@@ -1844,6 +1822,11 @@ msgid ""
 "escorts of slower cargo ships in rivers and coasts, where their heavy iron "
 "bow allows them to ram foes without fear of self-inflicted damage."
 msgstr ""
+"Okované veslice jsou dlouho sloužící pobřežní veslice, které byly vyztuženy, "
+"aby se staly odolnějšími cíli a tvrdšími úderníky. Často se používají jako "
+"přední doprovod pomalejších nákladních lodí na řekách a při pobřežích, kde "
+"jim jejich silná okovaná příď umožňuje narážet do nepřátel bez obav "
+"z vlastního poškození."
 
 #. [unit_type]: id=Skiff, race=ship
 #: data/core/units/boats/Skiff.cfg:5
