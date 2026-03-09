@@ -18,14 +18,14 @@ wesnoth-help | 774 | 99% | 7 | Michal
 wesnoth-lib | 1682 | 99% | 11 | Michal
 wesnoth-nr | 1235 | 99% | 7 |
 wesnoth-pap | 264 | 0% | 262 |
-wesnoth-sof | 709 | 96% | 25 |
+wesnoth-sof | 709 | 96% | 25 | Septim
 wesnoth-tdg | 1262 | 11% | 1115 |
 wesnoth-thot | 386 | 67% | 126 |
 wesnoth-tsg | 896 | 35% | 578 | Septim
 wesnoth-units | 879 | 99% | 8 | Michal
 wesnoth-utbs | 2059 | 98% | 35 |
 wesnoth-wc | 526 | 98% | 7 | Michal
-wesnoth-wof | 803 | 98% | 13 |
+wesnoth-wof | 803 | 98% | 13 | Septim
 wesnoth | 1465 | 99% | 9 | Michal
 
 Total messages remaining: **5501**
