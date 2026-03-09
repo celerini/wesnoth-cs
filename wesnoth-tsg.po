@@ -6914,8 +6914,8 @@ msgstr ""
 "Jedna z tvých jednotek dosáhla maximálního počtu zkušeností a povýšila! Nyní "
 "je výrazně silnější a byla plně vyléčena!\n"
 "\n"
-"Úplný popis toho, co která z tvých jednotek dokáže, zobrazíš kliknutím na ni "
-"pravým tlačítkem myši a výběrem možnosti „Popis typu jednotky“.</i></b>"
+"Úplný popis toho, co která z tvých jednotek dokáže, zobrazíš <b><i>kliknutím na ni "
+"pravým tlačítkem myši a výběrem možnosti „Popis typu jednotky“</i></b>."
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:94
