@@ -1644,7 +1644,7 @@ msgid ""
 "learn more from our captive?"
 msgstr ""
 "Údolí... není to náhodou exkláva v Aethenském lese? Nedokážu si představit, "
-"že by tamní elfové měli cokoli společného s nekromancií, nebo že by někdy "
+"že by tamní elfové měli cokoli společného s nekromancií nebo že by někdy "
 "nabízeli pomoc banditům... Slyšel jsem, že se staví odtažitě i ke králi. "
 "Nemůžeme se od našeho zajatce dozvědět víc?"
 
