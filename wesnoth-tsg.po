@@ -1676,7 +1676,7 @@ msgid ""
 "Even were he willing, I am not sure he remembers anything other than what he "
 "has already told us."
 msgstr ""
-"I kdyby chtěl, nejsem si jistý, jestli si pamatuje něco jiného než co nám už "
+"I kdyby chtěl, nejsem si jistý, jestli si pamatuje něco jiného, než co nám už "
 "řekl."
 
 #. [message]: speaker=Mari
