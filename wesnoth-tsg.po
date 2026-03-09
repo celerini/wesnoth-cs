@@ -1633,7 +1633,7 @@ msgstr ""
 "stejně nepřístupný jako v první den, kdy jsme sem dorazili.\n"
 "\n"
 "Zda se „Údolí kvetoucích stromů“ vztahuje k zdroji jeho temných sil, k místu "
-"pobytu jiného z bratrů Urzů, nebo k něčemu úplně jinému, nedokážu říci."
+"pobytu jiného z bratrů Urzů nebo k něčemu úplně jinému, nedokážu říci."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:155
