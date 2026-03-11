@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2026-03-10 22:36+0100\n"
+"PO-Revision-Date: 2026-03-11 23:00+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6808,7 +6808,7 @@ msgstr ""
 #. [unit_type]: id=Redtail Cat, race=cats
 #: data/core/units/monsters/Cat_Redtail.cfg:4
 msgid "Redtail Cat"
-msgstr ""
+msgstr "Kočka červenoocasá"
 
 #. [unit_type]: id=Redtail Cat, race=cats
 #: data/core/units/monsters/Cat_Redtail.cfg:33
@@ -6821,6 +6821,13 @@ msgid ""
 "maneuvering, common folklore says these cats are actually malevolent fire "
 "spirits, and heralds of bad luck."
 msgstr ""
+"Kočky červenoocasé jsou silné šelmy, které obvykle číhají v podhůří "
+"a lesích, ale při lovu se pohybují daleko, takže se s nimi setkáváme na "
+"mnoha nečekaných místech. Jejich nejcharakterističtějším znakem je téměř "
+"plamenné zbarvení ocasu, které odvádí pozornost od tmavého těla "
+"a nebezpečných zubů a drápů. Pravděpodobně díky svému zbarvení a hbitému "
+"manévrování jsou tyto kočky podle lidových pověstí ve skutečnosti zlovolnými "
+"ohnivými duchy a zvěstovateli neštěstí."
 
 # Nechávám bažinný, protože močálový mi nezní dobře.
 #. [unit_type]: id=Swamp Lizard, race=monster
