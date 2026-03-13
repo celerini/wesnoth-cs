@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-25 19:03-0600\n"
-"PO-Revision-Date: 2026-01-22 20:22+0100\n"
+"PO-Revision-Date: 2026-03-13 21:33+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -265,7 +265,7 @@ msgstr "Ukázat nad obráncem zmínku, když ho útok mine."
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:200
 msgid "SIMD acceleration"
-msgstr ""
+msgstr "Zrychlení pomocí SIMD"
 
 #. [advanced_preference]: type=boolean
 #: data/advanced_preferences.cfg:201
@@ -273,6 +273,9 @@ msgid ""
 "Use hardware acceleration (SSE2/NEON) for faster image processing on the "
 "CPU. Try disabling this if you experience graphical glitches or crashes."
 msgstr ""
+"Použít hardwarovou akceleraci (SSE2/NEON) pro rychlejší zpracování obrazu na "
+"procesoru. Pokud se objeví grafické závady nebo pády, zkus tuto funkci "
+"vypnout."
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [unstore_unit]
@@ -6854,14 +6857,12 @@ msgstr "Rekruti"
 
 #: src/help/help_impl.cpp:652
 msgid "Previous"
-msgstr ""
+msgstr "Předchozí"
 
 #: src/help/help_impl.cpp:665 src/help/help_impl.cpp:787
 #: src/help/help_impl.cpp:805
-#, fuzzy
-#| msgid "Next Turn"
 msgid "Next"
-msgstr "Další kolo"
+msgstr "Další"
 
 # v nápovědě podrobnosti jednotky když k ní není žádný text
 #: src/help/help_impl.cpp:762 src/units/types.cpp:450
@@ -6869,22 +6870,16 @@ msgid "No description available."
 msgstr "Žádné informace nejsou k dispozici."
 
 #: src/help/help_impl.cpp:766
-#, fuzzy
-#| msgid "This is the last scenario."
 msgid "This is a global trait."
-msgstr "Toto je poslední scénář."
+msgstr "Toto je globální vlastnost."
 
 #: src/help/help_impl.cpp:774
-#, fuzzy
-#| msgid "Units with this ability"
 msgid "Races with this trait"
-msgstr "Jednotky s touto schopností"
+msgstr "Rasy s touto vlastností"
 
 #: src/help/help_impl.cpp:794
-#, fuzzy
-#| msgid "Units with this ability"
 msgid "Units with this trait"
-msgstr "Jednotky s touto schopností"
+msgstr "Jednotky s touto vlastností"
 
 #: src/help/help_impl.cpp:917 src/help/help_impl.cpp:1132
 msgid "race^Miscellaneous"
@@ -8075,10 +8070,8 @@ msgstr "Obrana:"
 
 #. TRANSLATORS: single-letter abbreviation of "vision", fits in a small space on the sidebar
 #: src/reports.cpp:646
-#, fuzzy
-#| msgid "vision:"
 msgid "vision^V:"
-msgstr "rozhled:"
+msgstr "R:"
 
 #: src/reports.cpp:647
 msgid "vision:"
@@ -8086,10 +8079,8 @@ msgstr "rozhled:"
 
 #. TRANSLATORS: single-letter abbreviation of "jamming", fits in a small space on the sidebar
 #: src/reports.cpp:669
-#, fuzzy
-#| msgid "jamming:"
 msgid "jamming^J:"
-msgstr "rušení:"
+msgstr "Š:"
 
 #: src/reports.cpp:670
 msgid "jamming:"
