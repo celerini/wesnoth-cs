@@ -3628,7 +3628,7 @@ msgstr "HLUPÁCI! JÁ SE OD SLABOSTI OSVOBODIL JIŽ DÁVNO!"
 msgid ""
 "Even arcane weapons have no effect on him! We need an expert in white magic."
 msgstr ""
-"Dokonce ani nezemeské zbraně mu nemohou ublížit! Potřebujeme zkušeného "
+"Dokonce ani nezemské zbraně mu nemohou ublížit! Potřebujeme zkušeného "
 "znalce bílé magie."
 
 #. [message]: speaker=Malifor
