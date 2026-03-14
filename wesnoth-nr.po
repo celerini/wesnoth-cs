@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:04 UTC\n"
-"PO-Revision-Date: 2026-01-18 08:58+0100\n"
+"PO-Revision-Date: 2026-03-14 12:58+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -17,6 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.9\n"
 
 #. [campaign]: id=Northern_Rebirth
 #: data/campaigns/Northern_Rebirth/_main.cfg:9
@@ -340,7 +341,7 @@ msgstr "Zlex"
 #. [side]: type=Orcish Warlord, id=Al'Tar
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:131
 msgid "Al'Tar"
-msgstr "Altar"
+msgstr "Al'Tar"
 
 #. [side]: type=Orcish Warlord, id=Al'Tar
 #: data/campaigns/Northern_Rebirth/scenarios/01_Breaking_the_Chains.cfg:136
@@ -3565,7 +3566,7 @@ msgstr ""
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2861
 msgid "HAHAHAHA, THAT WEAPON CANNOT HARM ME!"
-msgstr ""
+msgstr "HAHAHAHA, TATO ZBRAŇ MI NEMŮŽE UBLÍŽIT!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2866
@@ -3585,12 +3586,12 @@ msgstr "Kurnik, jak jen se ho máme zbavit? Naše zbraně mu neubližují!"
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2891
 msgid "YOUR WEAPONS CANNOT HARM ME, FOOLS!"
-msgstr ""
+msgstr "VAŠE ZBRANĚ MI NEMOHOU UBLÍŽIT, HLUPÁCI!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2896
 msgid "We’ll have to try something else. Perhaps magic will help."
-msgstr ""
+msgstr "Budeme muset vyzkoušet něco jiného. Možná nám pomůže magie."
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2906
@@ -3610,23 +3611,25 @@ msgstr "Zkusíme na něj něco jiného."
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2926
 msgid "HAHAHAHA, FOOL! THE COLD IS MY DOMAIN!"
-msgstr ""
+msgstr "HAHAHAHA, HLUPÁCI, CHLAD JE MÝM ŽIVLEM!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2931
 msgid "I suppose we should’ve known better than to try freezing a Lich."
-msgstr ""
+msgstr "Hádám, že pokusit se zmrazit Licha nebyl nejchytřejší nápad."
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2941
 msgid "FOOLS! I FREED MYSELF OF WEAKNESS LONG AGO!"
-msgstr ""
+msgstr "HLUPÁCI! JÁ SE OD SLABOSTI OSVOBODIL JIŽ DÁVNO!"
 
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2946
 msgid ""
 "Even arcane weapons have no effect on him! We need an expert in white magic."
 msgstr ""
+"Dokonce ani nezemeské zbraně mu nemohou ublížit! Potřebujeme zkušeného "
+"znalce bílé magie."
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2961
@@ -8784,7 +8787,8 @@ msgstr "Auu!"
 #. [message]: speaker=Father Morvin
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:231
 msgid "You monsters think you are so tough don’t you? Well check this out."
-msgstr "Vy monstra! Myslíte si, že jste tvrďáci? Tak se dívejte!"
+msgstr ""
+"Vy monstra si myslíte, že jste takoví drsňáci, co? Tak se na tohle podívejte."
 
 #. [message]: speaker=Father Morvin
 #. [message]: speaker=Sister Thera
