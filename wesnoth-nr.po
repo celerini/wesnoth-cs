@@ -3616,7 +3616,7 @@ msgstr "HAHAHAHA, HLUPÁCI, CHLAD JE MÝM ŽIVLEM!"
 #. [message]: speaker=Tallin
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2931
 msgid "I suppose we should’ve known better than to try freezing a Lich."
-msgstr "Hádám, že pokusit se zmrazit Licha nebyl nejchytřejší nápad."
+msgstr "Hádám, že pokusit se zmrazit licha nebyl nejchytřejší nápad."
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2941
