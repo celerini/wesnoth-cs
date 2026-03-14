@@ -8788,7 +8788,7 @@ msgstr "Auu!"
 #: data/campaigns/Northern_Rebirth/utils/herodeaths.cfg:231
 msgid "You monsters think you are so tough don’t you? Well check this out."
 msgstr ""
-"Vy monstra si myslíte, že jste takoví drsňáci, co? Tak se na tohle podívejte."
+"Vy monstra si myslíte, že jste takoví drsňáci, co? Tak se podívejte na tohle."
 
 #. [message]: speaker=Father Morvin
 #. [message]: speaker=Sister Thera
