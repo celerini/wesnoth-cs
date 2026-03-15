@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-25 19:03-0600\n"
-"PO-Revision-Date: 2026-03-13 21:33+0100\n"
+"PO-Revision-Date: 2026-03-15 19:13+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8964,44 +8964,3 @@ msgstr "Skryj plány pro hráče $player"
 #: src/whiteboard/manager.cpp:1140
 msgid "Whiteboard Options"
 msgstr "Nastavení plánovacího módu"
-
-#~ msgid "Potion grants steadfast ability and 20% resistance to impact."
-#~ msgstr "Lektvar poskytuje schopnost vytrvalosti a 20% odolnost proti úderu."
-
-#~ msgid "A potion of unknown origin."
-#~ msgstr "Lektvar neznámého původu."
-
-#~ msgid "This magical branch grants +2 damage to melee attacks."
-#~ msgstr "Tato kouzelná větev dává +2 ke zranění při útocích zblízka."
-
-#~ msgid "Wose Branch"
-#~ msgstr "Stromova větev"
-
-#~ msgid "The magical branch of some great Wose."
-#~ msgstr "Kouzelná větev nějakého velkého stromového muže."
-
-#~ msgid "This unit will gain the stun weapon special on melee attacks."
-#~ msgstr ""
-#~ "Tato jednotka získá pro zbraň zvláštnost omráčení při útocích zblízka."
-
-#~ msgid "Echoes of the Earth"
-#~ msgstr "Ozvěny země"
-
-#~ msgid "Powerful echoes from the bowels of the earth."
-#~ msgstr "Mocná ozvěna z útrob země."
-
-#~ msgid "The unit gains the stun weapon special on melee attacks."
-#~ msgstr "Jednotka získává pro zbraň zvláštnost omráčení při útocích zblízka."
-
-#~ msgid ""
-#~ "After $unit.name| absorbed the stone’s power, the monolith lost its "
-#~ "magical properties."
-#~ msgstr ""
-#~ "Poté, co $jednotka.jméno| vstřebal/a sílu kamene, monolit ztratil své "
-#~ "kouzelné vlastnosti."
-
-#~ msgid "unerring"
-#~ msgstr "jistý"
-
-#~ msgid "This attack never misses."
-#~ msgstr "Tento útok nikdy nemine."
