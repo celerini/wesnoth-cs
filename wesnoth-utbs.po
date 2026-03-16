@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2026-03-15 11:50+0100\n"
+"PO-Revision-Date: 2026-03-16 16:19+0100\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1785,7 +1785,7 @@ msgstr "Je známo, že se to již stalo."
 #. [message]: speaker=Kaleh
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1512
 msgid "I don’t even want to think about something like that. Onwards!"
-msgstr "Na něco takového ani nechci pomyslet. Kupředu!"
+msgstr "Ani na to nechci myslet. Kupředu!"
 
 #. [message]: speaker=$explorer.id
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:1517
@@ -15612,7 +15612,7 @@ msgstr "Spojení s Přírodou"
 #. [advancement]: id=extra_natures_aid
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Shyde.cfg:175
 msgid "Nature Aid"
-msgstr "Pomoc Přírody"
+msgstr "Síla Přírody"
 
 #. [unit_type]: id=Quenoth Sun Singer, race=quenoth, gender=female
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Sun_Singer.cfg:5
@@ -16009,7 +16009,7 @@ msgstr "Prospěchář"
 #. [advancement]: id=leading
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:386
 msgid "Leading"
-msgstr "Vedení"
+msgstr "Velení"
 
 #. [advancement]: id=accurate_strikes
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:423
@@ -16799,7 +16799,7 @@ msgid ""
 "decreases the chance of being hit by them by 10% each, until the end of the "
 "fight."
 msgstr ""
-"Při útoku, každý úspěšný zásah zvyšuje šanci zasáhnout protivníka a snížit "
+"Při útoku zvyšuje každý úspěšný zásah šanci zasáhnout protivníka a snížit "
 "šanci být jím zasažen o 10% do konce souboje."
 
 #. [heals]: id=natures_aid
@@ -16810,7 +16810,7 @@ msgstr "síla přírody +2"
 #. [heals]: id=natures_aid
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1843
 msgid "female^nature’s aid +2"
-msgstr "female^síla přírody+2"
+msgstr "síla přírody+2"
 
 #. [heals]: id=natures_aid
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1844
@@ -16829,7 +16829,9 @@ msgstr ""
 msgid ""
 "This ability will not cure an affected unit of poison, however, only delay "
 "its effect."
-msgstr "Tato schopnost nicméně otrávenou neuzdraví, pouze pozdrží účinky jedu."
+msgstr ""
+"Tato schopnost nicméně otrávenou jednotku neuzdraví, pouze pozdrží účinky "
+"jedu."
 
 #. [heals]: id=natures_aid
 #. [heals]: id=extra_natures_aid
@@ -16841,12 +16843,12 @@ msgstr "Tato jednotka je schopná základního léčení a zpomalení dehydratac
 #. [heals]: id=extra_natures_aid
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1869
 msgid "nature’s aid +4"
-msgstr "pomoc přírody +4"
+msgstr "síla  přírody +4"
 
 #. [heals]: id=extra_natures_aid
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1870
 msgid "female^nature’s aid +4"
-msgstr "female^pomoc přírody +4"
+msgstr "síla přírody +4"
 
 #. [heals]: id=extra_natures_aid
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1871
@@ -16865,7 +16867,7 @@ msgstr "zhoubný vliv"
 #. [dummy]: id=corrupting_influence
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1894
 msgid "female^corrupting influence"
-msgstr "female^zhoubný vliv"
+msgstr "zhoubný vliv"
 
 #. [dummy]: id=corrupting_influence
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1895
@@ -16903,7 +16905,7 @@ msgid ""
 "executes an uncountered intercepting strike with this weapon."
 msgstr ""
 "Jakmile nepřátelská jednotka vstoupí na sousední pole, držitel této zbraně "
-"okamžitě provede neblokovatelný úder."
+"okamžitě útok, který nelze zablokovat."
 
 #. [extra_attack]: id=intercept
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1942
@@ -16911,8 +16913,8 @@ msgid ""
 "Delivers a full-power, uncountered attack when enemies move to an adjacent "
 "space. Activates once per turn."
 msgstr ""
-"Provede mocný útok, kterému se nelze vyhnout, když se nepřátelé přesunou na "
-"sousední pole. Aktivuje se jednou za kolo."
+"Pokud se nepřítel přesune na sousední pole, provede tato jednotka mocný "
+"útok, kterému se nelze vyhnout. Aktivuje se jednou za kolo."
 
 #: data/campaigns/Under_the_Burning_Suns/utils/character-definitions.cfg:5
 msgid "Kaleh"
