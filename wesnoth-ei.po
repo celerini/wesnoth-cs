@@ -8,14 +8,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2026-03-01 09:39+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2026-03-15 09:20+0100\n"
+"Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.9\n"
 
 #. [campaign]: id=Eastern_Invasion
 #. [achievement_group]
@@ -6782,10 +6783,11 @@ msgstr ""
 "a povolávat! Budu potřebovat vojáky, abychom udrželi frontu proti těm "
 "skřetům."
 
+# Nepodařilo se mi najít zdroj textu
 #. [dummy]: id=amla_dummy
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2668
 msgid "AMLAs"
-msgstr ""
+msgstr "AMLA"
 
 #. [dummy]: id=amla_dummy
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2669
@@ -6793,6 +6795,8 @@ msgid ""
 "This veteran fighter has advanced one or more times past his maximum level, "
 "gaining increased damage each time."
 msgstr ""
+"Tento zkušený bojovník již jednou či vícekrát překročil svou maximální "
+"úroveň, čímž si pokaždé zvýšil útočné poškození."
 
 #. [message]
 #. Medium-sized groups of orcs are arriving every 2 days to attack the player. This is one message they might say when they arrive.
@@ -8292,6 +8296,9 @@ msgid ""
 "she is alerted, and with the rest of our army yet weeks away, she will have "
 "more than enough time to prepare for our arrival."
 msgstr ""
+"Gweddry doufal, že se mu podaří nekromanta zaskočit. Avšak nyní, když byl "
+"upozorněn a zbytek naší armády je týdny vzdálen, bude nepřítel mít více než "
+"dost času se na nás připravit."
 
 #. [message]: speaker=Mal-Yrna
 #. speaking to a bat
