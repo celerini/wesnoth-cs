@@ -254,7 +254,7 @@ msgstr "Aiglondur zemře"
 #. [message]: speaker=unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:156
 msgid "Rarrrggh..."
-msgstr "Rarrrcht"
+msgstr "Rarrrcht..."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:163
