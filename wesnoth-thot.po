@@ -2259,7 +2259,7 @@ msgstr "Připrav se konfrontovat Karraga"
 #. [objective]: condition=win
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1159
 msgid "When you are ready, move Angarthing to the marked hex"
-msgstr "Až budeš připraven, přesuň Angarthinga na označené pole,"
+msgstr "Až budeš připraven, přesuň Angarthinga na označené pole"
 
 #. [message]: speaker=Dranath
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1180
