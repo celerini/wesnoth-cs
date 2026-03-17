@@ -958,7 +958,7 @@ msgstr "Poraz Glašala"
 #. [objective]: condition=lose
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:200
 msgid "Death of Master Perrin or Ratheln"
-msgstr "Smrt Mistra Perrina nebo Rathelna"
+msgstr "Mistr Perrin nebo Ratheln zemře"
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:234
