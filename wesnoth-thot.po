@@ -452,7 +452,7 @@ msgid ""
 msgstr ""
 "Můj pane, objevili jsme to nedávno. Stále ještě luštíme obsah knihy. A také "
 "je třeba uvážit jednu delikátní věc – kdo by měl právo trénovat nové runové "
-"kováře, my zde, kteří vlastníme knihu, nebo ti v Kal Kartě, kteří vlastní "
+"kováře, my zde, kteří vlastníme knihu, nebo ti v Kal Kartha, kteří vlastní "
 "kladivo?"
 
 #. [message]: speaker=Angarthing
