@@ -1264,7 +1264,7 @@ msgstr "Děkujeme za vaši pomoc. Zachránili jste nás!"
 msgid ""
 "I do not mean to sound ungrateful, but — the masked ones... they always come "
 "back..."
-msgstr "Nechci znít nevděčně, ale – ti maskovaní… pořád se vracejí…"
+msgstr "Nechci znít nevděčně, ale – ti maskovaní... pořád se vracejí..."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:394
