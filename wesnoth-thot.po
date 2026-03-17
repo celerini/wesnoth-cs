@@ -2452,7 +2452,7 @@ msgid ""
 "scene now before me, perhaps you have already?"
 msgstr ""
 "Aby zdůraznil závažnost této záležitosti, jmenoval by tě protektor v případě "
-"úspěchu Spoluvládcem Aliance. ...ačkoli vzhledem k tomu, co se právě "
+"úspěchu spoluvládcem Aliance. ... ačkoli vzhledem k tomu, co se právě "
 "odehrává přede mnou, možná už se tak stalo?"
 
 #. [message]: speaker=Dulcatulos
