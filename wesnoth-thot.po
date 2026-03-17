@@ -1285,7 +1285,7 @@ msgid ""
 msgstr ""
 "My trpaslíci putujeme na východ. Musíme se dostat do Kal Karthy. Pokud "
 "budeme mít štěstí, zvládneme to, než se stane něco strašného. Po tom, čeho "
-"jsme byli svědky se náš úkol stal ještě naléhavějším."
+"jsme byli svědky, se náš úkol stal ještě naléhavějším."
 
 #. [scenario]: id=07_Forbidden_Forest
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/07_Forbidden_Forest.cfg:5
