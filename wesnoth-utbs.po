@@ -16876,7 +16876,7 @@ msgid ""
 "or fungus at the beginning of their turn."
 msgstr ""
 "Ovládá přírodu tak, že nepřátelským jednotkám stojícím v lese či houbovém "
-"háji způsobí 1 poškození na začátku jejich kola."
+"háji způsobí 1 bod poškození na začátku jejich kola."
 
 #. [dummy]: id=corrupting_influence
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1896
