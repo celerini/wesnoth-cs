@@ -1385,7 +1385,7 @@ msgstr ""
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:595
 msgid ""
 "It’s a pack of Wandering Scarabs! They must’ve been burrowed under the sand."
-msgstr "To je hejno Toulavých Skarabů! Museli se zahrabat do písku."
+msgstr "To je houf potulných skarabů! Museli se zahrabat do písku."
 
 #. [scenario]: id=02_Across_the_Harsh_Sands, role=Hunting Ogre
 #: data/campaigns/Under_the_Burning_Suns/scenarios/02_Across_the_Harsh_Sands.cfg:627
