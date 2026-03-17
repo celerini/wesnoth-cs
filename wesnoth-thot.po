@@ -1617,7 +1617,7 @@ msgstr "Jsme tu."
 #. [message]: speaker=Karrag
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:188
 msgid "Greetings, Knalgans!"
-msgstr "Buďte pozdraveni Knalganští!"
+msgstr "Buďte pozdraveni, knalganští!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:192
