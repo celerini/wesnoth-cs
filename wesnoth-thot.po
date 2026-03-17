@@ -2441,7 +2441,7 @@ msgid ""
 "bids you vanquish this evil."
 msgstr ""
 "Vyprávěli příběh o hrůze a utrpení, o maskovaných trpaslících a sekerách v "
-"noci. Jako lord ochránce Aliance a spojenec všech svobodných lidí vás Tallin "
+"noci. Jako lord protektor Aliance a spojenec všech svobodných lidí vás Tallin "
 "vyzývá, abyste toto zlo porazili."
 
 #. [message]: speaker=Pelias
