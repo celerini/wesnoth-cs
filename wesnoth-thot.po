@@ -1688,7 +1688,7 @@ msgid ""
 "Together, we can march to greater victories! Will you of Knalga join me?"
 msgstr ""
 "Ano! A kladivo v sobě ukrývá duši trpaslíků, pravého lidu. Společně můžeme "
-"vyrazit k ještě velkým vítězstvím! Přidáte se ke mně, lide Knalgy?"
+"vyrazit k ještě větším vítězstvím! Přidáte se ke mně, lide Knalgy?"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:232
