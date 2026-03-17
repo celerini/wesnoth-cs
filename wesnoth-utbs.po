@@ -16857,7 +16857,7 @@ msgid ""
 "for 4 HP when starting their turn in forest or fungus."
 msgstr ""
 "Všechny jednotky na straně této jednotky, bez ohledu na vzdálenost, si na "
-"začátku svého tahu v lese nebo v houbovém háji obnoví 2 body zdraví."
+"začátku svého kola v lese nebo v houbovém háji obnoví 2 body zdraví."
 
 #. [dummy]: id=corrupting_influence
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1893
