@@ -16488,7 +16488,7 @@ msgstr "pouze při odražení útoku: + $sub %"
 msgid ""
 "This unit sees its defense reinforced by $sub% when this weapon is used "
 "offensively"
-msgstr "Při útočném použití této zbraně se obrana této jednotky posílí o $sub%"
+msgstr "Při útočném použití této zbraně se obrana této jednotky posílí o $sub %"
 
 #. [chance_to_hit]: id=parry{VALUE}
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:705
