@@ -1120,7 +1120,7 @@ msgstr ""
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:253
 msgid "He is here. How has he wronged your master, that you seek his death?"
-msgstr "Tady je. Čím se provinil tvému pánovi, že mu hrozí smrtí?"
+msgstr "Tady je. Čím se provinil na tvém pánovi, že mu hrozí smrtí?"
 
 #. [message]: role=masked_speaker
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:257
