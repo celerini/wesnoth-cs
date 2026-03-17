@@ -817,7 +817,7 @@ msgstr "Neznám tě a mým příbuzným jsi neublížil. Nepřeji ti nic zlého.
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:407
 msgid ""
 "Then please, help us! My colleagues and I are assailed by a flight of drakes!"
-msgstr "Tak nám prosím pomozte! Na mě a mé společníky útočí hejno draků!"
+msgstr "Tak nám prosím pomozte! Na mě a mé společníky útočí letka drakonidů!"
 
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/04_High_Pass.cfg:411
