@@ -915,7 +915,7 @@ msgid ""
 "in the cliffs near the valley’s end."
 msgstr ""
 "Tak tedy, rád vás vidím. S mými studenty jsme sem přišli, abychom "
-"prozkoumali dračí hnízdo. Nachází se na útesech dole v údolí."
+"prozkoumali hnízdo drakonidů. Nachází se na útesech dole v údolí."
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:169
