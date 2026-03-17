@@ -16819,7 +16819,7 @@ msgid ""
 "for 2 HP when starting their turn in forest or fungus."
 msgstr ""
 "Všechny jednotky nacházející se vedle této jednotky, bez ohledu na "
-"vzdálenost, si při zahájení svého tahu v lese nebo v houbovém porostu vyléčí "
+"vzdálenost, si při zahájení svého kola v lese nebo v houbovém porostu vyléčí "
 "2 body zdraví."
 
 #. [heals]: id=natures_aid
