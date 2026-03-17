@@ -16009,7 +16009,7 @@ msgstr "Prospěchář"
 #. [advancement]: id=leading
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:386
 msgid "Leading"
-msgstr "Velení"
+msgstr "Vedení"
 
 #. [advancement]: id=accurate_strikes
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:423
