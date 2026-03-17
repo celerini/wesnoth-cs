@@ -16843,7 +16843,7 @@ msgstr "Tato jednotka je schopná základního léčení a zpomalení dehydratac
 #. [heals]: id=extra_natures_aid
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1869
 msgid "nature’s aid +4"
-msgstr "síla  přírody +4"
+msgstr "síla přírody +4"
 
 #. [heals]: id=extra_natures_aid
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1870
