@@ -16799,7 +16799,7 @@ msgid ""
 "decreases the chance of being hit by them by 10% each, until the end of the "
 "fight."
 msgstr ""
-"Při útoku zvyšuje každý úspěšný zásah šanci zasáhnout protivníka a snížit "
+"Při útoku zvyšuje každý úspěšný zásah šanci zasáhnout protivníka a snižuje "
 "šanci být jím zasažen o 10 % do konce souboje."
 
 #. [heals]: id=natures_aid
