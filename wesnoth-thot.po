@@ -2532,7 +2532,7 @@ msgid ""
 msgstr ""
 "Ať už je zásah úspěšný, nebo ne, tento útok vytvoří na zasaženém poli oblak "
 "dusivého, žíravého kouře. Jakákoli jednotka uvnitř něj má poloviční šanci na "
-"zásah a její zóna kontroly zmizí. Oblak přetrvává až do začátku dalšího tahu "
+"zásah a její oblast kontroly zmizí. Oblak přetrvává až do začátku dalšího kola "
 "této jednotky."
 
 #. [dummy]: id=smoke
