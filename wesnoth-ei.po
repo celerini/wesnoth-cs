@@ -8295,8 +8295,8 @@ msgid ""
 "she is alerted, and with the rest of our army yet weeks away, she will have "
 "more than enough time to prepare for our arrival."
 msgstr ""
-"Gweddry doufal, že se mu podaří nekromanta zaskočit. Avšak nyní, když byl "
-"upozorněn a zbytek naší armády je týdny vzdálen, bude nepřítel mít více než "
+"Gweddry doufal, že se nám podaří nekromantku zaskočit. Avšak nyní, když byla "
+"upozorněna a zbytek naší armády je týdny vzdálen, bude mít více než "
 "dost času se na nás připravit."
 
 #. [message]: speaker=Mal-Yrna
