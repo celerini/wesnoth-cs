@@ -209,7 +209,7 @@ msgstr ""
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:52
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/08_The_Siege_of_Kal_Kartha.cfg:85
 msgid "Clan Withervein"
-msgstr "Klan Zchřadlé Žíly"
+msgstr "Klan Zchřadlé žíly"
 
 #. [side]: type=Orcish Warrior, id=Bashnark
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/01_At_the_East_Gate.cfg:57
