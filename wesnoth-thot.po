@@ -1558,7 +1558,7 @@ msgid ""
 "will surely be eager to see you."
 msgstr ""
 "Tudy, knalganští. Je to už dlouho, co se někdo z vašeho rodu naposledy ocitl "
-"v našem skromném sídle. Náš trůnní sál je hned před vámi – runový msitr "
+"v našem skromném sídle. Náš trůnní sál je hned před vámi – runový mistr "
 "Karrag bude potěšen vaší návštěvou."
 
 #. [message]: speaker=Angarthing
