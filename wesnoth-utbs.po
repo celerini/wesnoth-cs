@@ -16800,7 +16800,7 @@ msgid ""
 "fight."
 msgstr ""
 "Při útoku zvyšuje každý úspěšný zásah šanci zasáhnout protivníka a snížit "
-"šanci být jím zasažen o 10% do konce souboje."
+"šanci být jím zasažen o 10 % do konce souboje."
 
 #. [heals]: id=natures_aid
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1842
