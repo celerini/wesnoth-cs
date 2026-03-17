@@ -973,7 +973,7 @@ msgid ""
 "their castle is even more decrepit than it was before."
 msgstr ""
 "Jsme vděční za vaši pomoc, trpaslíci. Je mi líto, že došlo na boj. Bohužel "
-"už nám toho k prozkoumání moc nezbylo. Draci jsou mrtví a jejich hrad je v "
+"už nám toho k prozkoumání moc nezbylo. Drakonidé jsou mrtví a jejich hrad je v "
 "ještě horším stavu než předtím."
 
 #. [message]: speaker=Angarthing
