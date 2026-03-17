@@ -937,7 +937,7 @@ msgid ""
 msgstr ""
 "Odmítám nadále snášet vaše seky a bodání.\n"
 "Příliš dlouho jste nás naháněli.\n"
-"Vyhlašuji Lov na váš druh. Na lidi i trpaslíky.\n"
+"Vyhlašuji lov na váš druh. Na lidi i trpaslíky.\n"
 "Nikdo z tohohle údolí neodejde živý."
 
 #. [message]: speaker=Angarthing
