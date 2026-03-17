@@ -576,7 +576,7 @@ msgid ""
 "gods with you and your precious ‘Alliance’. Even your own kind are fed up "
 "with your peacemaking!"
 msgstr ""
-"Půjdeme, kam chceme a vezmeme si, co chceme, ty skřetí pse. Ať si tě temní "
+"Půjdeme, kam chceme, a vezmeme si, co chceme, ty skřetí pse. Ať si tě temní "
 "bohové vezmou i s tvou milovanou „Aliancí“. I tvoji vlastní lidé už mají tvé "
 "slabosti plné zuby!"
 
