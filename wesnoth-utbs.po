@@ -15955,7 +15955,7 @@ msgstr "Silné střely"
 #. [advancement]: id=Bowman
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:187
 msgid "Bowman"
-msgstr "Lučišník"
+msgstr "Lučištník"
 
 #. [advancement]: id=piercing_shot
 #: data/campaigns/Under_the_Burning_Suns/units/quenoth/Youth.cfg:207
