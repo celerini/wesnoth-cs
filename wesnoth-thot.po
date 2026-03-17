@@ -1557,7 +1557,7 @@ msgid ""
 "to our humble hold. Our throne room lies just ahead — the runemaster Karrag "
 "will surely be eager to see you."
 msgstr ""
-"Tudy, Knalganští. Je to už dlouho, co se někdo z vašeho rodu naposledy ocitl "
+"Tudy, knalganští. Je to už dlouho, co se někdo z vašeho rodu naposledy ocitl "
 "v našem skromném sídle. Náš trůnní sál je hned před vámi – runový msitr "
 "Karrag bude potěšen vaší návštěvou."
 
