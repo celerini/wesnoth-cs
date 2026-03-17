@@ -333,7 +333,7 @@ msgstr ""
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:107
 msgid "I fear some grave ill may have become Kal Kartha."
-msgstr "Obávám se, že v Kal Kartě došlo k vážným potížím."
+msgstr "Obávám se, že v Kal Karthě došlo k vážným potížím."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:112
