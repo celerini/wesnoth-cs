@@ -840,7 +840,7 @@ msgstr ""
 #. [scenario]: id=05_Mages_and_Drakes
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:5
 msgid "Mages and Drakes"
-msgstr "Mágové a Draci"
+msgstr "Mágové a drakonidé"
 
 #. [side]: type=Drake Flameheart, id=Glashal
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:35
