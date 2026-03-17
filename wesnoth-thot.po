@@ -342,7 +342,7 @@ msgid ""
 "keepers since a hero of their line recovered it from the Caverns of Flame, "
 "centuries ago."
 msgstr ""
-"A obávám se o Thursaganovo Kladivo. Naši příbuzní v Kal Kartě jsou jeho "
+"A obávám se o Thursaganovo kladivo. Naši příbuzní v Kal Karthě jsou jeho "
 "strážci od té doby, co jej před staletími jeden hrdina z jejich rodu získal "
 "zpět z Plamenných Jeskyní."
 
