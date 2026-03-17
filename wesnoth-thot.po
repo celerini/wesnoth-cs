@@ -1791,7 +1791,7 @@ msgstr "Poraz Karraga"
 #. [message]: speaker=Dulcatulos
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:386
 msgid "A lich is no lord of mine!"
-msgstr "Žádný lich mi nikdy nebude poroučet."
+msgstr "Žádný lich mi nikdy nebude poroučet!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:438
