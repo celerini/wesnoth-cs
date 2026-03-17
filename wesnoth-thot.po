@@ -1162,7 +1162,7 @@ msgid ""
 "If you were a witness of the true people, you would not let a dirtgrubber "
 "hide behind your robes. I deny you!"
 msgstr ""
-"Kdybys byl opravdovým dohlížitelem, nenechal bys, aby se za tvými rouchy "
+"Kdybys byl opravdovým dohlížitelem, nedovolil bys, aby se za tvými rouchy "
 "schovával nějaký špinavec. Odmítám!"
 
 #. [message]: speaker=Angarthing
