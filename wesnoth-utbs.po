@@ -1764,7 +1764,7 @@ msgid ""
 "Phew, thank goodness that this oasis is here! I was beginning to worry that "
 "it might have been a mirage, but it appears to be real!"
 msgstr ""
-"Uf, díky bohyni, že tady je ta oáza! Začínala jsem se bát, že to byla fata "
+"Uf, díky bohyni, že tady je ta oáza! Vrtalo mi hlavou, jestli to není fata "
 "morgána, ale vypadá skutečně!"
 
 #. [message]: speaker=Nym
