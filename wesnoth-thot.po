@@ -1873,7 +1873,7 @@ msgid ""
 "Dulcatulos fought with us to the death. How did he not wonder about Karrag "
 "before?"
 msgstr ""
-"Dulcatulos s námi bojoval až do smrti. Jak to, že se o Karraga předtím "
+"Dulkatulos s námi bojoval až do smrti. Jak to, že se o Karraga předtím "
 "nezajímal?"
 
 #. [message]: speaker=Aiglondur
