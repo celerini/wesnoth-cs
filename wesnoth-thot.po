@@ -2727,7 +2727,7 @@ msgstr ""
 #. [unit_type]: id=Grounded Gryphon, race=gryphon
 #: data/campaigns/The_Hammer_of_Thursagan/units/Sleeping_Gryphon.cfg:4
 msgid "Grounded Gryphon"
-msgstr "Uzeměný Gryf"
+msgstr "Spící gryf"
 
 #. [leadership]: id=witness
 #: data/campaigns/The_Hammer_of_Thursagan/utils/abilities.cfg:10
