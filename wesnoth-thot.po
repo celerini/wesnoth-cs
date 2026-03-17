@@ -984,7 +984,7 @@ msgid ""
 "arrows embedded in the walls..."
 msgstr ""
 "Hmmm. Tohle opevnění postavili trpaslíci. Je však už dlouho opuštěné a "
-"chátrá... rozpadalo se to tu už dávno předtím, než sem přišli draci. Ve "
+"chátrá... rozpadalo se to tu už dávno předtím, než sem přišli drakonidé. Ve "
 "zdech jsou zabodnuté skřetí šípy..."
 
 #. [message]: speaker=Aiglondur
