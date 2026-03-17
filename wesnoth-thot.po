@@ -1184,7 +1184,7 @@ msgid ""
 "tales, of course, but to hear it with one’s own ears? It was... unsettling."
 msgstr ""
 "Formální vykázání jsem ještě nikdy nespatřil. Člověk o tom samozřejmě čte ve "
-"starých pověstech, ale slyšet to na vlastní uši? Bylo to… znepokojující."
+"starých pověstech, ale slyšet to na vlastní uši? Bylo to... znepokojující."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:310
