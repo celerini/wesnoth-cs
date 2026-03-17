@@ -16905,7 +16905,7 @@ msgid ""
 "executes an uncountered intercepting strike with this weapon."
 msgstr ""
 "Jakmile nepřátelská jednotka vstoupí na sousední pole, držitel této zbraně "
-"okamžitě útok, který nelze zablokovat."
+"okamžitě provede úder, který nelze zablokovat."
 
 #. [extra_attack]: id=intercept
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:1942
