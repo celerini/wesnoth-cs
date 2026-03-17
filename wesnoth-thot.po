@@ -1101,7 +1101,7 @@ msgstr "Nenosíte masku. Vy... vy k nim nepatříte?"
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:233
 msgid "What are you talking about?"
-msgstr "O čem to mluvíš."
+msgstr "O čem to mluvíš?"
 
 #. [message]: speaker=Ollin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/06_Fear.cfg:237
