@@ -6783,7 +6783,6 @@ msgstr ""
 "a povolávat! Budu potřebovat vojáky, abychom udrželi frontu proti těm "
 "skřetům."
 
-# Nepodařilo se mi najít zdroj textu
 #. [dummy]: id=amla_dummy
 #: data/campaigns/Eastern_Invasion/scenarios/10_Dark_Sanctuary.cfg:2668
 msgid "AMLAs"
