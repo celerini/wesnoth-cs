@@ -2565,7 +2565,7 @@ msgid ""
 "— of a fine black dust."
 msgstr ""
 "Na těle padlého trpaslíka velkému mágu Ravanovi (ještě předtím, než propadl "
-"zlu) kdysi padl do oka váček, pečlivě uzavřený a naplněný – aniž by to tušil "
+"zlu) kdysi padl do oka váček, pečlivě uzavřený a naplněný – aniž to tušil "
 "– jemným černým prachem."
 
 #. [unit_type]: id=Dwarvish Grenadier, race=dwarf
