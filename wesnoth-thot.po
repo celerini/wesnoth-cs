@@ -2451,7 +2451,7 @@ msgid ""
 "a Lord Companion of the Alliance should you succeed. ...although by the "
 "scene now before me, perhaps you have already?"
 msgstr ""
-"Aby zdůraznil závažnost této záležitosti, jmenoval by tě Protektor v případě "
+"Aby zdůraznil závažnost této záležitosti, jmenoval by tě protektor v případě "
 "úspěchu Spoluvládcem Aliance. ...ačkoli vzhledem k tomu, co se právě "
 "odehrává přede mnou, možná už se tak stalo?"
 
