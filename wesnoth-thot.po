@@ -2592,7 +2592,7 @@ msgstr "dýka"
 #. [attack]: type=fire
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:321
 msgid "flashpowder"
-msgstr "výbušní prach"
+msgstr "výbušný prach"
 
 #. [unit_type]: id=Dwarvish Loremaster, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Loremaster.cfg:4
