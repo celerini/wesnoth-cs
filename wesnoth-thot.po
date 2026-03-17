@@ -344,7 +344,7 @@ msgid ""
 msgstr ""
 "A obávám se o Thursaganovo kladivo. Naši příbuzní v Kal Karthě jsou jeho "
 "strážci od té doby, co jej před staletími jeden hrdina z jejich rodu získal "
-"zpět z Plamenných Jeskyní."
+"zpět z Ohnivých jeskyní."
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:117
