@@ -16481,7 +16481,7 @@ msgstr "vítr v zádech +"
 #. [chance_to_hit]: id=parry_offense_only_{VALUE}
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:693
 msgid "parry offense only: + $sub%"
-msgstr "pouze při odražení útoku: + $sub%"
+msgstr "pouze při odražení útoku: + $sub %"
 
 #. [chance_to_hit]: id=parry_offense_only_{VALUE}
 #: data/campaigns/Under_the_Burning_Suns/utils/abilities.cfg:694
