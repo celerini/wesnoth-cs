@@ -2547,7 +2547,7 @@ msgid ""
 "and nullifying zone of control for any unit caught inside."
 msgstr ""
 "Útoky této jednotky vytvářejí oblaka žíravého kouře, který snižuje šanci na "
-"zásah o polovinu a ruší zónu kontroly všech jednotek, které se v něm ocitnou."
+"zásah o polovinu a ruší oblast kontroly všech jednotek, které se v něm ocitnou."
 
 #. [unit_type]: id=Dwarvish Grenadier, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:278
