@@ -201,7 +201,6 @@ msgstr ""
 "V roce 550 po založení Wesnothu velitel stráže na Východní bráně dostal "
 "hlášení o tom, že se blíží menší skupina ničemných skřetů."
 
-# Witherveins jsem objevil jen jako nějakou lokaci z D&D. Nevím co myslí tím "refers to poison"
 #. [side]: type=Orcish Warrior, id=Bashnark
 #. [side]: id=leader{SIDE}, type={TYPE}
 #. this is the same clan name as the orcs who show up in S08, helping to explain how the cloak-pin made it all the way to Knalga. "Withervein" refers to poison.
