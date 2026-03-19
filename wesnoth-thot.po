@@ -1802,7 +1802,7 @@ msgstr "Počkejte... něco tu nesedí. Karrag se nebránil. Byla to jen iluze!"
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:472
 msgid "What is this? Karrag did not fight back. He is nothing but an illusion!"
-msgstr "Co to je? Karrag se nebránil. Je to jen iluze!"
+msgstr "Počkejte... něco tu nesedí. Karrag se nebránil. Byla to jen iluze!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:483
