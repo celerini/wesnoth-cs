@@ -1797,7 +1797,7 @@ msgstr "Žádný lich mi nikdy nebude poroučet!"
 msgid ""
 "Wait... something is not right. Karrag is not fighting back. He is nothing "
 "but an illusion!"
-msgstr "Počkejte... něco tu nesedí. Karrag se nebrání. Je to jen iluze!"
+msgstr "Počkejte... něco tu nesedí. Karrag se nebránil. Byla to jen iluze!"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/09_The_Court_of_Karrag.cfg:472
