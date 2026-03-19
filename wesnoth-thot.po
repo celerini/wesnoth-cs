@@ -2238,7 +2238,7 @@ msgstr "O runách něco víš, Angarthingu. Četl jsi Thursaganovy zápisky."
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1139
 msgid "Aye."
-msgstr "Ba"
+msgstr "Tak"
 
 #. [message]: speaker=Aiglondur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/10_The_Underlevels.cfg:1144
