@@ -9,15 +9,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2026-03-20 19:23+0100\n"
-"Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
+"PO-Revision-Date: 2026-03-21 07:48+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.9\n"
 
 #. [campaign]: id=Eastern_Invasion
 #. [achievement_group]
@@ -8256,7 +8255,7 @@ msgstr "Zachraň co nejvíc vězňů (brzy dorazí 1 skupina)"
 #. Mal-Yrna, a female necromancer
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:522
 msgid "Defeat the southern necromancer"
-msgstr "Poraz nekromanta na jihu"
+msgstr "Poraz nekromantku na jihu"
 
 #. [objective]: condition=lose
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:526
@@ -8596,7 +8595,7 @@ msgstr ""
 #. "we" being the speaker and the prisoners that they've rescued
 #: data/campaigns/Eastern_Invasion/scenarios/13_Spoils_of_War.cfg:1305
 msgid "Now we come for you, necromancer!"
-msgstr "Teď si jdeme pro tebe, nekromante!"
+msgstr "Teď si jdeme pro tebe, nekromantko!"
 
 #. [message]: speaker=Mal-Yrna
 #. each bat-summoning event is triggered by the player rescuing prisoners
