@@ -10,15 +10,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:04 UTC\n"
-"PO-Revision-Date: 2026-03-21 21:58+0100\n"
-"Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
+"PO-Revision-Date: 2026-03-21 22:02+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.9\n"
 
 # Konvence překladu:
 # Angarthing mluví občas vzletně
@@ -906,7 +905,7 @@ msgstr ""
 #. [message]: speaker=Ratheln
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:161
 msgid "They can help us, Master Perrin."
-msgstr ""
+msgstr "Mohou nám pomoci, mistře Perrine."
 
 #. [message]: speaker=Master Perrin
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:165
