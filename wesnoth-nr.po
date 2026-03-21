@@ -3629,8 +3629,8 @@ msgstr "HLUPÁCI! JÁ SE OD SLABOSTI OSVOBODIL JIŽ DÁVNO!"
 msgid ""
 "Even arcane weapons have no effect on him! We need an expert in white magic."
 msgstr ""
-"Dokonce ani nezemské zbraně mu nemohou ublížit! Potřebujeme zkušeného "
-"znalce bílé magie."
+"Dokonce ani nezemské zbraně mu nemohou ublížit! Potřebujeme zkušeného znalce "
+"bílé magie."
 
 #. [message]: speaker=Malifor
 #: data/campaigns/Northern_Rebirth/scenarios/05a_01_The_Pursuit.cfg:2961

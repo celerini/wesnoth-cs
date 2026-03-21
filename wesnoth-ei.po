@@ -8296,8 +8296,8 @@ msgid ""
 "more than enough time to prepare for our arrival."
 msgstr ""
 "Gweddry doufal, že se nám podaří nekromantku zaskočit. Avšak nyní, když byla "
-"upozorněna a zbytek naší armády je týdny vzdálen, bude mít více než "
-"dost času se na nás připravit."
+"upozorněna a zbytek naší armády je týdny vzdálen, bude mít více než dost "
+"času se na nás připravit."
 
 #. [message]: speaker=Mal-Yrna
 #. speaking to a bat

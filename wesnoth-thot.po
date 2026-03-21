@@ -972,8 +972,8 @@ msgid ""
 "their castle is even more decrepit than it was before."
 msgstr ""
 "Jsme vděční za vaši pomoc, trpaslíci. Je mi líto, že došlo na boj. Bohužel "
-"už nám toho k prozkoumání moc nezbylo. Drakonidé jsou mrtví a jejich hrad je v "
-"ještě horším stavu než předtím."
+"už nám toho k prozkoumání moc nezbylo. Drakonidé jsou mrtví a jejich hrad je "
+"v ještě horším stavu než předtím."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Mages_and_Drakes.cfg:260
@@ -2440,8 +2440,8 @@ msgid ""
 "bids you vanquish this evil."
 msgstr ""
 "Vyprávěli příběh o hrůze a utrpení, o maskovaných trpaslících a sekerách v "
-"noci. Jako lord protektor Aliance a spojenec všech svobodných lidí vás Tallin "
-"vyzývá, abyste toto zlo porazili."
+"noci. Jako lord protektor Aliance a spojenec všech svobodných lidí vás "
+"Tallin vyzývá, abyste toto zlo porazili."
 
 #. [message]: speaker=Pelias
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/11_Epilogue.cfg:202
@@ -2531,8 +2531,8 @@ msgid ""
 msgstr ""
 "Ať už je zásah úspěšný, nebo ne, tento útok vytvoří na zasaženém poli oblak "
 "dusivého, žíravého kouře. Jakákoli jednotka uvnitř něj má poloviční šanci na "
-"zásah a její oblast kontroly zmizí. Oblak přetrvává až do začátku dalšího kola "
-"této jednotky."
+"zásah a její oblast kontroly zmizí. Oblak přetrvává až do začátku dalšího "
+"kola této jednotky."
 
 #. [dummy]: id=smoke
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:258
@@ -2546,7 +2546,8 @@ msgid ""
 "and nullifying zone of control for any unit caught inside."
 msgstr ""
 "Útoky této jednotky vytvářejí oblaka žíravého kouře, který snižuje šanci na "
-"zásah o polovinu a ruší oblast kontroly všech jednotek, které se v něm ocitnou."
+"zásah o polovinu a ruší oblast kontroly všech jednotek, které se v něm "
+"ocitnou."
 
 #. [unit_type]: id=Dwarvish Grenadier, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:278
@@ -2564,8 +2565,8 @@ msgid ""
 "— of a fine black dust."
 msgstr ""
 "Na těle padlého trpaslíka velkému mágu Ravanovi (ještě předtím, než propadl "
-"zlu) kdysi padl do oka váček, pečlivě uzavřený a naplněný – aniž to tušil "
-"– jemným černým prachem."
+"zlu) kdysi padl do oka váček, pečlivě uzavřený a naplněný – aniž to tušil – "
+"jemným černým prachem."
 
 #. [unit_type]: id=Dwarvish Grenadier, race=dwarf
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:297
