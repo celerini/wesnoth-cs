@@ -31,7 +31,7 @@ msgstr "PaP"
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:36
 msgid "1x enemies, 70% XP"
-msgstr "1x nepřátel, 70% ZB"
+msgstr "1x nepřátelé, 70 % zkušeností"
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:36
