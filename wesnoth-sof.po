@@ -5053,7 +5053,7 @@ msgstr ""
 "říkají, že daleký sever je nepřátelská krajina a tato monstra jsou prostě "
 "ztělesněním tohoto nebezpečí."
 
-# Dovolil jsem si v poslední větě použít množné číslo, protože obecně je pro pis jednotech vhodnější a pravděpodobně stejně v budoucnu bude originál takto upraven.
+# Dovolil jsem si v poslední větě použít množné číslo, protože obecně je pro popis jednotek vhodnější a pravděpodobně stejně v budoucnu bude originál takto upraven.
 #. [unit_type]: id=Snow Golem, race=monster
 #: data/campaigns/Sceptre_of_Fire/units/Snow_Golem.cfg:40
 msgid ""
