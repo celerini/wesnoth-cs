@@ -2,14 +2,14 @@
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2008 - 2011, 2020 - 2022.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2023
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2023, 2026
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2023-12-05 20:30+0100\n"
+"PO-Revision-Date: 2026-03-22 07:53+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -361,7 +361,7 @@ msgstr ""
 #. [message]: speaker=Hamel
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:108
 msgid "Has some grave ill become of Kal Kartha?"
-msgstr "Stalo se snad v Kal Karthě něco hrozného?"
+msgstr "Stalo se snad v Kal Kartě něco hrozného?"
 
 #. [message]: speaker=Movrur
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/02_Reclaiming_the_Past.cfg:113
@@ -490,7 +490,7 @@ msgid ""
 msgstr ""
 "Můj pane, objevili jsme to nedávno. Stále ještě luštíme obsah knihy. A také "
 "je třeba uvážit jednu delikátní věc – kdo by měl právo trénovat nové runové "
-"kováře, my zde, kteří vlastníme knihu, nebo ti v Kal Kartha, kteří vlastní "
+"kováře, my zde, kteří vlastníme knihu, nebo ti v Kal Kartě, kteří vlastní "
 "kladivo?"
 
 #. [message]: speaker=Angarthing
@@ -889,7 +889,7 @@ msgid ""
 "The same that has been driving them to attack us at Kal Kartha. But, no "
 "matter the reason for their aggression, we shall slaughter them all the same."
 msgstr ""
-"Byla to ta samá věc, která je přivedla k tomu, aby na nás v Kal Kartha "
+"Byla to ta samá věc, která je přivedla k tomu, aby na nás v Kal Kartě "
 "zaútočili. Beztak je stejně všechny zabijeme bez ohledu na důvod jejich "
 "agrese."
 
@@ -921,7 +921,7 @@ msgid ""
 "however, we must content ourselves with pressing onward toward Kal Kartha."
 msgstr ""
 "Doufám v to, v zájmu míru a bezpečnosti našich druhů. Prozatím se však "
-"musíme spokojit s tím, že se propracováváme ke Kal Karthě."
+"musíme spokojit s tím, že se propracováváme ke Kal Kartě."
 
 #. [scenario]: id=05_Fear
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:5
@@ -1244,7 +1244,7 @@ msgid ""
 msgstr ""
 "Pokud tě to potěší, rozdám to zlato těmto... chudým... lidem. Tak se budou "
 "moci neožebračení vrátit ke své zemědělské činnosti. A my můžeme pokračovat "
-"do Kal Kartha."
+"do Kal Karthy."
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/The_Hammer_of_Thursagan/scenarios/05_Fear.cfg:693
