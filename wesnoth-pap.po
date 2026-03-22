@@ -170,7 +170,7 @@ msgstr "Scénář 2: Nejlepší obrana..."
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:28
 msgid "Defeat the enemy leader in <i>Desolation</i>."
-msgstr "Porazte vůdce nepřátel ve scénáři <i>Pustina</i>."
+msgstr "Poraz vůdce nepřátel ve scénáři <i>Pustina</i>."
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:28
