@@ -288,7 +288,7 @@ msgid ""
 "lower difficulty."
 msgstr ""
 "POZNÁMKA: „Smrtící“ obtížnost je určena jako pokročilá výzva i pro zkušené "
-"hráče! Pokud jste ve Wesnothu nováčkem, důrazně doporučujeme vyzkoušet "
+"hráče! Pokud jsi ve Wesnothu nováčkem, důrazně doporučujeme vyzkoušet "
 "nejprve nižší obtížnost."
 
 #. [set_menu_item]: id=tutorial_toggle_on
