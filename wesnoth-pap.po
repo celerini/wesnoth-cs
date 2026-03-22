@@ -41,7 +41,7 @@ msgstr "Lehká"
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:37
 msgid "2x enemies, 90% XP"
-msgstr "2x nepřátel, 90% ZB"
+msgstr "2x nepřátelé, 90 % zkušeností"
 
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:37
