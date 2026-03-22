@@ -10,7 +10,7 @@ Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) pa
 
 Domain | Messages | Translated | Remaining | Translator
 ------ | -------- | ---------- | --------- | ----------
-wesnoth-dod | 282 | 14% | 242 |
+wesnoth-dod | 282 | 14% | 242 | Karel
 wesnoth-h2tt | 3158 | 3% | 3038 |
 wesnoth-lib | 1682 | 99% | 11 | Michal
 wesnoth-pap | 264 | 0% | 262 | Karel
