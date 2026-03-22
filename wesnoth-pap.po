@@ -314,7 +314,7 @@ msgid ""
 "(panting) Pirates! Alderman, it’s pirates! Burned my farm... (pant) Stole my "
 "skiff... (pant) Thought you should know..."
 msgstr ""
-"(udýchaně volá) Piráti! Pane radní, piráti! Vypálili můj statek.. (ztěžka "
+"(udýchaně volá) Piráti! Pane radní, piráti! Vypálili můj statek... (ztěžka "
 "oddechuje) Ukradli moji loďku... (oddechuje) Měl byste o tom vědět..."
 
 #. [message]: speaker=Rael
