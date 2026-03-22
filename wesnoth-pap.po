@@ -299,7 +299,7 @@ msgstr "Dialog nápovědy & amp; vyskakovací okna: Zapnuto"
 #. [set_menu_item]: id=tutorial_toggle_off
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:132
 msgid "Tip Dialogue &amp; Popups: Off"
-msgstr "Dialog nápovědy & amp; vyskakovací okna: Vypnuto"
+msgstr "Dialogová a vyskakovací okna s tipy: Vypnuto"
 
 #. [message]: role=fisher
 #. a peasant is running towards town, calling out to the village leader
