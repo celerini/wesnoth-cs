@@ -92,7 +92,7 @@ msgid ""
 "The saga continues in\n"
 "<i>The Deceiver’s Gambit</i>"
 msgstr ""
-"Sága pokračuje v kampani\n"
+"Příběh pokračuje v tažení\n"
 "<i>Podvodníkův gambit</i>"
 
 #. [about]
