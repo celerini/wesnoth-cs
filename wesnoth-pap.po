@@ -248,8 +248,8 @@ msgid ""
 "secure life for those disinterested in the wider kingdom’s hustle and bustle."
 msgstr ""
 "Na západním pobřeží, kde bylo perel méně, se začaly usazovat houževnaté "
-"klany lidských rybářů a zemědělců. Ačkoli nebyly bohaté - alespoň ne ve "
-"srovnání se svými mořskými sousedy -, poskytovaly přímořské vesničky prostý "
+"klany lidských rybářů a zemědělců. Ačkoli nebyly bohaté – alespoň ne ve "
+"srovnání se svými mořskými sousedy –, poskytovaly přímořské vesničky prostý "
 "a bezpečný život těm, kteří neměli zájem o rušný život uvnitř království."
 
 # Přímý překlad originálu mi připadl hodně prkenný a nepřirozený. Za mě by byl lepší spíše kontextuální překlad
