@@ -350,7 +350,7 @@ msgid ""
 "troublemakers."
 msgstr ""
 "Já nevím, otče. Je to zvláštní. Tihle psanci nemohli přijít ze sousedních "
-"vesnic - ostatní radní nestrpí výtržníky."
+"vesnic – ostatní radní nestrpí výtržníky."
 
 #. [message]: speaker=Rael
 #. "waxed" can be substituted with any other kind of routine bow maintenance
