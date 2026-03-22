@@ -83,7 +83,7 @@ msgstr ""
 #. [campaign]: id=Pearls_and_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/_main.cfg:43
 msgid "(Novice level, 5 scenarios.)"
-msgstr "(Úroveň Nováček, 5 scénářů.)"
+msgstr "(Úroveň nováček, 5 scénářů.)"
 
 #. [campaign]: id=Pearls_and_Pirates
 #. this campaign is not a direct continuation of the story and characters, but is next chronologically and is the recommended next campaign
