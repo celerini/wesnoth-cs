@@ -1,5 +1,6 @@
 # Michal Žejdl <lachim@emer.cz>, 2026
 # Karel Žid <zidkarel@gmail.com>, 2026
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
