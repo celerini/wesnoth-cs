@@ -287,7 +287,7 @@ msgid ""
 "experienced players! If you’re new to Wesnoth, I strongly suggest trying a "
 "lower difficulty."
 msgstr ""
-"POZNÁMKA: Obtížnost \"Smrtící\" je určena jako pokročilá výzva i pro zkušené "
+"POZNÁMKA: „Smrtící“ obtížnost je určena jako pokročilá výzva i pro zkušené "
 "hráče! Pokud jste ve Wesnothu nováčkem, důrazně doporučujeme vyzkoušet "
 "nejprve nižší obtížnost."
 
