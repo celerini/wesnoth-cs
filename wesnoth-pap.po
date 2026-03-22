@@ -180,7 +180,7 @@ msgstr "Scénář 3: Červená Karkulka"
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:29
 msgid "Complete <i>Lee Shore</i> without freeing any slaves."
-msgstr "Dokonči scénář <i>Závětrné pobřeží</i>, aniž bys osvobodili otroky."
+msgstr "Dokonči scénář <i>Závětrné pobřeží</i> a neosvoboď přitom žádného otroka."
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:29
