@@ -326,7 +326,7 @@ msgstr "Piráti? Cože, tady?!"
 #. this is a fishing boat name, and a pun on the phrase "seize the day"
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:207
 msgid "Seas the Day"
-msgstr "Užívej Moře"
+msgstr "Užívej dna"
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:209
