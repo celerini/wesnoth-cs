@@ -1843,8 +1843,8 @@ msgid ""
 "An empty shack... I thought I’d found the Runecrafter, but there’s no sign "
 "of anyone having been here recently."
 msgstr ""
-"Prázdná chatrč... Přišlo mi, že jsem našel runového mistra, ale nic "
-"nesvědčí o tom, že by tu v poslední době někdo byl."
+"Prázdná chatrč... Přišlo mi, že jsem našel runového mistra, ale nic nesvědčí "
+"o tom, že by tu v poslední době někdo byl."
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/Sceptre_of_Fire/scenarios/3_Searching_for_the_Runecrafter.cfg:476
