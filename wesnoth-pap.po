@@ -569,7 +569,7 @@ msgid ""
 msgstr ""
 "Slyšte a uposlechněte.\n"
 "\n"
-"- Jeho Veličenstvo Garard II, král Wesnothu"
+"— Jeho Veličenstvo Garard II, král Wesnothu"
 
 #. [message]: speaker=Crier
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:442
