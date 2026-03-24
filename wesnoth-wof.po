@@ -1,20 +1,21 @@
 # Martin Hrubý <hrubymar10@gmail.com>, 2019 - 2020.
 # Michal Žejdl <lachim@emer.cz>, 2019, 2022 - 2026
-# Petr Šlejhar (Septim) <septim@centrum.cz>, 2022 - 2023.
+# Petr Šlejhar (Septim) <septim@centrum.cz>, 2022 - 2023, 2026.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2026-03-06 20:17+0100\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2026-03-21 22:59+0100\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.9\n"
 
 #. [campaign]: id=Winds_of_Fate
 #. [scenario]: id=06x_Winds_of_Fate
@@ -112,7 +113,7 @@ msgstr "Grafika"
 #. [about]
 #: data/campaigns/Winds_of_Fate/about.cfg:38
 msgid "Sound"
-msgstr ""
+msgstr "Zvuk"
 
 #. [about]
 #: data/campaigns/Winds_of_Fate/about.cfg:46
@@ -4980,7 +4981,7 @@ msgstr "Podivné potvory"
 #. [leader]: id=Lich-Lord Selmar, type=Ancient Lich
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:74
 msgid "Lich-Lord Selmar"
-msgstr ""
+msgstr "Pán lichů Selmar"
 
 #. [side]
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:107
@@ -5295,6 +5296,8 @@ msgid ""
 "shall all make fine additions to my new legion. The only question is — will "
 "you serve willingly?"
 msgstr ""
+"Tím lépe. Ach, vidím, že s sebou přivedl spoustu přátel. Budete všichni "
+"skvělým přírůstkem do mé nové legie. Otázkou je jen, bude to dobrovolně?"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:593
@@ -5302,6 +5305,8 @@ msgid ""
 "We sssaurians will never ssserve the likesss of a human monssster or your "
 "elf massstersss!"
 msgstr ""
+"My, ješštěrácci, nebudeme nikdy sssloužit takovým lidsským monsstrům ani "
+"vaššim elfím pánům!"
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:599
@@ -5313,6 +5318,11 @@ msgid ""
 "Wesmere. No living thing will remain standing between me and the Ruby of "
 "Fire."
 msgstr ""
+"Elfím pánům? Ty pošetilá malá ropucho, neprošel jsem polovinu světa jen "
+"proto, abych vyhověl volání nějakých ubohých pastýřů stromů. Oni mají něco, "
+"co by mělo patřit mně, a já jsem tu, abych si to vyžádal. Až nastane nov, "
+"otevře se můj portál do země obrů a přívalová povodeň z něj smete elfy z "
+"Wesmérie. Mezi mnou a Ohnivým rubínem nezůstane stát ani živá duše."
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:603
@@ -5320,6 +5330,8 @@ msgid ""
 "You hatched your plan too late, human. We already sssacked Wesssmere, the "
 "elves are dealt with."
 msgstr ""
+"Vymysslel jssi ssvůj plán přílišš pozzdě, ččlověčče. Wessmérii jssme už "
+"vyplenili, ss elfy je to vyřřízeno."
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:609
@@ -5327,6 +5339,8 @@ msgid ""
 "You could never have done such a feat with even tenfold your motley warband. "
 "Wait... what is all that clamour behind you...?"
 msgstr ""
+"Takový čin byste nikdy nezvládli ani s desetinásobkem své party maškarád. "
+"Počkat..., co je to za povyk za vámi...?"
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:615
@@ -5335,6 +5349,8 @@ msgid ""
 "plan will become clear to them if they so much as glimpse my unfinished "
 "portal with their faerie sight."
 msgstr ""
+"Hlupáci, dovedli jste celé wesmerské zástupy na toto odlehlé místo! Odhalí "
+"můj plán, už když zahlédnou můj nedokončený portál svým vílím zrakem."
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:619
@@ -5359,6 +5375,10 @@ msgid ""
 "attention, so begone! Leave the way you came and they may yet follow you "
 "away from my lair!"
 msgstr ""
+"Je to něco, co daleko přesahuje tvé omezené chápání. Svět mocné magie, kde "
+"všechny síly mají svou vlastní vůli. A právě teď jsi v centru jejich "
+"pozornosti, takže zmiz! Vrať se tudy, kudy jsi přišel, a možná tě ještě "
+"budou následovat pryč z mého příbytku!"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:633
@@ -5381,6 +5401,8 @@ msgid ""
 "Proceed any further and you shall pass only to the land of the dead, where I "
 "am lord and master."
 msgstr ""
+"Budeš-li pokračovat dál, dostaneš se pouze do říše mrtvých, kde jsem pánem a "
+"vládcem."
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:648
@@ -5402,6 +5424,9 @@ msgid ""
 "all, may your worst plans reach fruition so your descendants remember you "
 "with shame!"
 msgstr ""
+"Vy oheň chrlící vlezlíci jste otravní v každém století. Proklínám vás "
+"všechny, ať se vaše nejhorší plány naplní, aby na vás vaši potomci "
+"vzpomínali s hanbou!"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:705
@@ -6688,12 +6713,14 @@ msgstr "Přřessto ccítím vššech těch třřinácct let v kossstech!"
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:539
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:553
 msgid "Thisss ssstone has drake markingsss, maybe one of them can read it."
 msgstr ""
+"Na tomto kameni jssou draččí značčky, možžná ho jeden z nich bude sschopen "
+"přeččísst."
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:570
