@@ -15,7 +15,7 @@ wesnoth-h2tt | 3158 | 3% | 3038 |
 wesnoth-lib | 1682 | 99% | 11 | Michal
 wesnoth-pap | 264 | 0% | 262 | Karel
 wesnoth-sof | 709 | 96% | 25 | Septim
-wesnoth-tdg | 1262 | 11% | 1115 |
+wesnoth-tdg | 1262 | 11% | 1115 | Karel
 wesnoth-tsg | 896 | 39% | 545 | Septim
 wesnoth-wc | 526 | 98% | 7 | Michal
 wesnoth-wof | 803 | 98% | 13 | Septim
