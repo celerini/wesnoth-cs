@@ -450,8 +450,7 @@ msgstr ""
 "scénář má velkorysý limit kol. Neobětuj celou svou armádu hned.\n"
 "Hraj chytře – zaber vesnice, získej zlato a využij denní dobu ve svůj "
 "prospěch.\n"
-" <i><b>\n"
-"Pomalu buduj svou armádu a zároveň dotírej na tu soupeřovu.</b></i>"
+"<i><b>Pomalu buduj svou armádu a zároveň dotírej na tu soupeřovu.</b></i>"
 
 #. [message]: speaker=Elyn
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:308
