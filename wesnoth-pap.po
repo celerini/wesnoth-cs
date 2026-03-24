@@ -543,7 +543,7 @@ msgid ""
 "wage war against the orcs of the north, being those who have long-threatened "
 "our home."
 msgstr ""
-"V zájmu společné obrany a vyčištění nových území od nepřátel. Svolává Jeho "
+"V zájmu společné obrany a vyčištění nových území od nepřátel svolává Jeho "
 "Veličenstvo Garard, druhý toho jména, vojsko odhodlaných mužů, aby nás vedl "
 "do války proti skřetům ze severu, kteří již dlouho ohrožují náš domov."
 
