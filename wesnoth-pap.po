@@ -406,7 +406,7 @@ msgstr "Poraz nepřátelského vůdce"
 #. [objective]: condition=lose
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:268
 msgid "Death of Thea, Rael, or Elyn"
-msgstr "Smrt Thei, Raela nebo Elyna"
+msgstr "Zemře Thea, Rael nebo Elyn"
 
 #. [message]: speaker=Rael
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:289
