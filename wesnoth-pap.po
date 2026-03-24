@@ -383,7 +383,7 @@ msgid ""
 "Well done for taking the initiative, Thea. Let’s show these pirates what we "
 "stand for. What do you say, lads?"
 msgstr ""
-"Je skvělé, že jsi se ujala vedení, Theo. Ukažme těm pirátům, zač je toho "
+"Je skvělé, že ses ujala vedení, Theo. Ukažme těm pirátům, zač je toho "
 "loket. Co říkáte, chlapi?"
 
 #. [message]: role=fisher
