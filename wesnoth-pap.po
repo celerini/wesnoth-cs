@@ -632,7 +632,7 @@ msgid ""
 "But Rael did not return. Autumn turned to winter, winter to spring, and "
 "trouble once again returned to the Peninsula of Pearls."
 msgstr ""
-"Podzim se změnil v zimu, zima v jaro, ale Radní Rael se stále nevracel. A "
+"Podzim se změnil v zimu, zima v jaro, ale radní Rael se stále nevracel. A "
 "jak se sourozenci obávali, do Zátoky perel se vrátily potíže."
 
 #. [side]
