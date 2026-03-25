@@ -673,7 +673,7 @@ msgstr ""
 "možná, že mořský lid by mohl —"
 
 # Tady bych to viděl na možnou chybu originálu. Specificky se píše, že jsou vesničené chudí, že v téhle části zátoky perly nejsou a že je získávají mořští lidé.
-# Nebo si pirátka může myslet, že je mají kvůli tomu že byla na území mořského lidu.
+# Nebo si pirátka může myslet, že je mají kvůli tomu, že byla na území mořského lidu.
 #. [message]: speaker=Maudie
 #. Maudie is speaking to adults, not children. "Children" is used in a demeaning way here.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:144
