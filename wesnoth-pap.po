@@ -670,7 +670,7 @@ msgid ""
 msgstr ""
 "Jsem si jistý, že otec by o těch banditech, kteří nás napadli, řekl pánům. "
 "Bohužel šlechta svobodným a vzdáleným vesnicím pomáhat zrovna nechce. Ale "
-"možná, že mořský lid by mohl-"
+"možná, že mořský lid by mohl —"
 
 # Tady bych to viděl na možnou chybu originálu. Specificky se píše, že jsou vesničené chudí, že v téhle části zátoky perly nejsou a že je získávají mořští lidé.
 # Nebo si pirátka může myslet, že je mají kvůli tomu že byla na území mořského lidu.
