@@ -752,7 +752,7 @@ msgstr "Nedostatek mužstva"
 msgid ""
 "Peasants and Woodsmen cost twice as much to recruit (but not to recall)."
 msgstr ""
-"Nábor rolníků a lesníků stojí dvojnásobek zlatých (ne však jejich povolání)."
+"Nábor sedláků a lesníků stojí dvojnásobek zlatých (ne však jejich povolání)."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:216
