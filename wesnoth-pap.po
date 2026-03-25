@@ -794,7 +794,7 @@ msgstr "Pak poraz nepřátelské vůdce"
 #. [objective]: condition=lose
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:245
 msgid "Death of Thea"
-msgstr "Theina smrt"
+msgstr "Thea zemře"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:266
