@@ -789,7 +789,7 @@ msgstr "Přežij, dokud na východní okraj mapy nedorazí ve 13. kole posily."
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:241
 msgid "Then, defeat the enemy leaders"
-msgstr "Pak, poraz nepřátelské vůdce"
+msgstr "Pak poraz nepřátelské vůdce"
 
 #. [objective]: condition=lose
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:245
