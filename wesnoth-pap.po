@@ -668,7 +668,7 @@ msgid ""
 "lords must be too busy to pay any mind to free-holds like us. But maybe the "
 "merfolk—"
 msgstr ""
-"Jsem si jistý, že otec by o těch banditech, kteří nás napadli, řekl lordům. "
+"Jsem si jistý, že otec by o těch banditech, kteří nás napadli, řekl pánům. "
 "Bohužel šlechta svobodným a vzdáleným vesnicím pomáhat zrovna nechce. Ale "
 "možná, že mořský lid by mohl-"
 
