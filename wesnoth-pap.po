@@ -784,7 +784,7 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:237
 msgid ""
 "Survive until reinforcements arrive at the east edge of the map on turn 13"
-msgstr "Přežij, dokud na východní okraj mapy nedorazí ve 13. tahu posily."
+msgstr "Přežij, dokud na východní okraj mapy nedorazí ve 13. kole posily."
 
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:241
