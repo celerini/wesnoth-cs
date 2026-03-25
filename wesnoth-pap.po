@@ -716,7 +716,7 @@ msgid ""
 "Kill their warriors, then shackle the others and march them north. I’ve more "
 "important places to be. Ta ta!"
 msgstr ""
-"Pobijte ty co budou odporovat, ostatní spoutejte a odveďte je na sever. Mám "
+"Pobijte ty, co budou odporovat, ostatní spoutejte a odveďte je na sever. Mám "
 "důležitější věci na práci. Pá pá!"
 
 #. [message]: speaker=Thea
