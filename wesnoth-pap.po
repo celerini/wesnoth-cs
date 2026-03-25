@@ -803,7 +803,7 @@ msgid ""
 "land. Don’t fight on the coast. Flee inland if we need to, and then cut them "
 "to pieces!"
 msgstr ""
-"Pozor, všichni. Nágové jsou ve vodě velmi hbití, ale na souši jsou mnohem "
+"Pozor, všichni. Nágy jsou ve vodě velmi hbité, ale na souši jsou mnohem "
 "nemotornější. Nebojujte na pobřeží. Utečte do vnitrozemí, pokud to bude "
 "nutné, a pak je rozsekejte na kusy!"
 
