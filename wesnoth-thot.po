@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:04 UTC\n"
-"PO-Revision-Date: 2026-03-26 20:28+0100\n"
+"PO-Revision-Date: 2026-03-26 20:33+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2577,7 +2577,7 @@ msgid ""
 msgstr ""
 "Ravan, jehož prsty ztuhlé artritidou nedokázaly rozvázat uzel, který "
 "uzavíral váček, se naklonil dopředu a tiše si pro sebe zamumlal tajemné "
-"zaklínadlo. Z jeho prstů vystřelily jiskry—"
+"zaklínadlo. Z jeho prstů vystřelily jiskry —"
 
 #. [attack]: type=fire
 #: data/campaigns/The_Hammer_of_Thursagan/units/Dwarvish_Grenadier.cfg:303

@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2025-11-18 02:02 UTC\n"
-"PO-Revision-Date: 2026-01-18 08:53+0100\n"
+"PO-Revision-Date: 2026-03-26 20:32+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5683,7 +5683,7 @@ msgstr "Sundej ze mě ta chapadla!"
 #. [message]: speaker=Mal Keshar
 #: data/campaigns/Descent_Into_Darkness/scenarios/10_Endless_Night.cfg:1465
 msgid "Release me at once you oversized piece of calamari— eeeeaaaaaaaaa!"
-msgstr "Okamžitě mě pusť, ty přerostlý mořský plode— ííjáááá!"
+msgstr "Okamžitě mě pusť, ty přerostlý mořský plode — ííjáááá!"
 
 #. [message]: speaker=narrator
 #. Mal Keshar is sinking...
