@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-10-28 14:02 UTC\n"
-"PO-Revision-Date: 2026-03-22 07:53+0100\n"
+"PO-Revision-Date: 2026-03-26 20:30+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -103,7 +103,7 @@ msgstr "Odborná spolupráce"
 #. [about]
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:41
 msgid "Art"
-msgstr "Art"
+msgstr "Grafika"
 
 #. [about]
 #: data/campaigns/The_Hammer_of_Thursagan/_main.cfg:54
