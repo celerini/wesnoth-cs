@@ -2,14 +2,14 @@
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2009 - 2011, 2020 - 2023
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2025
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2026
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2025-03-19 23:27+0100\n"
+"PO-Revision-Date: 2026-03-26 20:27+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -96,7 +96,7 @@ msgstr "(Úroveň pokročilý hráč, 10 scénářů.)"
 #. [about]
 #: data/campaigns/Dead_Water/_main.cfg:31
 msgid "Campaign design and programming"
-msgstr "Design kampaně a programování"
+msgstr "Návrh tažení a programování"
 
 #. [about]
 #: data/campaigns/Dead_Water/_main.cfg:37
@@ -106,7 +106,7 @@ msgstr "Úpravy a čistění kódu pro oficiální vydání"
 #. [about]
 #: data/campaigns/Dead_Water/_main.cfg:43
 msgid "Artwork"
-msgstr "Art"
+msgstr "Tvorba grafiky"
 
 # raději bez vykřičníku
 #. [scenario]: id=01_Invasion
