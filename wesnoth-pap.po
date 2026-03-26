@@ -840,7 +840,7 @@ msgid ""
 "time recovering if our enemies’ gold reserves get out of hand."
 msgstr ""
 "Nemůžeme si dovolit vzdát se příliš mnoha vesnic. Těžko se vzpamatujeme, "
-"pokud nepřítel bude mít příliš mnoho zlata z vesnic."
+"pokud zásoby zlata našich nepřátel výrazně vzrostou."
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:283
