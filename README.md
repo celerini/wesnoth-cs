@@ -16,12 +16,12 @@ wesnoth-lib | 1682 | 99% | 11 | Michal
 wesnoth-pap | 264 | 0% | 262 | Karel
 wesnoth-tdg | 1262 | 11% | 1115 | Karel
 wesnoth-tsg | 896 | 39% | 545 | Septim
-wesnoth-units | 879 | 99% | 1 | Michal
 wesnoth-wc | 526 | 98% | 7 | Michal
-wesnoth | 1467 | 99% | 2 | Michal
 
-Total messages remaining: **5228**
+Total messages remaining: **5225**
 
-I see no progress.
+Progress since 2026-03-25: **1** message per day
+
+ETA: **2040-07-15**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
