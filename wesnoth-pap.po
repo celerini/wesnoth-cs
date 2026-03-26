@@ -831,7 +831,7 @@ msgstr ""
 "Pokud si nevíš rady s obranou (šancí na vyhnutí) nebo pohybem jednotky na "
 "určitém políčku\n"
 "a chceš přesně zjistit, jaké terény se do něj započítávají,\n"
-"klikni na pole pravým tlačítkem myši a vyber možnost <i>Popis terénu</i>."
+"klikni na políčko pravým tlačítkem myši a vyber možnost <i>Popis terénu</i>."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:280
