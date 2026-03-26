@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 18:10-0500\n"
-"PO-Revision-Date: 2026-03-15 19:13+0100\n"
+"PO-Revision-Date: 2026-03-26 20:51+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7719,14 +7719,12 @@ msgid "Turn changed"
 msgstr "Změna tahu"
 
 #: src/network_download_file.cpp:50
-#, fuzzy
-#| msgid "not available."
 msgid "Download unavailable"
-msgstr "není k dispozici."
+msgstr "Soubor nelze stáhnout"
 
 #: src/network_download_file.cpp:50
 msgid "Standalone file downloads are not currently supported on iOS."
-msgstr ""
+msgstr "Stahování samostatných souborů není v iOS nyní podporováno."
 
 #: src/network_download_file.cpp:55
 msgid "Confirm overwrite"
