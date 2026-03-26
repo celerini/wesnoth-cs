@@ -829,7 +829,7 @@ msgstr ""
 "podle toho, co je výhodnější pro procházející jednotku.\n"
 "\n"
 "Pokud si nevíš rady s obranou (šancí na vyhnutí) nebo pohybem jednotky na "
-"určitém poli\n"
+"určitém políčku\n"
 "a chceš přesně zjistit, jaké terény se do něj započítávají,\n"
 "klikni na pole pravým tlačítkem myši a vyber možnost <i>Popis terénu</i>."
 
