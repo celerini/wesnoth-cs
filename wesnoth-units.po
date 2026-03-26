@@ -4,7 +4,7 @@
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2011, 2020 - 2022
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2025
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2026
 # Tereza Žejdlová, 2020.
 #
 msgid ""
@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2025-10-09 23:06+0200\n"
+"PO-Revision-Date: 2026-03-26 20:45+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8105,10 +8105,10 @@ msgstr ""
 "Skřetí šermířské umění se zaměřuje téměř striktně ofenzivně. Při tomto "
 "způsobu se využívá přirozené výdrže skřetů, kdy se čelí protivníkům čistě "
 "jen odolností. Lze tedy běžně vidět ostřílenějšího skřetího válečníka, jak "
-"třímá dvě čepele a nepoužívá štít, spoléhajíc v boji zblízka na tvrdou "
-"výměnu zásahů. Ačkoli je to docela brutální taktika, tak pro tyto bojovníky, "
-"kterým chybí výcvik a vytříbenost ve složitějších technikách, je stále "
-"poměrně efektivní."
+"třímá dvě čepele a nepoužívá štít, spoléhaje v boji zblízka na tvrdou výměnu "
+"zásahů. Ačkoli je to docela brutální taktika, tak pro tyto bojovníky, kterým "
+"chybí výcvik a vytříbenost ve složitějších technikách, je stále poměrně "
+"efektivní."
 
 #. [unit_type]: id=Saurian Ambusher, race=lizard, gender=female
 #: data/core/units/saurians/Ambusher.cfg:4
