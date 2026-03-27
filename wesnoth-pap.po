@@ -1726,7 +1726,7 @@ msgid ""
 msgstr ""
 "Nebylo to poprvé, co si Thea dělala starosti o svou rodinu. O svého otce, i "
 "o všechny ostatní, kteří odešli do války. Jistě, jako malá slýchávala řadu "
-"příběhů - ale zažít bitvu a ztrátu na vlastní kůži bylo něco úplně jiného."
+"příběhů, ale zažít bitvu a ztrátu na vlastní kůži bylo něco úplně jiného."
 
 #. [part]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:30
