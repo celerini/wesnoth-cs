@@ -976,7 +976,7 @@ msgid ""
 "dead."
 msgstr ""
 "Děkujeme ti za pomoc, mořská panno ze zálivu! Ale co budeme dělat teď? Máme "
-"mnoho raněných. Náš vůdce je ve válce a náš strážný je nezvěstný - nebo "
+"mnoho raněných. Náš vůdce je ve válce a náš strážný je nezvěstný nebo "
 "mrtvý."
 
 #. [message]: speaker=Thea
