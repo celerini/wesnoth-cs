@@ -1178,7 +1178,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:256
 msgid "Move any unit adjacent to both fishing skiffs"
-msgstr "Přesuň libovolnou jednotku na pole sousedící s rybářským člunem"
+msgstr "Přesuň libovolnou jednotku na políčko sousedící s rybářským člunem"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:285
