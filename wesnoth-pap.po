@@ -2066,7 +2066,7 @@ msgstr ""
 "O mnoho let později, se radní Rael a jeho značně oslabený a unavený oddíl "
 "vrátili do Rochelmu. Jejich služba byla u konce. Thein otec vyprávěl "
 "pochmurný příběh. O skřetech a ještěrácích, o obléhání a přepadech. Ale "
-"tento příběh - příběh války krále Gararda - bude vyprávět jiný hrdina..."
+"tento příběh – příběh války krále Gararda – bude vyprávět jiný hrdina..."
 
 #. [unit_type]: id=Cage, race=mechanical
 #: data/campaigns/Of_Pearls_and_Pirates/units/Cage.cfg:5
