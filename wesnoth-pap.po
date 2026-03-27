@@ -1379,7 +1379,7 @@ msgid ""
 "Here are the missing villagers — in chains! Would this have been our fate if "
 "not for your intervention, Diondra?"
 msgstr ""
-"Tady jsou pohřešovaní vesničané - v řetězech! Byl by to náš osud, nebýt "
+"Tady jsou pohřešovaní vesničané – v řetězech! Byl by to náš osud, nebýt "
 "tvého zásahu Diondro?"
 
 #. [message]: speaker=Thea
