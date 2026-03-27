@@ -1065,7 +1065,7 @@ msgid ""
 "or Constable Elyn — they were to send a messenger immediately."
 msgstr ""
 "Vesničané pod Theiným velením ustanovili hrstku strážců, kteří měli za úkol "
-"hlídat obzor. Pokud by se vrátili nepřátelé - nebo strážný Elyn - měli "
+"hlídat obzor. Pokud by se vrátili nepřátelé – nebo strážný Elyn – měli "
 "okamžitě vyslat posla."
 
 #. [part]
