@@ -1,12 +1,12 @@
 # Michal Žejdl <lachim@emer.cz>, 2026
 # Karel Žid <zidkarel@gmail.com>, 2026
-
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2026-03-28 07:22+0100\n"
+"PO-Revision-Date: 2026-03-28 10:36+0100\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -92,7 +92,7 @@ msgid ""
 "The saga continues in\n"
 "<i>The Deceiver’s Gambit</i>"
 msgstr ""
-"Příběh pokračuje v tažení\\n\n"
+"Příběh pokračuje v tažení\n"
 "<i>Podvodníkův gambit</i>"
 
 #. [about]
@@ -249,8 +249,8 @@ msgid ""
 "secure life for those disinterested in the wider kingdom’s hustle and bustle."
 msgstr ""
 "Na západním pobřeží, kde bylo perel méně, se začaly usazovat houževnaté "
-"klany lidských rybářů a zemědělců. Ačkoli nebyly bohaté – alespoň ne ve "
-"srovnání se svými mořskými sousedy –, poskytovaly přímořské vesničky prostý "
+"klany lidských rybářů a zemědělců. Ačkoli nebyly bohaté – alespoň ne ve "
+"srovnání se svými mořskými sousedy –, poskytovaly přímořské vesničky prostý "
 "a bezpečný život těm, kteří neměli zájem o rušný život uvnitř království."
 
 # Přímý překlad originálu mi připadl hodně prkenný a nepřirozený. Za mě by byl lepší spíše kontextuální překlad
@@ -327,7 +327,7 @@ msgstr "Piráti? Cože, tady?!"
 #. this is a fishing boat name, and a pun on the phrase "seize the day"
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:207
 msgid "Seas the Day"
-msgstr "Užívej Dna"
+msgstr "Užívej dna"
 
 #. [event]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:209
@@ -351,7 +351,7 @@ msgid ""
 "troublemakers."
 msgstr ""
 "Já nevím, otče. Je to zvláštní. Tihle psanci nemohli přijít ze sousedních "
-"vesnic – ostatní radní nestrpí výtržníky."
+"vesnic – ostatní radní nestrpí výtržníky."
 
 #. [message]: speaker=Rael
 #. "waxed" can be substituted with any other kind of routine bow maintenance
@@ -440,7 +440,7 @@ msgid ""
 "while whittling down the opponent’s.</b></i>"
 msgstr ""
 "Nepřítel v tomto scénáři začíná s mnohem větším množstvím zlata než ty.\n"
-"Ještě horší je, že můžeš rekrutovat pouze sedláky a lesníky.\n"
+"Ještě horší je, že můžeš verbovat pouze sedláky a lesníky.\n"
 "Levné, ale slabé bojovníky s provizorními zbraněmi a minimálním výcvikem.\n"
 "Sedláci a lesníci jsou jednotky 0. úrovně a jako takové nemají oblast "
 "kontroly \n"
@@ -449,9 +449,8 @@ msgstr ""
 "Naštěstí jsi mnohem chytřejší než naše umělá inteligence (pravděpodobně) a "
 "tento\n"
 "scénář má velkorysý limit kol. Neobětuj celou svou armádu hned.\n"
-"Hraj chytře – zaber vesnice, získej zlato a využij denní dobu ve svůj "
+"Hraj chytře – zaber vesnice, získej zlato a využij denní dobu ve svůj "
 "prospěch.\n"
-" <i><b>\n"
 "<i><b>Pomalu buduj svou armádu a zároveň dotírej na tu soupeřovu.</b></i>"
 
 #. [message]: speaker=Elyn
@@ -571,7 +570,7 @@ msgid ""
 msgstr ""
 "Slyšte a uposlechněte.\n"
 "\n"
-"– Jeho Veličenstvo Garard II, král Wesnothu"
+"— Jeho Veličenstvo Garard II, král Wesnothu"
 
 #. [message]: speaker=Crier
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:442
@@ -672,7 +671,7 @@ msgid ""
 msgstr ""
 "Jsem si jistý, že otec by o těch banditech, kteří nás napadli, řekl pánům. "
 "Bohužel šlechta svobodným a vzdáleným vesnicím pomáhat zrovna nechce. Ale "
-"možná, že mořský lid by mohl–"
+"možná, že mořský lid by mohl —"
 
 # Tady bych to viděl na možnou chybu originálu. Specificky se píše, že jsou vesničené chudí, že v téhle části zátoky perly nejsou a že je získávají mořští lidé.
 # Nebo si pirátka může myslet, že je mají kvůli tomu, že byla na území mořského lidu.
@@ -826,7 +825,7 @@ msgid ""
 "on a particular hex and want to see exactly what terrains are included,\n"
 "right-click the hex and select <i>Terrain Description</i>."
 msgstr ""
-"Některá políčka jsou <i><b>kombinací více typů terénu.</b></i> \n"
+"Některá políčka jsou <i><b>kombinací více typů terénu.</b></i>\n"
 "Například mosty se počítají jak za mělkou vodu, tak za plochou zem,\n"
 "podle toho, co je výhodnější pro procházející jednotku.\n"
 "\n"
@@ -842,7 +841,7 @@ msgid ""
 "time recovering if our enemies’ gold reserves get out of hand."
 msgstr ""
 "Nemůžeme si dovolit vzdát se příliš mnoha vesnic. Těžko se vzpamatujeme, "
-"pokud zásoby zlata našich nepřátel výrazně vzrostou.."
+"pokud zásoby zlata našich nepřátel výrazně vzrostou."
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:283
@@ -861,7 +860,7 @@ msgid ""
 "so capturing just a small handful of villages from your\n"
 "opponents can make a big difference."
 msgstr ""
-"Nezapomeň, že každá vesnice, kterou vlastníš, generuje 1 zlatý za kolo,\n"
+"Nezapomeň, že každá vesnice, kterou vlastníš, generuje 1 zlatý za kolo \n"
 "a zaplatí údržbu jedné jednotky. Jednotky 2. úrovně stojí 2 zlaté na "
 "udržování,\n"
 "jednotky 3. úrovně stojí 3 atd. Ale jednotky 0. úrovně, jako jsou sedláci a "
@@ -1484,7 +1483,7 @@ msgstr ""
 "To je jeho hlavní síla, ale za cenu slabého útoku a zranitelnosti vůči "
 "většině typů poškození.\n"
 "\n"
-"Chceš–li zobrazit obranu jednotky v terénu a odolnost/zranitelnost vůči "
+"Chceš-li zobrazit obranu jednotky v terénu a odolnost/zranitelnost vůči "
 "poškození, <b><i>klikni na ni pravým tlačítkem myši a vyber možnost\n"
 "„Popis jednotky“ </i></b>."
 
@@ -1778,8 +1777,8 @@ msgid ""
 "To see how much gold and income your enemies have, press <i>Alt+S</i>, or "
 "open the Menu and select “Status Table”."
 msgstr ""
-"Chceš–li zjistit, kolik zlata a příjmů mají tví nepřátelé, stiskni klávesy "
-"<i>Alt+S</i> nebo otevři nabídku a vyber možnost „Tabulka stavu“."
+"Chceš-li zjistit, kolik zlata a příjmů mají tví nepřátelé, stiskni klávesy "
+"<i>Alt+S</i> nebo otevři nabídku a vyber možnost „Stavová tabulka“."
 
 #. [event]: id=immobile_derelict
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:198
@@ -1901,7 +1900,7 @@ msgid ""
 msgstr ""
 "Například Maudiiny nové zapálené lodě mohou způsobit obrovské poškození v "
 "boji zblízka.\n"
-"Jejich schopnost <i>rozpad</i> jim však postupně snižuje zdraví každé kolo "
+"Jejich schopnost <i>chátrání</i> jim však postupně snižuje zdraví každé kolo "
 "a\n"
 "jelikož jsou to lodě, ta tě nemohou pronásledovat na souši."
 
@@ -1914,8 +1913,8 @@ msgid ""
 "weaknesses they may have."
 msgstr ""
 "Zatímco mnohé jednotky jsou univerzální, jiné – jako například zapálená loď "
-"–,\n"
-"mají jasné silné a slabé stránky. \n"
+"– \n"
+" mají jasné silné a slabé stránky. \n"
 "Zvaž kontrolu statistik nových jednotek.\n"
 "Ukážou ti, zda se u nich vyskytují nějaké slabiny, kterých by se dalo využít."
 
