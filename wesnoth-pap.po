@@ -1662,7 +1662,7 @@ msgid ""
 "Do not let his death be in vain. We must catch this “Maudie” and bring her "
 "to justice. Follow the black ship!"
 msgstr ""
-"Nedopusť, aby byla jeho smrt zbytečná. Musíme tu \"Maudii\" chytit a "
+"Nedopusť, aby byla jeho smrt zbytečná. Musíme tu „Maudii“ chytit a "
 "postavit ji před soud. Sledujte černou loď!"
 
 #. [message]: speaker=Diondra
