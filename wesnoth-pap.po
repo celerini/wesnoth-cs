@@ -1380,7 +1380,7 @@ msgid ""
 "not for your intervention, Diondra?"
 msgstr ""
 "Tady jsou pohřešovaní vesničané – v řetězech! Byl by to náš osud, nebýt "
-"tvého zásahu Diondro?"
+"tvého zásahu, Diondro?"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:328
