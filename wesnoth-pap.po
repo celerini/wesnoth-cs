@@ -954,7 +954,7 @@ msgstr "Poraz nepřátelské vůdce"
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:379
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:284
 msgid "Death of Thea or Diondra"
-msgstr "Smrt They nebo Diondry"
+msgstr "Thea nebo Diondra zemře"
 
 #. [message]: speaker=unit
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:427
