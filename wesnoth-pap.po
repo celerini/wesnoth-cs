@@ -1779,7 +1779,7 @@ msgid ""
 "open the Menu and select “Status Table”."
 msgstr ""
 "Chceš-li zjistit, kolik zlata a příjmů mají tví nepřátelé, stiskni klávesy "
-"<i>Alt+S</i> nebo otevři nabídku a vyber možnost \"Tabulka stavu\"."
+"<i>Alt+S</i> nebo otevři nabídku a vyber možnost „Tabulka stavu“."
 
 #. [event]: id=immobile_derelict
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:198
