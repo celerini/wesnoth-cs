@@ -985,7 +985,7 @@ msgid ""
 "No, my brother couldn’t be... not like that. It’d take more than a few "
 "snakes to kill Constable Elyn Nicolin. I know we’ll see him again."
 msgstr ""
-"Ne, můj bratr nemůže být... ne takhle. K zabití Strážného Elyna Nicolina by "
+"Ne, můj bratr nemůže být... ne takhle. K zabití strážného Elyna Nicolina by "
 "bylo potřeba víc než pár hadů. Vím, že ho ještě uvidím."
 
 #. [message]: race=human
