@@ -938,7 +938,7 @@ msgid ""
 "Compared with level 1 Spearmen and Bowmen, Merman Fighters and Hunters have "
 "improved defense (chance to evade) and speed, but lower damage."
 msgstr ""
-"V porovnání s kopiníky a lučištníky 1. úrovně mají Mořští bojovníci a lovci "
+"V porovnání s kopiníky a lučištníky 1. úrovně mají mořští bojovníci a lovci "
 "lepší obranu (šanci na úhyb) a rychlost, ale nižší poškození."
 
 #. [objective]: condition=win
