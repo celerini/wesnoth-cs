@@ -1735,7 +1735,7 @@ msgid ""
 "She wondered what drives “Lady Maudie” to inflict it upon others."
 msgstr ""
 "Přemýšlela, jak se její otec mohl tak snadno vrátit k něčemu tak hroznému. "
-"Přemýšlela, co vede \"lady Maudii\" k tomu, že způsobovala tolik utrpení a "
+"Přemýšlela, co vede lady Maudii k tomu, že způsobovala tolik utrpení a "
 "smrti."
 
 #. [part]
