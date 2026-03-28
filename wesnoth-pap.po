@@ -932,7 +932,7 @@ msgid ""
 "untrained Peasants and Woodsmen."
 msgstr ""
 "Mořští bojovníci a lovci jsou jednotky 1. úrovně: skuteční bojovníci, na "
-"rozdíl od tvých nevycvičených farmářů a lesníků."
+"rozdíl od tvých nevycvičených sedláků a lesníků."
 
 #. [object]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:356
