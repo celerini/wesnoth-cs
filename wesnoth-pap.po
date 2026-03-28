@@ -92,7 +92,7 @@ msgid ""
 "The saga continues in\n"
 "<i>The Deceiver’s Gambit</i>"
 msgstr ""
-"Příběh pokračuje v tažení\\n\n"
+"Příběh pokračuje v tažení\n"
 "<i>Podvodníkův gambit</i>"
 
 #. [about]
@@ -196,7 +196,7 @@ msgstr "Scénář 5: Vendeta"
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:30
 msgid "Strike the final blow in <i>Lady Maudie</i> with Thea."
-msgstr "Uštědřete s Theou poslední ránu ve scénáři <i>Lady Maudie</i>."
+msgstr "Uštědři s Theou poslední ránu ve scénáři <i>Lady Maudie</i>."
 
 #. [scenario]: id=01_Pirates
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/01_Pirates.cfg:9
@@ -1115,7 +1115,7 @@ msgid ""
 msgstr ""
 "Váš postup je velmi pomalý, ženo z Rochelmu. Jak můžeme pronásledovat vodní "
 "tvory, když jsi připoutána k pevnině? Nemáte snad rychlé gryfy nebo lodě, "
-"které by vás nesly?"
+"kteří by vás nesli?"
 
 # háček u slova "loď" mi na obrazovce vycházel do postranní lišty, tak jsem to rozdělil na dva řádky
 #. [message]: speaker=Thea
@@ -1124,7 +1124,7 @@ msgid ""
 "Good mermaid, most of us are farmers, not fishers. Elyn took our best "
 "seaworthy boat, and— well, you know that story..."
 msgstr ""
-"Dobrotivá mořská panno, většina z nás jsou zemědělci, ne rybáři.\n"
+"Vznešená mořská panno, většina z nás jsou zemědělci, ne rybáři.\n"
 "Elyn si vzal naši nejlepší loď schopnou plavby, a... no, zbytek znáš..."
 
 #. [message]: speaker=Thea
@@ -1163,7 +1163,7 @@ msgid ""
 "I can do that. The two boats still afloat are damaged and taking on water. "
 "We may have to split our forces if we want to claim both before they sink."
 msgstr ""
-"To zvládneme. Jsou tam dvě lodě, poškozené a nabírají vodu. Možná budeme "
+"To zvládneme. Jsou tam dvě lodě, ale jsou poškozené a nabírají vodu. Možná budeme "
 "muset rozdělit síly, pokud chceme získat obě lodě dřív, než se potopí."
 
 #. [message]: speaker=Thea
@@ -1215,7 +1215,7 @@ msgid ""
 "harrowing experience..."
 msgstr ""
 "Podvedený vlkem, grrr. Předpokládám, že teď nemám nic lepšího na práci než "
-"se k vám přidat. Možná jednou napíšu populární pohádku pro děti o svém "
+"se k vám přidat. Možná jednou napíšu pohádku pro děti o svém "
 "otřesném zážitku..."
 
 #. [message]: speaker=Thea
@@ -1260,7 +1260,7 @@ msgid ""
 "Pa used to take me here for festivals, back when. I knew some of these "
 "dead... Was there anything we could have done?"
 msgstr ""
-"Táta mě sem kdysi brával na slavnosti. Znala jsem některé z těch mrtvých... "
+"Otec mě sem kdysi brával na slavnosti. Znala jsem některé z těch mrtvých... "
 "Mohli jsme něco udělat?"
 
 #. [message]: speaker=Thea
@@ -1284,7 +1284,7 @@ msgid ""
 "The last boat is taking on too much water. We have to hurry and reach it "
 "before it sinks!"
 msgstr ""
-"Poslední loď nabírá příliš mnoho vody. Musíme si pospíšit a dostat se k ní, "
+"Poslední loď nabírá hodně vody. Musíme si pospíšit a dostat se k ní, "
 "než se potopí!"
 
 #. [message]: speaker=Thea
@@ -1370,7 +1370,7 @@ msgid ""
 "Call off the dive! Chattel, back to your quarters. Corsairs, get ready to "
 "fight!"
 msgstr ""
-"Odvolejte potápěče! Chattele, zpátky do své kajuty. Piráti, připravte se k "
+"Odvolejte potápěče! Chattele, zalez zpátky. Piráti, připravte se k "
 "boji!"
 
 #. [message]: speaker=Thea
@@ -1515,7 +1515,7 @@ msgid ""
 "Thank you! These pirates lock us up whenever they aren’t forcing us to "
 "dive..."
 msgstr ""
-"Děkujeme! Tihle piráti nás zavírají, pokud nás zrovna nenutí potápět se..."
+"Děkujeme! Tihle piráti nás zavírají do klecí jak zvířata, pokud nás zrovna nenutí potápět se..."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:467
@@ -1640,7 +1640,7 @@ msgid ""
 "to rescue him! Rescue them all!"
 msgstr ""
 "Elyne!! Můj bratr umí plavat, ale v takovém příboji to nezvládne! Diondro, "
-"musíš ho zachránit! Zachraň je všechny!"
+"musíš ho zachránit!"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:786
@@ -1663,7 +1663,7 @@ msgid ""
 "to justice. Follow the black ship!"
 msgstr ""
 "Nedopusť, aby byla jeho smrt zbytečná. Musíme tu „Maudii“ chytit a postavit "
-"ji před soud. Sledujte černou loď!"
+"ji před soud. Sledujte tu loď!"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:812
@@ -1900,7 +1900,7 @@ msgid ""
 msgstr ""
 "Například Maudiiny nové zapálené lodě mohou způsobit obrovské poškození v "
 "boji zblízka.\n"
-"Jejich schopnost <i>rozpad</i> jim však postupně snižuje zdraví každé kolo "
+"Jejich schopnost <i>chátrání</i> jim však postupně snižuje zdraví každé kolo "
 "a\n"
 "jelikož jsou to lodě, ta tě nemohou pronásledovat na souši."
 
@@ -1942,7 +1942,7 @@ msgid ""
 "should be <i>mine</i>, not yours!"
 msgstr ""
 "Vypadni z mé lodi, ty špinavá rybo! Všichni jste jen pijavice! Zátoka by "
-"měla patřit<i>mě</i>, ne vám!"
+"měla patřit <i>mě</i>, ne vám!"
 
 # Původní text je divný: Probojovali se na "vrchol" a ten "vrchol" jim pak někdo vzal a daroval ho... Zní to hrozně.
 #. [message]: speaker=Maudie
@@ -1982,7 +1982,7 @@ msgid ""
 "living in a villa instead of a smelly, grungy, fish-smelling pirate ship... "
 "oh, I’m going to be seasick again..."
 msgstr ""
-"Jíst kaviár místo tvrdého chleba, místo psanců velet otrokům, žít ve vile "
+"Jíst kaviár místo tvrdého chleba, místo psanců rozkazovat otrokům, žít ve vile "
 "místo rozpadající se, špinavé, rybinou páchnoucí pirátské lodi... ach, zase "
 "budu mít mořskou nemoc..."
 
