@@ -1293,7 +1293,7 @@ msgid ""
 "The last boats have sunk! Without boats we can’t keep up with the merfolk. "
 "You’ll have to go ahead without us, Diondra..."
 msgstr ""
-"Poslední lodě se potopily! Bez lodí nezvládneme udržet krok mořským lidem. "
+"Poslední lodě se potopily! Bez lodí nezvládneme udržet krok s mořským lidem. "
 "Budeš muset pokračovat bez nás, Diondro..."
 
 #. [message]: speaker=Thea
