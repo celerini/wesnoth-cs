@@ -1203,8 +1203,8 @@ msgid ""
 "what big teeth you have</i>”, I told her... and then my “grandmother” leapt "
 "out of bed and swallowed me whole!"
 msgstr ""
-"Měl jsem přinést čaj své nebohé nemocné babičce. \"<i>Jé, ty máš ale velké "
-"zuby</i>,\" řekl jsem jí... a pak moje \"babička\" vyskočila z postele a "
+"Měl jsem přinést čaj své nebohé nemocné babičce. „<i>Jé, ty máš ale velké "
+"zuby</i>,“ řekl jsem jí... a pak moje „babička“ vyskočila z postele a "
 "celého mě spolkla!"
 
 #. [message]: speaker=Red
