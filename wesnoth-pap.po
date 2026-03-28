@@ -1485,7 +1485,7 @@ msgstr ""
 "\n"
 "Chceš-li zobrazit obranu jednotky v terénu a odolnost/zranitelnost vůči "
 "poškození, <b><i>klikni na ni pravým tlačítkem myši a vyber možnost\n"
-"\"Popis jednotky\" </i></b>."
+"„Popis jednotky“ </i></b>."
 
 #. [message]: speaker=unit
 #. The player has just freed a slave from his cage.
