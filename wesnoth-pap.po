@@ -1016,7 +1016,7 @@ msgid ""
 "Of course. The fleeing naga follow the coast south and west. I must go in "
 "pursuit!"
 msgstr ""
-"Samozřejmě. Prchající nágy se vydali podél pobřeží na jih a západ. Musím je "
+"Samozřejmě. Prchající nágy se vydaly podél pobřeží na jih a západ. Musím je "
 "pronásledovat!"
 
 #. [message]: speaker=Thea
