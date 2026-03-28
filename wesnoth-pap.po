@@ -180,7 +180,8 @@ msgstr "Scénář 3: Červená Karkulka"
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:29
 msgid "Complete <i>Lee Shore</i> without freeing any slaves."
-msgstr "Dokonči scénář <i>Závětrné pobřeží</i> a neosvoboď přitom žádného otroka."
+msgstr ""
+"Dokonči scénář <i>Závětrné pobřeží</i> a neosvoboď přitom žádného otroka."
 
 #. [achievement_group]
 #: data/campaigns/Of_Pearls_and_Pirates/achievements.cfg:29
@@ -383,8 +384,8 @@ msgid ""
 "Well done for taking the initiative, Thea. Let’s show these pirates what we "
 "stand for. What do you say, lads?"
 msgstr ""
-"Je skvělé, že ses ujala vedení, Theo. Ukažme těm pirátům, zač je toho "
-"loket. Co říkáte, chlapi?"
+"Je skvělé, že ses ujala vedení, Theo. Ukažme těm pirátům, zač je toho loket. "
+"Co říkáte, chlapi?"
 
 #. [message]: role=fisher
 #. [message]: speaker=Lookout
@@ -976,8 +977,7 @@ msgid ""
 "dead."
 msgstr ""
 "Děkujeme ti za pomoc, mořská panno ze zálivu! Ale co budeme dělat teď? Máme "
-"mnoho raněných. Náš vůdce je ve válce a náš strážný je nezvěstný nebo "
-"mrtvý."
+"mnoho raněných. Náš vůdce je ve válce a náš strážný je nezvěstný nebo mrtvý."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:456
@@ -1204,8 +1204,8 @@ msgid ""
 "out of bed and swallowed me whole!"
 msgstr ""
 "Měl jsem přinést čaj své nebohé nemocné babičce. „<i>Jé, ty máš ale velké "
-"zuby</i>,“ řekl jsem jí... a pak moje „babička“ vyskočila z postele a "
-"celého mě spolkla!"
+"zuby</i>,“ řekl jsem jí... a pak moje „babička“ vyskočila z postele a celého "
+"mě spolkla!"
 
 #. [message]: speaker=Red
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/03_Desolation.cfg:299
@@ -1662,8 +1662,8 @@ msgid ""
 "Do not let his death be in vain. We must catch this “Maudie” and bring her "
 "to justice. Follow the black ship!"
 msgstr ""
-"Nedopusť, aby byla jeho smrt zbytečná. Musíme tu „Maudii“ chytit a "
-"postavit ji před soud. Sledujte černou loď!"
+"Nedopusť, aby byla jeho smrt zbytečná. Musíme tu „Maudii“ chytit a postavit "
+"ji před soud. Sledujte černou loď!"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:812
@@ -1735,8 +1735,7 @@ msgid ""
 "She wondered what drives “Lady Maudie” to inflict it upon others."
 msgstr ""
 "Přemýšlela, jak se její otec mohl tak snadno vrátit k něčemu tak hroznému. "
-"Přemýšlela, co vede lady Maudii k tomu, že způsobovala tolik utrpení a "
-"smrti."
+"Přemýšlela, co vede lady Maudii k tomu, že způsobovala tolik utrpení a smrti."
 
 #. [part]
 #. S05 intro
@@ -1913,9 +1912,9 @@ msgid ""
 "already, consider checking new units’ stats to identify any\n"
 "weaknesses they may have."
 msgstr ""
-"Zatímco mnohé jednotky jsou univerzální, jiné – jako například zapálená loď – \n "
-""
-"mají jasné silné a slabé stránky. \n"
+"Zatímco mnohé jednotky jsou univerzální, jiné – jako například zapálená loď "
+"– \n"
+" mají jasné silné a slabé stránky. \n"
 "Zvaž kontrolu statistik nových jednotek.\n"
 "Ukážou ti, zda se u nich vyskytují nějaké slabiny, kterých by se dalo využít."
 
@@ -1923,8 +1922,7 @@ msgstr ""
 #. Princess Bride movie reference
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:378
 msgid "My name is Thea Nicolin. You killed my brother! Prepare to die!!"
-msgstr ""
-"Jmenuji se Thea Nicolin. Zabila jsi mého bratra! Připrav se na smrt!!"
+msgstr "Jmenuji se Thea Nicolin. Zabila jsi mého bratra! Připrav se na smrt!!"
 
 #. [message]: speaker=Maudie
 #. "you're all leeches" echoes the S01 leader's dying words
