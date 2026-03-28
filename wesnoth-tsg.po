@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-02-26 01:04 UTC\n"
+"POT-Creation-Date: 2026-03-23 23:11 UTC\n"
 "PO-Revision-Date: 2026-03-08 22:26+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -212,84 +212,79 @@ msgstr "Dokonči <i>Války čas</i> předtím, než dorazí posily."
 msgid "Scenario 6b: Man Stands Alone"
 msgstr "Scénář 6b: Sám voják v poli"
 
-#. [lua]: display_tip
-#: data/campaigns/The_South_Guard/lua/popups.lua:52
-msgid "Tip: "
-msgstr "Tip: "
-
-#. [lua]: display_tip
-#: data/campaigns/The_South_Guard/lua/popups.lua:80
-msgid "Understood"
-msgstr "Rozumím"
-
-#. [lua]: display_tip
-#: data/campaigns/The_South_Guard/lua/popups.lua:85
-msgid "Disable Tip Popups &amp; Dialogue"
-msgstr "Zakázat vyskakovací a dialogová okna s tipy"
-
-#. [lua]: choose_companion
-#: data/campaigns/The_South_Guard/lua/popups.lua:137
+#. [label]
+#: data/campaigns/The_South_Guard/gui/choose_companion.cfg:54
 msgid "Choose an officer to accompany Deoran:"
 msgstr "Vyber si důstojníka, který bude Deorana doprovázet:"
 
-#. [lua]: choose_companion
+#. [widget]: id=name
 #. [event]
-#: data/campaigns/The_South_Guard/lua/popups.lua:160
+#: data/campaigns/The_South_Guard/gui/choose_companion.cfg:117
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:472
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:77
 msgid "Sir Gerrick"
 msgstr "Sir Gerrick"
 
-#. [lua]: choose_companion
+#. [widget]: id=name
 #. [unit_type]: id=Veteran Infantryman, race=human
-#: data/campaigns/The_South_Guard/lua/popups.lua:160
+#: data/campaigns/The_South_Guard/gui/choose_companion.cfg:118
 #: data/campaigns/The_South_Guard/units/Gerrick2_Veteran_Infantryman.cfg:4
 msgid "Veteran Infantryman"
 msgstr "Staršina pěchoty"
 
-#. [lua]: choose_companion
+#. [widget]: id=name
 #. [event]
-#: data/campaigns/The_South_Guard/lua/popups.lua:164
+#: data/campaigns/The_South_Guard/gui/choose_companion.cfg:130
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:139
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:424
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:89
 msgid "Captain Mari"
 msgstr "Kapitánka Mari"
 
-#. [lua]: choose_companion
+#. [widget]: id=name
 #. [unit_type]: id=Veteran Fencer, race=human, gender=female
-#: data/campaigns/The_South_Guard/lua/popups.lua:164
+#: data/campaigns/The_South_Guard/gui/choose_companion.cfg:131
 #: data/campaigns/The_South_Guard/units/Mari2.cfg:4
 msgid "Veteran Fencer"
 msgstr "Zkušený šermíř"
 
-#. [lua]: choose_companion
+#. [widget]: id=name
 #. [event]
-#: data/campaigns/The_South_Guard/lua/popups.lua:168
+#: data/campaigns/The_South_Guard/gui/choose_companion.cfg:143
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:448
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:67
 msgid "Minister Hylas"
 msgstr "Purkmistr Hylas"
 
-#. [lua]: choose_companion
-#: data/campaigns/The_South_Guard/lua/popups.lua:168
+#. [widget]: id=name
+#: data/campaigns/The_South_Guard/gui/choose_companion.cfg:144
 msgid "White Mage"
 msgstr "Bílý mág"
 
-#. [lua]: choose_companion
-#: data/campaigns/The_South_Guard/lua/popups.lua:178
+#. [button]: id=leave_with_gerrick
+#: data/campaigns/The_South_Guard/gui/choose_companion.cfg:163
 msgid "Leave with Sir Gerrick"
 msgstr "Bude to sir Gerrick"
 
-#. [lua]: choose_companion
-#: data/campaigns/The_South_Guard/lua/popups.lua:179
+#. [button]: id=leave_with_mari
+#: data/campaigns/The_South_Guard/gui/choose_companion.cfg:170
 msgid "Leave with Captain Mari"
 msgstr "Bude to kapitánka Mari"
 
-#. [lua]: choose_companion
-#: data/campaigns/The_South_Guard/lua/popups.lua:180
+#. [button]: id=leave_with_hylas
+#: data/campaigns/The_South_Guard/gui/choose_companion.cfg:177
 msgid "Leave with Minister Hylas"
 msgstr "Bude to purkmistr Hylas"
+
+#. [button]
+#: data/campaigns/The_South_Guard/gui/display_tip.cfg:146
+msgid "Understood"
+msgstr "Rozumím"
+
+#. [button]
+#: data/campaigns/The_South_Guard/gui/display_tip.cfg:163
+msgid "Disable Tip Popups &amp; Dialogue"
+msgstr "Zakázat vyskakovací a dialogová okna s tipy"
 
 #. [scenario]: id=01_Born_to_the_Banner
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:11
@@ -360,7 +355,7 @@ msgstr ""
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:27
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:40
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:41
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:32
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:38
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:177
 msgid "South Guard"
 msgstr "Jižní hlídka"
@@ -904,8 +899,8 @@ msgstr "Poraz Urzu Matina"
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:298
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:494
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:688
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:516
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:939
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:526
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:949
 msgid "Death of Deoran"
 msgstr "Deoran zemře"
 
@@ -938,8 +933,8 @@ msgid ""
 "Besides, it only took $quintain_killers.length of you to deal with my dummy. "
 "What’s a dozen muscly bandits compared to that?"
 msgstr ""
-"Kromě toho, vypořádat se s mou figurínou ti trvalo jen $quintain_killers."
-"length kol. Co je proti tomu tucet svalnatých banditů?"
+"Kromě toho, vypořádat se s mou figurínou ti trvalo jen "
+"$quintain_killers.length kol. Co je proti tomu tucet svalnatých banditů?"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/01_Born_to_the_Banner.cfg:945
@@ -1676,8 +1671,8 @@ msgid ""
 "Even were he willing, I am not sure he remembers anything other than what he "
 "has already told us."
 msgstr ""
-"I kdyby chtěl, nejsem si jistý, jestli si pamatuje něco jiného, než co nám už "
-"řekl."
+"I kdyby chtěl, nejsem si jistý, jestli si pamatuje něco jiného, než co nám "
+"už řekl."
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:181
@@ -2824,7 +2819,7 @@ msgstr "Urza Afalas"
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:96
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:46
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:55
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:74
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:80
 msgid "Undead"
 msgstr "Nemrtví"
 
@@ -3635,7 +3630,7 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:974
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:729
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:739
 msgid ""
 "You dare strike me?! Puny humans, I’m darkness incarnate! I’m power beyond "
 "your comprehension!"
@@ -4321,7 +4316,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:282
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:931
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:941
 msgid "Defeat Mal M’Brin"
 msgstr "Poraz Mal Mebrina"
 
@@ -4717,7 +4712,7 @@ msgstr ""
 #. [companion_message]
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:771
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:990
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1000
 msgid ""
 "These worthless humans just bested you and your armies. Your time has come, "
 "once-wise sage of the elves."
@@ -5017,7 +5012,7 @@ msgstr "Msta"
 
 #. [side]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:63
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:47
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:53
 msgid "Aethenwood"
 msgstr ""
 
@@ -5150,8 +5145,8 @@ msgstr ""
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:490
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:554
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:684
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:512
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:935
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:522
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:945
 msgid "The town cellars are breached"
 msgstr ""
 
@@ -5159,7 +5154,7 @@ msgstr ""
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:498
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:558
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:692
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:943
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:953
 msgid "Death of Ethiliel"
 msgstr "Ethiliel zemře"
 
@@ -5221,8 +5216,8 @@ msgstr ""
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:532
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:615
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:372
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:434
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:378
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:440
 msgid ""
 "Aye... I’ve got most o’ the civilians safe underground in th’ cellars, with "
 "our trapdoor shut an’ barred. If we’re lucky, we can clean up this mess "
@@ -5234,7 +5229,7 @@ msgstr ""
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:533
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:616
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:403
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:409
 msgid ""
 "Yeah... I’ve got most of the civilians safely underground in the cellars, "
 "with the trapdoor shut and barred. If we’re lucky, we can clean us this mess "
@@ -5406,7 +5401,7 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:734
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:570
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:580
 msgid ""
 "That’s assuming Weldyn would even bother to help out a podunk like this. "
 "Capital of the southern province, sure, but that’s not saying much. Without "
@@ -5416,7 +5411,7 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:735
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:571
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:581
 msgid ""
 "Even then, Westin is small and remote, and thus easy for others to overlook. "
 "Prince Arand’s ambitions for this place are the better part of the reason we "
@@ -5426,7 +5421,7 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:738
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:574
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:584
 msgid ""
 "O’ course, if th’ prince had actually come here himself instead o’ spendin’ "
 "all ’is time up in Weldyn with the king, we might’ve not gotten in such "
@@ -5435,7 +5430,7 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:739
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:575
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:585
 msgid ""
 "Of course, if the prince had actually come here himself instead of spending "
 "all his time up at Weldyn with the king, we might’ve not gotten in such "
@@ -5445,7 +5440,7 @@ msgstr ""
 #. [message]
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:811
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:666
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:676
 msgid "They’ve come around behind us! Stand fast, soldiers of the South Guard!"
 msgstr ""
 
@@ -5661,13 +5656,18 @@ msgid ""
 "Vengeance only begets more vengeance. Our attack against Westin is over."
 msgstr ""
 
+#. [objective]: condition=win
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:8
+msgid "Survive until reinforcements arrive on turn 13, then defeat Mal M’Brin"
+msgstr ""
+
 #. [scenario]: id=06b_The_Tides_of_War
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:10
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:16
 msgid "The Tides of War"
 msgstr "Války čas"
 
 #. [message]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:359
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:365
 msgid ""
 "Look there! The undead army has broken through Captain Mari’s lines! I had "
 "almost dared to hope... but alas, she is lost."
@@ -5676,22 +5676,22 @@ msgstr ""
 "odvážil doufat... ale běda, je ztracena."
 
 #. [message]: speaker=Sir Gerrick
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:363
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:369
 msgid ""
 "It takes one hell of a soldier to keep on fighting’ after losin’ an arm. I "
 "wish I’d gotten to know ’er better. Now I’ll never get the chance."
 msgstr ""
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:366
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:397
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:372
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:403
 msgid ""
 "Another poor soul claimed by the spreading darkness. If only we’d had more "
 "time to prepare... but we’ve done our best."
 msgstr ""
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:367
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:373
 msgid ""
 "Another poor soul claimed by the spreading darkness. At least her sacrifice "
 "was not in vain: we’ve had sufficient time to gather most of the region’s "
@@ -5700,7 +5700,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:368
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:374
 msgid ""
 "Another poor soul claimed by the spreading darkness. At least her sacrifice "
 "was not in vain: we’ve had sufficient time to gather most of the region’s "
@@ -5709,7 +5709,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:369
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:375
 msgid ""
 "Another poor soul claimed by the spreading darkness. At least her sacrifice "
 "was not in vain: we’ve had sufficient time to gather, train, and equip most "
@@ -5718,7 +5718,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Deoran
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:376
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:382
 msgid ""
 "Captain Mari bought us time — I only hope it was enough. A mighty battle is "
 "upon us, but as surely as the dawn breaks after every night, the courage and "
@@ -5729,16 +5729,16 @@ msgstr ""
 "a chrabrost lidí nad ničemnými stvořeními temnoty."
 
 #. [message]: speaker=Deoran
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:380
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:411
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:442
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:386
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:417
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:448
 msgid ""
 "We must stand fast against the undead and defend our homes! We fight for the "
 "fallen! We fight for Wesnoth!"
 msgstr ""
 
 #. [message]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:390
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:396
 msgid ""
 "Look there! The undead army has broken through Sir Gerrick’s lines! I had "
 "almost dared to hope... but alas, he is lost."
@@ -5747,14 +5747,14 @@ msgstr ""
 "odvážil doufat... ale běda, je ztracen."
 
 #. [message]: speaker=Mari
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:394
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:400
 msgid ""
 "Shame. I didn’t really get a chance to know him, but I know you don’t "
 "survive to his age unless you’re one hell of a soldier. He’ll be missed."
 msgstr ""
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:398
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:404
 msgid ""
 "Another poor soul claimed by the spreading darkness. At least his sacrifice "
 "was not in vain: we’ve had sufficient time to gather most of the region’s "
@@ -5763,7 +5763,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:399
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:405
 msgid ""
 "Another poor soul claimed by the spreading darkness. At least his sacrifice "
 "was not in vain: we’ve had sufficient time to gather most of the region’s "
@@ -5772,7 +5772,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:400
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:406
 msgid ""
 "Another poor soul claimed by the spreading darkness. At least his sacrifice "
 "was not in vain: we’ve had sufficient time to gather, train, and equip most "
@@ -5781,7 +5781,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Deoran
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:407
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:413
 msgid ""
 "Sir Gerrick bought us time — I only hope it was enough. A mighty battle is "
 "upon us, but as surely as the dawn breaks after every night, the courage and "
@@ -5792,7 +5792,7 @@ msgstr ""
 "a chrabrost lidí nad ničemnými stvořeními temnoty."
 
 #. [message]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:421
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:427
 msgid ""
 "Look there! The undead army has broken through Minister Hylas’s lines! I had "
 "almost dared to hope... but alas, he is lost."
@@ -5801,21 +5801,21 @@ msgstr ""
 "odvážil doufat... ale běda, je ztracen."
 
 #. [message]: speaker=Sir Gerrick
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:425
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:431
 msgid ""
 "Th’ good minister turned down the luxurious life o’ a city mage to come down "
 "’ere an’ care for us rural folk. ’e was a good man."
 msgstr ""
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:428
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:434
 msgid ""
 "Me, I’d have taken the life of luxury — but maybe the world needs crazy "
 "people like Hylas. If only we’d had more time... but we’ve done our best."
 msgstr ""
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:429
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:435
 msgid ""
 "Me, I’d have taken the life of luxury. But maybe the world needs crazy "
 "people like him — Hylas’s sacrifice bought us enough time to gather most of "
@@ -5824,7 +5824,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:430
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:436
 msgid ""
 "Me, I’d have taken the life of luxury. But maybe the world needs crazy "
 "people like him — Hylas’s sacrifice bought us enough time to gather most of "
@@ -5833,7 +5833,7 @@ msgid ""
 msgstr ""
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:431
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:437
 msgid ""
 "Me, I’d have taken the life of luxury. But maybe the world needs crazy "
 "people like him — Hylas’s sacrifice bought us enough time to gather, train, "
@@ -5842,7 +5842,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Deoran
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:438
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:444
 msgid ""
 "Minister Hylas bought us time — I only hope it was enough. A mighty battle "
 "is upon us, but as surely as the dawn breaks after every night, the courage "
@@ -5854,7 +5854,7 @@ msgstr ""
 
 #. [then]
 #. $pebbles_defense_length will be 11 or greater. $peasants.length and $soldiers.length will be 3 or greater
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:466
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:479
 msgid ""
 "You survived $pebbles_defense_length turns last scenario! Deoran starts\n"
 "   with $peasants.length peasants/woodsmen and $soldiers.length extra "
@@ -5863,7 +5863,7 @@ msgstr ""
 
 #. [else]
 #. $pebbles_defense_length will be between 3 and 10. $peasants.length will be 3 or greater
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:471
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:484
 msgid ""
 "You survived $pebbles_defense_length turns last scenario!\n"
 "   Deoran starts this scenario with $peasants.length extra peasants/woodsmen!"
@@ -5871,16 +5871,16 @@ msgstr ""
 
 #. [then]
 #. $pebbles_defense_length will be 37 or greater. $soldiers.length will be around 12-14 or greater
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:482
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:495
 msgid ""
 "You survived $pebbles_defense_length turns last scenario! Deoran starts\n"
-"   with $soldiers.length extra soldiers and "
-"$( ($pebbles_defense_length-36)*3 ) extra gold!"
+"   with $soldiers.length extra soldiers and $"
+"( ($pebbles_defense_length-36)*3 ) extra gold!"
 msgstr ""
 
 #. [else]
 #. $pebbles_defense_length will be 3 or greater. $soldiers.length will be 3 or greater
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:487
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:500
 msgid ""
 "You survived $pebbles_defense_length turns last scenario!\n"
 "   Deoran starts this scenario with $soldiers.length extra soldiers."
@@ -5888,21 +5888,14 @@ msgstr ""
 
 #. [else]
 #. $pebbles_defense_length will be less than 3
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:494
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:507
 msgid ""
 "You survived only $pebbles_defense_length turns last scenario.\n"
 "   Deoran has not had time to prepare additional defenders."
 msgstr ""
 
-#. [objective]: condition=win
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:508
-msgid ""
-"Survive until reinforcements arrive on turn {TURN_LIMIT}, then defeat Mal "
-"M’Brin"
-msgstr ""
-
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:532
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:542
 #, fuzzy
 #| msgid ""
 #| "So, the fleshbags have managed to mount a defense. I would seem that the "
@@ -5915,7 +5908,7 @@ msgstr ""
 "moucha se nakonec ukázala být více než jen drobnou mrzutostí."
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:536
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:546
 msgid ""
 "No matter. Slay them all, my servants! Even if we sustain losses here, the "
 "town’s inhabitants will be more than enough to replenish our ranks."
@@ -5924,22 +5917,22 @@ msgstr ""
 "ztráty, obyvatelé města nám bohatě postačí na doplnění našich řad."
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:548
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:558
 msgid "For mistress Mari! For all the fallen!"
 msgstr ""
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:549
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:559
 msgid "For master Gerrick! For all the fallen!"
 msgstr ""
 
 #. [event]
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:550
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:560
 msgid "For master Hylas! For all the fallen!"
 msgstr ""
 
 #. [message]: speaker=Deoran
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:566
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:576
 msgid ""
 "If only Ethiliel had not fled! I curse our isolation, so far removed from "
 "the great cities of the north. The capital garrison alone would make short "
@@ -5947,7 +5940,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:586
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:596
 msgid ""
 "The shroud of darkness descends once more. Night seeps through the cracks "
 "and crannies in the humans’ defenses, plaguing their minds and bodies with "
@@ -5960,7 +5953,7 @@ msgstr ""
 "vše, co zůstane, bylo nemyslící bezcitné otroctví."
 
 #. [message]: speaker=Deoran
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:590
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:600
 msgid ""
 "We don’t fear your unholy power, lich. We won’t succumb to your dark magics "
 "and we won’t be turned into your undead slaves."
@@ -5969,17 +5962,17 @@ msgstr ""
 "a nestanou se z nás tvoji nemrtví otroci."
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:594
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:604
 msgid "Believe what you will, human. We shall see if you survive the night."
 msgstr "Věř si čemu chceš, člověče. Uvidíme, jestli přežijete noc."
 
 #. [message]: speaker=Deoran
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:601
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:611
 msgid "Dawn breaks over the horizon! We’ve weathered the nighttime attack!"
 msgstr "Nad obzorem se rozednívá! Přečkali jsme noční útok!"
 
 #. [message]: speaker=Deoran
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:683
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:693
 msgid ""
 "Hold fast, men of the South Guard! No matter how daunting the evil that "
 "opposes us, we must weather this darkness and defend our homes!"
@@ -5988,7 +5981,7 @@ msgstr ""
 "kterému čelíme, musíme tu temnotu překonat a ubránit své domovy!"
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:687
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:697
 msgid ""
 "Fool boy, you overestimate the strength of these decrepit peasants that you "
 "call soldiers. The rivers will run red with your blood! The smoke and ashes "
@@ -6001,7 +5994,7 @@ msgstr ""
 "země, aby mi sloužily!"
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:704
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:714
 msgid ""
 "So, you’ve defeated my lackey. A great accomplishment, for ones so pitiful."
 msgstr ""
@@ -6009,7 +6002,7 @@ msgstr ""
 "je to jistě velký úspěch."
 
 #. [message]: speaker=Deoran
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:708
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:718
 msgid ""
 "What’s truly pitiful is the plight you’ve put yourself in, once wise sage of "
 "the elves. You’ve fallen to the black arts, twisted and corrupted by its "
@@ -6025,7 +6018,7 @@ msgstr ""
 "trápení."
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:712
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:722
 msgid ""
 "How little you understand. Such pompous words don’t benefit such an ignorant "
 "boy. Your foolish babble means nothing in the face of my insurmountable "
@@ -6036,31 +6029,31 @@ msgstr ""
 "Povstaňte, moji válečníci!"
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:742
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:752
 msgid ""
 "Ungrateful elves! I offer you secrets beyond your comprehension! I offer you "
 "immortality itself!"
 msgstr ""
 
 #. [message]: speaker=Deoran
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:796
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:806
 msgid "Did you hear that!? There are horns blowing in the west!"
 msgstr ""
 
 #. [message]: speaker=Ethiliel
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:821
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:831
 msgid "Mebrin! This has gone far enough."
 msgstr ""
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:825
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:835
 msgid ""
 "Ethiliel, my student... How pleased am I to see you again! What wonderful "
 "secrets have I to share..."
 msgstr ""
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:829
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:839
 msgid ""
 "I have touched the void at the heart of all things, and I have begun to "
 "probe the mystic arts far beyond what any living elf knows. There is "
@@ -6069,7 +6062,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ethiliel
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:833
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:843
 msgid ""
 "You’ve become <b><i>evil</i></b>, Mebrin. Surely you see it! Take a good "
 "look at yourself! Your servants are abominations worse than any human. They "
@@ -6082,7 +6075,7 @@ msgstr ""
 "jsi nejlaskavější a nejmírnější z mudrců..."
 
 #. [message]: speaker=Ethiliel
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:837
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:847
 msgid ""
 "No, the sage Mebrin is dead. You’re not the master I once revered. I have "
 "come to cleanse your soul and put you to rest, my beloved teacher."
@@ -6091,7 +6084,7 @@ msgstr ""
 "jsem očistit tvou duši a uložit tě k odpočinku, můj drahý učiteli."
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:841
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:851
 msgid ""
 "Is that why you returned? Bah, I see you still have much foolishness to be "
 "rid of. I shall deal with you personally. You were always more of a hands-on "
@@ -6099,7 +6092,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ethiliel
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:912
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:922
 msgid ""
 "Deoran, Mebrin is as much my people’s fault as he is yours. Forgive me for "
 "my cowardice at the river. With me come warriors of the Aethenwood — "
@@ -6107,7 +6100,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:958
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:968
 msgid ""
 "Why do you aid these fools, Ethiliel? Join me! Stand by my side! The race of "
 "man shall be stricken off the face of the green world. Their corpses will "
@@ -6120,7 +6113,7 @@ msgstr ""
 "bezduché otroky, jakými si všichni zaslouží být!"
 
 #. [message]: speaker=Ethiliel
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:962
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:972
 msgid ""
 "And when that’s done, what will us elves have become? Naught but hungering "
 "shadows, devouring all we once cherished."
@@ -6129,7 +6122,7 @@ msgstr ""
 "pohlcují vše, co jsme kdysi střežili."
 
 #. [message]: speaker=Deoran
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:966
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:976
 msgid ""
 "Even a mere human can see that you have become a mockery of all that you "
 "once believed in, Mebrin of the elves. We will destroy you and bury your "
@@ -6139,7 +6132,7 @@ msgstr ""
 "kdysi věřil, Mebrine z elfů. Zničíme tě a pohřbíme tvou zvrácenou zkaženost!"
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:970
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:980
 msgid ""
 "Ethiliel I respect, but you? Destroy me? Your man-flesh will provide a fine "
 "feast for my ghouls, and once they’re through, your bones will serve me "
@@ -6150,7 +6143,7 @@ msgstr ""
 "budou navždy sloužit v nemrtvu!"
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:986
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:996
 msgid ""
 "Fools! Imbeciles! You humans are a worthless blight upon this wretched "
 "world! I must purge you all — I must take revenge on all your race... I "
@@ -6161,19 +6154,19 @@ msgstr ""
 "Musím..."
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:994
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1004
 msgid ""
 "I curse you, Deoran of Wesnoth! I curse you... may you one day know the same "
 "pain that your kind have inflicted on me..."
 msgstr ""
 
 #. [message]: speaker=Deoran
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1000
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1010
 msgid "At long last, it is done."
 msgstr "Trvalo to, ale je to hotovo."
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1021
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1031
 msgid ""
 "Wait! Ethiliel... think about it! Think of everything you’re throwing away! "
 "We could build an empire together, where the humans are our slaves and you "
@@ -6184,7 +6177,7 @@ msgstr ""
 "nesmrtelnými vládci světa!"
 
 #. [message]: speaker=Ethiliel
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1025
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1035
 msgid ""
 "It would only be an empire of misery, Mebrin. I wish it hadn’t come to this, "
 "but you’ve been corrupted beyond saving. Still, I’ll fondly cherish the "
@@ -6195,7 +6188,7 @@ msgstr ""
 "vzpomínky na tvé staré já."
 
 #. [message]: speaker=Mebrin
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1029
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1039
 msgid ""
 "You wouldn’t dare strike me! I’m the darkness incarnate! I’m your master! "
 "You’ll obey me!"
@@ -6204,7 +6197,7 @@ msgstr ""
 "mě!"
 
 #. [message]: speaker=Ethiliel
-#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1035
+#: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:1045
 msgid "Goodbye, Mebrin."
 msgstr "Sbohem, Mebrine."
 
@@ -6914,8 +6907,8 @@ msgstr ""
 "Jedna z tvých jednotek dosáhla maximálního počtu zkušeností a povýšila! Nyní "
 "je výrazně silnější a byla plně vyléčena!\n"
 "\n"
-"Úplný popis toho, co která z tvých jednotek dokáže, zobrazíš <b><i>kliknutím na ni "
-"pravým tlačítkem myši a výběrem možnosti „Popis typu jednotky“</i></b>."
+"Úplný popis toho, co která z tvých jednotek dokáže, zobrazíš <b><i>kliknutím "
+"na ni pravým tlačítkem myši a výběrem možnosti „Popis typu jednotky“</i></b>."
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:94
@@ -7043,7 +7036,7 @@ msgid ""
 "Wesnoth is a game about flexible strategy,\n"
 "not deterministic calculation.\n"
 "Anyone can win when things go as planned.\n"
-"Wesnoth’s skill & mastery lie in creating\n"
+"Wesnoth’s skill &amp; mastery lie in creating\n"
 "a strategy that <i><b>mitigates bad luck</b></i>, while\n"
 "simultaneously <i><b>exploits good luck</b></i>. Both\n"
 "bad and good luck are inevitable, so be \n"
@@ -7239,6 +7232,9 @@ msgstr ""
 "šířil soumračný stín, obraz nepřirozeného rozšíření dosud neporažených sil, "
 "které v něm dlely. A ta zlověstná plazící se temnota muže z Jižní hlídky "
 "stále rychleji doháněla."
+
+#~ msgid "Tip: "
+#~ msgstr "Tip: "
 
 #~ msgid ""
 #~ "Story continued in:\n"

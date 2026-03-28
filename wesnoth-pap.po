@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-02-26 01:03 UTC\n"
+"POT-Creation-Date: 2026-03-23 23:10 UTC\n"
 "PO-Revision-Date: 2026-02-09 22:07+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -2081,20 +2081,20 @@ msgid "Defeat Lady Maudie"
 msgstr "Porazit lady Maudie"
 
 #. [message]: speaker=Maudie
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:317
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:316
 #, fuzzy
 msgid ""
 "They’re getting closer. Shipmaster, how long until the fleet is finished?!"
 msgstr "Přibližují se. Veliteli lodi, za jak dlouho bude flotila hotová?!"
 
 #. [message]: speaker=leader3
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:321
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:320
 #, fuzzy
 msgid "Madam, I’ve told you, it might still be weeks—"
 msgstr "Paní, říkal jsem vám, že to může trvat ještě týdny..."
 
 #. [message]: speaker=Maudie
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:327
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:326
 #, fuzzy
 msgid ""
 "They’re getting closer. And my shipmaster got himself killed... Do I have to "
@@ -2103,7 +2103,7 @@ msgstr ""
 "Přibližují se. A můj velitel se nechal zabít... Musím všechno udělat sám?"
 
 #. [message]: speaker=Maudie
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:333
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:332
 #, fuzzy
 msgid ""
 "Fine! Since these ships cannot serve me in any useful capacity, set them "
@@ -2113,20 +2113,20 @@ msgstr ""
 "a pošlete je, ať sejmou všechno, co je ve vodě!"
 
 #. [display_tip]
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:349
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:348
 #, fuzzy
 msgid "Know Thy Enemy"
 msgstr "Poznej svého nepřítele"
 
 #. [display_tip]
 #. knowing about the Fireship specifically isn't that important (although it does make it clear that this isn't a bug). But the Fireship is a good example about how knowing an enemy's weaknesses can make them much easier to fight. This also makes exploiting the Fireships feel less like a mistake ("oh, the AI is dumb"), and makes it clear that making them exploitable like this is a deliberate design choice
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:351
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:350
 #, fuzzy
 msgid "A unit’s statistics determine the best strategy for fighting them."
 msgstr "Statistiky jednotky určují nejlepší strategii boje proti ní."
 
 #. [display_tip]
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:353
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:352
 #, fuzzy
 msgid ""
 "Maudie’s new fireships, for example, can deal massive damage in\n"
@@ -2139,7 +2139,7 @@ msgstr ""
 "každé kolo a jako lodě vás nemohou pronásledovat na souši."
 
 #. [display_tip]
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:357
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:356
 #, fuzzy
 msgid ""
 "While many units are general-purpose, others — like the Fireship — \n"
@@ -2156,7 +2156,7 @@ msgstr ""
 
 #. [message]: speaker=Thea
 #. Princess Bride movie reference
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:378
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:377
 #, fuzzy
 msgid "My name is Thea Nicolin. You killed my brother! Prepare to die!!"
 msgstr ""
@@ -2164,7 +2164,7 @@ msgstr ""
 
 #. [message]: speaker=Maudie
 #. "you're all leeches" echoes the S01 leader's dying words
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:396
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:395
 #, fuzzy
 msgid ""
 "Get away from my ship, you low-born churl! You’re all just leeches! The Bay "
@@ -2175,7 +2175,7 @@ msgstr ""
 
 #. [message]: speaker=Maudie
 #. "you're all leeches" echoes the S01 leader's dying words
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:403
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:402
 #, fuzzy
 msgid ""
 "Get away from my ship, you filthy fish! You’re all just leeches! The Bay "
@@ -2185,7 +2185,7 @@ msgstr ""
 "měla být <i>moje</i>, ne vaše!"
 
 #. [message]: speaker=Maudie
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:409
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:408
 #, fuzzy
 msgid ""
 "It belongs to me and my blood by right! My noble ancestors fought our way to "
@@ -2197,7 +2197,7 @@ msgstr ""
 "merfolkům."
 
 #. [message]: speaker=Thea
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:413
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:412
 #, fuzzy
 msgid ""
 "You’re talking about when the Bay was first awarded to the merfolk? But that "
@@ -2207,7 +2207,7 @@ msgstr ""
 "než třemi sty lety!"
 
 #. [message]: speaker=Maudie
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:417
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:416
 #, fuzzy
 msgid ""
 "And my line <i>has not forgotten</i>! It should have been <i>me</i> who "
@@ -2217,7 +2217,7 @@ msgstr ""
 "perly!"
 
 #. [message]: speaker=Maudie
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:419
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:418
 #, fuzzy
 msgid ""
 "Eating caviar instead of hardtack, served by slaves instead of outlaws, "
@@ -2229,7 +2229,7 @@ msgstr ""
 "zase budu mít mořskou nemoc..."
 
 #. [message]: speaker=Maudie
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:429
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:428
 #, fuzzy
 msgid ""
 "But you’re just a bunch of fish and smallfolk! It’s my right to rule! How— I "
@@ -2239,14 +2239,14 @@ msgstr ""
 "říct... no, určitě nemůžeš dívce vyčítat, že má ambice?"
 
 #. [message]: speaker=Maudie
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:453
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:452
 #, fuzzy
 msgid "We’re sinking. Someone, stop the sinking! No. No! I can’t swim!!"
 msgstr "Potápíme se. Zastavte někdo to potápění! Ne. Ne! Nemůžu plavat!!"
 
 #. [message]: speaker=Thea
 #. Echoing Maudie's lines from S04 and S02.
-#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:460
+#: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:459
 #, fuzzy
 msgid "(grim) Ta ta."
 msgstr "(zachmuřený) Ta ta."
