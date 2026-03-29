@@ -3499,9 +3499,9 @@ msgid ""
 "jussst fire down upon these abominations!"
 msgstr ""
 "Žžádné nessmyssly! Tvorové, co jsste viděli, ssi říkají „lidé“. Jssou to "
-"hlučné, nássilné a odporné příššery porosstlé vlhkou ropušší kůžží. Jssou "
-"to nájemné ssíly vyvolané zze sspodní sstrany ssvěta elfy, co ssídlí v "
-"hlubokém a temném Wessmersském lesse.\n"
+"hlučné, nássilné a odporné příššery porosstlé vlhkou ropušší kůžží. Jssou to "
+"nájemné ssíly vyvolané zze sspodní sstrany ssvěta elfy, co ssídlí v hlubokém "
+"a temném Wessmersském lesse.\n"
 "\n"
 "Tito lidé zzabili téměřř vššechny zz mého klanu! Na trosskách mé líhně sssi "
 "posstavili ssvou vyssoko sse tyčící Elenssefarskou pevnosst. Modlím sse, "
@@ -5396,8 +5396,8 @@ msgid ""
 msgstr ""
 "<i>větří s vyplazeným jazykem</i>\n"
 "\n"
-"Draci! Brána zza mluvícím kosstrounem voní čersstvým vzzduchem. To je "
-"cessta přesss horu. Mussíme tu bránu prolomit! A ssvižžně, draci!"
+"Draci! Brána zza mluvícím kosstrounem voní čersstvým vzzduchem. To je cessta "
+"přesss horu. Mussíme tu bránu prolomit! A ssvižžně, draci!"
 
 #. [message]: speaker=Avatar of Nova
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:633
@@ -5972,8 +5972,8 @@ msgstr "Přesunutí jakékoli tvé jednotky na východ tunelu ho zničí"
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:336
 msgid "I sssee now you are not Shek’kahan. I sssaw as I wished to sssee."
 msgstr ""
-"Teď užž vidím, žže nejssi Ššekekahan. Byl jssem zzasslepen tím, co jssem "
-"ssi přál vidět."
+"Teď užž vidím, žže nejssi Ššekekahan. Byl jssem zzasslepen tím, co jssem ssi "
+"přál vidět."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:340
