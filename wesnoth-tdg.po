@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:11 UTC\n"
-"PO-Revision-Date: 2026-02-28 09:00+0100\n"
+"PO-Revision-Date: 2026-03-29 07:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -110,8 +110,8 @@ msgid ""
 "The saga continues in\n"
 "<i>The Deceiver’s Gambit II</i>"
 msgstr ""
-"Příběh pokračuje v tažení:\n"
-"Podvodníkův gambit II"
+"Příběh pokračuje v tažení\n"
+"<i>Podvodníkův gambit II</i>"
 
 #. [campaign]: id=The Deceivers Gambit 2
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:163
@@ -143,6 +143,8 @@ msgid ""
 "The saga continues in\n"
 "<i>Liberty</i>"
 msgstr ""
+"Příběh pokračuje v tažení\n"
+"<i>Svoboda</i>"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
@@ -8500,13 +8502,6 @@ msgid ""
 msgstr ""
 "Jsem těžce zraněný, nemohu vám s vaším úkolem dál pomáhat. Bojuj beze mě, "
 "Delfadore!"
-
-#~ msgid ""
-#~ "Story continued in:\n"
-#~ "“Asheviere’s Dogs”"
-#~ msgstr ""
-#~ "Příběh pokračuje v tažení:\n"
-#~ "„Ašvířini psi“"
 
 #~ msgid ""
 #~ "<i>Levitate!?</i> Why bother with utility spells when fireballs are so "
