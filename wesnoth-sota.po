@@ -1,5 +1,5 @@
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2022, 2024
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2022, 2024, 2026
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2020
 #
 msgid ""
@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-08-19 04:10 UTC\n"
-"PO-Revision-Date: 2024-12-28 23:52+0100\n"
+"PO-Revision-Date: 2026-03-29 08:27+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3069,7 +3069,7 @@ msgstr "Gryfové... žijí v této výšce. Musíme být opatrní."
 #. [message]: speaker=Vendraxis
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/15_Mountain_Pass.cfg:363
 msgid "Yesss. The danger I sssensed is here."
-msgstr "Sssprávně. Ccítím tu nebezzzpeččí."
+msgstr "Sssprávně. Cítím tu nebezzzpečí."
 
 #. [scenario]: id=16_The_Mage
 #: data/campaigns/Secrets_of_the_Ancients/scenarios/16_The_Mage.cfg:9

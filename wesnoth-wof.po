@@ -7,15 +7,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2026-03-21 22:59+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2026-03-29 08:34+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.9\n"
 
 #. [campaign]: id=Winds_of_Fate
 #. [scenario]: id=06x_Winds_of_Fate
@@ -2189,7 +2188,7 @@ msgstr "Je léto, denní doba je delší"
 #. [message]: speaker=Shussek
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:188
 msgid "Ssssss! Leave our reef, fish imps."
-msgstr "Ssssss! Opusssťte náš útess, rybí niččemové."
+msgstr "Ssssss! Opusssťte náš útess, rybí ničemové."
 
 #. [message]: speaker=Poseira
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:192
@@ -2233,8 +2232,8 @@ msgid ""
 "We will ‘de-part’ your fins from you and gulp your fry by the thousands. "
 "Ssssss!"
 msgstr ""
-"Naděláme sssi zz vaššich ploutví filety a tissícce vaššich mláďat zzhltneme "
-"jak rybí oččka. Ssssss!"
+"Naděláme sssi zz vaššich ploutví filety a tissíce vaššich mláďat zzhltneme "
+"jak rybí očka. Ssssss!"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/04_Journey.cfg:237
@@ -2709,7 +2708,7 @@ msgid ""
 msgstr ""
 "Uklidni se, Oxe.\n"
 "\n"
-"A pusssť ssse do práce a nakrm ssvé mazzlíččky!"
+"A pusssť ssse do práce a nakrm ssvé mazzlíčky!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:292
@@ -2950,9 +2949,9 @@ msgid ""
 "\n"
 "Hail, dragons! (<i>rapid clicking</i>) Down here!"
 msgstr ""
-"Takžže, tohle jssou ohniví dracci, žže Zedrixi?\n"
+"Takžže, tohle jssou ohniví draci, žže Zedrixi?\n"
 "\n"
-"Buďte pozzdraveni, dracci! (<i>Ostře hvízdne.</i>) Tady dolů!"
+"Buďte pozzdraveni, draci! (<i>Ostře hvízdne.</i>) Tady dolů!"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:602
@@ -2964,7 +2963,7 @@ msgstr "Vítají nás."
 msgid ""
 "Hail-loooo! Dragons, can you ssspeak? Zedrix, you sssaid dragons can "
 "ssssspeak!"
-msgstr "Haló! Dracci, umíte mluvit? Zedrixi, říkalss, žže dracci umí mluvit!"
+msgstr "Haló! Draci, umíte mluvit? Zedrixi, říkalss, žže draci umí mluvit!"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/05_Threshold.cfg:612
@@ -3404,7 +3403,7 @@ msgid ""
 "For over 11 years have I lived."
 msgstr ""
 "Ve sskutečnossti jssem sstarššší naššeho klanu. Takovou dlouhověkosst mi "
-"propůjččují hvězzdy. Žžiji užžž více nežž 11 let."
+"propůjčují hvězzdy. Žžiji užžž více nežž 11 let."
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:195
@@ -3457,7 +3456,7 @@ msgstr ""
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:239
 msgid "You sssaw Demon King?! You sssssaw <b>The Haldric</b>?"
-msgstr "Viděl jssi démonicckého krále?! Viděl jssi <b>Haldrika</b>?"
+msgstr "Viděl jssi démonického krále?! Viděl jssi <b>Haldrika</b>?"
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/05x_Early_Arrival.cfg:243
@@ -3481,12 +3480,12 @@ msgid ""
 "jussst fire down upon these abominations!"
 msgstr ""
 "Žžádné nessmyssly! Tvorové, co jsste viděli, ssi říkají „lidé“. Jssou to "
-"hluččné, nássilné a odporné příššery porosstlé vlhkou ropušší kůžží. Jssou "
+"hlučné, nássilné a odporné příššery porosstlé vlhkou ropušší kůžží. Jssou "
 "to nájemné ssíly vyvolané zze sspodní sstrany ssvěta elfy, co ssídlí v "
 "hlubokém a temném Wessmersském lesse.\n"
 "\n"
 "Tito lidé zzabili téměřř vššechny zz mého klanu! Na trosskách mé líhně sssi "
-"posstavili ssvou vyssoko sse tyččící Elenssefarskou pevnosst. Modlím sse, "
+"posstavili ssvou vyssoko sse tyčící Elenssefarskou pevnosst. Modlím sse, "
 "draci, abysste na ty ohavnossti ssesslali sshůry ohnivý déššť!"
 
 #. [message]: speaker=Karron
@@ -3867,7 +3866,7 @@ msgid ""
 "more!"
 msgstr ""
 "Elenssiánsská pevnost hoří, je po ní veta! Má líheň je ossvobozzena a můj "
-"druh ssse ssem můžže vrátit, aby tu žžil. Ješšteráccká říšše bude trvat "
+"druh ssse ssem můžže vrátit, aby tu žžil. Ješšterácká říšše bude trvat "
 "dalšších třřináct tissíc let!"
 
 #. [message]: speaker=Gorlack
@@ -3939,7 +3938,7 @@ msgid ""
 "Elves of Wesssmere, your time has come!"
 msgstr ""
 "Po ssmrti těchto lidí doššly dušše mrtvých zz mé ssesstersské linie sskoro "
-"pokoje... Ale lidšští nádenícci usskutěččnovali jen elfí vůli. Vsskutku, "
+"pokoje... Ale lidšští nádeníci usskutěčnovali jen elfí vůli. Vsskutku, "
 "elfové ssstále mussí platit...\n"
 "\n"
 "Elfové z Wesssmérie, nadeššel vášš časss!"
@@ -4513,7 +4512,7 @@ msgid ""
 "<i>That is jussst what they do. Now I will further pacify them with praise—</"
 "i>"
 msgstr ""
-"<i>To je právě to, cco dělají. Nyní je dále zzklidním pochlebováním...</i>"
+"<i>To je právě to, co dělají. Nyní je dále zzklidním pochlebováním...</i>"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:334
@@ -4840,7 +4839,7 @@ msgid ""
 "Empire for sssetting loossse your human minions upon usssss?"
 msgstr ""
 "Sssaleneo, rozzhodl se váššš Kalian, žže sse formálně omluví našší "
-"ješštěráccké říssi zza to, žže trpěla ččiny vaššich lidsských přissluhovaččů?"
+"ješštěrácké říssi zza to, žže trpěla činy vaššich lidsských přissluhovačů?"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:533
@@ -4863,13 +4862,13 @@ msgstr "Jassně, odpoutáme sse, odpoutáme..."
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:543
 msgid "...as sssoon as we have finished with you here."
-msgstr "... jakmile tu ss tebou sskonččíme!"
+msgstr "... jakmile tu ss tebou sskončíme!"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:547
 msgid "Gorlack, pray position your hunters well and then let usss attack!"
 msgstr ""
-"Gorlaku, rozzmíssti prossím dobře ssvé lovcce a pak náss nech zzaútočit!"
+"Gorlaku, rozzmíssti prossím dobře ssvé lovce a pak náss nech zzaútočit!"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:563
@@ -5044,12 +5043,12 @@ msgstr "„Pakt Saurgrat–Morogor“"
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:268
 msgid "‘Alignment of Moon and Sssun’"
-msgstr "„Sspojenecctví Měssícce a Ssluncce“"
+msgstr "„Sspojenectví Měssíce a Sslunce“"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:272
 msgid "‘Sandwalkers’"
-msgstr "„Písseční chodcci“"
+msgstr "„Písseční chodci“"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:278
@@ -5059,7 +5058,7 @@ msgstr "“Liga ssedmi sstříbrných hvězzd a pěti rybích ssouhvězzdí“"
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:282
 msgid "‘Sandfolks’!"
-msgstr "„Písseččníci!“"
+msgstr "„Píssečníci!“"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:288
@@ -5067,8 +5066,8 @@ msgid ""
 "Ah, that is mossst favored name— ‘Sandfolksss’ —bland, yet no negative "
 "connotationsss which sssummon..."
 msgstr ""
-"Ach, jméno Písseččníci sse mi pozzdává nejvícc. Není výrazzné, ale nenesse v "
-"ssobě žžádná negativní sspojení, cco by vyvolávala..."
+"Ach, jméno Píssečníci sse mi pozzdává nejvíc. Není výrazzné, ale nenesse v "
+"ssobě žžádná negativní sspojení, co by vyvolávala..."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:292
@@ -5130,7 +5129,7 @@ msgstr ""
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:351
 msgid "Through thisss cave! Essscape through here..."
-msgstr "Sskrzz tuhle jesskyni! Uteččme sskrzz ni..."
+msgstr "Sskrzz tuhle jesskyni! Utečme sskrzz ni..."
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:366
@@ -5140,7 +5139,7 @@ msgstr "Opatrně, Arinexiss, opatrně! Vššude je rozzssypaný ohnivý prach."
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:370
 msgid "Dragons, do not breath on thisss dussst!"
-msgstr "Dracci, nedýchejte na ten prach!"
+msgstr "Draci, nedýchejte na ten prach!"
 
 #. [message]: speaker=Resha
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:374
@@ -5209,7 +5208,7 @@ msgid ""
 "That is a ssskeletoid — humans’ true and ssstrongessst form. Every human "
 "that dies sssomeday rises again as one of those."
 msgstr ""
-"To je ssskeletoid – pravá a sssilnější podoba lidí. Kažždý ččlověk, co někdy "
+"To je ssskeletoid – pravá a sssilnější podoba lidí. Kažždý člověk, co někdy "
 "zzemřře, povsstane zznovu jako jeden zz nich."
 
 #. [message]: speaker=Arinexis
@@ -5305,7 +5304,7 @@ msgid ""
 "We sssaurians will never ssserve the likesss of a human monssster or your "
 "elf massstersss!"
 msgstr ""
-"My, ješštěrácci, nebudeme nikdy sssloužit takovým lidsským monsstrům ani "
+"My, ješštěráci, nebudeme nikdy sssloužit takovým lidsským monsstrům ani "
 "vaššim elfím pánům!"
 
 #. [message]: speaker=Lich-Lord Selmar
@@ -5330,7 +5329,7 @@ msgid ""
 "You hatched your plan too late, human. We already sssacked Wesssmere, the "
 "elves are dealt with."
 msgstr ""
-"Vymysslel jssi ssvůj plán přílišš pozzdě, ččlověčče. Wessmérii jssme už "
+"Vymysslel jssi ssvůj plán přílišš pozzdě, člověče. Wessmérii jssme už "
 "vyplenili, ss elfy je to vyřřízeno."
 
 #. [message]: speaker=Lich-Lord Selmar
@@ -5414,8 +5413,8 @@ msgid ""
 msgstr ""
 "<i>větří s vyplazeným jazykem</i>\n"
 "\n"
-"Dracci! Brána zza mluvíccím kosstrounem voní čersstvým vzzduchem. To je "
-"cessta přesss horu. Mussíme tu bránu prolomit! A ssvižžně, dracci!"
+"Draci! Brána zza mluvícím kosstrounem voní čersstvým vzzduchem. To je "
+"cessta přesss horu. Mussíme tu bránu prolomit! A ssvižžně, draci!"
 
 #. [message]: speaker=Lich-Lord Selmar
 #: data/campaigns/Winds_of_Fate/scenarios/08_Overlook.cfg:667
@@ -5569,7 +5568,7 @@ msgstr "Opatruj se, plachtící."
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:177
 msgid "Cold ssseason has arrived. Many moons of cold are now upon usssss."
-msgstr "Nasstala sstudená ssezzóna. Ččeká náss teď mnoho chladných měssícců."
+msgstr "Nasstala sstudená ssezzóna. Čeká náss teď mnoho chladných měssíců."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:181
@@ -5783,7 +5782,7 @@ msgstr ""
 "Krakrašši..., tvůj bratr je mrtvý. Padl, aby ochránil ssvé pansství "
 "a sskromné sssubjekty v něm...\n"
 "\n"
-"... jssem zz nich jediný, cco zzbyl."
+"... jssem zz nich jediný, co zzbyl."
 
 #. [message]: speaker=Khrakrahs
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:551
@@ -5899,7 +5898,7 @@ msgstr "Přesunutí jakékoli tvé jednotky na východ tunelu ho zničí"
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:336
 msgid "I sssee now you are not Shek’kahan. I sssaw as I wished to sssee."
 msgstr ""
-"Teď užž vidím, žže nejssi Ššekekahan. Byl jssem zzasslepen tím, cco jssem "
+"Teď užž vidím, žže nejssi Ššekekahan. Byl jssem zzasslepen tím, co jssem "
 "ssi přál vidět."
 
 #. [message]: speaker=Gorlack
@@ -5910,7 +5909,7 @@ msgstr "Stejně jako já..."
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:344
 msgid "What do you mean?"
-msgstr "Cco tím mysslíšš?"
+msgstr "Co tím mysslíšš?"
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:348
@@ -6041,7 +6040,7 @@ msgid ""
 "\n"
 "Her fear for you made it ssso."
 msgstr ""
-"Přřessto bylo její ssrdcce sstateččné.\n"
+"Přřessto bylo její ssrdce sstatečné.\n"
 "\n"
 "Zzpůssobil to její sstrach o tebe."
 
@@ -6053,7 +6052,7 @@ msgstr "... ... Tak to bylo."
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:423
 msgid "Your fear for her made you brave."
-msgstr "Tvůj sstrach o ni tě uččinil sstateččným."
+msgstr "Tvůj sstrach o ni tě učinil sstatečným."
 
 #. [message]: speaker=Gorlack
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:427
@@ -6100,7 +6099,7 @@ msgstr ""
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:504
 msgid "It sssaid “dragons” and... <i>sssssomething</i> about dragons."
-msgstr "Řříkal „dracci“ a... <i>něcco</i> o nich."
+msgstr "Řříkal „draci“ a... <i>něco</i> o nich."
 
 #. [message]: speaker=Thurdakor
 #. Here "you-know-what" is being used as a euphemism for 'raw sewage'.
@@ -6138,7 +6137,7 @@ msgstr "Co to u ďábelského nebe má znamenat?! Dám ti vědět..."
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/10_Fire_Meets_Steel.cfg:538
 msgid "Your hornblower ssspews notesss over your words!"
-msgstr "Vášš trubačč chrlí nad vaššimi sslovy ssvé vyhrávky!"
+msgstr "Vášš trubač chrlí nad vaššimi sslovy ssvé vyhrávky!"
 
 #. [message]: speaker=Thurdakor
 #. "Just ignore him, he had awefully much to drink."
@@ -6602,7 +6601,7 @@ msgid ""
 "Karron, you are only dragon left with ssscales. I choose to rejoin your "
 "hunt. Many of usss will follow you."
 msgstr ""
-"Karron, jssi tu jediný drak, cco hrdě nossí ssvé ššupiny. Rozzhodla jssem "
+"Karron, jssi tu jediný drak, co hrdě nossí ssvé ššupiny. Rozzhodla jssem "
 "ssse zznovu připojit k tvému lovu. Mnoho zz náss tě bude nássledovat."
 
 #. [message]: speaker=Karron
@@ -6621,7 +6620,7 @@ msgstr ""
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:418
 msgid "Arinexis, do not leave our new clan, it is not sssafe!"
-msgstr "Arinexxo, neopoušštěj nášš nový klan, není to bezzpeččné!"
+msgstr "Arinexxo, neopoušštěj nášš nový klan, není to bezzpečné!"
 
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:422
@@ -6632,8 +6631,8 @@ msgid ""
 "\n"
 "We run, we fight and we live. That is only way for usss now."
 msgstr ""
-"Nebudeme v bezzpeččí, pokud sse budeme sskrývat. Můj rodný klan sse sskrýval "
-"ve Velké deltě a byl vyhlazzen. Ty ssess sskrýval v Zzeleném moččálu sse "
+"Nebudeme v bezzpečí, pokud sse budeme sskrývat. Můj rodný klan sse sskrýval "
+"ve Velké deltě a byl vyhlazzen. Ty ssess sskrýval v Zzeleném močálu sse "
 "ssvým sstarým drakem. A tvůj sstarý klan byl také vyhlazzen. Budešš dělat to "
 "ssamé zznovu tady?!\n"
 "\n"
@@ -6659,7 +6658,7 @@ msgstr "<i>Tady</i> být, zeleňouch."
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:453
 msgid "It is I, Ancient One. I ssseek your help."
-msgstr "Jssem to já, Prasstarý. Occením tvou pomocc."
+msgstr "Jssem to já, Prasstarý. Ocením tvou pomoc."
 
 #. [message]: speaker=Reks
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:457
@@ -6695,20 +6694,20 @@ msgstr "Xatra"
 #. [message]: speaker=Xatra
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:510
 msgid "What is meaning of thisssss?!"
-msgstr "Cco má tohle zznamenat?!"
+msgstr "Co má tohle zznamenat?!"
 
 #. [message]: speaker=Zedrix
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:514
 msgid ""
 "By dance of wandering ssstars, you look not one day over ssseven, old friend."
 msgstr ""
-"Přři tancci bloudíccích hvězzd, zza tu dobu, cco jssme ssse neviděli, jssi "
-"vůbecc nezzesstárl, sstarý přříteli."
+"Přři tanci bloudících hvězzd, zza tu dobu, co jssme ssse neviděli, jssi "
+"vůbec nezzesstárl, sstarý přříteli."
 
 #. [message]: speaker=Xatra
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:520
 msgid "Yet I feel all thirteen years in my bones!"
-msgstr "Přřessto ccítím vššech těch třřinácct let v kossstech!"
+msgstr "Přřessto cítím vššech těch třřináct let v kossstech!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:539
@@ -6719,8 +6718,8 @@ msgstr "???"
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:553
 msgid "Thisss ssstone has drake markingsss, maybe one of them can read it."
 msgstr ""
-"Na tomto kameni jssou draččí značčky, možžná ho jeden z nich bude sschopen "
-"přeččísst."
+"Na tomto kameni jssou dračí značky, možžná ho jeden z nich bude sschopen "
+"přečísst."
 
 #. [message]: speaker=unit
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:570
@@ -6935,7 +6934,7 @@ msgstr ""
 #. [message]: speaker=Arinexis
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:783
 msgid "You win, I go... I run."
-msgstr "Vyhrálss. Jdu pryčč..., mizzím."
+msgstr "Vyhrálss. Jdu pryč..., mizzím."
 
 #. [message]: speaker=Karron
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:811
