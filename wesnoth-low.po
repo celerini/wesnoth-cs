@@ -2,14 +2,14 @@
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2008 - 2012, 2020 - 2022
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2024
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2024, 2026
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-09-17 03:32 UTC\n"
-"PO-Revision-Date: 2024-12-28 23:23+0100\n"
+"PO-Revision-Date: 2026-03-29 09:13+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1229,8 +1229,8 @@ msgid ""
 "More elves are coming! Too late, we’ve taken all your gold and we’ll get "
 "more gold from the orcs for helping them out!"
 msgstr ""
-"Sss, dalšší elfové přišššli! Pozzdě panáččci, vzzali ssme vašše zzlato a "
-"dalšší dosstaneme od sskřetů za našši výpomocc!"
+"Sss, dalšší elfové přišššli! Pozzdě panáčci, vzzali ssme vašše zzlato a "
+"dalšší dosstaneme od sskřetů za našši výpomoc!"
 
 #. [message]: id=Kalenz
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:283
@@ -1327,7 +1327,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:409
 msgid "I am ashamed to die at the hands of tree-shaggers!"
-msgstr "Propadám ssse hambou, žže mě zzabili rucce těch lessních šššuků!"
+msgstr "Propadám ssse hambou, žže mě zzabili ruce těch lessních šššuků!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:413
@@ -1458,8 +1458,8 @@ msgid ""
 "not escape."
 msgstr ""
 "Vzzali vššechno naššše zzlato! Sspěchejte a vyšššlete bojůvky ke vššem "
-"cesstám do Wessmérie. Kdo zzabije jejich vůdcce, dossstane 500 zzlatých. "
-"Nesssmí utécct."
+"cesstám do Wessmérie. Kdo zzabije jejich vůdce, dossstane 500 zzlatých. "
+"Nesssmí utéct."
 
 #. [message]: id=Kalenz
 #. "fare" is an archaic English verb meaning to travel or move.
@@ -4448,7 +4448,7 @@ msgstr ""
 #. [message]
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:333
 msgid "They even shatter our eggs!"
-msgstr "Rozzzbíjí i našše vejcce!"
+msgstr "Rozzzbíjí i našše vejce!"
 
 #. [message]: role=Anduilas
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter5/19_Costly_Revenge.cfg:364
