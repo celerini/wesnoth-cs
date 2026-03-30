@@ -1,23 +1,24 @@
-# Oto 'tapik' Buchta <tapik@buchtovi.cz>, 2006, 2007.
+# Oto Buchta (tapik) <tapik@buchtovi.cz>, 2006, 2007.
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Honza <Honza-mistic@seznam.cz>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
 # Michal Žejdl <lachim@emer.cz>, 2019 - 2026
-# Petr Šlejhar (Septim) <septim@centrum.cz>, 2020, 2025, 2026.
+# Petr Šlejhar (Septim) <septim@centrum.cz>, 2020, 2025 - 2026
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:11 UTC\n"
-"PO-Revision-Date: 2026-03-29 07:20+0200\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2026-03-30 19:35+0200\n"
+"Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.9\n"
 
 #. [campaign]: id=The_South_Guard
 #. Adding “Start Here” is meant to attract players looking for a tutorial, without dissuading players who'd skip something that’s purely a tutorial.
@@ -247,7 +248,7 @@ msgstr "Kapitánka Mari"
 #: data/campaigns/The_South_Guard/gui/choose_companion.cfg:131
 #: data/campaigns/The_South_Guard/units/Mari2.cfg:4
 msgid "Veteran Fencer"
-msgstr "Zkušený šermíř"
+msgstr "Zkušená šermířka"
 
 #. [widget]: id=name
 #. [event]
@@ -6725,7 +6726,7 @@ msgstr ""
 #. [unit_type]: id=Trapdoor, race=mechanical
 #: data/campaigns/The_South_Guard/units/MECH_Trapdoor.cfg:5
 msgid "Cellar Trapdoor"
-msgstr ""
+msgstr "Padací dveře do sklepa"
 
 #. [unit_type]: id=Trapdoor, race=mechanical
 #: data/campaigns/The_South_Guard/units/MECH_Trapdoor.cfg:10
@@ -6733,6 +6734,8 @@ msgid ""
 "A sturdy trapdoor of seasoned oak, protecting the town’s inhabitants from "
 "the chaos above."
 msgstr ""
+"Robustní padací dveře z vyzrálého dubového dřeva, chránící obyvatele města "
+"před chaosem nad nimi."
 
 #. [unit_type]: id=Veteran Fencer, race=human, gender=female
 #. [unit_type]: id=Master Fencer, race=human, gender=female
@@ -6749,17 +6752,26 @@ msgid ""
 "combat. Though such an injury prevents the use of bows and crossbows, slings "
 "can be wielded one-handed, and make for a competent substitute."
 msgstr ""
+"Šermíři patří k bojové škole, která považuje brnění za největšího nepřítele "
+"vojáka. Přestože zbroj může zmírnit ránu, ti, kteří se jí dokáží úplně "
+"vyhnout, neutrpí vůbec žádné zranění. Schopnost uhýbat bez zranění útokům "
+"nepřítele je ovšem luxusem, který si mohou dovolit jen ti, kteří se těší "
+"skvělé kondici a prošli přísným tréninkem.\n"
+"\n"
+"Občasná ztráta končetiny je nešťastným vedlejším efektem boje bez brnění. "
+"Takové zranění sice brání používání luků a kuší, nebrání však používání "
+"vhodných náhrad, jako jsou praky, které lze ovládat i jednou rukou."
 
 #. [variation]
 #. name is hidden
 #: data/campaigns/The_South_Guard/units/Mari2.cfg:101
 msgid "Observer"
-msgstr ""
+msgstr "Pozorovatel"
 
 #. [unit_type]: id=Master Fencer, race=human, gender=female
 #: data/campaigns/The_South_Guard/units/Mari3.cfg:4
 msgid "Master Fencer"
-msgstr ""
+msgstr "Mistrná šermířka"
 
 #. [unit_type]: id=King of Wesnoth, race=human
 #: data/campaigns/The_South_Guard/units/NPC_Garard.cfg:17
@@ -6779,7 +6791,7 @@ msgstr "dřevec"
 #. [unit_type]: id=Townsfolk, race=human, gender=male,female
 #: data/campaigns/The_South_Guard/units/NPC_Townsfolk.cfg:4
 msgid "Townsfolk"
-msgstr ""
+msgstr "Měšťan"
 
 #. [unit_type]: id=Townsfolk, race=human, gender=male,female
 #: data/campaigns/The_South_Guard/units/NPC_Townsfolk.cfg:18
@@ -6789,6 +6801,10 @@ msgid ""
 "almost universally lack the strength that comes from a life of physical "
 "labour, and thus are not conscripted as often as peasants."
 msgstr ""
+"Měšťané jsou obyvatelé měst, kteří se snaží si mírumilovně vydělat své "
+"jmění. Jedná se o obchodníky, řemeslníky nebo služebníky šlechtických rodů. "
+"Téměř všeobecně postrádají sílu, která pochází ze života plného fyzické "
+"práce, a proto nebývají odváděni tak často jako sedláci."
 
 #: data/campaigns/The_South_Guard/utils/_initial.cfg:357
 msgid "Click a mouse button or press the spacebar to continue..."
@@ -6869,6 +6885,8 @@ msgid ""
 "we could still manage to win by force of arms, Westin is doomed without its "
 "people..."
 msgstr ""
+"Prorazili padací dveře a vnikli do sklepního úkrytu! I kdybychom dokázali "
+"zvítězit silou zbraní, Westin je bez svých obyvatel odsouzen k záhubě..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/utils/sg_characters.cfg:209
@@ -6927,6 +6945,18 @@ msgid ""
 "a gold boost (“early finish bonus”) \n"
 "in the next scenario, so don’t delay!"
 msgstr ""
+"\n"
+"Většina scénářů má limit tahů\n"
+"jak je znázorněno v levém horním rohu.\n"
+"Vyčerpání tahů obvykle vede k porážce.\n"
+"Zda tomu tak je, lze zjistit ve svých <i><b>cílech</b></i>\n"
+"kliknutím na tlačítko <i><b>„Menu“</b></i>\n"
+"v levém horním rohu\n"
+"(nebo použitím klávesové zkratky <i><b>Ctrl+J</b></i>).\n"
+"\n"
+"Za včasné dokončení obvykle získáš\n"
+"bonusové zlato („bonus za včasné dokončení“)\n"
+"do dalšího scénáře, takže neváhej!"
 
 #. [message]: id=Ethiliel,Hylas {NOT race=mechanical}
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:129
@@ -6934,6 +6964,8 @@ msgid ""
 "My healing magic is potent, but I cannot use it to heal myself. I’ll have to "
 "spend some time in a village to recover."
 msgstr ""
+"Má léčivá magie je silná, ale nemohu ji použít k vlastnímu léčení. Budu "
+"muset pro zotavení strávit nějaký čas ve vesnici."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:151
@@ -6943,6 +6975,10 @@ msgid ""
 "attacks)</i>, but because the dummy has no ranged weapon of its own it was "
 "unable to retaliate."
 msgstr ""
+"Právě jsem provedl <i><b>útok na dálku</b></i>! Musel jsem stát hned na "
+"vedlejším poli od panáka <i>(ano, je to jiné než způsob, jakým většina her "
+"zpracovává útoky na dálku)</i>, ale protože on žádnou zbraň na dálku nemá, "
+"nemohl provádět odvetné údery."
 
 #. [message]: speaker=unit
 #. second_unit may be a Walking Corpse, Ghoul, Skeleton, or one of their advancements
@@ -6953,6 +6989,10 @@ msgid ""
 "handle ranged attacks)</i>, but because the $second_unit.language_name has "
 "no ranged weapon of its own it was unable to retaliate."
 msgstr ""
+"Právě jsem provedl <i><b>útok na dálku</b></i>! Musel jsem stát hned na "
+"vedlejším poli od svého protivníka <i>(ano, je to jiné než způsob, jakým "
+"většina her zpracovává útoky na dálku)</i>, ale protože on žádnou zbraň na "
+"dálku nemá, nemohl provádět odvetné údery."
 
 #. [message]: speaker=unit
 #. second_unit may be a Thug (always male) or one of its advancements
@@ -6963,6 +7003,10 @@ msgid ""
 "handle ranged attacks)</i>, but because the $second_unit.language_name has "
 "no ranged weapon of his own he was unable to retaliate."
 msgstr ""
+"Právě jsem provedl <i><b>útok na dálku</b></i>! Musel jsem stát hned na "
+"vedlejším poli od svého protivníka <i>(ano, je to jiné než způsob, jakým "
+"většina her zpracovává útoky na dálku)</i>, ale protože on žádnou zbraň na "
+"dálku nemá, nemohl provádět odvetné údery."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:191
@@ -6979,6 +7023,8 @@ msgid ""
 "To see what damage resistances and vulnerabilities a unit has, right-click "
 "it and select “Unit Type Description.”"
 msgstr ""
+"Chceš-li zobrazit odolnosti vůči poškození a zranitelnosti jednotky, klikni "
+"na ni pravým tlačítkem myši a vyber možnost „Popis typu jednotky“."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:219
@@ -6986,6 +7032,8 @@ msgid ""
 "I perish! Such wasted potential! I’d gained much experience, and was close "
 "to becoming something more..."
 msgstr ""
+"Umírám! Tolik promarněného potenciálu! Mám nasbíráno spoustu zkušeností a "
+"možnost stát se něčím víc byla tak blízko..."
 
 #. [message]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:225
@@ -6994,6 +7042,9 @@ msgid ""
 "experienced soldiers, so that they can eventually advance to powerful Level "
 "2 veterans."
 msgstr ""
+"Jedna z tvých velmi zkušených jednotek padla! Dbej na ochranu svých "
+"zkušených vojáků, aby se nakonec mohli vypracovat na mocné veterány 2. "
+"úrovně."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:246
@@ -7001,6 +7052,8 @@ msgid ""
 "Argh, I fall! All my hard-won battle experience is lost! I will not be easy "
 "to replace, Deoran..."
 msgstr ""
+"Ach ne, umírám! Všechny mé těžce vydobyté bojové zkušenosti jsou ztraceny! "
+"Nebude snadné mě nahradit, Deorane..."
 
 #. [message]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:252
@@ -7008,6 +7061,8 @@ msgid ""
 "One of your high-level veterans has died! Take care to protect your promoted "
 "soldiers, so that you can recall them in future battles."
 msgstr ""
+"Jeden z tvých zkušených veteránů padl! Dbej na ochranu svých povýšených "
+"vojáků, abys je mohl/a znovu povolat v budoucích bitvách."
 
 #. [message]: speaker=unit
 #. $consecutive_misses will be 3 or higher. Alternatively, can be translated along the lines of "I missed all my strikes!"
@@ -7017,6 +7072,9 @@ msgid ""
 "had a high chance to evade. I might have had better odds attacking a "
 "different enemy."
 msgstr ""
+"Všechny mé $consecutive_misses údery vyšly naprázdno! Snažil jsem se, co "
+"jsem mohl, ale tenhle nepřítel měl velkou šanci se vyhnout. Možná bych měl "
+"větší šanci, kdybych zaútočil na jiného nepřítele."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:312
@@ -7025,11 +7083,13 @@ msgid ""
 "luck and mitigate bad luck. After all, both good and bad luck are equally "
 "likely!"
 msgstr ""
+"Dobrý velitel si uvědomuje, jaké jsou šance, a ví, jak využít štěstí a "
+"zmírnit smůlu. Koneckonců, štěstí i smůla jsou stejně možné!"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:315
 msgid "Managing Luck"
-msgstr ""
+msgstr "Jak jít štěstí naproti"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:317
@@ -7052,6 +7112,23 @@ msgid ""
 "<i><b>“Reduced RNG”</b></i> when starting a new \n"
 "campaign."
 msgstr ""
+"Wesnoth je hra o flexibilní strategii,\n"
+"ne o deterministickém výpočtu.\n"
+"Každý dokáže vyhrát, když jde všechno podle plánu.\n"
+"Dovednost a mistrovství v této hře spočívá\n"
+"ve vytváření strategie, která <i><b>zmírňuje smůlu</b></i>\n"
+"a zároveň <i><b>využívá štěstí</b></i>.\n"
+"Jak smůla, tak i štěstí jsou nevyhnutelné, takže\n"
+"buď připraven/a zvládnout obojí!\n"
+"\n"
+"Zkušení hráči jsou v tom tak zdatní,\n"
+"že dokáží zvítězit každé tažení i na nejvyšší obtížnost,\n"
+"bez nutnosti načítání ukládání!\n"
+"\n"
+"Nicméně, pokud opravdu dáváš přednost\n"
+"více deterministickému zážitku, zkus při zahájení\n"
+"nového tažení vybrat možnost\n"
+"<i><b>„Omezený GNČ (generátor náhodných čísel)“</b></i>."
 
 #. [message]: speaker=unit
 #. $consecutive_hits will be 3 or higher. Alternatively, can be translated along the lines of "I got lucky and hit all my strikes!"
@@ -7061,7 +7138,11 @@ msgid ""
 "happen, but a good commander knows how to win without relying on it. After "
 "all, bad luck happens just as often as good luck!"
 msgstr ""
+"Měl jsem štěstí a povedly se mi všechny $consecutive_hits zásahy! Štěstí "
+"občas přeje každému, ale dobrý velitel ví, jak zvítězit, aniž by se na něj "
+"spoléhal. Koneckonců, smůla je stejně možná jako štěstí!"
 
+# Malý kulturní odkaz :-)
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:380
 msgid ""
@@ -7069,6 +7150,9 @@ msgid ""
 "chance to evade! That’s unlucky, but bad luck happens just as often as good "
 "luck — a good commander knows how to plan around both!"
 msgstr ""
+"Všechny mé $consecutive_misses údery vyšly naprázdno, ačkoliv měl můj "
+"protivník jen malou šanci se jim vyhnout! To je přímo jezevčí smůla! Ale "
+"smůla je stejně možná jako štěstí, dobrý velitel ví, jak s obojím pracovat!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:403
@@ -7078,11 +7162,15 @@ msgid ""
 "to hit, but sometimes I also hit strikes that I was likely to miss — like "
 "now!"
 msgstr ""
+"Povedly se mi všechny $consecutive_hits zásahy, ačkoli měl můj protivník "
+"velkou šanci se jim vyhnout! Štěstí funguje oběma směry. Někdy míjím, když "
+"jsem měl velkou pravděpodobnost trefit, ale jindy zase trefuji, když jsem "
+"měl velkou pravděpodobnost minout. Jako třeba teď!"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:413
 msgid "Allies"
-msgstr ""
+msgstr "Spojenci"
 
 #. [display_tip]
 #. while this message is partly to explain about allies, it's mostly to 1) remind the player about Alt+S and 2) explain how Peasants and Woodsmen work (since the player may control them soon)
@@ -7097,6 +7185,15 @@ msgid ""
 "thus do not exert a Zone of Control</i></b>. Enemies can move\n"
 "around them unhindered."
 msgstr ""
+"Spojenci mohou být různí. Od jednoduchých, nehybných strážců až\n"
+"po plnohodnotné frakce s vlastním příjmem, vůdci a umělou inteligencí.\n"
+"Chceš-li zjistit, kolik zlata a příjmů má každá strana, stiskni <b><i>Alt+S</"
+"i></b>.\n"
+"\n"
+"V tomto tažení patří mezi tvé spojence sedláci a lesníci. \n"
+"Stejně jako chodící mrtvoly <b><i>mají i sedláci a lesníci úroveň 0,\n"
+"a proto nemají oblast kontroly</i></b>.\n"
+"Nepřátelé se kolem nich mohou volně pohybovat."
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:433
