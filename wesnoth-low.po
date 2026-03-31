@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-09-18 02:19 UTC\n"
-"PO-Revision-Date: 2026-03-29 08:24+0200\n"
+"PO-Revision-Date: 2026-03-31 21:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1327,7 +1327,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:409
 msgid "I am ashamed to die at the hands of tree-shaggers!"
-msgstr "Propadám ssse hambou, žže mě zzabili ruce těch lessních šššuků!"
+msgstr "Propadám ssse hanbou, žže mě zzabili ruce těch lessních šššuků!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Legend_of_Wesmere/scenarios/chapter2/04_The_Elvish_Treasury.cfg:413
