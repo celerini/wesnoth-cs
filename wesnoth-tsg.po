@@ -7073,8 +7073,8 @@ msgid ""
 "different enemy."
 msgstr ""
 "Všechny mé údery vyšly naprázdno! Snažil jsem se, co "
-"jsem mohl, ale tenhle nepřítel měl velkou šanci se vyhnout. Možná bych měl "
-"větší šanci, kdybych zaútočil na jiného nepřítele."
+"to šlo, ale tenhle nepřítel měl velkou šanci se vyhnout. Možná bych měl "
+"větší naději, kdybych zaútočil na jiného nepřítele."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:312
