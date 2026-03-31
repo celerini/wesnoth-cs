@@ -6955,7 +6955,7 @@ msgstr ""
 "(nebo použitím klávesové zkratky <i><b>Ctrl+J</b></i>).\n"
 "\n"
 "Za včasné dokončení obvykle získáš\n"
-"bonusové zlato („bonus za včasné dokončení“)\n"
+"bonusové zlato („bonus za rychlý konec“)\n"
 "do dalšího scénáře, takže neváhej!"
 
 #. [message]: id=Ethiliel,Hylas {NOT race=mechanical}
