@@ -7150,7 +7150,7 @@ msgid ""
 "chance to evade! That’s unlucky, but bad luck happens just as often as good "
 "luck — a good commander knows how to plan around both!"
 msgstr ""
-"Všechny mé $consecutive_misses údery vyšly naprázdno, ačkoliv měl můj "
+"Všechny mé údery vyšly naprázdno, ačkoliv měl můj "
 "protivník jen malou šanci se jim vyhnout! To je přímo jezevčí smůla! Ale "
 "smůla je stejně možná jako štěstí, dobrý velitel ví, jak s obojím pracovat!"
 
