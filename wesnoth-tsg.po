@@ -7138,7 +7138,7 @@ msgid ""
 "happen, but a good commander knows how to win without relying on it. After "
 "all, bad luck happens just as often as good luck!"
 msgstr ""
-"Měl jsem štěstí a povedly se mi všechny $consecutive_hits zásahy! Štěstí "
+"Měl jsem štěstí a povedly se mi všechny zásahy! Štěstí "
 "občas přeje každému, ale dobrý velitel ví, jak zvítězit, aniž by se na něj "
 "spoléhal. Koneckonců, smůla je stejně možná jako štěstí!"
 
