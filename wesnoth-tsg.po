@@ -7072,7 +7072,7 @@ msgid ""
 "had a high chance to evade. I might have had better odds attacking a "
 "different enemy."
 msgstr ""
-"Všechny mé $consecutive_misses údery vyšly naprázdno! Snažil jsem se, co "
+"Všechny mé údery vyšly naprázdno! Snažil jsem se, co "
 "jsem mohl, ale tenhle nepřítel měl velkou šanci se vyhnout. Možná bych měl "
 "větší šanci, kdybych zaútočil na jiného nepřítele."
 
