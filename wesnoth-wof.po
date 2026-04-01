@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2026-03-29 08:34+0200\n"
+"PO-Revision-Date: 2026-04-01 20:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4839,7 +4839,7 @@ msgid ""
 "Empire for sssetting loossse your human minions upon usssss?"
 msgstr ""
 "Sssaleneo, rozzhodl se váššš Kalian, žže sse formálně omluví našší "
-"ješštěrácké říssi zza to, žže trpěla činy vaššich lidsských přissluhovačů?"
+"ješštěrácké říšši zza to, žže trpěla činy vaššich lidsských přissluhovačů?"
 
 #. [message]: speaker=Salennea
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:533
