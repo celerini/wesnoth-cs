@@ -7072,9 +7072,9 @@ msgid ""
 "had a high chance to evade. I might have had better odds attacking a "
 "different enemy."
 msgstr ""
-"Všechny mé údery vyšly naprázdno! Snažil jsem se, co "
-"to šlo, ale tenhle nepřítel měl velkou šanci se vyhnout. Možná bych měl "
-"větší naději, kdybych zaútočil na jiného nepřítele."
+"Všechny mé údery vyšly naprázdno! Snažil jsem se, co to šlo, ale tenhle "
+"nepřítel měl velkou šanci se vyhnout. Možná bych měl větší naději, kdybych "
+"zaútočil na jiného nepřítele."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:312
@@ -7138,9 +7138,9 @@ msgid ""
 "happen, but a good commander knows how to win without relying on it. After "
 "all, bad luck happens just as often as good luck!"
 msgstr ""
-"Měl jsem štěstí a povedly se mi všechny zásahy! Štěstí "
-"občas přeje každému, ale dobrý velitel ví, jak zvítězit, aniž by se na něj "
-"spoléhal. Koneckonců, smůla je stejně možná jako štěstí!"
+"Měl jsem štěstí a povedly se mi všechny zásahy! Štěstí občas přeje každému, "
+"ale dobrý velitel ví, jak zvítězit, aniž by se na něj spoléhal. Koneckonců, "
+"smůla je stejně možná jako štěstí!"
 
 # Malý kulturní odkaz :-)
 #. [message]: speaker=unit
@@ -7150,9 +7150,9 @@ msgid ""
 "chance to evade! That’s unlucky, but bad luck happens just as often as good "
 "luck — a good commander knows how to plan around both!"
 msgstr ""
-"Všechny mé údery vyšly naprázdno, ačkoliv měl můj "
-"protivník jen malou šanci se jim vyhnout! To je přímo jezevčí smůla! Ale "
-"smůla je stejně možná jako štěstí, dobrý velitel ví, jak s obojím pracovat!"
+"Všechny mé údery vyšly naprázdno, ačkoliv měl můj protivník jen malou šanci "
+"se jim vyhnout! To je přímo jezevčí smůla! Ale smůla je stejně možná jako "
+"štěstí, dobrý velitel ví, jak s obojím pracovat!"
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:403
@@ -7162,10 +7162,10 @@ msgid ""
 "to hit, but sometimes I also hit strikes that I was likely to miss — like "
 "now!"
 msgstr ""
-"Povedly se mi všechny zásahy, ačkoli měl můj protivník "
-"velkou šanci se jim vyhnout! Štěstí funguje oběma směry. Někdy míjím, když "
-"jsem měl velkou pravděpodobnost trefit, ale jindy zase trefuji, když jsem "
-"měl velkou pravděpodobnost minout. Jako třeba teď!"
+"Povedly se mi všechny zásahy, ačkoli měl můj protivník velkou šanci se jim "
+"vyhnout! Štěstí funguje oběma směry. Někdy míjím, když jsem měl velkou "
+"pravděpodobnost trefit, ale jindy zase trefuji, když jsem měl velkou "
+"pravděpodobnost minout. Jako třeba teď!"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:413
