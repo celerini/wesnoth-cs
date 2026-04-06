@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:10 UTC\n"
-"PO-Revision-Date: 2026-03-28 10:36+0100\n"
+"PO-Revision-Date: 2026-04-06 15:44+0200\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -785,7 +785,7 @@ msgstr ""
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:237
 msgid ""
 "Survive until reinforcements arrive at the east edge of the map on turn 13"
-msgstr "Přežij, dokud na východní okraj mapy nedorazí ve 13. kole posily."
+msgstr "Přežij, dokud na východní okraj mapy nedorazí ve 13. kole posily"
 
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/02_Swimming_with_Serpents.cfg:241
@@ -1459,7 +1459,6 @@ msgstr "Nepolapitelní nepřátelé"
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:410
-#, fuzzy
 msgid ""
 "Not all units are created equal. As you know, fighters like naga or merfolk "
 "have high defense (chance\n"
@@ -1475,78 +1474,72 @@ msgid ""
 "<b><i>right-click on it and select \n"
 "“Unit Type Description.”</i></b>"
 msgstr ""
-"Ne všechny jednotky jsou stejné. Jak víte, bojovníci jako naga nebo merfolk "
-"mají vysokou obranu (šance na záchranu).\n"
-"vyhnout se) ve vodě, ale za tuto sílu platí nízkou obranou na souši.\n"
+"Ne všechny jednotky jsou stejné. Jak víš, nágy nebo jednotky mořského lidu "
+"mají vysokou obranu (šanci vyhnout se útoku) \n"
+"ve vodě, ale za tuto výhodu platí nízkou obranou na souši.\n"
 "\n"
-"Jiné jednotky, jako například Footpad, na kterého jsi právě zaútočil, mají "
-"abnormálně vysokou obranu <b><i>všude</i></b>. To je hlavní\n"
-"síla, ale je to za cenu slabého poškození a zranitelnosti vůči většině typů "
-"poškození.\n"
+"Jiné jednotky, jako například lapka, na kterého byl teď proveden útok mají "
+"abnormálně vysokou obranu <b><i>všude</i></b>. \n"
+"To je jeho hlavní síla, za kterou platí nízkým poškozením a zranitelností "
+"vůči většině typů poškození.\n"
 "\n"
-"Chcete-li zobrazit obranu terénu a odolnost/zranitelnost jednotky vůči "
-"poškození, <b><i>klikněte na ni pravým tlačítkem myši a vyberte možnost\n"
-"\"Popis typu jednotky\" </i></b>."
+"Chceš-li zjistit obranu jednotky v určitém terénu a její odolnost/"
+"zranitelnost vůči různým typům poškození, <b><i>klikni na ni \n"
+"pravým tlačítkem myši a vyber možnost \"Popis typu jednotky\". </i></b>"
 
 #. [message]: speaker=unit
 #. The player has just freed a slave from his cage.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:429
-#, fuzzy
 msgid "What’s happening? Is that... Thea? Alderman Rael’s daughter?"
 msgstr "Co se děje? Je to... Thea? Dcera radního Raela?"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:433
-#, fuzzy
 msgid ""
 "We come to free you from your bonds, human. These pirates took you from your "
 "home. Now take from them their lives."
 msgstr ""
-"Přišli jsme tě osvobodit z tvých pout, člověče. Tito piráti tě unesli z "
-"tvého domova. Teď jim vezměte jejich životy."
+"Přišli jsme tě osvobodit z tvých pout, člověče. Ti piráti tě unesli z tvého "
+"domova. Nyní jim to můžeš oplatit."
 
 #. [message]: speaker=unit
 #. The player has just freed a slave from his cage.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:440
-#, fuzzy
 msgid "They burned my whole village! I want revenge!"
-msgstr "Vypálili mi celou vesnici! Chci se pomstít!"
+msgstr "Vypálili celou moji vesnici! Chci pomstu!"
 
 #. [message]: speaker=unit
 #. The player has just freed a slave from his cage.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:447
-#, fuzzy
 msgid ""
 "Thank you! These pirates lock us up whenever they aren’t forcing us to "
 "dive..."
-msgstr "Děkujeme! Tihle piráti nás zavírají, kdykoli nás nenutí potápět se..."
+msgstr ""
+"Děkujeme! Ti piráti nás zavírají do klecí jak zvířata, pokud nás zrovna "
+"nenutí potápět se..."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:467
-#, fuzzy
 msgid "We’re almost finished. There’s only a few more prisoners left to free."
 msgstr "Jsme téměř hotovi. Zbývá osvobodit už jen pár vězňů."
 
 #. [message]: speaker=unit
 #. An enemy leader is dying.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:485
-#, fuzzy
 msgid "No!"
 msgstr "Ne!"
 
 #. [message]: speaker=unit
 #. An enemy leader is dying.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:500
-#, fuzzy
 msgid "Urgh..."
-msgstr "Uf..."
+msgstr "Arrg..."
 
 #. [message]: speaker=unit
 #. An enemy naga leader is dying.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:515
-#, fuzzy
 msgid "Hisss..."
-msgstr "Hisss..."
+msgstr "Nee sss..."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:540
