@@ -1860,7 +1860,7 @@ msgid ""
 "however."
 msgstr ""
 "Jsem muž medicíny, poručíku Deorane. Mé vnitřní světlo dokáže <i><b>léčit "
-"sousedící jednotky</b></i> stejně rychle jako když spočívají ve vesnici. "
+"sousedící jednotky</b></i> stejně rychle, jako když spočívají ve vesnici. "
 "Nesčítá se to ale s léčením pomocí vesnic nebo od jiných léčitelů."
 
 #. [message]: speaker=Minister Hylas
