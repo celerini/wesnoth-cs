@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2025-12-21 21:26-0600\n"
+"POT-Creation-Date: 2026-04-05 21:07-0500\n"
 "PO-Revision-Date: 2026-01-18 08:45+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -601,67 +601,67 @@ msgid "Portuguese (Brazil) Translation"
 msgstr "Portugalský (brazilský) překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1537
+#: data/core/about_i18n.cfg:1540
 msgid "Romanian Translation"
 msgstr "Rumunský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1545
+#: data/core/about_i18n.cfg:1548
 msgid "Russian Translation"
 msgstr "Ruský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1652
+#: data/core/about_i18n.cfg:1655
 msgid "Scottish Gaelic Translation"
 msgstr "Skotský Galicijský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1661
+#: data/core/about_i18n.cfg:1664
 msgid "Serbian Translation"
 msgstr "Srbský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1680
+#: data/core/about_i18n.cfg:1683
 msgid "Slovak Translation"
 msgstr "Slovenský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1715
+#: data/core/about_i18n.cfg:1718
 msgid "Slovenian Translation"
 msgstr "Slovinský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1731
+#: data/core/about_i18n.cfg:1734
 msgid "Spanish Translation"
 msgstr "Španělský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1825
+#: data/core/about_i18n.cfg:1828
 msgid "Swedish Translation"
 msgstr "Švédský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1870
+#: data/core/about_i18n.cfg:1873
 msgid "Turkish Translation"
 msgstr "Turecký překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1895
+#: data/core/about_i18n.cfg:1898
 msgid "Ukrainian Translation"
 msgstr "Ukrajinský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1929
+#: data/core/about_i18n.cfg:1932
 msgid "Valencian (southern Catalan) Translation"
 msgstr "Valencijský překlad (jižní Katalánie)"
 
 #. [about]
-#: data/core/about_i18n.cfg:1942
+#: data/core/about_i18n.cfg:1945
 msgid "Vietnamese Translation"
 msgstr "Vietnamský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1961
+#: data/core/about_i18n.cfg:1964
 msgid "Welsh Translation"
 msgstr "Velšský překlad"
 
@@ -669,7 +669,7 @@ msgstr "Velšský překlad"
 # Každopádně RACV představuje zkratku instituce, proto tato forma.
 #. [about]
 #. Real Acadèmia de Cultura Valenciana
-#: data/core/about_i18n.cfg:1970
+#: data/core/about_i18n.cfg:1973
 msgid "RACV’s Translation"
 msgstr "Překlad RACV"
 
@@ -7379,28 +7379,28 @@ msgstr "zbývající čas do konce tohoto tahu"
 msgid "current local time"
 msgstr "skutečný čas (hodiny)"
 
-#: src/play_controller.cpp:565
+#: src/play_controller.cpp:566
 msgid "Trying to create a corrupt file, please report this bug"
 msgstr "Pokus o vytvoření poškozeného souboru, nahlas prosím tuto chybu"
 
-#: src/play_controller.cpp:1050
+#: src/play_controller.cpp:1051
 msgid ""
 "The game is out of sync. It might not make much sense to continue. Do you "
 "want to save your game?"
 msgstr ""
 "Je porušen souběh her a pokračování ve hře nemá smysl. Chceš hru uložit?"
 
-#: src/play_controller.cpp:1051
+#: src/play_controller.cpp:1052
 msgid "Error details:"
 msgstr "Podrobnosti chyby:"
 
-#: src/play_controller.cpp:1230
+#: src/play_controller.cpp:1231
 msgid "Warning: broken campaign branches"
 msgstr "Varování: rozbité větve tažení"
 
 #. TRANSLATORS: This is an error that will hopefully only be seen by UMC authors and by players who have already
 #. said "okay" to a "loading saves from an old version might not work" dialog.
-#: src/play_controller.cpp:1236
+#: src/play_controller.cpp:1237
 msgid ""
 "The next scenario is missing, you will not be able to finish this campaign."
 msgid_plural ""
@@ -7414,7 +7414,7 @@ msgstr[2] ""
 "Některé z dalších možných scénářů chybí, asi nebudeš moci dokončit toto "
 "tažení."
 
-#: src/play_controller.cpp:1243
+#: src/play_controller.cpp:1244
 msgid ""
 "Please report the following missing scenario to the campaign’s author:\n"
 "$unknown_list|"
@@ -7431,11 +7431,11 @@ msgstr[2] ""
 "Prosím nahlas autorovi tažení tyto chybějící scénáře:\n"
 "$unknown_list|"
 
-#: src/play_controller.cpp:1247
+#: src/play_controller.cpp:1248
 msgid "Once this is fixed, you will need to restart this scenario."
 msgstr "Jakmile to bude opraveno, budeš muset tento scénář restartovat."
 
-#: src/play_controller.cpp:1356
+#: src/play_controller.cpp:1357
 msgid "No objectives available"
 msgstr "K dispozici nejsou žádné úkoly"
 
