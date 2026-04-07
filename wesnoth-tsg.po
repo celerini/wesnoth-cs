@@ -1777,7 +1777,7 @@ msgid ""
 "...but I guess you’re asking about my skills, not yours. You never did get a "
 "chance to see me fight."
 msgstr ""
-"...ale ty se asi ptáš na moje schopnosti, ne na svoje. Nikdy jsi neměl "
+"... ale ty se asi ptáš na moje schopnosti, ne na svoje. Nikdy jsi neměl "
 "příležitost vidět mě v akci."
 
 #. [message]: speaker=Mari
