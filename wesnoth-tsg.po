@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:11 UTC\n"
-"PO-Revision-Date: 2026-03-30 19:35+0200\n"
+"PO-Revision-Date: 2026-04-06 13:40+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1629,8 +1629,8 @@ msgstr ""
 "Kromě této jediné informace musím bohužel oznámit, že Urza Fastik zůstává "
 "stejně nepřístupný jako v první den, kdy jsme sem dorazili.\n"
 "\n"
-"Zda se „Údolí kvetoucích stromů“ vztahuje k zdroji jeho temných sil, k místu "
-"pobytu jiného z bratrů Urzů nebo k něčemu úplně jinému, nedokážu říci."
+"Zda se „Údolí rozkvetlých stromů“ vztahuje k zdroji jeho temných sil, k "
+"místu pobytu jiného z bratrů Urzů nebo k něčemu úplně jinému, nedokážu říci."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:155
@@ -1713,6 +1713,10 @@ msgid ""
 "but a small town. These Urza outlaws ha’ always been a nuisance, but once "
 "they somehow started raisin’ the dead things got out of hand, fast."
 msgstr ""
+"Ale království je rozlehlé, princ má mnoho držav a dnešní Westin není ničím "
+"jiným než jen malým městem. Ti Urzovi psanci byli vždycky na obtíž, ale "
+"jakmile začali nějakým způsobem oživovat mrtvé, situace se rychle vymkla "
+"kontrole."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:213
@@ -1722,6 +1726,10 @@ msgid ""
 "contact we have had with the crown in some time, sirs Mari and Deoran. With "
 "your aid, we can defeat these outlaws and cleanse their undead."
 msgstr ""
+"Vyslali jsme posly, aby předali zprávu o naší tíživé situaci, ale byli "
+"zadrženi na cestě nebo přepadeni u brodů. Jste prvními lidmi z královského "
+"dvora, s nimiž jsme po dlouhé době v kontaktu, vážená Mari a vážený Deorane. "
+"S vaší pomocí můžeme tyto psance porazit a zbavit se jejich nemrtvých."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:221
@@ -1730,6 +1738,9 @@ msgid ""
 "“Vale of Blossoming Trees” and hope it’s neither misdirection nor a trap. "
 "Sirs, do I have your permissions to take the infantry on a sortie?"
 msgstr ""
+"No, pokud nemáme žádné další stopy, budeme muset prozkoumat to „Údolí "
+"rozkvetlých stromů“ a doufat, že nejde ani o falešnou stopu, ani o past. "
+"Vážení, mám vaše svolení k výpadu s pěchotou?"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:227
@@ -1738,6 +1749,9 @@ msgid ""
 "Two o’ us officers will need to stay here and watch th’ town, but at least "
 "one o’ us should come with ye to help fight."
 msgstr ""
+"Nabízíš se, že povedeš tu misi? Jsi statečný chlapec, ale nemusíš tam jít "
+"sám. Dva z nás důstojníků tu budou muset zůstat pohlídat město, ale alespoň "
+"jeden by měl jít s tebou, aby ti pomohl v boji."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:231
@@ -1745,6 +1759,8 @@ msgid ""
 "Take yer pick — either me, Minister Hylas, or tha’ Mari o’ yers. You don’t "
 "know much about how each of us fight yet, so ask and we’ll tell!"
 msgstr ""
+"Vyber si – buď mě, purkmistra Hylase, nebo tu tvou Mari. Zatím moc nevíš, co "
+"každý z nás v boji dovede, proto se ptej a my ti to řekneme!"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:250
@@ -1752,6 +1768,8 @@ msgid ""
 "Hey, rookie. I’m all out of quintains, so if you want more bruises you’ll "
 "have to find another inanimate object to fight."
 msgstr ""
+"Hele, zelenáči. Už nemám žádné panáky, takže jestli toužíš po dalších "
+"modřinách, budeš si muset najít na bojování nějaký jiný neživý předmět."
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:255
@@ -1759,11 +1777,13 @@ msgid ""
 "...but I guess you’re asking about my skills, not yours. You never did get a "
 "chance to see me fight."
 msgstr ""
+"... ale ty se asi ptáš na moje schopnosti, ne na svoje. Nikdy jsi neměl "
+"příležitost vidět mě v akci."
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:261
 msgid "Hey, rookie. Yeah, you never did get a chance to see me fight."
-msgstr ""
+msgstr "Ahoj, zelenáči. Jasně, nikdy jsi neměl příležitost vidět mě v akci."
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:267
@@ -1771,6 +1791,9 @@ msgid ""
 "Well, I’m a survivor. Fast-moving, light on my feet; good at evading, good "
 "at stabbing. Hard to pin down, whether in an attack or in an escape."
 msgstr ""
+"No, jsem ta, co přežívá. Pohybuju se rychle, jsem hbitá, umím se dobře "
+"vyhnout útokům a také dobře bodat. Je těžké dostat se mi na kobylku, ať už "
+"při útoku, nebo při útěku."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:271
@@ -1779,7 +1802,12 @@ msgid ""
 "attacks). Her <i><b>skirmisher</b></i> ability lets her ignore enemies’ Zone "
 "of Control — she can move freely around enemy units without being stopped."
 msgstr ""
+"Mari má neobyčejně vysokou obranu v terénu (tj. šanci se vyhnout "
+"nepřátelským útokům). Její schopnost <i><b>průbojnost</b></i> jí umožňuje "
+"ignorovat oblasti kontroly nepřátel. Může se volně pohybovat mezi "
+"nepřátelskými jednotkami, aniž by byla zastavena."
 
+# Dovolit jsem si to trochu rozvinout, doslovnější překlad mi tam neseděl.
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:275
 msgid ""
@@ -1787,6 +1815,9 @@ msgid ""
 "be loaded one-handed. Altogether, I’ll bet I could outlast both Hylas and "
 "Gerrick in a 1-on-1. And you too, but that goes without saying."
 msgstr ""
+"Taky to docela umím s prakem. Nu, je to i proto, že moc zbraní na dálku se "
+"nedá nabít jednoruč. Celkově vzato bych se vsadila, že v souboji jeden na "
+"jednoho bych složila Hylase i Gerricka. A také tebe, ale to je samozřejmé."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:279
@@ -1794,6 +1825,8 @@ msgid ""
 "And... if you come with me you’ll actually help fight? No more training, or "
 "observing, or running off right before the battle starts?"
 msgstr ""
+"A... pokud půjdeš se mnou, tak mi opravdu pomůžeš bojovat? Žádný trénink, "
+"pozorování ani útěk těsně před začátkem bitvy?"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:283
@@ -1802,6 +1835,10 @@ msgid ""
 "just thought... well, after losing one arm to undead in the Estmarks, I "
 "hoped I was done dealing with this sort of thing."
 msgstr ""
+"Jasně. Loupežníci jsou jedna věc, ale nekromancie je vážnější. Jen jsem "
+"myslela... no, poté, co jsem ve Východním pohraničí přišla o ruku kvůli "
+"nemrtvým, tak jsem doufala, že už se s touhle záležitostí nebudu muset "
+"zabývat."
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:292
@@ -1810,6 +1847,9 @@ msgid ""
 "sling, skill at evading attacks, and can move freely around enemies without "
 "being stopped."
 msgstr ""
+"Už jsem ti to říkala, ne? Tak tentokrát dávej pozor: ovládám meč a prak, "
+"umím se vyhýbat útokům a můžu se volně pohybovat mezi nepřáteli, aniž by mě "
+"zastavili."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:317
@@ -1819,6 +1859,9 @@ msgid ""
 "village. This doesn’t stack with healing from villages or other healers, "
 "however."
 msgstr ""
+"Jsem muž medicíny, poručíku Deorane. Mé vnitřní světlo dokáže <i><b>léčit "
+"sousedící jednotky</b></i> stejně rychle, jako když spočívají ve vesnici. "
+"Nesčítá se to ale s léčením pomocí vesnic nebo od jiných léčitelů."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:321
@@ -1827,6 +1870,9 @@ msgid ""
 "attack. Magical attacks always have a high chance to hit and are unaffected "
 "by terrain, making them ideal against evasive or fortified enemies."
 msgstr ""
+"V boji na dálku také používám vysoce přesný <i><b>magický</b></i> útok. "
+"Magické útoky mají vždy vysokou šanci na zásah a neovlivňuje je terén, takže "
+"jsou ideální proti těžko polapitelným nebo opevněným nepřátelům."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:325
@@ -1834,6 +1880,8 @@ msgid ""
 "I don’t mean to be rude, but... your leg looks badly injured. If you have "
 "healing magic, shouldn’t you have been able to cure it?"
 msgstr ""
+"Nechci být hrubý, ale... tvoje noha vypadá vážně zraněná. Pokud ovládáš "
+"léčivou magii, neměl bys ji být schopen vyléčit?"
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:329
@@ -1845,6 +1893,12 @@ msgid ""
 "Alduin and studying the arcane arts — an opportunity to return home and "
 "offer to others the services that I never had."
 msgstr ""
+"Obávám se, že je to porucha, co si nesu od narození. V té době nebyl ve "
+"Westinu žádný léčitel a kosti mi špatně srostly.\n"
+"\n"
+"To byla z velké části moje motivace k cestě na ostrov Alduin a studiu "
+"tajemných umění – příležitost vrátit se domů a nabídnout ostatním služby, "
+"které jsem nikdy neměl."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:335
@@ -1853,6 +1907,9 @@ msgid ""
 "should know that it does somewhat slow my movement on the battlefield, even "
 "more so than is Sir Gerrick by his armor."
 msgstr ""
+"S tímto svým postižením jsem se už dávno smířil. Ale jako můj potenciální "
+"velitel bys měl vědět, že poněkud zpomaluje můj pohyb na bojišti, dokonce "
+"víc, než zpomaluje sira Gerricka jeho brnění."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:344
@@ -1861,6 +1918,9 @@ msgid ""
 "turn. I wield a ranged magical attack that is highly accurate, irrespective "
 "of the terrain my opponent occupies."
 msgstr ""
+"Už jsi zapomněl? V každém kole můžu sousedící jednotky trochu vyléčit. "
+"Ovládám magický útok na dálku, který je velmi přesný, bez ohledu na terén, v "
+"jakém se nachází můj soupeř."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:369
@@ -1869,6 +1929,9 @@ msgid ""
 "hits harder than any spear, an’ my crushin’ shield bash can <i><b>slow</b></"
 "i> enemies."
 msgstr ""
+"No, hochu, v boji zblízka jsem jako monstrum, jestli mi odpustíš chlubení. "
+"Moje kůsa udeří silněji než jakékoli kopí a můj drtivý úder štítem dokáže "
+"nepřátele <i><b>zpomalit</b></i>."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:373
@@ -1876,6 +1939,8 @@ msgid ""
 "Slowed enemies move at <i><b>half speed</b></i> and deal <i><b>half damage</"
 "b></i>."
 msgstr ""
+"Zpomalení nepřátelé se pohybují <i><b>poloviční rychlostí</b></i> a "
+"způsobují <i><b>poloviční poškození</b></i>."
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:377
@@ -1884,11 +1949,14 @@ msgid ""
 "<i><b>resistance</b></i> against bladed or piercing weapons. If you need "
 "someone t’ break an enemy line, I’m your man."
 msgstr ""
+"A jakkoliv může být moje zbroj těžká a objemná, tak mi poskytuje velkou "
+"<i><b>odolnost</b></i> proti sečným a bodným zbraním. Pokud potřebuješ "
+"někoho, kdo prorazí nepřátelskou linii, jsem tvůj muž."
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:380
 msgid "Resistances and Damage Types"
-msgstr ""
+msgstr "Odolnosti a typy poškození"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:382
@@ -1903,6 +1971,16 @@ msgid ""
 "To see a unit’s resistances, <b><i>right-click on it\n"
 "and select “Unit Type Description.”</i></b>"
 msgstr ""
+"Ve Wesnothu má každý útok typ poškození:\n"
+"čepelí, bodnutím, úderem, ohněm, chladem nebo nezemské.\n"
+"\n"
+"Některé jednotky jsou vůči určitým typům poškození\n"
+"odolné nebo zranitelné. Například chodící mrtvoly\n"
+"jsou zranitelné nezemským poškozením.\n"
+"\n"
+"Chceš-li zobrazit odolnosti jednotky,\n"
+"<b><i>klikni na ni pravým tlačítkem myši a vyber\n"
+"„Popis typu jednotky“.</i></b>"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:399
@@ -1911,6 +1989,9 @@ msgid ""
 "armor, an’ I can slow enemies t’ halve both their speed an’ damage. Try not "
 "t’ forget this time!"
 msgstr ""
+"No, jak jsem říkal, díky těžkému brnění mám skvělou odolnost vůči poškození "
+"a dokážu zpomalit nepřátele tak, že jim snížím rychlost i drtivost jejich "
+"útoků na polovinu. Zkus už to podržet v hlavě!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:417
@@ -1918,6 +1999,8 @@ msgid ""
 "I’ve decided: Captain Mari, I’d like you to accompany me on our mission to "
 "the elven vale. Make ready the men — we leave at next dawn!"
 msgstr ""
+"Rozhodl jsem se: „Kapitánko Mari, rád bych, abyste mě doprovodila na naší "
+"misi do elfího údolí. Připravte muže, vyrážíme za úsvitu!“"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:421
@@ -1925,6 +2008,8 @@ msgid ""
 "Good luck, Deoran an’ Mari. We’re countin’ on you to stop the bandits an’ "
 "undead!"
 msgstr ""
+"Hodně štěstí, Deorane a Mari. Spoléháme na vás, že zastavíte bandity a "
+"nemrtvé!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:441
@@ -1932,6 +2017,8 @@ msgid ""
 "I’ve decided: Minister Hylas, I’d like you to accompany me on our mission to "
 "the elven vale. Make ready the men — we leave at next dawn!"
 msgstr ""
+"Rozhodl jsem se: „Purkmistře Hylasi, rád bych, abyste mě doprovodil na naší "
+"misi do elfího údolí. Připravte muže, vyrážíme za úsvitu!“"
 
 #. [message]: speaker=Sir Gerrick
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:445
@@ -1939,6 +2026,8 @@ msgid ""
 "Good luck, Deoran an’ Hylas. We’re countin’ on you to stop the bandits an’ "
 "undead!"
 msgstr ""
+"Hodně štěstí, Deorane a Hylasi. Spoléháme na vás, že zastavíte bandity a "
+"nemrtvé!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:465
@@ -1946,12 +2035,15 @@ msgid ""
 "I’ve decided: Sir Gerrick, I’d like you to accompany me on our mission to "
 "the elven vale. Make ready the men — we leave at next dawn!"
 msgstr ""
+"Rozhodl jsem se: „Sire Gerricku, rád bych, abyste mě doprovodil na naší misi "
+"do elfího údolí. Připravte muže, vyrážíme za úsvitu!“"
 
 #. [message]: speaker=Mari
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:469
 msgid ""
 "Good luck, rookie. We’re counting on you to stop the bandits and undead!"
 msgstr ""
+"Hodně štěstí, zelenáči. Spoléháme na tebe, že zastavíš bandity a nemrtvé!"
 
 #. [scenario]: id=03_Vale_of_Tears
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:9
@@ -1985,6 +2077,7 @@ msgid ""
 "Captain Mari, are we going in the right direction? I can hardly see a thing "
 "through this fog..."
 msgstr ""
+"Kapitánko Mari, jdeme správným směrem? Skrz tu mlhu skoro nic nevidím..."
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:191
@@ -1992,6 +2085,7 @@ msgid ""
 "Sir Gerrick, are we going in the right direction? I can hardly see a thing "
 "through this fog..."
 msgstr ""
+"Sire Gerricku, jdeme správným směrem? Skrz tu mlhu skoro nic nevidím..."
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:192
@@ -1999,6 +2093,7 @@ msgid ""
 "Minister Hylas, are we going in the right direction? I can hardly see a "
 "thing through this fog..."
 msgstr ""
+"Purkmistře Hylasi, jdeme správným směrem? Skrz tu mlhu skoro nic nevidím..."
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:227
@@ -2009,12 +2104,12 @@ msgstr "Ithelden"
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:228
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:935
 msgid "Galdrad"
-msgstr ""
+msgstr "Galdrad"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:229
 msgid "Vaenuith"
-msgstr ""
+msgstr "Vaenuith"
 
 #. [event]
 #. [unit]: type=Elvish Shyde, id=Ethiliel
@@ -2046,8 +2141,11 @@ msgstr ""
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:242
+#, fuzzy
 msgid "Given the evidence at hand, Deoran, I believe the answer is “yes.”"
 msgstr ""
+"Vzhledem k tomu, že je to očividné, Deorane, se domnívám, že odpověď zní "
+"„ano“."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:247
@@ -2071,6 +2169,9 @@ msgid ""
 "those rags of the Urzas. Though it remains to be seen whether this proves an "
 "improvement — why do you enter the hallowed isle of Elrath?"
 msgstr ""
+"Tohle není bandita. Tito lidé nesou prapor Jižní hlídky, ne ty špinavé cáry "
+"Urzů. I když se teprve uvidí, jestli to bude zlepšení. Proč vstupujete na "
+"posvátný ostrov Elrath?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:259
@@ -2085,6 +2186,10 @@ msgid ""
 "it is you humans who first brought this perverse sorcery to our great "
 "continent, when you arrived here centuries ago."
 msgstr ""
+"Aby nás požádali o pomoc, bezpochyby. Ve vzduchu je temnota, v zemi "
+"zkaženost. Někdo se vměšuje do černé magie. Nezapomínejme, že jste to vy, "
+"lidé, kdo toto zvrácené umění přinesli na náš velký kontinent, když jste sem "
+"před staletími dorazili."
 
 #. [message]: speaker=Talchar
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:271
@@ -2093,6 +2198,9 @@ msgid ""
 "the mystic arts is much more likely to be corrupted by such a force than to "
 "have the knowledge or ability to banish it."
 msgstr ""
+"Minulost ukázala, že vaší rase nedá věřit. U člověka, neškoleného v "
+"mystických uměních, bude mnohem pravděpodobnější, že bude takovou silou "
+"zkažen, než aby měl znalosti nebo schopnost ji vyhnat."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:275
