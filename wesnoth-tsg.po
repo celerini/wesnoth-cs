@@ -1909,7 +1909,7 @@ msgid ""
 msgstr ""
 "S tímto svým postižením jsem se už dávno smířil. Ale jako můj potenciální "
 "velitel bys měl vědět, že poněkud zpomaluje můj pohyb na bojišti, dokonce "
-"víc než zpomaluje sira Gerricka jeho brnění."
+"víc, než zpomaluje sira Gerricka jeho brnění."
 
 #. [message]: speaker=Minister Hylas
 #: data/campaigns/The_South_Guard/scenarios/02x_Westin.cfg:344
