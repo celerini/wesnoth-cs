@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:10 UTC\n"
-"PO-Revision-Date: 2026-04-06 15:44+0200\n"
+"PO-Revision-Date: 2026-04-09 19:04+0200\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1478,14 +1478,14 @@ msgstr ""
 "mají vysokou obranu (šanci vyhnout se útoku) \n"
 "ve vodě, ale za tuto výhodu platí nízkou obranou na souši.\n"
 "\n"
-"Jiné jednotky, jako například lapka, na kterého byl teď proveden útok, mají "
+"Jiné jednotky, jako například lapka, na kterého byl teď proveden útok mají "
 "abnormálně vysokou obranu <b><i>všude</i></b>. \n"
 "To je jeho hlavní síla, za kterou platí nízkým poškozením a zranitelností "
 "vůči většině typů poškození.\n"
 "\n"
 "Chceš-li zjistit obranu jednotky v určitém terénu a její odolnost/"
 "zranitelnost vůči různým typům poškození, <b><i>klikni na ni \n"
-"pravým tlačítkem myši a vyber možnost „Popis typu jednotky“. </i></b>"
+"pravým tlačítkem myši a vyber možnost \"Popis typu jednotky\". </i></b>"
 
 #. [message]: speaker=unit
 #. The player has just freed a slave from his cage.
@@ -1543,98 +1543,84 @@ msgstr "Nee sss..."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:540
-#, fuzzy
 msgid ""
 "The outlaw leaders are dead! Time to release the rest of their prisoners."
-msgstr "Vůdci psanců jsou mrtví! Je čas propustit zbytek jejich vězňů."
+msgstr "Vůdci psanců jsou mrtví! Je čas propustit zbytek vězňů."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:563
-#, fuzzy
 msgid "Well done, everyone! We’ve freed all of the pirates’ prisoners."
-msgstr "Výborně, všichni! Osvobodili jsme všechny pirátské zajatce."
+msgstr "Výborně, všichni! Osvobodili jsme všechny zajatce."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:570
-#, fuzzy
 msgid ""
 "With so many new farmers and fishers swelling our ranks, we finally have the "
 "numbers we need to field more human fighters."
 msgstr ""
-"Díky tomu, že naše řady rozšířilo tolik nových zemědělců a rybářů, máme "
+"Díky tomu, že naše řady rozšířilo tolik nových farmářů a rybářů, máme "
 "konečně dostatek lidí, abychom mohli nasadit více lidských bojovníků."
 
 #. [object]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:579
-#, fuzzy
 msgid "Additional Manpower"
-msgstr "Další pracovní síla"
+msgstr "Posily"
 
 #. [object]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:580
-#, fuzzy
 msgid "Peasants and Woodsmen no longer cost twice as much to recruit."
-msgstr "Nábor rolníků a lesníků již nestojí dvakrát tolik."
+msgstr "Nábor sedláků a lesníků již nestojí dvakrát tolik."
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:596
-#, fuzzy
 msgid "What’s this? An unruly mob in place of my orderly divers?"
 msgstr "Co je to? Neukázněný dav místo mých spořádaných potápěčů?"
 
 #. [message]: speaker=Maudie
 #. "trainees" refers to new slaves. "dispose of them" means to kill them.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:601
-#, fuzzy
 msgid ""
 "My, my. How unlucky. I had meant to introduce some new trainees I’d "
 "acquired... but given the present state of affairs, I suppose I’ll have to "
 "dispose of them instead."
 msgstr ""
-"Panečku, panečku. Jaká smůla. Chtěl jsem představit několik nových stážistů, "
-"které jsem získal... ale vzhledem k současnému stavu věcí se jich asi budu "
-"muset zbavit."
+"Ale, ale. Taková škoda. Chtěla jsem do tábora přivézt nějaké nováčky... ale "
+"vzhledem k současnému stavu věcí se jich asi budu muset zbavit."
 
 #. [message]: role=prisoner1
 #. A prisoner is being made to walk the plank (which will kill them).
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:611
-#, fuzzy
 msgid "No, wait—"
 msgstr "Ne, počkejte..."
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:615
-#, fuzzy
 msgid "Walk the plank!"
-msgstr "Chůze po prkně!"
+msgstr "Mazej po prkně!"
 
 #. [message]: role=prisoner2
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:624
-#, fuzzy
 msgid "I can’t swim, please—"
 msgstr "Neumím plavat, prosím..."
 
 #. [message]: race=human
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:665
-#, fuzzy
 msgid "Look! That’s the constable!"
-msgstr "Podívejte se! To je strážník!"
+msgstr "Podívejte se! To je strážný!"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:670
-#, fuzzy
 msgid "Elyn! My brother!"
-msgstr "Elyn! Můj bratr!"
+msgstr "Elyne! Bratře!"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:683
-#, fuzzy
 msgid ""
 "Ta ta, dears. This was unfortunate, but really, I had no choice. There’s no "
 "room for freeloaders on my ship."
 msgstr ""
-"Ta ta, miláčkové. Bylo to nešťastné, ale opravdu jsem neměl na výběr. Na mé "
-"lodi není místo pro vyžírky."
+"Ta dá, zlatíčka. Je to smutné, ale vážně jsem neměla na výběr. Na mé lodi "
+"není místo pro vyžírky."
 
 #. [message]: speaker=Maudie
 #. "fish-tailed sweethearts" refers to the merfolk. Maudie doesn't acknowledge the human villagers as a meaningful adversary.
