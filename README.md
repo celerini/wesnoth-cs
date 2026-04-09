@@ -13,15 +13,15 @@ Domain | Messages | Translated | Remaining | Translator
 wesnoth-dod | 282 | 14% | 242 | Karel
 wesnoth-h2tt | 3163 | 3% | 3043 |
 wesnoth-lib | 1682 | 99% | 11 | Michal
-wesnoth-pap | 264 | 72% | 72 | Karel
+wesnoth-pap | 264 | 77% | 59 | Karel
 wesnoth-tdg | 1265 | 11% | 1117 | Karel
 wesnoth-tsg | 895 | 46% | 477 | Septim
 wesnoth-wc | 526 | 98% | 7 | Michal
 
-Total messages remaining: **4969**
+Total messages remaining: **4956**
 
-Progress since 2026-03-25: **18** messages per day
+Progress since 2026-03-25: **17** messages per day
 
-ETA: **2027-01-08**
+ETA: **2027-01-25**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
