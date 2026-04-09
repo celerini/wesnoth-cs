@@ -1611,7 +1611,7 @@ msgstr "Podívejte se! To je strážný!"
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:670
 msgid "Elyn! My brother!"
-msgstr "Elynr! Bratře!"
+msgstr "Elyne! Bratře!"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:683
