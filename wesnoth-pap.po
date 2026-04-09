@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:10 UTC\n"
-"PO-Revision-Date: 2026-04-09 19:04+0200\n"
+"PO-Revision-Date: 2026-04-09 19:12+0200\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1478,14 +1478,14 @@ msgstr ""
 "mají vysokou obranu (šanci vyhnout se útoku) \n"
 "ve vodě, ale za tuto výhodu platí nízkou obranou na souši.\n"
 "\n"
-"Jiné jednotky, jako například lapka, na kterého byl teď proveden útok mají "
+"Jiné jednotky, jako například lapka, na kterého byl teď proveden útok, mají "
 "abnormálně vysokou obranu <b><i>všude</i></b>. \n"
 "To je jeho hlavní síla, za kterou platí nízkým poškozením a zranitelností "
 "vůči většině typů poškození.\n"
 "\n"
 "Chceš-li zjistit obranu jednotky v určitém terénu a její odolnost/"
 "zranitelnost vůči různým typům poškození, <b><i>klikni na ni \n"
-"pravým tlačítkem myši a vyber možnost \"Popis typu jednotky\". </i></b>"
+"pravým tlačítkem myši a vyber možnost „Popis typu jednotky“. </i></b>"
 
 #. [message]: speaker=unit
 #. The player has just freed a slave from his cage.
@@ -1559,7 +1559,7 @@ msgid ""
 "numbers we need to field more human fighters."
 msgstr ""
 "Díky tomu, že naše řady rozšířilo tolik nových farmářů a rybářů, máme "
-"konečně dostatek lidí, abychom mohli nasadit více lidských bojovníků."
+"konečně dostatek posil, abychom mohli nasadit více lidských bojovníků."
 
 #. [object]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:579
@@ -1611,7 +1611,7 @@ msgstr "Podívejte se! To je strážný!"
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:670
 msgid "Elyn! My brother!"
-msgstr "Elyne! Bratře!"
+msgstr "Elynr! Bratře!"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:683
