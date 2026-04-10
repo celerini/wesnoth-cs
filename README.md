@@ -16,12 +16,11 @@ wesnoth-lib | 1682 | 99% | 11 | Michal
 wesnoth-pap | 264 | 77% | 59 | Karel
 wesnoth-tdg | 1265 | 11% | 1117 | Karel
 wesnoth-tsg | 895 | 46% | 477 | Septim
-wesnoth-wc | 526 | 98% | 7 | Michal
 
-Total messages remaining: **4956**
+Total messages remaining: **4949**
 
-Progress since 2026-03-25: **17** messages per day
+Progress since 2026-03-25: **16** messages per day
 
-ETA: **2027-01-25**
+ETA: **2027-02-13**
 
 There are [upstream translation stats](https://www.wesnoth.org/gettext/?view=langs&version=master&lang=cs).
