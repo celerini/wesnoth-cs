@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:10 UTC\n"
-"PO-Revision-Date: 2026-04-09 19:12+0200\n"
+"PO-Revision-Date: 2026-04-11 10:46+0200\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1625,159 +1625,141 @@ msgstr ""
 #. [message]: speaker=Maudie
 #. "fish-tailed sweethearts" refers to the merfolk. Maudie doesn't acknowledge the human villagers as a meaningful adversary.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:688
-#, fuzzy
 msgid ""
 "You see, there’s a new power growing in these parts: me. It’s time for Lady "
 "Maudie to take back what she’s owed. I’ll see you fish-tailed sweethearts "
 "again real soon."
 msgstr ""
-"Víte, v těchto končinách roste nová síla: já. Je čas, aby si lady Maudie "
-"vzala zpět, co jí patří. Brzy se s vámi, miláčkové s rybím ocasem, zase "
-"uvidím."
+"V těchto končinách roste nová síla: já. Je čas, aby si lady Maudie vzala "
+"zpět, co jí patří. Brzy se s vámi, zlatíčka s rybím ocasem, zase uvidím."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:698
-#, fuzzy
 msgid ""
 "Elyn!! My brother can swim, but not for long in this surf! Diondra, you have "
 "to rescue him! Rescue them all!"
 msgstr ""
-"Elyn!! Můj bratr umí plavat, ale ne dlouho v tomhle příboji! Diondro, musíš "
-"ho zachránit! Zachraň je všechny!"
+"Elyne!! Můj bratr umí plavat, ale v takovém příboji to nezvládne! Diondro, "
+"musíš ho zachránit! Zachraň je všechny!"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:786
-#, fuzzy
 msgid ""
 "I am sorry, Thea. His arms and legs were bound... I’ve retrieved only a "
 "corpse. The pirates must’ve captured him while he sailed in search of help."
 msgstr ""
-"Je mi to líto, Theo. Měl svázané ruce a nohy... Získal jsem jen mrtvolu. "
-"Museli ho zajmout piráti, když plul hledat pomoc."
+"Je mi to líto, Theo. Měl svázané ruce a nohy... našla jsem pouze mrtvolu. Ti "
+"piráti ho museli zajmout, když odplul hledat pomoc."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:790
-#, fuzzy
 msgid "..."
 msgstr "..."
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:794
-#, fuzzy
 msgid ""
 "Do not let his death be in vain. We must catch this “Maudie” and bring her "
 "to justice. Follow the black ship!"
 msgstr ""
-"Nedopusťte, aby jeho smrt byla zbytečná. Musíme tu \"Maudie\" chytit a "
-"postavit ji před soud. Sledujte černou loď!"
+"Nedopusť, aby byla jeho smrt zbytečná. Musíme tu „Maudii“ chytit a postavit "
+"ji před soud. Sledujte tu černou loď!"
 
 #. [message]: speaker=Diondra
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:812
-#, fuzzy
 msgid ""
 "Do not delay, Thea. These pirates are planning something. If we cannot "
 "finish our battle here, I fear they will be reinforced, and us overwhelmed."
 msgstr ""
 "Neotálej, Theo. Ti piráti něco plánují. Pokud se nám nepodaří dokončit bitvu "
-"tady, obávám se, že se posílí a nás přemohou."
+"tady, obávám se, že se vrátí pro posily a pak nás přemohou."
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:826
-#, fuzzy
 msgid "What’s this? An unruly mob harassing my divers?"
 msgstr "Co je to? Rozvášněný dav, který obtěžuje mé potápěče?"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:830
-#, fuzzy
 msgid ""
 "Now now, we can’t be having that. Luckily for me, you’ve given me enough "
 "time to prepare a whole fleet of warships, all filled to the brim with angry "
 "outlaws."
 msgstr ""
-"Tak tohle si nemůžeme dovolit. Naštěstí pro mě jsi mi dal dost času, abych "
-"připravil celou flotilu válečných lodí, naplněných až po okraj rozzuřenými "
+"Už mě přestáváte bavit. Naštěstí pro mě jsi mi dala dost času, abych "
+"připravila celou flotilu válečných lodí, naplněných až po okraj rozzuřenými "
 "psanci."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/04_Lee_Shore.cfg:838
-#, fuzzy
 msgid ""
 "The merfolk aren’t prepared to battle such a large fleet! We have to flee "
 "before we’re destroyed..."
 msgstr ""
-"Merfolkové nejsou připraveni bojovat s tak velkou flotilou! Musíme utéct, "
-"než nás zničí..."
+"Mořský lid není připraven bojovat s tak velkou flotilou! Musíme utéct, než "
+"nás zničí..."
 
 #. [scenario]: id=05_Lady_Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:6
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:91
-#, fuzzy
 msgid "Lady Maudie"
 msgstr "Lady Maudie"
 
 #. [part]
 #. S05 intro
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:23
-#, fuzzy
 msgid ""
 "The villagers held a sombre shipboard funeral for Constable Elyn, and a "
 "burial at sea. The alderman’s son had always been there for them... until "
 "suddenly he wasn’t."
 msgstr ""
-"Vesničané uspořádali pro konstábla Elyna smutný pohřeb na lodi a pohřeb do "
-"moře. Radní syn tu pro ně vždycky byl... dokud najednou nebyl."
+"Vesničané truchlili pro strážného Elyna a pohřbili ho do moře. Syn radního "
+"jim zůstal věrný až do svého hořkého konce."
 
 #. [part]
 #. S05 intro. Thea's father left many months ago, along with other villagers.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:28
-#, fuzzy
 msgid ""
 "Not for the first time, Thea worried about her father; about all those who’d "
 "gone to war. She’d heard stories, of course — but experiencing battle and "
 "loss herself was something else entirely."
 msgstr ""
-"Nebylo to poprvé, co si Thea dělala starosti o svého otce; o všechny, kdo "
-"odešli do války. Jistě, slyšela o tom vyprávět - ale zažít bitvu a ztrátu na "
-"vlastní kůži bylo něco úplně jiného."
+"Nebylo to poprvé, co si Thea dělala starosti o svou rodinu. O svého otce, i "
+"o všechny ostatní, kteří odešli do války. Jistě, jako malá slýchávala řadu "
+"příběhů, ale zažít bitvu a ztrátu na vlastní kůži bylo něco úplně jiného."
 
 #. [part]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:30
-#, fuzzy
 msgid ""
 "She wondered how her father could so readily return to something so grim. "
 "She wondered what drives “Lady Maudie” to inflict it upon others."
 msgstr ""
-"Přemýšlela, jak se její otec mohl tak snadno vrátit k něčemu tak "
-"pochmurnému. Přemýšlela, co vede \"lady Maudie\" k tomu, že to způsobuje "
-"ostatním."
+"Přemýšlela, jak se její otec mohl tak snadno vrátit k něčemu tak hroznému a "
+"co vede lady Maudii k tomu, aby způsobovala tolik utrpení a smrti."
 
 #. [part]
 #. S05 intro
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:35
-#, fuzzy
 msgid ""
 "Guided by merfolk, the flotilla kept station several dozen miles behind "
 "Maudie’s ship; too slow to catch her, but fast enough to stay in sight. "
 "Maudie’s destination soon became apparent: the wild, unsettled islands known "
 "as the Three Sisters."
 msgstr ""
-"Flotila vedená mořskými lidmi se držela na místě několik desítek mil za "
-"Maudiinou lodí; byla příliš pomalá, než aby ji dostihla, ale dost rychlá na "
-"to, aby zůstala na dohled. Brzy se ukázalo, kam Maudie míří: na divoké, "
-"neosídlené ostrovy známé jako Tři sestry."
+"Flotila v doprovodu mořských lidí se držela za Maudiinou lodí. Byli příliš "
+"pomalí, než aby ji dostihli, ale dost rychlí na to, aby zůstali na dohled. "
+"Brzy se ukázalo, kam Maudie míří: na divoké, neosídlené ostrovy známé jako "
+"Tři sestry."
 
 #. [leader]: type=Assassin, id=leader2, gender=female
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:55
-#, fuzzy
 msgid "Analla"
 msgstr "Analla"
 
 #. [leader]: type=Ranger, id=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:81
-#, fuzzy
 msgid "Shipmaster Derryn"
-msgstr "Velitel lodi Derryn"
+msgstr "Kapitán Derryn"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:182
