@@ -4103,7 +4103,7 @@ msgid ""
 "from enemy attack."
 msgstr ""
 "Už tak bylo dost zlé bojovat s nemrtvými a bandity, ale teď ještě s elfy? To "
-"je hrozné! Pokud se nám podaří dostat se do Jižního přístavu, tamní posádka "
+"je hrozné! Pokud se nám podaří dostat se do Jižního Přístavu, tamní posádka "
 "nás jistě ochrání před nepřátelským útokem."
 
 #. [message]: speaker=Deoran
