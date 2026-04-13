@@ -1465,7 +1465,7 @@ msgid ""
 "Zone of Control. Your units can move freely around them."
 msgstr ""
 "Na rozdíl od většiny ostatních nevytvářejí jednotky úrovně 0 (například "
-"Chodící mrtvoly) oblast kontroly. Tvé jednotky se kolem nich mohou volně "
+"chodící mrtvoly) oblast kontroly. Tvé jednotky se kolem nich mohou volně "
 "pohybovat."
 
 #. [message]
