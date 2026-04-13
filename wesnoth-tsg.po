@@ -4379,7 +4379,7 @@ msgid ""
 "Mebrin. I sensed it, but I did not want to believe. ...I could not bear to "
 "believe."
 msgstr ""
-"Mebrine. Cítila jsem to, ale nechtěla jsem tomu věřit. ...nedokázala jsem "
+"Mebrine. Cítila jsem to, ale nechtěla jsem tomu věřit. ... nedokázala jsem "
 "tomu věřit."
 
 #. [message]: speaker=Deoran
