@@ -1502,7 +1502,7 @@ msgid ""
 "day, when they’re at their best! ...how do I control these blasted things?"
 msgstr ""
 "Vy pitomý mrtvý těla, co to děláte? Nebojujte s Jižní hlídkou ve dne, když "
-"jsou v plný síle! ...jak se tyhle proklatý věci ovládaj?"
+"jsou v plný síle! ... jak se tyhle proklatý věci ovládaj?"
 
 #. [message]: speaker=Urza Fastik
 #: data/campaigns/The_South_Guard/scenarios/02_Proven_by_the_Sword.cfg:480
