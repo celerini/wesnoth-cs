@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:10 UTC\n"
-"PO-Revision-Date: 2026-04-11 10:46+0200\n"
+"PO-Revision-Date: 2026-04-13 19:19+0200\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1763,128 +1763,113 @@ msgstr "Kapitán Derryn"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:182
-#, fuzzy
 msgid ""
 "This island is covered in villages. Even if we don’t need the gold "
 "ourselves, we should still make sure Maudie doesn’t take so many that we "
 "become overwhelmed."
 msgstr ""
 "Na tomto ostrově se nacházejí vesnice. I když sami zlato nepotřebujeme, měli "
-"bychom se ujistit, že si ho Maudie nevezme tolik, aby nás zahltilo."
+"bychom ho odepřít Maudii, aby nás díky němu nepřemohla."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:187
-#, fuzzy
 msgid ""
 "To see how much gold and income your enemies have, press <i>Alt+S</i>, or "
 "open the Menu and select “Status Table”."
 msgstr ""
-"Chcete-li zjistit, kolik zlata a příjmů mají vaši nepřátelé, stiskněte "
-"klávesy <i>Alt+S</i> nebo otevřete nabídku a vyberte možnost \"Tabulka "
-"stavu\"."
+"Chceš-li zjistit, kolik zlata a příjmů mají tví nepřátelé, stiskni klávesy "
+"<i>Alt+S</i> nebo otevři nabídku a vyber možnost „Stavová tabulka“."
 
 #. [event]: id=immobile_derelict
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:198
-#, fuzzy
 msgid "Makeshift Shipyard"
 msgstr "Provizorní loděnice"
 
 #. [message]: speaker=Maudie
 #. "fish" is meant to be an insulting way to refer to merfolk
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:248
-#, fuzzy
 msgid ""
 "Tut-tut, the mermaid followed me all this way? Show some deference, fish. "
 "Soon you’ll be calling me your lord."
 msgstr ""
-"Tut-tut, ta mořská panna mě sledovala celou cestu? Projev trochu úcty, "
-"rybko. Brzy mě budeš nazývat svým pánem."
+"Ajajaj ta mořská panna mě sledovala celou cestu? Projev trochu úcty, "
+"rybičko. Brzy mě budeš nazývat svou paní"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:252
-#, fuzzy
 msgid ""
 "It’s not just merfolk who followed you here. I’m here to avenge my brother, "
 "you soulless murderer!"
 msgstr ""
-"Nejsou to jen merfolkové, kdo vás sem sledoval. Přišel jsem pomstít svého "
-"bratra, ty bezduchý vrahu!"
+"Není to jen mořský lid, kdo tě sem sledoval. Přišla jsem pomstít svého "
+"bratra, ty bezduchá vražedkyně!"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:256
-#, fuzzy
 msgid "My, such language. Who in the world are you talking about?"
-msgstr "To je ale jazyk. O kom to proboha mluvíte?"
+msgstr "Božínku, takové výrazy. A kom to vlastně mluvíš?"
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:260
-#, fuzzy
 msgid "My brother! The mustached javelineer you drowned not two days ago?"
 msgstr ""
-"Můj bratr! Ten kníratý javelineer, kterého jsi utopil před necelými dvěma "
-"dny?"
+"O mém bratrovi! Nepamatuješ si na kníratého oštěpaře, kterého jsi nechala "
+"utopit před necelými dvěma dny?"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:264
-#, fuzzy
 msgid ""
 "I’m sorry, sweetie, you smallfolk all look the same to me. But if you’re so "
 "beaten up about his death, I’d be happy to help you join him. Shipmaster, is "
 "my fleet ready?"
 msgstr ""
-"Promiň, zlatíčko, ale vy malí mi připadáte všichni stejní. Ale jestli jsi z "
-"jeho smrti tak vyřízená, ráda ti pomůžu se k němu připojit. Veliteli lodi, "
-"je moje flotila připravena?"
+"Promiň, zlatíčko, ale vy vidláci mi připadáte všichni stejní. Ale jestli jsi "
+"z jeho smrti tak zdrcená, ráda ti pomůžu se k němu připojit. Kapitáne, je "
+"moje flotila připravená?"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:268
-#, fuzzy
 msgid ""
 "Not yet, milady. As we’ve discussed, repairing derelicts takes quite some "
 "time. It might still be weeks—"
 msgstr ""
-"Ještě ne, milady. Jak už jsme si řekli, oprava opuštěných objektů nějakou "
-"dobu trvá. Může to trvat ještě týdny..."
+"Ještě ne, paní. Jak už jsem vám říkal, oprava lodí je zdlouhavá práce. Může "
+"to trvat ještě týdny..."
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:272
-#, fuzzy
 msgid ""
 "Yes, yes, I remember now. Just... deal with these peasants, will you? That "
 "business with the freed prisoners has given me a terrible headache. I’m "
 "really not in the mood to entertain riff-raff."
 msgstr ""
-"Ano, ano, už si vzpomínám. Jen... se vypořádej s těmi sedláky, ano? Z té "
-"záležitosti s osvobozenými vězni mě strašně bolí hlava. Opravdu nemám náladu "
-"bavit se s tou chátrou."
+"Ano, ano, už si vzpomínám. Jen... se vypořádej s těmi burany, dobře? Z té "
+"záležitosti s osvobozenými vězni mě začíná bolet hlava. Opravdu teď nemám "
+"náladu zabývat se tou chátrou."
 
 #. [objective]: condition=win
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:280
-#, fuzzy
 msgid "Defeat Lady Maudie"
-msgstr "Porazit lady Maudie"
+msgstr "Poraz lady Maudii"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:316
-#, fuzzy
 msgid ""
 "They’re getting closer. Shipmaster, how long until the fleet is finished?!"
-msgstr "Přibližují se. Veliteli lodi, za jak dlouho bude flotila hotová?!"
+msgstr "Přibližují se. Kapitáne, za jak dlouho bude flotila hotová?"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:320
-#, fuzzy
 msgid "Madam, I’ve told you, it might still be weeks—"
 msgstr "Paní, říkal jsem vám, že to může trvat ještě týdny..."
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:326
-#, fuzzy
 msgid ""
 "They’re getting closer. And my shipmaster got himself killed... Do I have to "
 "do everything myself?"
 msgstr ""
-"Přibližují se. A můj velitel se nechal zabít... Musím všechno udělat sám?"
+"Přibližují se. A můj kapitán se nechal zabít... To musím všechno dělat sama?"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:332
