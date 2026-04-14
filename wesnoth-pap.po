@@ -1911,8 +1911,7 @@ msgid ""
 "already, consider checking new units’ stats to identify any\n"
 "weaknesses they may have."
 msgstr ""
-"Zatímco mnohé jednotky jsou univerzální, jiné - jako například zapálená loď "
-"-\n"
+"Zatímco mnohé jednotky jsou univerzální, jiné, jako například zapálená loď,\n"
 "mají jasné silné a slabé stránky. Zvaž kontrolu statistik nových jednotek.\n"
 "Lze tak zjistit, zda mají nějaké slabiny, kterých můžeš využít."
 
@@ -1950,8 +1949,7 @@ msgid ""
 "it from us and given it to the merfolk instead."
 msgstr ""
 "Právem náleží mně i mé krvi! Moji vznešení předkové prolévali krev, aby "
-"záliv získali a udrželi. A pak nám ho ti pitomí králové ukradli a předali ho "
-"mořskému lidu."
+"záliv získali a udrželi. A pak nám ho ti pitomí králové ukradli."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:412
@@ -1959,7 +1957,7 @@ msgid ""
 "You’re talking about when the Bay was first awarded to the merfolk? But that "
 "was over three hundred years ago!"
 msgstr ""
-"Mluvíš o době, kdy byl záliv předán mořskému lidu? Ale to bylo před více než "
+"Mluvíš o době, kdy byl záliv darem předán mořskému lidu? Ale to bylo před více než "
 "třemi sty lety!"
 
 #. [message]: speaker=Maudie
