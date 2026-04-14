@@ -1913,8 +1913,8 @@ msgid ""
 msgstr ""
 "Zatímco mnohé jednotky jsou univerzální, jiné - jako například zapálená loď "
 "-\n"
-"mají jasné silné a slabé stránky. Zvaž kontrolu statistik nových jednotek,\n"
-"lze tak zjistit, zda mají nějaké slabiny, kterých můžeš využít."
+"mají jasné silné a slabé stránky. Zvaž kontrolu statistik nových jednotek.\n"
+"Lze tak zjistit, zda mají nějaké slabiny, kterých můžeš využít."
 
 #. [message]: speaker=Thea
 #. Princess Bride movie reference
