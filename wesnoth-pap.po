@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:10 UTC\n"
-"PO-Revision-Date: 2026-04-13 19:19+0200\n"
+"PO-Revision-Date: 2026-04-14 19:02+0200\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1856,7 +1856,7 @@ msgstr "Poraz lady Maudii"
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:316
 msgid ""
 "They’re getting closer. Shipmaster, how long until the fleet is finished?!"
-msgstr "Přibližují se. Kapitáne, za jak dlouho bude flotila hotová?"
+msgstr "Přibližují se. Kapitáne, už bude flotila hotová?"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:320
@@ -1873,178 +1873,157 @@ msgstr ""
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:332
-#, fuzzy
 msgid ""
 "Fine! Since these ships cannot serve me in any useful capacity, set them "
 "ablaze and send them to run down anything in the water!"
 msgstr ""
-"Fajn! Protože mi tyhle lodě nemohou sloužit k ničemu užitečnému, zapalte je "
-"a pošlete je, ať sejmou všechno, co je ve vodě!"
+"Fajn! Protože mi tyhle lodě neposlouží k ničemu lepšímu, zapalte je a "
+"pošlete je, ať sejmou všechno, co je ve vodě!"
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:348
-#, fuzzy
 msgid "Know Thy Enemy"
 msgstr "Poznej svého nepřítele"
 
 #. [display_tip]
 #. knowing about the Fireship specifically isn't that important (although it does make it clear that this isn't a bug). But the Fireship is a good example about how knowing an enemy's weaknesses can make them much easier to fight. This also makes exploiting the Fireships feel less like a mistake ("oh, the AI is dumb"), and makes it clear that making them exploitable like this is a deliberate design choice
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:350
-#, fuzzy
 msgid "A unit’s statistics determine the best strategy for fighting them."
 msgstr "Statistiky jednotky určují nejlepší strategii boje proti ní."
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:352
-#, fuzzy
 msgid ""
 "Maudie’s new fireships, for example, can deal massive damage in\n"
 "melee combat. But their <i>deteriorate</i> ability drains their health\n"
 "every turn, and being ships they cannot chase you onto land."
 msgstr ""
-"Například Maudieho nové ohňové lodě mohou způsobit obrovské poškození.\n"
-"v boji zblízka. Jejich schopnost <i>zhoršovat</i> však vyčerpává jejich "
-"zdraví.\n"
-"každé kolo a jako lodě vás nemohou pronásledovat na souši."
+"Například Maudiiny nové zapálené lodě mohou způsobit obrovské poškození v\n"
+"boji zblízka. Ale jejich schopnost <i>chátrání</i> jim postupně snižuje "
+"zdraví každé kolo\n"
+"a jelikož se jedná o lodě, nemohou tě pronásledovat na souši."
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:356
-#, fuzzy
 msgid ""
 "While many units are general-purpose, others — like the Fireship — \n"
 "have clear strengths and weaknesses. If you haven’t been doing so\n"
 "already, consider checking new units’ stats to identify any\n"
 "weaknesses they may have."
 msgstr ""
-"Zatímco mnohé jednotky jsou univerzální, jiné - jako například ohnivá loď "
-"-.\n"
-"mají jasné silné a slabé stránky. Pokud jste tak dosud nečinili\n"
-"zvažte kontrolu statistik nových jednotek, abyste zjistili, zda se u nich "
-"vyskytují nějaké\n"
-"slabiny, které mohou mít."
+"Zatímco mnohé jednotky jsou univerzální, jiné - jako například zapálená loď "
+"-\n"
+"mají jasné silné a slabé stránky. Zvaž kontrolu statistik nových jednotek,\n"
+"lze tak zjistit, zda mají nějaké slabiny, kterých můžeš využít."
 
 #. [message]: speaker=Thea
 #. Princess Bride movie reference
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:377
-#, fuzzy
 msgid "My name is Thea Nicolin. You killed my brother! Prepare to die!!"
-msgstr ""
-"Jmenuji se Thea Nicolinová. Zabil jsi mého bratra! Připravte se na smrt!!"
+msgstr "Jmenuji se Thea Nicolin. Zabila jsi mého bratra! Připravte se na smrt!"
 
 #. [message]: speaker=Maudie
 #. "you're all leeches" echoes the S01 leader's dying words
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:395
-#, fuzzy
 msgid ""
 "Get away from my ship, you low-born churl! You’re all just leeches! The Bay "
 "should be <i>mine</i>, not yours!"
 msgstr ""
-"Vypadni z mé lodi, ty podřadný chlápku! Všichni jste jen pijavice! Zátoka by "
-"měla být <i>moje</i>, ne vaše!"
+"Vypadni z mé lodi, ty podřadná chátro! Všichni jste jen pijavice! Zátoka by "
+"měla patřit <i>mě</i>, ne vám!"
 
 #. [message]: speaker=Maudie
 #. "you're all leeches" echoes the S01 leader's dying words
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:402
-#, fuzzy
 msgid ""
 "Get away from my ship, you filthy fish! You’re all just leeches! The Bay "
 "should be <i>mine</i>, not yours!"
 msgstr ""
-"Vypadni z mé lodi, ty špinavá rybo! Všichni jste jen pijavice! Zátoka by "
-"měla být <i>moje</i>, ne vaše!"
+"Vypadni z mé lodi, ty smradlavá rybo! Všichni jste jen ubohé pijavice! "
+"Zátoka by měla patřit<i>mě</i>, ne vám!"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:408
-#, fuzzy
 msgid ""
 "It belongs to me and my blood by right! My noble ancestors fought our way to "
 "the top, and we would have stayed there if those idiot kings hadn’t stolen "
 "it from us and given it to the merfolk instead."
 msgstr ""
-"Právem patří mně a mé krvi! Moji vznešení předkové se probojovali na vrchol "
-"a zůstali bychom tam, kdyby nám ho ti pitomí králové neukradli a nedali ho "
-"merfolkům."
+"Právem náleží mně i mé krvi! Moji vznešení předkové prolévali krev, aby "
+"záliv získali a udrželi. A pak nám ho ti pitomí králové ukradli a předali ho "
+"mořskému lidu."
 
 #. [message]: speaker=Thea
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:412
-#, fuzzy
 msgid ""
 "You’re talking about when the Bay was first awarded to the merfolk? But that "
 "was over three hundred years ago!"
 msgstr ""
-"Mluvíte o době, kdy byl záliv poprvé udělen merfolkům? Ale to bylo před více "
-"než třemi sty lety!"
+"Mluvíš o době, kdy byl záliv předán mořskému lidu? Ale to bylo před více než "
+"třemi sty lety!"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:416
-#, fuzzy
 msgid ""
 "And my line <i>has not forgotten</i>! It should have been <i>me</i> who "
 "inherited the pearls!"
 msgstr ""
-"A moje linie <i>nezapomněla</i>! Měla jsem to být <i>já</i>, kdo zdědil "
-"perly!"
+"A můj rod <i>nezapomněl</i>! Měla jsem to být <i>já</i>, kdo zdědí bohatství "
+"zálivu!"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:418
-#, fuzzy
 msgid ""
 "Eating caviar instead of hardtack, served by slaves instead of outlaws, "
 "living in a villa instead of a smelly, grungy, fish-smelling pirate ship... "
 "oh, I’m going to be seasick again..."
 msgstr ""
-"Jíst kaviár místo tvrdého chleba, místo psanců obsluhovat otroky, žít ve "
-"vile místo na smradlavé, špinavé, rybinou páchnoucí pirátské lodi... ach, "
-"zase budu mít mořskou nemoc..."
+"Jíst kaviár místo tvrdého chleba, místo psanců velet otrokům, žít ve vile "
+"místo rozpadající se, špinavé, rybinou páchnoucí pirátské lodi... ach, zase "
+"budu mít mořskou nemoc..."
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:428
-#, fuzzy
 msgid ""
 "But you’re just a bunch of fish and smallfolk! It’s my right to rule! How— I "
 "mean... well, surely you can’t fault a girl for having ambition?"
 msgstr ""
-"Ale vy jste jen banda ryb a malých lidí! Mám právo vládnout! Jak... chci "
-"říct... no, určitě nemůžeš dívce vyčítat, že má ambice?"
+"Jste jen ubohá banda podřadných křupanů a rybáků! Mám právo vládnout! Já... "
+"chci říct... , určitě nemůžeš děvčeti vyčítat, že má ambice?"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:452
-#, fuzzy
 msgid "We’re sinking. Someone, stop the sinking! No. No! I can’t swim!!"
-msgstr "Potápíme se. Zastavte někdo to potápění! Ne. Ne! Nemůžu plavat!!"
+msgstr "Potápíme se. Zastavte to někdo! Ne. Ne! Neumím plavat!"
 
 #. [message]: speaker=Thea
 #. Echoing Maudie's lines from S04 and S02.
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:459
-#, fuzzy
 msgid "(grim) Ta ta."
-msgstr "(zachmuřený) Ta ta."
+msgstr "(zachmuřeně) Ta dá..."
 
 #. [scenario]: id=06_Epilogue
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/06_Epilogue.cfg:6
-#, fuzzy
 msgid "Epilogue"
 msgstr "Epilog"
 
 #. [part]
 #. epilogue intro
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/06_Epilogue.cfg:13
-#, fuzzy
 msgid ""
 "With Maudie defeated, her surviving supporters scattered, hotly pursued by "
 "Diondra and her merfolk. The villagers worked to dismantle and loot the "
 "pirate shipyard, then set sail once more for their home, where they were "
 "greeted with a resounding cheer."
 msgstr ""
-"Když byla Maudie poražena, její přeživší stoupenci se rozprchli a byli "
-"pronásledováni Diondrou a jejími mořskými lidmi. Vesničané pracovali na "
-"rozebrání a vyrabování pirátské loděnice a pak se znovu vydali na cestu "
-"domů, kde je přivítal bouřlivý jásot."
+"Když byla Maudie poražena, její přeživší stoupenci se rozprchli, "
+"pronásledováni Diondrou a jejím lidem. Vesničané rozebrali a vyrabovali "
+"pirátské loděnice, načež se vydali na cestu domů, kde je přivítal bouřlivý "
+"jásot."
 
 #. [part]
 #. epilogue intro
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/06_Epilogue.cfg:18
-#, fuzzy
 msgid ""
 "The neighboring hamlets, briefly pillaged and empty, started to refill with "
 "their newly-freed inhabitants. Many had died in the pirate raids, but many "
@@ -2053,84 +2032,73 @@ msgid ""
 "supplies, and soon became the de-facto leader of the Peninsula’s human "
 "community."
 msgstr ""
-"Okolní vesnice, krátce vypleněné a prázdné, se začaly znovu zaplňovat nově "
+"Okolní vesnice, nedávno vypleněné a prázdné, se začaly znovu zaplňovat nově "
 "osvobozenými obyvateli. Mnoho jich při pirátských nájezdech zemřelo, ale "
-"mnohem více jich přežilo, a to, co zbylo z flotily lady Maudie, se nyní "
-"stalo bohatou kořistí. Konstábl Thea se ujala rozdělování potravin a zásob a "
-"brzy se stala faktickou vůdkyní lidské komunity na poloostrově."
+"mnohem více jich přežilo, a to, co zbylo z flotily lady Maudie, se stalo "
+"bohatou kořistí. Strážkyně Thea se ujala rozdělování potravin a zásob a brzy "
+"se stala vůdkyní lidské komunity na poloostrově."
 
 #. [part]
 #. epilogue intro. The "next serious threat" is Asheviere's orcs' takeover, as seen in HttT
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/06_Epilogue.cfg:23
-#, fuzzy
 msgid ""
 "Untouched by the fighting, the merfolk city at the Bay of Pearls continued "
 "to prosper. It would be many decades until the next serious threat."
 msgstr ""
-"Město merfolků v Perlovém zálivu, nedotčené boji, nadále vzkvétalo. Do další "
-"vážné hrozby zbývalo mnoho desetiletí."
+"Město mořského lidu v Zátoce perel, nedotčené bojem, nadále vzkvétalo. Dokud "
+"o několik desetiletí později nepřišla zcela nová hrozba."
 
 #. [part]
 #. epilogue intro
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/06_Epilogue.cfg:28
-#, fuzzy
 msgid ""
 "Finally, many years later, Alderman Rael and his much-diminished warband "
 "made a weary return to Rochelm, their tour of duty complete. Thea’s father "
 "spoke grimly; of orc and lizard, siege and ambush. But that story — King "
 "Garard’s war — is a tale for another hero..."
 msgstr ""
-"Nakonec, o mnoho let později, se radní Rael a jeho značně oslabený válečný "
-"oddíl unaveně vrátili do Rochelmu a jejich služba byla u konce. Thein otec "
-"mluvil pochmurně; o orcích a ještěrech, obléhání a přepadení. Ale tento "
-"příběh - válka krále Gararda - je příběhem pro jiného hrdinu..."
+"Mezi tím se radní Rael a jeho značně oslabený a unavený oddíl vrátili do "
+"Rochelmu. Jejich služba byla u konce. Thein otec vyprávěl pochmurný příběh. "
+"O skřetech a ještěrácích, o obléháních a přepadech. Ale tento příběh, příběh "
+"války krále Gararda, bude vyprávět jiný hrdina..."
 
 #. [unit_type]: id=Cage, race=mechanical
 #: data/campaigns/Of_Pearls_and_Pirates/units/Cage.cfg:5
-#, fuzzy
 msgid "Caged Slave"
 msgstr "Otrok v kleci"
 
 #. [unit_type]: id=Fishing Boat
 #: data/campaigns/Of_Pearls_and_Pirates/units/Variations.cfg:9
-#, fuzzy
 msgid "Fishing Boat"
 msgstr "Rybářský člun"
 
 #. [side]
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:21
-#, fuzzy
 msgid "Villagers"
 msgstr "Vesničané"
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:38
-#, fuzzy
 msgid "Thea"
 msgstr "Thea"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:47
-#, fuzzy
 msgid "loyal"
-msgstr "loajální"
+msgstr "věrný"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:48
-#, fuzzy
 msgid "Zero upkeep"
 msgstr "Nulová údržba"
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:58
-#, fuzzy
 msgid "Alderman Rael"
 msgstr "Radní Rael"
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:69
-#, fuzzy
 msgid "Constable Elyn"
-msgstr "Konstábl Elyn"
+msgstr "Strážný Elyn"
 
 #: data/campaigns/Of_Pearls_and_Pirates/utils/characters.cfg:80
-#, fuzzy
 msgid "Diondra"
 msgstr "Diondra"
