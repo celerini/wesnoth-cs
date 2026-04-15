@@ -1878,7 +1878,7 @@ msgid ""
 "ablaze and send them to run down anything in the water!"
 msgstr ""
 "Fajn! Protože mi tyhle lodě neposlouží k ničemu lepšímu, zapalte je a "
-"pošlete je, ať sejmou všechno, co je ve vodě!"
+"pošlete, ať sejmou všechno, co je ve vodě!"
 
 #. [display_tip]
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:348
