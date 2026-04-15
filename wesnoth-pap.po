@@ -1939,7 +1939,7 @@ msgid ""
 "should be <i>mine</i>, not yours!"
 msgstr ""
 "Vypadni z mé lodi, ty smradlavá rybo! Všichni jste jen ubohé pijavice! "
-"Zátoka by měla patřit<i>mě</i>, ne vám!"
+"Zátoka by měla patřit<i>mně</i>, ne vám!"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:408
