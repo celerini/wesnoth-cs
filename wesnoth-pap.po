@@ -1919,7 +1919,7 @@ msgstr ""
 #. Princess Bride movie reference
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:377
 msgid "My name is Thea Nicolin. You killed my brother! Prepare to die!!"
-msgstr "Jmenuji se Thea Nicolin. Zabila jsi mého bratra! Připravte se na smrt!"
+msgstr "Jmenuji se Thea Nicolin. Zabila jsi mého bratra! Připrav se na smrt!"
 
 #. [message]: speaker=Maudie
 #. "you're all leeches" echoes the S01 leader's dying words
