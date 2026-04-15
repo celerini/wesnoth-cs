@@ -1987,7 +1987,7 @@ msgid ""
 "mean... well, surely you can’t fault a girl for having ambition?"
 msgstr ""
 "Jste jen ubohá banda podřadných křupanů a rybáků! Mám právo vládnout! Já... "
-"chci říct... , určitě nemůžeš děvčeti vyčítat, že má ambice?"
+"chci říct..., určitě nemůžeš děvčeti vyčítat, že má ambice?"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:452
