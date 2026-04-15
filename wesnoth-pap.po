@@ -1911,7 +1911,7 @@ msgid ""
 "already, consider checking new units’ stats to identify any\n"
 "weaknesses they may have."
 msgstr ""
-"Zatímco mnohé jednotky jsou univerzální, jiné, jako například zapálená loď,\n"
+"Zatímco mnohé jednotky jsou univerzální, jiné, jako například zápalná loď,\n"
 "mají jasné silné a slabé stránky. Zvaž kontrolu statistik nových jednotek.\n"
 "Lze tak zjistit, zda mají nějaké slabiny, kterých můžeš využít."
 
