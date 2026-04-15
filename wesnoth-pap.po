@@ -1929,7 +1929,7 @@ msgid ""
 "should be <i>mine</i>, not yours!"
 msgstr ""
 "Vypadni z mé lodi, ty podřadná chátro! Všichni jste jen pijavice! Zátoka by "
-"měla patřit <i>mě</i>, ne vám!"
+"měla patřit <i>mně</i>, ne vám!"
 
 #. [message]: speaker=Maudie
 #. "you're all leeches" echoes the S01 leader's dying words
