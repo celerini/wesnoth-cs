@@ -1957,8 +1957,8 @@ msgid ""
 "You’re talking about when the Bay was first awarded to the merfolk? But that "
 "was over three hundred years ago!"
 msgstr ""
-"Mluvíš o době, kdy byl záliv darem předán mořskému lidu? Ale to bylo před více než "
-"třemi sty lety!"
+"Mluvíš o době, kdy byl záliv darem předán mořskému lidu? Ale to bylo před "
+"více než třemi sty lety!"
 
 #. [message]: speaker=Maudie
 #: data/campaigns/Of_Pearls_and_Pirates/scenarios/05_Lady_Maudie.cfg:416
