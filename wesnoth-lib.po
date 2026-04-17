@@ -3,7 +3,7 @@
 # Vladimír Slávik <slavik.vladimir@seznam.cz>, 2007 - 2011.
 # Jan Dědič <jan.dedic@gmail.com>, 2014.
 # Martin Hrubý <hrubymar10@gmail.com>, 2017 - 2020.
-# Michal Žejdl <lachim@emer.cz>, 2019 - 2025
+# Michal Žejdl <lachim@emer.cz>, 2019 - 2026
 # Petr Šlejhar (Septim) <septim@centrum.cz>, 2020, 2021
 #
 msgid ""
@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 18:10-0500\n"
-"PO-Revision-Date: 2026-01-22 20:10+0100\n"
+"PO-Revision-Date: 2026-04-17 23:45+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3069,7 +3069,7 @@ msgstr "Obránce"
 #. This one is the page title, shown in bold.
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:205
 msgid "campaign_landing^Welcome to Wesnoth v1.20"
-msgstr ""
+msgstr "Vítej ve Wesnothu v1.20"
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:207
@@ -3081,6 +3081,11 @@ msgid ""
 "style='italic'>Heir to the Throne</span>. The intended way to learn both the "
 "story and the game mechanics is to play the campaigns in that order."
 msgstr ""
+"<b>Pokud jsi ve Wesnothu nový</b>, úvodní dějová linie začíná <span "
+"color='#e1e119' style='italic'>Jižní gardou</span>, sleduje tažení v pořadí, "
+"v jakém jsou uvedena vlevo, a končí o půl století později <span "
+"color='#e1e119' style='italic'>Dědicem trůnu</span>. Zamýšleným způsobem, "
+"jak se naučit příběh i herní mechanismy, je hrát tažení v tomto pořadí."
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:209
@@ -3088,6 +3093,7 @@ msgid ""
 "campaign_landing^<b>If you’re a returning player</b>, you’ll notice a number "
 "of changes since v1.18:"
 msgstr ""
+"<b>Pokud jsi navrátivší se hráč</b>, všimneš si od verze 1.18 řady změn:"
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:211
@@ -3097,6 +3103,10 @@ msgid ""
 "Konrad unique recruits, companions, or items. The original campaign is still "
 "available as <i>Heir to the Throne, Classic</i>."
 msgstr ""
+"<span color='#e1e119' style='italic'>Dědic trůnu</span> nyní nabízí otevřený "
+"svět s 33 větvenými scénáři, z nichž každý přináší Konrádovi jedinečné "
+"rekruty, společníky nebo předměty. Původní tažení je stále dostupné jako "
+"<i>Dědic trůnu, klasika</i>."
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:213
@@ -3107,6 +3117,10 @@ msgid ""
 "orcs of the north. Choose between 23 magic spells as you bear witness to the "
 "rise of a tyrant."
 msgstr ""
+"<span color='#e1e119' style='italic'>Podvodníkův gambit</span> nahrazuje "
+"<i>Delfadorovy paměti</i>. Sleduj mladého mága od pobřeží Alduinu až do "
+"královských síní, jak bojuje proti nelítostným skřetům ze severu. Vyber si "
+"z 23 kouzel a staň se svědkem vzestupu tyrana."
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:215
@@ -3115,6 +3129,9 @@ msgid ""
 "our first troll campaign. Lead the Golden Flame Tribe out from the bowels of "
 "Irdya and up to the surface world — but beware what awaits you there."
 msgstr ""
+"<span color='#e1e119' style='italic'>Soumrak úsvitu</span> je naše první "
+"trollí tažení. Vyveď kmen Zlatého plamene z útrob Irdye do světa na "
+"povrchu – ale dej si pozor, co tě tam čeká."
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:217
