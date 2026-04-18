@@ -80,37 +80,37 @@ msgstr "Normální"
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:30
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:36
 msgid "Prose and Story Editing, Code Preparation"
-msgstr ""
+msgstr "Úprava prózy a příběhu, příprava kódu"
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:42
 msgid "Art - Sprites"
-msgstr ""
+msgstr "Grafika – sprity"
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:49
 msgid "Wild and Beast Saurian Sprites"
-msgstr ""
+msgstr "Sprity ještěrácké divošky a bestie"
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:55
 msgid "Text Proofreading"
-msgstr ""
+msgstr "Opravy textu"
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:61
 msgid "WML Assistance"
-msgstr ""
+msgstr "Pomoc s WML"
 
 #. [about]
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:67
 msgid "Beta Testing"
-msgstr ""
+msgstr "Beta testování"
 
 #. [achievement]: id=dod_sbc
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:8
@@ -1529,7 +1529,7 @@ msgstr ""
 #. [unit_type]: id=Beast Saurian, race=lizard, gender=female
 #: data/campaigns/Dusk_of_Dawn/units/Beast_Saurian.cfg:5
 msgid "Beast Saurian"
-msgstr ""
+msgstr "Ještěrácká bestie"
 
 #. [unit_type]: id=Beast Saurian, race=lizard, gender=female
 #: data/campaigns/Dusk_of_Dawn/units/Beast_Saurian.cfg:19
@@ -1611,7 +1611,7 @@ msgstr ""
 #. [unit_type]: id=Wild Saurian, race=lizard, gender=female
 #: data/campaigns/Dusk_of_Dawn/units/Wild_Saurian.cfg:5
 msgid "Wild Saurian"
-msgstr ""
+msgstr "Ještěrácká divoška"
 
 #. [unit_type]: id=Wild Saurian, race=lizard, gender=female
 #: data/campaigns/Dusk_of_Dawn/units/Wild_Saurian.cfg:19
