@@ -228,7 +228,7 @@ msgid ""
 msgstr ""
 "To jsou trollové. Často se o nich mluví jako o bestiích, krvežíznivých "
 "monstrech, jimž ve stopách kráčí smrt a zkáza. Pravda je však jiná. Jak jsem "
-"již řekl, jsou prostě jen naivní… a někdy jednají poněkud bezhlavě."
+"již řekl, jsou prostě jen naivní... a někdy jednají poněkud bezhlavě."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:37
