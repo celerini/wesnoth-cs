@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 18:10-0500\n"
-"PO-Revision-Date: 2026-04-18 16:33+0200\n"
+"PO-Revision-Date: 2026-04-19 20:42+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3141,6 +3141,10 @@ msgid ""
 "the Bay of Pearls. When corsairs strike, the villagers must join forces with "
 "the local merfolk and take the fight to the pirates."
 msgstr ""
+"<span color='#e1e119' style='italic'>O perlách and pirátech</span> je nové "
+"tažení pro začátečníky, které se odehrává v ospalém rybářském městečku "
+"v Zátoce perel. Když udeří piráti, musí vesničané spojit síly s místními "
+"mořskými lidmi a pustit se do boje."
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:219
@@ -3151,6 +3155,10 @@ msgid ""
 "original tutorial is still available as part of <i>Heir to the Throne, "
 "Classic</i>."
 msgstr ""
+"<span color='#e1e119' style='italic'>Jižní hlídka</span> byla výrazně "
+"přepracována a nyní nahrazuje starý <i>Bojový výcvik</i>. Pro hráče, kterým "
+"se stýská po Delfadorově vedení, je původní tutoriál stále dostupný jako "
+"součást <i>Dědice trůnu, klasiky</i>."
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:221
@@ -3160,6 +3168,10 @@ msgid ""
 "AI, a new Thunderer advancement, a redesign of <i>High Pass</i>, and the re-"
 "addition of the formerly removed <i>Mages and Drakes</i>."
 msgstr ""
+"<span color='#e1e119' style='italic'>Thursaganovo kladivo</span> bylo "
+"vylepšeno úpravami příběhu, dokonalejší umělou inteligencí nepřátel, novým "
+"povýšením hromovládce, přepracováním <i>Vysokého průsmyku</i> a opětovným "
+"přidáním dříve odstraněných <i>Mágů a drakonidů</i>."
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:223
@@ -3170,6 +3182,10 @@ msgid ""
 "and dialogue sequences were changed for better continuity with other "
 "campaigns."
 msgstr ""
+"<span color='#e1e119' style='italic'>Větry osudu</span> byly nově vyváženy "
+"a mají mnohem nižší náklady na povolávání, přepracované objevování divoké "
+"zvěře a umělou inteligenci a mnohem větší bitvu uprostřed tažení. Několik "
+"postav a úryvků rozhovorů bylo změněno pro lepší návaznost na ostatní tažení."
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:225
@@ -3177,6 +3193,8 @@ msgid ""
 "campaign_landing^For a full list of changes, consult our official changelog "
 "at https://www.wesnoth.org/start/1.20/"
 msgstr ""
+"Úplný seznam změn najdeš v oficiálním záznamu na adrese https://"
+"www.wesnoth.org/start/1.20/."
 
 #. [label]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:246
