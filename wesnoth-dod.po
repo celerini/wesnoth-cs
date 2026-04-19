@@ -1,4 +1,5 @@
 # Michal Žejdl <lachim@emer.cz>, 2025, 2026
+# Karel Žid <zidkarel@gmail.com>, 2026
 #
 msgid ""
 msgstr ""
