@@ -391,7 +391,7 @@ msgid ""
 msgstr ""
 "Kamenné děti se vydaly na cestu. Jejich kroky vedly spletitými chodbami, "
 "které se vinuly nekonečnými útrobami podzemní říše. Neznali světlo, neboť do "
-"takové hlubiny nemohlo proniknout. Vzduch byl chladný a tichý."
+"takové hloubky nemohlo proniknout. Vzduch byl chladný a tichý."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:36
@@ -419,7 +419,7 @@ msgstr "Kmen Popelavého plamene"
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:135
 msgid "Cave Dwellers"
-msgstr "Obyvatelé Jeskyní"
+msgstr "Obyvatelé jeskyní"
 
 #. [objective]: condition=win
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:166
