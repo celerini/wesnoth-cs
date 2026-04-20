@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:11 UTC\n"
-"PO-Revision-Date: 2026-03-04 22:02+0100\n"
+"PO-Revision-Date: 2026-04-20 21:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -356,42 +356,42 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:52
 msgid "Bring the proper equipment to <i>Digging for Dwarves</i>."
-msgstr ""
+msgstr "Vezmi si na <i>Kopání pro trpaslíky</i> vhodné vybavení."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:52
 msgid "Minecraft"
-msgstr ""
+msgstr "Minecraft"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:55
 msgid "Complete <i>The Sceptre of Fire</i> on turn 40."
-msgstr ""
+msgstr "Dokonči <i>Ohnivé žezlo</i> ve 40. kole."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:55
 msgid "Procrastination"
-msgstr ""
+msgstr "Otálení"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:56
 msgid "Lose an important prisoner in <i>Plunging Into Darkness</i>."
-msgstr ""
+msgstr "Ve <i>Skoku do temnoty</i> přijď o důležitého vězně."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:56
 msgid "Oops..."
-msgstr ""
+msgstr "Jejda..."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:57
 msgid "Complete <i>The Swamp of Dread</i> without capturing any villages."
-msgstr ""
+msgstr "Dokonči <i>Močály děsu</i> a nezaber žádnou vesnici."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:57
 msgid "Domatophobia"
-msgstr ""
+msgstr "Domatofobie"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:60
@@ -3135,7 +3135,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1181
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:9
 msgid "Digging for Dwarves"
-msgstr ""
+msgstr "Kopání pro trpaslíky"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1185
 msgid ""
@@ -3501,7 +3501,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:22
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:230
 msgid "The Sceptre of Fire"
-msgstr ""
+msgstr "Ohnivé žezlo"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:155
 msgid ""
@@ -3623,7 +3623,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:354
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:5
 msgid "Plunging Into Darkness"
-msgstr ""
+msgstr "Skok do temnoty"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:380
 msgid "<b>Replacement Weapons</b> — Permanent Modifier"
@@ -3697,7 +3697,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:500
 msgid "The Swamp of Dread"
-msgstr ""
+msgstr "Močály děsu"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:511
@@ -14762,7 +14762,7 @@ msgstr ""
 #. [scenario]: id=32_The_Swamp_of_Dread
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:7
 msgid "scenario name^The Swamp of Dread"
-msgstr ""
+msgstr "Močály děsu"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:284
