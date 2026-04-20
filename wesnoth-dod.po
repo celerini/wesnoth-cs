@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-02-26 01:03 UTC\n"
-"PO-Revision-Date: 2026-04-18 14:30+0200\n"
+"PO-Revision-Date: 2026-04-20 18:54+0200\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -357,18 +357,20 @@ msgstr "...?"
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:339
 msgid "New motion suddenly disturbed the underground calm."
-msgstr ""
+msgstr "Nový pohyb náhle narušil klid v podzemí."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:362
 msgid ""
 "As if prompted by Ougl’s roar, other trolls also awoke from their sleep."
 msgstr ""
+"Jako povoláni Ouglovým řevem se i ostatní trollové začali probouzet ze svého "
+"spánku."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:399
 msgid "This is how trolls are born."
-msgstr ""
+msgstr "Takto se rodí trollové."
 
 #. [scenario]: id=01_First_Steps
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:5
@@ -378,7 +380,7 @@ msgstr "První kroky"
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:27
 msgid "As the first awakened, Ougl became the leader of his tribe."
-msgstr ""
+msgstr "Jakožto první probuzený, stal se Ougl vůdcem svého kmene."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:31
@@ -387,6 +389,9 @@ msgid ""
 "through intricate corridors deep underground. They did not know light, for "
 "it never reached these deep places. The air was cold."
 msgstr ""
+"Kamenné děti se vydaly na cestu. Jejich kroky vedly spletitými chodbami, "
+"které se vinuly nekonečnými útrobami podzemní říše. Neznali světlo, neboť do "
+"takové hlubiny nemohlo proniknout. Vzduch byl chladný a tichý."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:36
@@ -395,28 +400,31 @@ msgid ""
 "that had once belonged to the bearded race, one of the trolls began to "
 "behave quite unusually."
 msgstr ""
+"Když kmen Zlatého plamene (jak jej budu odteď nazývat) vstoupil do tunelů, "
+"které kdysi patřily vousaté rase, jeden z trollů se začal chovat poněkud "
+"neobvykle."
 
 #. [side]
 #. [unit]: type=Fire Guardian, id=IF
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:74
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:393
 msgid "Inner Flame"
-msgstr ""
+msgstr "Vnitřní plamen"
 
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:107
 msgid "Ash Flame Tribe"
-msgstr ""
+msgstr "Kmen Popelavého plamene"
 
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:135
 msgid "Cave Dwellers"
-msgstr ""
+msgstr "Obyvatelé Jeskyní"
 
 #. [objective]: condition=win
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:166
 msgid "Defeat the Inner Flame and Ash Flame leaders"
-msgstr ""
+msgstr "Poraz Vnitřní plamen a vůdce Popelavého plamene"
 
 #. [objective]: condition=lose
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:170
@@ -426,48 +434,48 @@ msgstr ""
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:648
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:99
 msgid "Death of Ougl"
-msgstr ""
+msgstr "Smrt Ougla"
 
 #. [unit]: type=Troll Whelp, id=AU
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:229
 msgid "Arru"
-msgstr ""
+msgstr "Arru"
 
 #. [unit]: type=Troll Whelp, id=GO
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:246
 msgid "Gao"
-msgstr ""
+msgstr "Gao"
 
 #. [unit]: type=Troll Whelp, id=NM
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:263
 msgid "Nuum"
-msgstr ""
+msgstr "Nuum"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:280
 msgid "Suddenly, one of the trolls began to behave strangely."
-msgstr ""
+msgstr "Najednou se jeden z trollů začal chovat podivně."
 
 #. [unit]: type=Troll Whelp, id=UG
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:286
 msgid "Strange Troll"
-msgstr ""
+msgstr "Divný troll"
 
 #. [message]: speaker=UG
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:360
 msgid "Ullg!!"
-msgstr ""
+msgstr "Ullg!!"
 
 #. [modify_unit]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:387
 msgid "Ullg the Flameless"
-msgstr ""
+msgstr "Ullg bez Plamene"
 
 #. [message]: speaker=IF
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:443
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:821
 msgid "S s s s...!"
-msgstr ""
+msgstr "S s s s...!"
 
 #. [message]: speaker=OL
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:482
@@ -475,12 +483,12 @@ msgstr ""
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:617
 #: data/campaigns/Dusk_of_Dawn/utils/defeat.cfg:27
 msgid "Ougl?"
-msgstr ""
+msgstr "Ougl?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:638
 msgid "H i s s...!"
-msgstr ""
+msgstr "S s s s...!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:705
