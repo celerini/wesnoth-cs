@@ -469,7 +469,7 @@ msgstr "Ullg!!"
 #. [modify_unit]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:387
 msgid "Ullg the Flameless"
-msgstr "Ullg bez Plamene"
+msgstr "Ullg bez plamene"
 
 #. [message]: speaker=IF
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:443
