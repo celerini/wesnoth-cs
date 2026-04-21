@@ -434,7 +434,7 @@ msgstr "Poraz vůdce Vnitřního a Popelavého plamene"
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:648
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:99
 msgid "Death of Ougl"
-msgstr "Smrt Ougla"
+msgstr "Ougl zemře"
 
 #. [unit]: type=Troll Whelp, id=AU
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:229
