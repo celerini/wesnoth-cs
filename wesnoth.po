@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-19 22:20-0500\n"
-"PO-Revision-Date: 2026-03-26 20:51+0100\n"
+"PO-Revision-Date: 2026-04-21 20:24+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5558,10 +5558,8 @@ msgid "Remote host disconnected."
 msgstr "Vzdálený hostitel se odpojil."
 
 #: src/addon/manager_ui.cpp:63
-#, fuzzy
-#| msgid "Map generator error: "
 msgid "Raw network error:"
-msgstr "Chyba v generátoru map: "
+msgstr "Skutečná síťová chyba:"
 
 #: src/addon/manager_ui.cpp:97 src/addon/manager_ui.cpp:336
 msgid "Network communication error."
