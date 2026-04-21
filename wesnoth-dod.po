@@ -400,7 +400,7 @@ msgid ""
 "that had once belonged to the bearded race, one of the trolls began to "
 "behave quite unusually."
 msgstr ""
-"Když kmen Zlatého plamene (jak jej budu odteď nazývat) vstoupil do tunelů, "
+"Když Kmen zlatého plamene (jak jej budu odteď nazývat) vstoupil do tunelů, "
 "které kdysi patřily vousaté rase, jeden z trollů se začal chovat poněkud "
 "neobvykle."
 
