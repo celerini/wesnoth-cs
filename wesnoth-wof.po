@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-02-26 01:03 UTC\n"
+"POT-Creation-Date: 2026-04-20 03:20 UTC\n"
 "PO-Revision-Date: 2026-04-01 20:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -4798,33 +4798,8 @@ msgstr ""
 "jejímu doprovodu veškerou zdvořilost a budu je pokoušet všemi lahůdkami elfí "
 "kuchyně – okořeněnými hoblinami tisu..."
 
-#. [scenario]: id=07_Harvest
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:505
-msgid "$unit.name finds a shiny sapphire. Do you want this unit to take it?"
-msgstr ""
-"Jednotka jménem $unit.name našla lesklý safír. Chceš, aby si ho tato "
-"jednotka vzala?"
-
-#. [scenario]: id=07_Harvest
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:506
-msgid "Sapphire of Ice^Take it"
-msgstr "Ať ho vezme"
-
-#. [scenario]: id=07_Harvest
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:507
-msgid "Sapphire of Ice^Leave it"
-msgstr "Ať ho nechá být"
-
-#. [scenario]: id=07_Harvest
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:508
-msgid ""
-"$unit.name finds a shiny sapphire. But only a speaking unit can take it!"
-msgstr ""
-"Jednotka jménem $unit.name našla lesklý safír. Ale jen jednotka, co umí "
-"mluvit, si ho může vzít!"
-
 #. [message]: speaker=Salennea
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:523
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:515
 msgid ""
 "Might I tempt you with some of the finest floral refreshments of elvish "
 "cuisine?"
@@ -4833,7 +4808,7 @@ msgstr ""
 "kuchyně?"
 
 #. [message]: speaker=Arinexis
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:527
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:519
 msgid ""
 "Sssalennea, has your Ka’lian ruled to formally apologize to our Sssaurian "
 "Empire for sssetting loossse your human minions upon usssss?"
@@ -4842,7 +4817,7 @@ msgstr ""
 "ješštěrácké říšši zza to, žže trpěla činy vaššich lidsských přissluhovačů?"
 
 #. [message]: speaker=Salennea
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:533
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:525
 msgid ""
 "The Ka’lian neither confirms nor denies any involvement.\n"
 "\n"
@@ -4855,23 +4830,23 @@ msgstr ""
 "vy také!"
 
 #. [message]: speaker=Arinexis
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:539
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:531
 msgid "Oh we will move on, we will..."
 msgstr "Jassně, odpoutáme sse, odpoutáme..."
 
 #. [message]: speaker=Arinexis
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:543
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:535
 msgid "...as sssoon as we have finished with you here."
 msgstr "... jakmile tu ss tebou sskončíme!"
 
 #. [message]: speaker=Arinexis
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:547
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:539
 msgid "Gorlack, pray position your hunters well and then let usss attack!"
 msgstr ""
 "Gorlaku, rozzmíssti prossím dobře ssvé lovce a pak náss nech zzaútočit!"
 
 #. [message]: speaker=Salennea
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:563
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:555
 msgid ""
 "Nay! This is a thing too terrible to foresee. Vonel, save me from these "
 "monsters!"
@@ -4880,7 +4855,7 @@ msgstr ""
 "mě před těmito monstry!"
 
 #. [message]: speaker=Vonel
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:568
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:560
 msgid ""
 "I am coming to save you, m’Lady!\n"
 "\n"
@@ -4891,7 +4866,7 @@ msgstr ""
 "Pošlete holuby se zprávou pro Kalian o nebezpečí, co nám tu hrozí!"
 
 #. [message]: speaker=Nomeon
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:576
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:568
 msgid ""
 "Lady Salennea loosed them to the wilds this morning for sake of their well "
 "being...\n"
@@ -4903,21 +4878,21 @@ msgstr ""
 "Donesu zprávu sám!"
 
 #. [message]: speaker=Vonel
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:583
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:575
 msgid "Nay, I need you here to defend this march until your dying bre—"
 msgstr "Ne. Potřebuji tě tady, abys bránil toho pohraničí až do posledního..."
 
 #. [message]: speaker=Vonel
 #. [message]: speaker=Zedrix
 #. [message]: speaker=Arinexis
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:596
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:588
 #: data/campaigns/Winds_of_Fate/scenarios/09_Ancestor.cfg:526
 #: data/campaigns/Winds_of_Fate/scenarios/11_Crosswind.cfg:381
 msgid "..."
 msgstr "..."
 
 #. [message]: speaker=Salennea
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:615
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:607
 msgid ""
 "You have slain me, Vonel. Your bias and slander against these gentle giants "
 "imbued them with a terrible yet justifiable wrath!"
@@ -4926,7 +4901,7 @@ msgstr ""
 "prodchly hrozným, ale ospravedlnitelným hněvem!"
 
 #. [message]: speaker=Vonel
-#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:619
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:611
 msgid ""
 "If only I had listened to you, my Lady... <small><i>my princess</i></"
 "small> ...\n"
@@ -4937,8 +4912,33 @@ msgstr ""
 "\n"
 "Neeeeee!"
 
-#. [message]: speaker=Gorlack
+#. [event]
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:626
+msgid "$unit.name finds a shiny sapphire. Do you want this unit to take it?"
+msgstr ""
+"Jednotka jménem $unit.name našla lesklý safír. Chceš, aby si ho tato "
+"jednotka vzala?"
+
+#. [event]
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:627
+msgid "Sapphire of Ice^Take it"
+msgstr "Ať ho vezme"
+
+#. [event]
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:628
+msgid "Sapphire of Ice^Leave it"
+msgstr "Ať ho nechá být"
+
+#. [event]
 #: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:629
+msgid ""
+"$unit.name finds a shiny sapphire. But only a speaking unit can take it!"
+msgstr ""
+"Jednotka jménem $unit.name našla lesklý safír. Ale jen jednotka, co umí "
+"mluvit, si ho může vzít!"
+
+#. [message]: speaker=Gorlack
+#: data/campaigns/Winds_of_Fate/scenarios/07_Harvest.cfg:638
 msgid ""
 "Flight, spread forth.\n"
 "Seize all this jungle offers us.\n"
