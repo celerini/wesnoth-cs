@@ -424,7 +424,7 @@ msgstr "Obyvatelé jeskyní"
 #. [objective]: condition=win
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:166
 msgid "Defeat the Inner Flame and Ash Flame leaders"
-msgstr "Poraz Vnitřní plamen a vůdce Popelavého plamene"
+msgstr "Poraz vůdce Vnitřního a Popelavého plamene"
 
 #. [objective]: condition=lose
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:170
