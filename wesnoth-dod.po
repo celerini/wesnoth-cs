@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-20 03:20 UTC\n"
-"PO-Revision-Date: 2026-04-21 20:14+0200\n"
+"PO-Revision-Date: 2026-04-23 19:13+0200\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -493,12 +493,12 @@ msgstr "S s s s...!"
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:705
 msgid "The finder of the mysterious egg made a decision without much thought."
-msgstr ""
+msgstr "Nálezce podivného vejce učinil rozhodnutí bez dlouhého přemýšlení."
 
 #. [unit]: type=Fire Ant, id=LA
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:739
 msgid "Lonely Ant"
-msgstr ""
+msgstr "Osamělý mravenec"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:776
@@ -506,11 +506,13 @@ msgid ""
 "There are many unexplainable things in this world. This is one of them: the "
 "little ant decided to join the trolls."
 msgstr ""
+"Na tomto světě je spousta nevysvětlitelných věcí. Tohle je jedna z nich: "
+"malý mravenec se rozhodl přidat ke trollům."
 
 #. [message]: speaker=UG
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:833
 msgid "Ullg...!"
-msgstr ""
+msgstr "Ullg...!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:848
@@ -518,6 +520,8 @@ msgid ""
 "Ougl has learned how to control his inner flame. You can now recruit <b>Fire "
 "Guardians</b>."
 msgstr ""
+"Ougl se naučil ovládat svůj vnitřní plamen. Nyní můžeš rekrutovat "
+"<b>Plamenné strážce</b>."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:859
@@ -525,6 +529,8 @@ msgid ""
 "Also... some of the trolls, like their leader, began to feel a mysterious "
 "connection to fire. You can now recruit <b>Troll Initiates</b>."
 msgstr ""
+"Navíc... někteří trollové, stejně jako jejich vůdce, začali pociťovat "
+"tajemné pouto s ohněm. Nyní můžeš rekrutovat <b>Trollí novice</b>."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:877
@@ -532,16 +538,18 @@ msgid ""
 "There is an open trapdoor in the ruined dwarven castle. Do you want to go "
 "through it and play the bonus puzzle level?"
 msgstr ""
+"V troskách trpasličího hradu jsou otevřené padací dveře. Chceš jimi projít a "
+"zahrát si bonusový scénář zaměřený na logické myšlení?"
 
 #. [option]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:879
 msgid "I will play the bonus puzzle scenario."
-msgstr ""
+msgstr "Zahraju si bonusový logický scénář."
 
 #. [option]
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:890
 msgid "I don’t want to play the bonus puzzle scenario."
-msgstr ""
+msgstr "Nechci hrát bonusový logický scénář."
 
 #. [scenario]: id=02_A_Dream
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:5
@@ -554,6 +562,8 @@ msgid ""
 "Soon Ougl saw that they had come to a dead end. The way forward was blocked "
 "by rock and stone."
 msgstr ""
+"Ougl brzy zjistil, že se dostali do slepé uličky. Cesta vpřed byla "
+"zablokována skalami a kameny."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:26
@@ -561,42 +571,44 @@ msgid ""
 "There were two options. The trolls could either turn back the way they came "
 "or... break through."
 msgstr ""
+"Měli dvě možnosti. Mohli se buď vrátit zpět, kudy přišli, nebo… prorazit "
+"skrz."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:31
 msgid "Of course, they chose the latter."
-msgstr ""
+msgstr "Samozřejmě si vybrali druhou možnost."
 
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:77
 msgid "Grove Guardians"
-msgstr ""
+msgstr "Strážci háje"
 
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:102
 msgid "Emmm the Oak"
-msgstr ""
+msgstr "Dub Emmm"
 
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:103
 msgid "Ummm the Birch"
-msgstr ""
+msgstr "Bříza Ummm"
 
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:104
 msgid "Immm the Linden"
-msgstr ""
+msgstr "Lípa Immm"
 
 #. [unit]: type=Wose Shaman, id=OM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:109
 msgid "Ommm the Oldest"
-msgstr ""
+msgstr "Nejstarší Ommm"
 
 #. [objective]: condition=win
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:169
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1151
 msgid "Survive until turns run out"
-msgstr ""
+msgstr "Přežij do konce kol"
 
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:183
@@ -605,6 +617,9 @@ msgid ""
 "If a Fire Guardian or Fire Wraith moves on a forest or grass tile it will "
 "partially burn down. Enter a tile twice to completely burn it down."
 msgstr ""
+"Pokud se Plamenný strážce nebo Ohnivý přízrak přesune na pole s lesem nebo "
+"trávou, dojde k jeho částečnému spálení. Pokud na ně vstoupí dvakrát, spálí "
+"pole úplně."
 
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:187
@@ -613,12 +628,15 @@ msgid ""
 "The grove area has a special time of day: Mystic Light, which gives lawful "
 "units bonus +25%, and chaotic -25%."
 msgstr ""
+"V oblasti háje panují v určitou denní dobu zvláštní podmínky. Mystické "
+"světlo zde poskytuje zákonným jednotkám bonus +25 % a chaotickým jednotkám "
+"postih -25 %."
 
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:191
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1177
 msgid "Woses teleport from the castle through the Great Trees."
-msgstr ""
+msgstr "Stromovci se přemisťují z hradu skrze Velké stromy."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:237
@@ -626,16 +644,19 @@ msgid ""
 "Now that Ougl was able to control his inner flame, he could easily break "
 "through stone walls."
 msgstr ""
+"Nyní, když se Ougl naučil ovládat svůj vnitřní plamen, dokázal bez problémů "
+"prorazit kamenné zdi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:366
 msgid "First the stone wall was heated, and then Ougl smashed it."
-msgstr ""
+msgstr "Nejprve se kamenná zeď zahřála a pak ji Ougl rozbil."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:372
 msgid "I have no idea why such a thing should work, but it made sense to Ougl."
 msgstr ""
+"Netuším, jak něco takového mohlo fungovat, ale Ouglovi to smysl dávalo."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:628
@@ -643,6 +664,8 @@ msgid ""
 "Ougl broke through the rocks again and again until he opened a way to a very "
 "mysterious place."
 msgstr ""
+"Ougl se znovu a znovu prorážel skály, dokud si neprorazil cestu na velmi "
+"tajemné místo."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:634
