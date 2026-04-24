@@ -636,7 +636,7 @@ msgstr ""
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:191
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1177
 msgid "Woses teleport from the castle through the Great Trees."
-msgstr "Stromovci se přemisťují z hradu skrze Velké stromy."
+msgstr "Stromovci se přemisťují z hradu skrze velké stromy."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:237
