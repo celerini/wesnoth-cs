@@ -617,7 +617,7 @@ msgid ""
 "If a Fire Guardian or Fire Wraith moves on a forest or grass tile it will "
 "partially burn down. Enter a tile twice to completely burn it down."
 msgstr ""
-"Pokud se Plamenný strážce nebo Ohnivý přízrak přesune na pole s lesem nebo "
+"Pokud se plamenný strážce nebo ohnivý přízrak přesune na políčko s lesem nebo "
 "trávou, dojde k jeho částečnému spálení. Pokud na ně vstoupí dvakrát, spálí "
 "pole úplně."
 
