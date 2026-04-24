@@ -571,7 +571,7 @@ msgid ""
 "There were two options. The trolls could either turn back the way they came "
 "or... break through."
 msgstr ""
-"Měli dvě možnosti. Mohli se buď vrátit zpět, kudy přišli, nebo… prorazit "
+"Měli dvě možnosti. Mohli se buď vrátit zpět, kudy přišli, nebo... prorazit "
 "skrz."
 
 #. [part]
