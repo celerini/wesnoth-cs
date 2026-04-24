@@ -530,7 +530,7 @@ msgid ""
 "connection to fire. You can now recruit <b>Troll Initiates</b>."
 msgstr ""
 "Navíc... někteří trollové, stejně jako jejich vůdce, začali pociťovat "
-"tajemné pouto s ohněm. Nyní můžeš rekrutovat <b>Trollí novice</b>."
+"tajemné pouto s ohněm. Nyní můžeš rekrutovat <b>trollí novice</b>."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:877
