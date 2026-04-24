@@ -664,7 +664,7 @@ msgid ""
 "Ougl broke through the rocks again and again until he opened a way to a very "
 "mysterious place."
 msgstr ""
-"Ougl se znovu a znovu prorážel skály, dokud si neprorazil cestu na velmi "
+"Ougl znovu a znovu prorážel skály, dokud si neprorazil cestu na velmi "
 "tajemné místo."
 
 #. [message]: speaker=narrator
