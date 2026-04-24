@@ -521,7 +521,7 @@ msgid ""
 "Guardians</b>."
 msgstr ""
 "Ougl se naučil ovládat svůj vnitřní plamen. Nyní můžeš rekrutovat "
-"<b>Plamenné strážce</b>."
+"<b>plamenné strážce</b>."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:859
