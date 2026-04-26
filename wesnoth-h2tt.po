@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-20 03:20 UTC\n"
-"PO-Revision-Date: 2026-04-24 23:38+0200\n"
+"PO-Revision-Date: 2026-04-26 08:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -429,32 +429,32 @@ msgstr "Pacifista"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:63
 msgid "Defeat the Saurian leader in <i>Underground Channels</i>."
-msgstr ""
+msgstr "V <i>Podzemních kanálech</i> poraz vůdce ještěráků."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:63
 msgid "Lizard Hunter"
-msgstr ""
+msgstr "Lovec ještěrů"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:64
 msgid "Defeat all enemy leaders in <i>Test of the Clans</i>."
-msgstr ""
+msgstr "Ve <i>Zkoušce klanů</i> poraz všechny nepřátelské vůdce."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:64
 msgid "Grand Knight"
-msgstr ""
+msgstr "Velký rytíř"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:65
 msgid "Call of the Wild"
-msgstr ""
+msgstr "Volání divočiny"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:65
 msgid "Fight alongside an unexpected ally in <i>Dan’Tonk</i>."
-msgstr ""
+msgstr "V <i>Dan’Tonku</i> bojuj po boku nečekaného spojence."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:68
@@ -2203,7 +2203,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1077
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1208
 msgid "Dan’Tonk"
-msgstr ""
+msgstr "Dan’Tonk"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1093
@@ -4054,7 +4054,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:400
 msgid "Underground Channels"
-msgstr ""
+msgstr "Podzemní kanály"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:404
 msgid "New Recruit for Delfador:"
@@ -4648,7 +4648,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1101
 msgid "Test of the Clans"
-msgstr ""
+msgstr "Zkouška klanů"
 
 #. [message]: speaker=Alric
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1118
@@ -16946,7 +16946,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:9
 msgid "scenario name^Underground Channels"
-msgstr ""
+msgstr "Podzemní kanály"
 
 #. [side]: id=leader3, type=Saurian Javelineer
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:82
@@ -17302,7 +17302,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:8
 msgid "scenario name^Test of the Clans"
-msgstr ""
+msgstr "Zkouška klanů"
 
 #. [side]: type=Grand Knight, id={ID}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:41
@@ -17649,7 +17649,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:10
 msgid "scenario name^Dan’Tonk"
-msgstr ""
+msgstr "Dan’Tonk"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:265
