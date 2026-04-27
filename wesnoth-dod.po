@@ -31,8 +31,8 @@ msgstr "SÚ"
 #. [campaign]: id=Dusk_of_Dawn
 #: data/campaigns/Dusk_of_Dawn/_main.cfg:18
 msgid ""
-"Deep underneath the Heart Mountains, a new tribe of trolls awakens. Help them "
-"grow and eventually fulfill Ougl Firstborn’s biggest dream."
+"Deep underneath the Heart Mountains, a new tribe of trolls awakens. Help "
+"them grow and eventually fulfill Ougl Firstborn’s biggest dream."
 msgstr ""
 "Hluboko pod Srdcovými horami se probouzí nový kmen trollů. Pomoz jim vyrůst "
 "a nakonec splnit největší sen Ougla Prvorozeného."
@@ -180,7 +180,8 @@ msgstr "Scénář 3: Ssvůj boj"
 
 #. [achievement]: id=dod_hb
 #: data/campaigns/Dusk_of_Dawn/achievements.cfg:57
-msgid "Attack the Blue Blood Saurian leader with Refumee in <i>Fateful Day</i>."
+msgid ""
+"Attack the Blue Blood Saurian leader with Refumee in <i>Fateful Day</i>."
 msgstr "V <i>Osudném dni</i> zaútoč s Refumee na vůdce ještěráků modré krve."
 
 #. [scenario]: id=00_Being_Born
@@ -201,20 +202,20 @@ msgstr ""
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:24
 msgid ""
-"This vast expanse of craggy hills and mountain peaks is home to many dwarves, "
-"who are usually engrossed in a feverish search for ever rarer ores, or else "
-"getting themselves drunk on honey."
+"This vast expanse of craggy hills and mountain peaks is home to many "
+"dwarves, who are usually engrossed in a feverish search for ever rarer ores, "
+"or else getting themselves drunk on honey."
 msgstr ""
 "V těchto rozlehlých končinách skalnatých kopců a horských vrcholů žije mnoho "
-"trpaslíků, kteří se většinou věnují horečnatému hledání stále vzácnějších rud "
-"nebo opíjení medovinou."
+"trpaslíků, kteří se většinou věnují horečnatému hledání stále vzácnějších "
+"rud nebo opíjení medovinou."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:28
 msgid ""
 "Other creatures also live in the shadows of the dark caves and earthy "
-"grottos. Creatures great and terrible in appearance, but naive in nature, and "
-"easy to manipulate."
+"grottos. Creatures great and terrible in appearance, but naive in nature, "
+"and easy to manipulate."
 msgstr ""
 "Ve stínech temných jeskyní a zemitých grott žijí i další bytosti. Bytosti "
 "mohutného a děsivého vzezření, avšak povahy naivní a snadno manipulovatelné."
@@ -237,8 +238,8 @@ msgid ""
 "first came to the Great Continent. This is a story of the evil that pursued "
 "us here, and the sadness that has come to the trolls..."
 msgstr ""
-"Příběh, který vám nyní povím, se odehrál šestnáct let poté, co jsme my, lidé, "
-"poprvé přišli na Velký kontinent. Je to příběh o zlu, které nás sem "
+"Příběh, který vám nyní povím, se odehrál šestnáct let poté, co jsme my, "
+"lidé, poprvé přišli na Velký kontinent. Je to příběh o zlu, které nás sem "
 "pronásledovalo, a o neštěstí, které trolly postihlo..."
 
 #. [part]
@@ -360,7 +361,8 @@ msgstr "Nový pohyb náhle narušil klid v podzemí."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/00_Being_Born.cfg:362
-msgid "As if prompted by Ougl’s roar, other trolls also awoke from their sleep."
+msgid ""
+"As if prompted by Ougl’s roar, other trolls also awoke from their sleep."
 msgstr ""
 "Jako povoláni Ouglovým řevem se i ostatní trollové začali probouzet ze svého "
 "spánku."
@@ -384,8 +386,8 @@ msgstr "Jakožto první probuzený, stal se Ougl vůdcem svého kmene."
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:31
 msgid ""
 "The children of stone moved forward. Their path — not an easy one — led "
-"through intricate corridors deep underground. They did not know light, for it "
-"never reached these deep places. The air was cold."
+"through intricate corridors deep underground. They did not know light, for "
+"it never reached these deep places. The air was cold."
 msgstr ""
 "Kamenné děti se vydaly na cestu. Jejich kroky vedly spletitými chodbami, "
 "které se vinuly nekonečnými útrobami podzemní říše. Neznali světlo, neboť do "
@@ -395,8 +397,8 @@ msgstr ""
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:36
 msgid ""
 "When the Golden Flame Tribe (as I will henceforth call them) entered tunnels "
-"that had once belonged to the bearded race, one of the trolls began to behave "
-"quite unusually."
+"that had once belonged to the bearded race, one of the trolls began to "
+"behave quite unusually."
 msgstr ""
 "Když kmen Zlatého plamene (jak jej budu odteď nazývat) vstoupil do tunelů, "
 "které kdysi patřily vousaté rase, jeden z trollů se začal chovat poněkud "
@@ -504,8 +506,8 @@ msgid ""
 "There are many unexplainable things in this world. This is one of them: the "
 "little ant decided to join the trolls."
 msgstr ""
-"Na tomto světě je spousta nevysvětlitelných věcí. Tohle je jedna z nich: malý "
-"mravenec se rozhodl přidat ke trollům."
+"Na tomto světě je spousta nevysvětlitelných věcí. Tohle je jedna z nich: "
+"malý mravenec se rozhodl přidat ke trollům."
 
 #. [message]: speaker=UG
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:833
@@ -518,8 +520,8 @@ msgid ""
 "Ougl has learned how to control his inner flame. You can now recruit <b>Fire "
 "Guardians</b>."
 msgstr ""
-"Ougl se naučil ovládat svůj vnitřní plamen. Nyní můžeš rekrutovat <b>plamenné "
-"strážce</b>."
+"Ougl se naučil ovládat svůj vnitřní plamen. Nyní můžeš rekrutovat "
+"<b>plamenné strážce</b>."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:859
@@ -527,8 +529,8 @@ msgid ""
 "Also... some of the trolls, like their leader, began to feel a mysterious "
 "connection to fire. You can now recruit <b>Troll Initiates</b>."
 msgstr ""
-"Navíc... někteří trollové, stejně jako jejich vůdce, začali pociťovat tajemné "
-"pouto s ohněm. Nyní můžeš rekrutovat <b>trollí novice</b>."
+"Navíc... někteří trollové, stejně jako jejich vůdce, začali pociťovat "
+"tajemné pouto s ohněm. Nyní můžeš rekrutovat <b>trollí novice</b>."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/01_First_Steps.cfg:877
@@ -615,9 +617,9 @@ msgid ""
 "If a Fire Guardian or Fire Wraith moves on a forest or grass tile it will "
 "partially burn down. Enter a tile twice to completely burn it down."
 msgstr ""
-"Pokud se plamenný strážce nebo ohnivý přízrak přesune na políčko s lesem nebo "
-"trávou, dojde k jeho částečnému spálení. Pokud na ně vstoupí dvakrát, spálí "
-"pole úplně."
+"Pokud se plamenný strážce nebo ohnivý přízrak přesune na políčko s lesem "
+"nebo trávou, dojde k jeho částečnému spálení. Pokud na ně vstoupí dvakrát, "
+"spálí pole úplně."
 
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:187
@@ -626,9 +628,9 @@ msgid ""
 "The grove area has a special time of day: Mystic Light, which gives lawful "
 "units bonus +25%, and chaotic -25%."
 msgstr ""
-"V oblasti háje panují v určitou denní dobu zvláštní podmínky. Mystické světlo "
-"zde poskytuje zákonným jednotkám bonus +25 % a chaotickým jednotkám postih "
-"-25 %."
+"V oblasti háje panují v určitou denní dobu zvláštní podmínky. Mystické "
+"světlo zde poskytuje zákonným jednotkám bonus +25 % a chaotickým jednotkám "
+"postih -25 %."
 
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:191
@@ -653,7 +655,8 @@ msgstr "Nejprve se kamenná zeď zahřála a pak ji Ougl rozbil."
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:372
 msgid "I have no idea why such a thing should work, but it made sense to Ougl."
-msgstr "Netuším, jak něco takového mohlo fungovat, ale Ouglovi to smysl dávalo."
+msgstr ""
+"Netuším, jak něco takového mohlo fungovat, ale Ouglovi to smysl dávalo."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:628
@@ -661,14 +664,14 @@ msgid ""
 "Ougl broke through the rocks again and again until he opened a way to a very "
 "mysterious place."
 msgstr ""
-"Ougl znovu a znovu prorážel skály, dokud si neprorazil cestu na velmi tajemné "
-"místo."
+"Ougl znovu a znovu prorážel skály, dokud si neprorazil cestu na velmi "
+"tajemné místo."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:634
 msgid ""
-"They were no longer as deep underground as before and the darkness was not as "
-"thick."
+"They were no longer as deep underground as before and the darkness was not "
+"as thick."
 msgstr ""
 "Již nebyli tak hluboko pod zemí jako předtím a tma zde nebyla tak hustá."
 
@@ -676,7 +679,8 @@ msgstr ""
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:724
 msgid ""
 "Ougl loved this strange new green color, and there was plenty of it here."
-msgstr "Ouglovi se nová podivná zelená barva moc líbila a tady jí byla spousta."
+msgstr ""
+"Ouglovi se nová podivná zelená barva moc líbila a tady jí byla spousta."
 
 #. [unit]: type=Wose, id=AM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:735
@@ -737,9 +741,9 @@ msgstr "S y s y...!"
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1112
 msgid ""
-"The Saurian’s speech meant nothing to Ougl, but Ougl felt that he could trust "
-"and rely on her. He felt that the swamp dweller was not hostile and wanted to "
-"support him."
+"The Saurian’s speech meant nothing to Ougl, but Ougl felt that he could "
+"trust and rely on her. He felt that the swamp dweller was not hostile and "
+"wanted to support him."
 msgstr ""
 "Ačkoli Ougl nerozuměl jazyku ještěřice, podvědomí mu říkalo, že jí může "
 "věřit. Cítil, že obyvatelka bažin k němu není nepřátelská a chce mu pomoci."
@@ -782,8 +786,8 @@ msgid ""
 "creatures, knew it was their end."
 msgstr ""
 "Po smrti jednoho ze tří velkých strážců háje propadli stromovci zuřivosti. "
-"Trollové, kteří byli vůči těmto podivným novým tvorům bezmocní, věděli, že je "
-"to jejich konec."
+"Trollové, kteří byli vůči těmto podivným novým tvorům bezmocní, věděli, že "
+"je to jejich konec."
 
 #. [message]: speaker=OM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1245
@@ -809,8 +813,8 @@ msgstr "O m m m..."
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1319
 msgid ""
-"The awakened Wose Shaman spoke to Ougl in a strange way, and Ougl understood. "
-"The Wose’s name was Ommm, and it was the leader of the tree folk."
+"The awakened Wose Shaman spoke to Ougl in a strange way, and Ougl "
+"understood. The Wose’s name was Ommm, and it was the leader of the tree folk."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -876,8 +880,8 @@ msgstr "Osudný den"
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:27
 msgid ""
-"The Wose Shaman, as promised, told the trolls where they should go to get out "
-"of the caves."
+"The Wose Shaman, as promised, told the trolls where they should go to get "
+"out of the caves."
 msgstr ""
 
 #. [part]
@@ -1160,8 +1164,8 @@ msgstr ""
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:669
 msgid ""
-"In this scenario, trolls entering mushroom terrain will destroy the mushrooms "
-"and gain berserk on their melee attacks."
+"In this scenario, trolls entering mushroom terrain will destroy the "
+"mushrooms and gain berserk on their melee attacks."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -1292,9 +1296,9 @@ msgstr ""
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:29
 msgid ""
-"The old wose’s directions had been too complicated for Ougl to follow. He had "
-"forgotten most of them already. But with a guide, the trolls would surely "
-"reach their goal."
+"The old wose’s directions had been too complicated for Ougl to follow. He "
+"had forgotten most of them already. But with a guide, the trolls would "
+"surely reach their goal."
 msgstr ""
 
 #. [unit]: type=Naga Fighter, id=IA, gender=female
@@ -1310,8 +1314,8 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:170
 msgid ""
-"Ougl took a step towards the exit, but hesitated for a moment. He wasn’t sure "
-"why."
+"Ougl took a step towards the exit, but hesitated for a moment. He wasn’t "
+"sure why."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -1324,9 +1328,9 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:251
 msgid ""
-"A bright light shone overhead, brighter than anything Ougl had ever seen. The "
-"light hurt to look at. The light made everything hurt to look at, but Ougl "
-"kept looking anyway."
+"A bright light shone overhead, brighter than anything Ougl had ever seen. "
+"The light hurt to look at. The light made everything hurt to look at, but "
+"Ougl kept looking anyway."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -1406,8 +1410,8 @@ msgstr ""
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:916
 msgid ""
-"<b>Arg-hah!</b> (You have no chance to win against me. Do you understand? Ha, "
-"ha, ha...!)"
+"<b>Arg-hah!</b> (You have no chance to win against me. Do you understand? "
+"Ha, ha, ha...!)"
 msgstr ""
 
 #. [message]: speaker=AR
@@ -1475,7 +1479,8 @@ msgstr ""
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:24
 msgid ""
 "They are well known for frantically mining treasures and adorning themselves "
-"with jewels. Less well known is that they practice a mysterious kind of magic."
+"with jewels. Less well known is that they practice a mysterious kind of "
+"magic."
 msgstr ""
 
 #. [part]
@@ -1545,7 +1550,8 @@ msgstr ""
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:655
 msgid ""
 "This amulet radiates an aura of power. It is engraved with the head of a "
-"raven, birds that have been great allies of the dwarves since time immemorial."
+"raven, birds that have been great allies of the dwarves since time "
+"immemorial."
 msgstr ""
 
 #. [message]: speaker=narrator
@@ -1579,9 +1585,9 @@ msgstr "Ještěrácká bestie"
 #. [unit_type]: id=Beast Saurian, race=lizard, gender=female
 #: data/campaigns/Dusk_of_Dawn/units/Beast_Saurian.cfg:19
 msgid ""
-"As they grow older, Wild Saurians begin to be able to produce the poison with "
-"which they coat their sickles. This allows them to weaken their prey, which "
-"quickly falls under the strain of time."
+"As they grow older, Wild Saurians begin to be able to produce the poison "
+"with which they coat their sickles. This allows them to weaken their prey, "
+"which quickly falls under the strain of time."
 msgstr ""
 
 #. [attack]: type=blade
@@ -1626,9 +1632,9 @@ msgstr ""
 #. [unit_type]: id=Troll Initiate, race=troll
 #: data/campaigns/Dusk_of_Dawn/units/Initiate.cfg:21
 msgid ""
-"Some trolls are born smaller than the rest of their kin. Though weak in body, "
-"they quickly realize that they have been blessed with an unusually strong "
-"bond with fire."
+"Some trolls are born smaller than the rest of their kin. Though weak in "
+"body, they quickly realize that they have been blessed with an unusually "
+"strong bond with fire."
 msgstr ""
 
 #. [attack]: type=fire
@@ -1649,8 +1655,8 @@ msgstr ""
 #. [unit_type]: id=Strong Troll Whelp, race=troll
 #: data/campaigns/Dusk_of_Dawn/units/Strong_Whelp.cfg:18
 msgid ""
-"Some Troll Whelps are stronger and larger than others. They are usually found "
-"leading newly born troll tribes."
+"Some Troll Whelps are stronger and larger than others. They are usually "
+"found leading newly born troll tribes."
 msgstr ""
 
 #. [unit_type]: id=Wild Saurian, race=lizard, gender=female
