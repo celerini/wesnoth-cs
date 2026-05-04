@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-20 03:20 UTC\n"
-"PO-Revision-Date: 2026-04-23 19:13+0200\n"
+"PO-Revision-Date: 2026-04-25 20:48+0200\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -617,9 +617,9 @@ msgid ""
 "If a Fire Guardian or Fire Wraith moves on a forest or grass tile it will "
 "partially burn down. Enter a tile twice to completely burn it down."
 msgstr ""
-"Pokud se plamenný strážce nebo ohnivý přízrak přesune na políčko s lesem nebo "
-"trávou, dojde k jeho částečnému spálení. Pokud na ně vstoupí dvakrát, spálí "
-"pole úplně."
+"Pokud se plamenný strážce nebo ohnivý přízrak přesune na políčko s lesem "
+"nebo trávou, dojde k jeho částečnému spálení. Pokud na ně vstoupí dvakrát, "
+"spálí pole úplně."
 
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:187
@@ -673,28 +673,30 @@ msgid ""
 "They were no longer as deep underground as before and the darkness was not "
 "as thick."
 msgstr ""
+"Již nebyli tak hluboko pod zemí jako předtím a tma zde nebyla tak hustá."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:724
 msgid ""
 "Ougl loved this strange new green color, and there was plenty of it here."
 msgstr ""
+"Ouglovi se nová podivná zelená barva moc líbila a tady jí byla spousta."
 
 #. [unit]: type=Wose, id=AM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:735
 msgid "Ammm the Maple"
-msgstr ""
+msgstr "Javor Ammm"
 
 #. [message]: speaker=AM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:760
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1256
 msgid "A m m m...?"
-msgstr ""
+msgstr "A m m m...?"
 
 #. [message]: speaker=AM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:789
 msgid "A m m m...!"
-msgstr ""
+msgstr "A m m m...!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:795
@@ -703,6 +705,9 @@ msgid ""
 "brothers, for Ougl could not speak or understand the language of other "
 "beings. He only knew feelings and emotions."
 msgstr ""
+"Ougl nemohl přijít na to, co by ta listnatá bytost mohla chtít od něj a jeho "
+"bratrů, neboť Ougl nedokázal mluvit ani rozumět jazyku jiných bytostí. Znal "
+"pouze pocity a emoce."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:806
@@ -710,26 +715,28 @@ msgid ""
 "...And from moment to moment he felt more and more anger from the tree folk, "
 "which waved its branches menacingly at the nearby Fire Wraith."
 msgstr ""
+"S každou vteřinou cítil stále větší hněv ze strany stromového lidu, který "
+"výhružně ukazoval větvemi na nedaleký ohnivý přízrak."
 
 #. [message]: speaker=OL
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:820
 msgid "Ougl...?"
-msgstr ""
+msgstr "Ougl...?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:836
 msgid "There was nothing left for the trolls to do but defend themselves."
-msgstr ""
+msgstr "Trollům nezbývalo nic jiného než se bránit."
 
 #. [unit]: type=Wild Saurian, id=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1079
 msgid "Refumee the Swampling"
-msgstr ""
+msgstr "Refumee z močálu"
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1101
 msgid "S y s y...!"
-msgstr ""
+msgstr "S y s y...!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1112
@@ -738,11 +745,13 @@ msgid ""
 "trust and rely on her. He felt that the swamp dweller was not hostile and "
 "wanted to support him."
 msgstr ""
+"Ačkoli Ougl nerozuměl jazyku ještěřice, podvědomí mu říkalo, že jí může "
+"věřit. Cítil, že obyvatelka bažin k němu není nepřátelská a chce mu pomoci."
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1124
 msgid "S y s y..."
-msgstr ""
+msgstr "S y s y..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1140
@@ -751,6 +760,9 @@ msgid ""
 "one of the great woses, the guardians of the grove, and it glared menacingly "
 "at the stone creatures who it believed were threatening saplings."
 msgstr ""
+"Mladí trollové zahlédli v podzemním lese obrovský strom. Byl to jeden z "
+"prastarých stromovců, strážců háje, a hrozivě se díval na kamenné tvory, o "
+"nichž se domníval, že ohrožují mladé stromky."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1146
@@ -758,11 +770,13 @@ msgid ""
 "Ougl was quick to guess that the death of any Elder Wose would only further "
 "enrage the treefolk, and resolved to keep his distance from them."
 msgstr ""
+"Ougl si rychle uvědomil, že smrt kteréhokoli z prastarých stromovců by lesní "
+"lid jen více rozzuřila a rozhodl se od nich držet dál."
 
 #. [objective]: condition=lose
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1159
 msgid "Death of any of the Elder Woses located on the Great Trees"
-msgstr ""
+msgstr "Kterýkoli ze strážců háje stojících u velkých stromů zemře"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1191
@@ -771,11 +785,14 @@ msgid ""
 "went into a frenzy. The trolls, helpless in the face of these strange new "
 "creatures, knew it was their end."
 msgstr ""
+"Po smrti jednoho ze tří velkých strážců háje propadli stromovci zuřivosti. "
+"Trollové, kteří byli vůči těmto podivným novým tvorům bezmocní, věděli, že "
+"je to jejich konec."
 
 #. [message]: speaker=OM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1245
 msgid "O m m m...!!"
-msgstr ""
+msgstr "O m m m...!!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1251
@@ -783,13 +800,15 @@ msgid ""
 "As the sound of battle echoed through the grove, a great old tree finally "
 "began to stir."
 msgstr ""
+"Zatímco se hájem rozléhal lomoz bitvy, jeden mohutný a velmi starý strom se "
+"najednou začal hýbat."
 
 #. [message]: speaker=OM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1266
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1276
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1356
 msgid "O m m m..."
-msgstr ""
+msgstr "O m m m..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1319
