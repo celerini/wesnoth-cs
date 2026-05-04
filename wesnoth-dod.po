@@ -776,7 +776,7 @@ msgstr ""
 #. [objective]: condition=lose
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1159
 msgid "Death of any of the Elder Woses located on the Great Trees"
-msgstr "Smrt kteréhokoli ze strážců háje stojících u velkých stromů"
+msgstr "Kterýkoli ze strážců háje stojících u velkých stromů zemře"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1191
