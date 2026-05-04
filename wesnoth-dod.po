@@ -771,7 +771,7 @@ msgid ""
 "enrage the treefolk, and resolved to keep his distance from them."
 msgstr ""
 "Ougl si rychle uvědomil, že smrt kteréhokoli z prastarých stromovců by lesní "
-"lid jen více rozzuřil a rozhodl se od nich držet dál."
+"lid jen více rozzuřila a rozhodl se od nich držet dál."
 
 #. [objective]: condition=lose
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1159
