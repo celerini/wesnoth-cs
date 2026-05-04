@@ -716,7 +716,7 @@ msgid ""
 "which waved its branches menacingly at the nearby Fire Wraith."
 msgstr ""
 "S každou vteřinou cítil stále větší hněv ze strany stromového lidu, který "
-"výhružně ukazoval větvemi na nedalekého ohnivého přízraka."
+"výhružně ukazoval větvemi na nedaleký ohnivý přízrak."
 
 #. [message]: speaker=OL
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:820
