@@ -2275,7 +2275,7 @@ msgid ""
 "...honorable elves, I am Commander Deoran, of Westin’s South Guard. I cannot "
 "speak for the past, but in the present we need your help."
 msgstr ""
-"...vážení elfové, jsem velitel Deoran z Jižní hlídky Westinu. Nemohu mluvit "
+"... vážení elfové, jsem velitel Deoran z Jižní hlídky Westinu. Nemohu mluvit "
 "za minulost, ale v současnosti potřebujeme vaši pomoc."
 
 #. [message]: speaker=Deoran
