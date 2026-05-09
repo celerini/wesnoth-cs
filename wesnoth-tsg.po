@@ -2262,7 +2262,7 @@ msgid ""
 msgstr ""
 "... jenže, ale, vždyť jsem tu sotva měsíc! Nemohl jsem jednat proti něčemu, co "
 "začalo před mým příjezdem! A kromě toho to není chyba „mého lidu“, ale "
-"bratrů Urzů…"
+"bratrů Urzů..."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:289
