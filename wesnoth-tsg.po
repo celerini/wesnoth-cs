@@ -2412,7 +2412,7 @@ msgid ""
 "The humans return, but this time bearing the banners of Westin... If you’re "
 "here to help, attack this foul cage and smash it open!"
 msgstr ""
-"Lidé se vracejí, ale tentokrát nesou prapory Westinu… Pokud jste tu, abyste "
+"Lidé se vracejí, ale tentokrát nesou prapory Westinu... Pokud jste tu, abyste "
 "pomohli, zaútočte na tuhle odpornou klec a rozbijte ji!"
 
 #. [message]: speaker=Ethiliel
