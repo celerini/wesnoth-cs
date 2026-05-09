@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-20 03:20 UTC\n"
-"PO-Revision-Date: 2026-04-26 08:32+0200\n"
+"PO-Revision-Date: 2026-05-09 09:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -459,7 +459,7 @@ msgstr "V <i>Dan’Tonku</i> bojuj po boku nečekaného spojence."
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:68
 msgid "Canon"
-msgstr ""
+msgstr "Kánon"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:68
@@ -467,6 +467,8 @@ msgid ""
 "Complete <i>The Battle for Wesnoth</i> with Jotha, a free Elensefar, and an "
 "inspired Doors."
 msgstr ""
+"Dokonči <i>Bitvu o Wesnoth</i> s Jotou, osvobozeným Elensefarem a netknutými "
+"Dveřmi."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:69
@@ -2544,7 +2546,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:230
 msgid "Jotha"
-msgstr ""
+msgstr "Jota"
 
 #. [message]: speaker=Jotha
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:248
@@ -4813,7 +4815,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1457
 msgid "The Battle for Wesnoth"
-msgstr ""
+msgstr "Bitva o Wesnoth"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1501
@@ -17794,7 +17796,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:11
 msgid "scenario name^The Battle for Wesnoth"
-msgstr ""
+msgstr "Bitva o Wesnoth"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:144
