@@ -2240,7 +2240,7 @@ msgstr ""
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:275
 msgid "But—"
-msgstr "Ale…"
+msgstr "Ale..."
 
 #. [message]: speaker=Vaenuith
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:279
