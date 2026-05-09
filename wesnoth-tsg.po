@@ -2318,7 +2318,7 @@ msgid ""
 "...very well, outlander. The challenge is passed. Enter, and greet us as we "
 "are in life."
 msgstr ""
-"...dobrá, cizinče. Výzvu jsi splnil. Vstup a pozdrav nás tak, jak nás znáš "
+"... dobrá, cizinče. Výzvu jsi splnil. Vstup a pozdrav nás tak, jak nás znáš "
 "ze života."
 
 #. [message]: speaker=Deoran
