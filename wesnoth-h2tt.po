@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-20 03:20 UTC\n"
-"PO-Revision-Date: 2026-05-09 09:50+0200\n"
+"PO-Revision-Date: 2026-05-09 10:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3004,7 +3004,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:921
 msgid "Dwarven Doors"
-msgstr ""
+msgstr "Trpasličí Dveře"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:926
 msgid "The Dwarven Doors"
