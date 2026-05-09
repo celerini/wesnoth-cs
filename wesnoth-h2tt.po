@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-20 03:20 UTC\n"
-"PO-Revision-Date: 2026-05-09 09:39+0200\n"
+"PO-Revision-Date: 2026-05-09 09:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -333,7 +333,7 @@ msgstr "Odpočívej po kouscích"
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:50
 msgid "(Temporarily) liberate <i>The Dwarven Doors</i>."
-msgstr "(Dočasně) osvoboď <i>Trpasličí dveře</i>."
+msgstr "(Dočasně) osvoboď <i>Trpasličí Dveře</i>."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:50
@@ -3008,7 +3008,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:926
 msgid "The Dwarven Doors"
-msgstr "Trpasličí dveře"
+msgstr "Trpasličí Dveře"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:971
@@ -12614,7 +12614,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:8
 msgid "scenario name^The Dwarven Doors"
-msgstr "Trpasličí dveře"
+msgstr "Trpasličí Dveře"
 
 #. [message]: role=angry_orc
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:200
