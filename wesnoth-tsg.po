@@ -2173,7 +2173,7 @@ msgstr "Deorane, říkám... ano."
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:241
 msgid "...aye, Deoran, looks to be that way."
-msgstr "...jo, Deorane, vypadá to tak."
+msgstr "... jo, Deorane, vypadá to tak."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:242
