@@ -2168,7 +2168,7 @@ msgstr "Stát! Kdo bez dovolení vchází do našeho posvátného údolí?"
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:240
 msgid "Deoran, I’m gonna say... yes."
-msgstr "Deorane,… říkám ano."
+msgstr "Deorane, říkám... ano."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:241
