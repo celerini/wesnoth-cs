@@ -2260,7 +2260,7 @@ msgid ""
 "something that began before my arrival! And besides, this is not the fault "
 "of “my kind” but of the Urza brothe—"
 msgstr ""
-"… jenže, ale, vždyť jsem tu sotva měsíc! Nemohl jsem jednat proti něčemu, co "
+"... jenže, ale, vždyť jsem tu sotva měsíc! Nemohl jsem jednat proti něčemu, co "
 "začalo před mým příjezdem! A kromě toho to není chyba „mého lidu“, ale "
 "bratrů Urzů…"
 
