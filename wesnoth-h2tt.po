@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-20 03:20 UTC\n"
-"PO-Revision-Date: 2026-05-09 10:09+0200\n"
+"PO-Revision-Date: 2026-05-10 10:17+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -473,22 +473,22 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:69
 msgid "Complete <i>The Battle for Wesnoth</i> before winter of year 519."
-msgstr ""
+msgstr "Dokonči <i>Bitvu o Wesnoth</i> před zimou roku 519."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:69
 msgid "Lightfoot"
-msgstr ""
+msgstr "Lehký krok"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:71
 msgid "Asleep at the Wheel"
-msgstr ""
+msgstr "Spánek za pochodu"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:71
 msgid "Complete <i>The Battle for Wesnoth</i> after autumn of year 524."
-msgstr ""
+msgstr "Dokonči <i>Bitvu o Wesnoth</i> po podzimu roku 524."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:72
@@ -496,11 +496,13 @@ msgid ""
 "Complete <i>The Battle for Wesnoth</i> without playing Flight of the Elves, "
 "Blackwater Port, or Bay of Pearls."
 msgstr ""
+"Dokonči <i>Bitvu o Wesnoth</i> bez hraní Útěku elfů, Přístavu Temná Voda "
+"nebo Zátoky perel."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:72
 msgid "Road Less Traveled"
-msgstr ""
+msgstr "Náročná zkratka"
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:73
@@ -508,11 +510,13 @@ msgid ""
 "Complete <i>The Battle for Wesnoth</i> on Deadly difficulty without burning "
 "the locals’ farms."
 msgstr ""
+"Dokonči <i>Bitvu o Wesnoth</i> na smrtící obtížnost bez vypálení farem "
+"místních obyvatel."
 
 #. [achievement_group]
 #: data/campaigns/Heir_To_The_Throne/achievements.cfg:73
 msgid "The True Heir"
-msgstr ""
+msgstr "Pravý dědic"
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:65
@@ -844,11 +848,11 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:459
 msgid "Bay of Pearls"
-msgstr ""
+msgstr "Zátoka perel"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:464
 msgid "The Bay of Pearls"
-msgstr ""
+msgstr "Zátoka perel"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:476
@@ -6974,7 +6978,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:273
 msgid "scenario name^The Bay of Pearls"
-msgstr ""
+msgstr "Zátoka perel"
 
 #. [side]: type=Orcish Crossbowman, id=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:304
