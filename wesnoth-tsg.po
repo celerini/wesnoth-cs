@@ -2260,8 +2260,8 @@ msgid ""
 "something that began before my arrival! And besides, this is not the fault "
 "of “my kind” but of the Urza brothe—"
 msgstr ""
-"... jenže, ale, vždyť jsem tu sotva měsíc! Nemohl jsem jednat proti něčemu, co "
-"začalo před mým příjezdem! A kromě toho to není chyba „mého lidu“, ale "
+"... jenže, ale, vždyť jsem tu sotva měsíc! Nemohl jsem jednat proti něčemu, "
+"co začalo před mým příjezdem! A kromě toho to není chyba „mého lidu“, ale "
 "bratrů Urzů..."
 
 #. [message]
@@ -2412,8 +2412,8 @@ msgid ""
 "The humans return, but this time bearing the banners of Westin... If you’re "
 "here to help, attack this foul cage and smash it open!"
 msgstr ""
-"Lidé se vracejí, ale tentokrát nesou prapory Westinu... Pokud jste tu, abyste "
-"pomohli, zaútočte na tuhle odpornou klec a rozbijte ji!"
+"Lidé se vracejí, ale tentokrát nesou prapory Westinu... Pokud jste tu, "
+"abyste pomohli, zaútočte na tuhle odpornou klec a rozbijte ji!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:470
