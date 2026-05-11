@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:10 UTC\n"
-"PO-Revision-Date: 2026-03-26 20:42+0100\n"
+"PO-Revision-Date: 2026-05-11 22:04+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5669,7 +5669,7 @@ msgstr ""
 #. [female]: gender=female
 #: data/core/units/humans/Mage_of_Light.cfg:96
 msgid "female^Mage of Light"
-msgstr "Světlá čarodějka"
+msgstr "Mágyně světla"
 
 #. [unit_type]: id=Outlaw, race=human, gender=male,female
 #: data/core/units/humans/Outlaw.cfg:4
