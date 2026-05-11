@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2026-05-11 22:09+0200\n"
+"PO-Revision-Date: 2026-05-11 22:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4849,7 +4849,7 @@ msgstr "střela"
 #. [female]: gender=female
 #: data/core/units/humans/Mage.cfg:159
 msgid "female^Mage"
-msgstr "Čarodějka"
+msgstr "Mágyně"
 
 #. [unit_type]: id=Arch Mage, race=human, gender=male,female
 #: data/core/units/humans/Mage_Arch.cfg:4

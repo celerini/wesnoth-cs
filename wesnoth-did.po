@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-02-20 02:52 UTC\n"
-"PO-Revision-Date: 2026-03-26 20:35+0100\n"
+"PO-Revision-Date: 2026-05-11 22:15+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3482,7 +3482,7 @@ msgstr "Mág"
 #. [command]
 #: data/campaigns/Descent_Into_Darkness/scenarios/07c_A_Small_Favor3.cfg:377
 msgid "female^Mage"
-msgstr "Čarodějka"
+msgstr "Mágyně"
 
 #. [message]: speaker=Darken Volk
 #: data/campaigns/Descent_Into_Darkness/scenarios/07c_A_Small_Favor3.cfg:467
