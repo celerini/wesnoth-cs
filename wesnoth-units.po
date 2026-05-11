@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-03-23 23:10 UTC\n"
-"PO-Revision-Date: 2026-05-11 22:10+0200\n"
+"PO-Revision-Date: 2026-05-11 22:27+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5416,7 +5416,7 @@ msgstr "ohnivá koule"
 #. [female]: gender=female
 #: data/core/units/humans/Mage_Arch.cfg:107
 msgid "female^Arch Mage"
-msgstr "Arcimagyně"
+msgstr "Arcimágyně"
 
 #. [unit_type]: id=Elder Mage, race=human
 #: data/core/units/humans/Mage_Elder.cfg:4
@@ -5476,7 +5476,7 @@ msgstr ""
 #. [female]: gender=female
 #: data/core/units/humans/Mage_Great.cfg:84
 msgid "female^Great Mage"
-msgstr "Velká magyně"
+msgstr "Velká mágyně"
 
 #. [unit_type]: id=Red Mage, race=human, gender=male,female
 #: data/core/units/humans/Mage_Red.cfg:4
@@ -5522,7 +5522,7 @@ msgstr ""
 #. [female]: gender=female
 #: data/core/units/humans/Mage_Red.cfg:96
 msgid "female^Red Mage"
-msgstr "Červená magyně"
+msgstr "Červená mágyně"
 
 #. [unit_type]: id=Silver Mage, race=human, gender=male,female
 #: data/core/units/humans/Mage_Silver.cfg:4
@@ -5580,7 +5580,7 @@ msgstr ""
 #. [female]: gender=female
 #: data/core/units/humans/Mage_Silver.cfg:159
 msgid "female^Silver Mage"
-msgstr "Stříbrná magyně"
+msgstr "Stříbrná mágyně"
 
 #. [unit_type]: id=White Mage, race=human, gender=male,female
 #: data/core/units/humans/Mage_White.cfg:4
@@ -5626,7 +5626,7 @@ msgstr ""
 #. [female]: gender=female
 #: data/core/units/humans/Mage_White.cfg:101
 msgid "female^White Mage"
-msgstr "Bílá magyně"
+msgstr "Bílá mágyně"
 
 #. [unit_type]: id=Mage of Light, race=human, gender=male,female
 #: data/core/units/humans/Mage_of_Light.cfg:4
