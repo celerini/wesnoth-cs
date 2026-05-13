@@ -952,8 +952,7 @@ msgid ""
 "the trolls had done nothing wrong, then why were they attacked?"
 msgstr ""
 "Ougl a jeho přátelé od začátku věděli, že stromoví lidé nejsou zlí, a "
-"nechápali, proč se stromy rozhodly na ně zaútočit. Co je vedlo k tomu, aby "
-"na ně zaútočili?"
+"nechápali, proč se stromy rozhodly na ně zaútočit. Co je k tomu vedlo?"
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:56
