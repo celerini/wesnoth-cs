@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-20 03:20 UTC\n"
-"PO-Revision-Date: 2026-04-25 20:48+0200\n"
+"PO-Revision-Date: 2026-05-13 16:31+0200\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -816,6 +816,8 @@ msgid ""
 "The awakened Wose Shaman spoke to Ougl in a strange way, and Ougl "
 "understood. The Wose’s name was Ommm, and it was the leader of the tree folk."
 msgstr ""
+"Probuzený stromový šaman promluvil k Ouglovi podivným způsobem a Ougl mu "
+"porozuměl. Jmenoval se Ommm a byl vůdcem stromového lidu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1330
@@ -823,23 +825,25 @@ msgid ""
 "Ommm used a mysterious magic to see the purpose of the troll’s journey, and "
 "whether they had evil intentions towards the green grove."
 msgstr ""
+"Ommm použil tajemnou magii, aby zjistil, jaký je účel trollovy cesty a zda "
+"má zlé úmysly vůči zelenému háji."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1336
 msgid ""
 "It soon realized that the trolls were not to blame for the unfortunate "
 "skirmish."
-msgstr ""
+msgstr "Brzy si uvědomil, že potyčku vyvolalo nedorozumění."
 
 #. [message]: speaker=OM
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1341
 msgid "O m m m...?"
-msgstr ""
+msgstr "O m m m...?"
 
 #. [message]: speaker=OL
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1351
 msgid "Ougl..."
-msgstr ""
+msgstr "Ougl..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1362
@@ -848,6 +852,9 @@ msgid ""
 "against it. The woses warned that the surface held many creatures who were "
 "not guided by goodness of heart, but by the law of strength."
 msgstr ""
+"Ougl chtěl putovat ještě výš, ale stromový šaman mu to rozmlouval. Varoval "
+"ho, že na povrchu žije mnoho tvorů, kteří se neřídí dobrotou srdce, ale "
+"právem silnějšího."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1368
@@ -855,6 +862,8 @@ msgid ""
 "But Ougl had seen green lands now, and he began to dream of seeing more. The "
 "higher he climbed, the more green there would be."
 msgstr ""
+"Ougla však zcela okouzlila zelenavá krajina a toužil po tom, uvidět jí ještě "
+"více. A cesta za další zelení vedla nahoru."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1385
@@ -863,6 +872,9 @@ msgid ""
 "the surface. But the trolls were to first plant new trees in place of the "
 "ones that had fallen during the battle."
 msgstr ""
+"Stromový šaman dlouze přemýšlel nad osudem a pomocí kamenných bytostí. "
+"Nakonec souhlasil, že trollům pomůže a ukáže jim cestu na povrch. Nejprve "
+"však bylo nutné zasadit nové stromky, aby nahradily ty jež padly v bitvě."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1394
@@ -871,6 +883,9 @@ msgid ""
 "the surface, but again warned Ougl that sometimes dreams are better left in "
 "the realm of dreams."
 msgstr ""
+"Stromový šaman dlouze přemýšlel nad osudem a pomocí kamenných bytostí. "
+"Nakonec souhlasil, že trollům pomůže a ukáže jim cestu na povrch, avšak "
+"varoval Ougla, že občas je moudřejší aby sny zůstaly pouze sny."
 
 #. [scenario]: id=03_Fateful_Day
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:5
@@ -883,6 +898,8 @@ msgid ""
 "The Wose Shaman, as promised, told the trolls where they should go to get "
 "out of the caves."
 msgstr ""
+"Stromový šaman, dle slibu, řekl trollům, kudy se mají vydat, aby se dostali "
+"z jeskyní."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:31
@@ -890,6 +907,8 @@ msgid ""
 "It also put a peculiar charm on Ougl, allowing him to understand the speech "
 "of other beings despite not knowing how to speak himself."
 msgstr ""
+"Ougl byl díky tomuto podivuhodnému setkání obdařen schopností porozumět řeči "
+"ostatních bytostí, přestože sám mluvit neuměl."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:35
@@ -897,6 +916,8 @@ msgid ""
 "The trolls soon left the woses and continued on their journey. The going was "
 "difficult, for the rocks they now climbed were very earthy and crumbly."
 msgstr ""
+"Trollové brzy opustili stromový lid a pokračovali dál sami. Cesta byla "
+"náročná, protože skály, po kterých nyní šplhali, byly velmi prašné a drolivé."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:39
@@ -905,11 +926,14 @@ msgid ""
 "mushrooms, and Ougl disliked mushrooms. But this did not discourage him, for "
 "Ougl now had a dream and a goal for his trek."
 msgstr ""
+"Jídla zde bylo také méně než v hlubinách. Trollové nacházeli jen houby a "
+"Ougl houby neměl rád. To ho však neodradilo, neboť měl svůj sen a nyní i cíl "
+"své cesty."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:43
 msgid "Despite their incautious nature, trolls are not simple at all."
-msgstr ""
+msgstr "Navzdory své neohrabanosti nejsou trollové vůbec hloupí."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:47
@@ -917,6 +941,8 @@ msgid ""
 "When they tame their inner flame, they move in the realm of feelings and can "
 "guess the intentions of others without the need for speech."
 msgstr ""
+"Pokud dokáží zkrotit svůj vnitřní plamen, dokáží se pohybovat v říši pocitů "
+"a odhadnout úmysly druhých, bez znalosti řeči."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:51
@@ -925,6 +951,9 @@ msgid ""
 "evil, and they did not understand why the trees decided to attack them. If "
 "the trolls had done nothing wrong, then why were they attacked?"
 msgstr ""
+"Ougl a jeho přátelé od začátku věděli, že stromoví lidé nejsou zlí, a "
+"nechápali, proč se stromy rozhodly na ně zaútočit. Co je vedlo k tomu, aby "
+"na ně zaútočili?"
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:56
@@ -933,33 +962,35 @@ msgid ""
 "what might yet happen. After much travel and much thought, they happened "
 "across an underground lake."
 msgstr ""
+"Kmen Zlatého plamene dlouho přemýšlel o tom, co se stalo a co by se ještě "
+"mohlo stát. Po dlouhém putování a mnoha úvahách narazili na podzemní jezero."
 
 #. [side]: type=Naga Warrior, id=SA, gender=female
 #. [side]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:92
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:61
 msgid "Purple Eye Naga"
-msgstr ""
+msgstr "Naga purpurového oka"
 
 #. [side]: type=Naga Warrior, id=SA, gender=female
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:97
 msgid "Sessa Purple Eye"
-msgstr ""
+msgstr "Sessa purpurové oko"
 
 #. [side]: type=Naga Warrior, id=SA, gender=female
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:128
 msgid "Irxa"
-msgstr ""
+msgstr "Irxa"
 
 #. [side]: type=Naga Warrior, id=SA, gender=female
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:129
 msgid "Neillei"
-msgstr ""
+msgstr "Neillei"
 
 #. [side]: type=Naga Warrior, id=SA, gender=female
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:130
 msgid "Oaserss"
-msgstr ""
+msgstr "Oaserss"
 
 #. [side]: type=Orcish Warlord, id=AR
 #. [side]: type=Goblin Pillager, id=NG
@@ -968,34 +999,34 @@ msgstr ""
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:200
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:89
 msgid "Red Cry Horde"
-msgstr ""
+msgstr "Horda rudého nářku"
 
 #. [side]: type=Orcish Warlord, id=AR
 #. [unit]: type=Orcish Warlord, id=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:159
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:279
 msgid "Agnar Red Cry"
-msgstr ""
+msgstr "Agnar rudý nářek"
 
 #. [side]: type=Orcish Warlord, id=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:185
 msgid "Omag"
-msgstr ""
+msgstr "Omag"
 
 #. [side]: type=Goblin Pillager, id=NG
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:206
 msgid "Nuug The Firebug"
-msgstr ""
+msgstr "Nuug ohnivý mravenec"
 
 #. [side]: type=Goblin Pillager, id=NG
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:232
 msgid "Uod"
-msgstr ""
+msgstr "Uod"
 
 #. [side]: type=Goblin Pillager, id=NG
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:233
 msgid "Marl"
-msgstr ""
+msgstr "Marl"
 
 #. [side]: type=Saurian Oracle, id=MZ
 #. [side]
@@ -1009,34 +1040,34 @@ msgstr "Ještěráci modré krve"
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:254
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:315
 msgid "Moarxz Blue Blood"
-msgstr ""
+msgstr "Moarxz modré kve"
 
 #. [side]: type=Saurian Oracle, id=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:280
 msgid "Zarx"
-msgstr ""
+msgstr "Zarx"
 
 #. [side]: type=Saurian Oracle, id=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:281
 msgid "Azzaris"
-msgstr ""
+msgstr "Azzaris"
 
 #. [side]: type=Saurian Oracle, id=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:282
 msgid "Sonikss"
-msgstr ""
+msgstr "Sonikss"
 
 #. [objective]: condition=win
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:294
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:644
 msgid "Defeat every enemy unit"
-msgstr ""
+msgstr "Poraz všechny nepřátele"
 
 #. [objective]: condition=lose
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:302
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:652
 msgid "Death of Sessa"
-msgstr ""
+msgstr "Sessa zemře"
 
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:311
