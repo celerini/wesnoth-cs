@@ -941,8 +941,8 @@ msgid ""
 "When they tame their inner flame, they move in the realm of feelings and can "
 "guess the intentions of others without the need for speech."
 msgstr ""
-"Pokud dokáží zkrotit svůj vnitřní plamen, mohou se pohybovat v říši pocitů "
-"a odhadnout úmysly druhých, bez znalosti řeči."
+"Pokud dokáží zkrotit svůj vnitřní plamen, mohou se pohybovat v říši pocitů a "
+"odhadnout úmysly druhých, bez znalosti řeči."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:51
