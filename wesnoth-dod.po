@@ -874,7 +874,7 @@ msgid ""
 msgstr ""
 "Stromový šaman dlouze přemýšlel nad osudem a pomocí kamenných bytostí. "
 "Nakonec souhlasil, že trollům pomůže a ukáže jim cestu na povrch. Nejprve "
-"však bylo nutné zasadit nové stromky, aby nahradily ty jež padly v bitvě."
+"však bylo nutné zasadit nové stromky, aby nahradily ty, jež padly v bitvě."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/02_A_Dream.cfg:1394
