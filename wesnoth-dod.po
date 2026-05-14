@@ -885,7 +885,7 @@ msgid ""
 msgstr ""
 "Stromový šaman dlouze přemýšlel nad osudem a pomocí kamenných bytostí. "
 "Nakonec souhlasil, že trollům pomůže a ukáže jim cestu na povrch, avšak "
-"varoval Ougla, že občas je moudřejší aby sny zůstaly pouze sny."
+"varoval Ougla, že občas je moudřejší, aby sny zůstaly pouze sny."
 
 #. [scenario]: id=03_Fateful_Day
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:5
