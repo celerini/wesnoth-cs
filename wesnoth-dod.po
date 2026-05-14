@@ -941,7 +941,7 @@ msgid ""
 "When they tame their inner flame, they move in the realm of feelings and can "
 "guess the intentions of others without the need for speech."
 msgstr ""
-"Pokud dokáží zkrotit svůj vnitřní plamen, dokáží se pohybovat v říši pocitů "
+"Pokud dokáží zkrotit svůj vnitřní plamen, mohou se pohybovat v říši pocitů "
 "a odhadnout úmysly druhých, bez znalosti řeči."
 
 #. [part]
