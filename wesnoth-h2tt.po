@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-20 03:20 UTC\n"
-"PO-Revision-Date: 2026-05-10 10:17+0200\n"
+"PO-Revision-Date: 2026-05-16 23:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5912,7 +5912,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:148
 msgid "10 gold"
-msgstr ""
+msgstr "10 zlatých"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:148
@@ -5924,13 +5924,13 @@ msgstr ""
 #. this is Delfador trying to wake up a sleeping Konrad, as heard from Konrad's perspective
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:197
 msgid "Konrad!"
-msgstr ""
+msgstr "Konráde!"
 
 #. [message]: speaker=narrator
 #. this is Delfador trying to wake up a sleeping Konrad, as heard from Konrad's perspective
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:203
 msgid "Konrad, wake up!"
-msgstr ""
+msgstr "Konráde, vzbuď se!"
 
 #. [message]: speaker=Konrad
 #. the "dream" Konrad refers to is the intro storytext. This is a justification for the artwork (especially Delfador's age) not matching the characters' appearances.
@@ -5939,6 +5939,8 @@ msgid ""
 "<i>(yawn)</i> What a vivid dream. Asheviere and Eldred, Delfador and Garard, "
 "just like in the histories..."
 msgstr ""
+"<i>(zívá)</i> To byl ale živý sen. Ašvíra a Eldred, Delfador a Garard, "
+"přesně jako v kronikách..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:228
@@ -16125,7 +16127,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:37
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:452
 msgid "Konrad"
-msgstr ""
+msgstr "Konrád"
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:650
