@@ -5717,7 +5717,7 @@ msgid ""
 "Kidnapped Mebrin? I have heard otherwise. Ethiliel, this is Urza Afalas of "
 "the humans."
 msgstr ""
-"Unesli Mebrina? Slyšel jsem něco jiného. Ethilielo, tohle je Urza Afalas od "
+"Unesli Mebrina? Slyšel jsem něco jiného. Ethiliel, tohle je Urza Afalas od "
 "lidí."
 
 #. [message]: speaker=Ethiliel
