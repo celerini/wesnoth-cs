@@ -4816,7 +4816,7 @@ msgstr ""
 "Když čelíš silnějšímu\n"
 "protivníkovi, může být někdy\n"
 "rozumnější nečinně vyčkávat\n"
-"nebo utéct, než zaútočit\n"
+"nebo utéct než zaútočit\n"
 "a plýtvat životy."
 
 #. [companion_message]
