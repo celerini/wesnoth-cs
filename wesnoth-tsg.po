@@ -5673,7 +5673,7 @@ msgid ""
 "Every elf who dies only serves to further enrage the rest, drawing more "
 "warriors out of the Aethenwood!"
 msgstr ""
-"Každý elfí zemřelí jen ještě více rozzuří ostatní a přiláká z Aethenského "
+"Každý elfí zemřelý jen ještě více rozzuří ostatní a přiláká z Aethenského "
 "lesa další válečníky!"
 
 #. [floating_text]
