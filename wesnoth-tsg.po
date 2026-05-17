@@ -5700,7 +5700,7 @@ msgstr ""
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:947
 msgid "Ethiliel! What in Irdya is going on here?"
-msgstr "Ethilielo! Co se tu pro všechno v Irdyi děje?"
+msgstr "Ethiliel! Co se tu pro všechno v Irdyi děje?"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:951
