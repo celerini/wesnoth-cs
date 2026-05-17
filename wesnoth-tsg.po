@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-20 03:20 UTC\n"
-"PO-Revision-Date: 2026-05-08 19:33+0200\n"
+"PO-Revision-Date: 2026-05-17 15:21+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4720,26 +4720,22 @@ msgstr ""
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:430
-#, fuzzy
-#| msgid "We’ll never forget your sacrifice here. Thank you, my friend."
 msgid ""
 "friend_is_female^We’ll never forget your sacrifice here. Thank you, my "
 "friend."
-msgstr "Nikdy nezapomeneme na vaši oběť. Děkuji ti, příteli."
+msgstr "Nikdy nezapomeneme na tvou oběť. Děkuji ti, přítelkyně."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:436
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:442
-#, fuzzy
-#| msgid "We’ll never forget your sacrifice here. Thank you, my friend."
 msgid ""
 "friend_is_male^We’ll never forget your sacrifice here. Thank you, my friend."
-msgstr "Nikdy nezapomeneme na vaši oběť. Děkuji ti, příteli."
+msgstr "Nikdy nezapomeneme na tvou oběť. Děkuji ti, příteli."
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:466
 msgid "Protect Captain Mari as long as possible"
-msgstr ""
+msgstr "Chraň kapitánku Mari co nejdéle"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:473
@@ -4757,6 +4753,8 @@ msgid ""
 "The longer you survive, the better-prepared\n"
 "    Deoran will be in the next scenario."
 msgstr ""
+"Čím déle přežiješ, tím lépe bude připravený\n"
+"    Deoran v dalším scénáři."
 
 #. [message]: id=$unit.id,$second_unit.id
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:507
@@ -4764,6 +4762,8 @@ msgid ""
 "I won’t flee like the others, you undead! This is my home and I’ll defend it "
 "to the last!"
 msgstr ""
+"Neuteču jako ostatní, vy bezduché mrtvoly! Tohle je můj domov a budu ho "
+"bránit do posledního dechu!"
 
 #. [companion_message]
 #. $gold is almost certain to be greater than 25. If translating is an issue, the variable can be omitted and replaced with something like "all our gold"
@@ -4789,11 +4789,14 @@ msgid ""
 "emptied and our company departed. I cannot recruit, so I must make each "
 "soldier count."
 msgstr ""
+"O finance není nouze, ale i $gold zlatých je nám k ničemu, když je město "
+"opuštěné a naše jednotka rozdělená. Nemohu verbovat rekruty, takže musím "
+"využít každého vojáka na maximum."
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:530
 msgid "Defensive Tactics"
-msgstr ""
+msgstr "Defenzivní taktika"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:532
@@ -4807,6 +4810,14 @@ msgid ""
 "flee rather than strike and\n"
 "trade away your hitpoints."
 msgstr ""
+"To, že můžeš zaútočit,\n"
+"ještě neznamená, že bys měl/a!\n"
+"\n"
+"Když čelíš silnějšímu\n"
+"protivníkovi, může být někdy\n"
+"rozumnější nečinně vyčkávat\n"
+"nebo utéct, než zaútočit\n"
+"a plýtvat životy."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:551
@@ -4814,6 +4825,9 @@ msgid ""
 "Is that all you’ve got? After so much bluster, I thought you would have been "
 "able to finish me off by now. Guess lichdom isn’t all it’s cracked up to be."
 msgstr ""
+"To je všechno, co v tobě je? Po tom všem chvástání by jeden čekal, že mě už "
+"dávno budeš mít na lopatkách. Asi být lichem není taková sláva, jak se "
+"vykládá."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:552
@@ -4821,6 +4835,8 @@ msgid ""
 "C’mon, is that all you’ve got? I thought liches were supposed to be "
 "terrifyin’! I’m not afraid of death, only of failing my people."
 msgstr ""
+"No tak, to je všechno, co v tobě je? Myslel jsem, že lichové mají být "
+"děsiví! Já se nebojím smrti, obávám se jen toho, že zklamu svůj lid."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:553
@@ -4829,18 +4845,23 @@ msgid ""
 "stand, and here I yet draw breath. The light shall never surrender to the "
 "darkness."
 msgstr ""
+"Chlubíš se ničivými tajemstvími a prastarými silami, lichu. A přece tu "
+"stojím a stále ještě dýchám. Světlo se temnotě nikdy nevzdá."
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:557
 msgid ""
 "The annoyance dares to speak. I will not bandy words with vermin, human."
 msgstr ""
+"Ten otravný tvor si troufá promluvit! Nebudu se s takovou havětí dohadovat, "
+"člověče."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:682
 msgid ""
 "Yeah... figures that I wouldn’t get a happy ending. Good luck, rookie..."
 msgstr ""
+"Jo... dalo se čekat, že to pro mě nedopadne dobře. Hodně štěstí, zelenáči..."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:683
@@ -4848,11 +4869,13 @@ msgid ""
 "Urghhh.... Good luck, sir, wherever you are... I only hope we bought enough "
 "time..."
 msgstr ""
+"Ach... Hodně štěstí, pane, ať už jste kdekoli... Jen doufám, že jsme získali "
+"dost času..."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:684
 msgid "From the light I came... and into the light I go..."
-msgstr ""
+msgstr "Ze světla jsem přišel... a do světla odcházím..."
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:695
@@ -5650,6 +5673,8 @@ msgid ""
 "Every elf who dies only serves to further enrage the rest, drawing more "
 "warriors out of the Aethenwood!"
 msgstr ""
+"Každý elfí zemřelí jen ještě více rozzuří ostatní a přiláká z Aethenského "
+"lesa další válečníky!"
 
 #. [floating_text]
 #. $unit.cost will be the value of the unit; likely between 14 and 40. If translation is an issue, the exact cost can be omitted.
@@ -5660,7 +5685,7 @@ msgstr ""
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:900
 msgid "Mebrin, I’m sorry... I tried..."
-msgstr ""
+msgstr "Mebrine, odpusť... Snažila jsem se..."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:906
@@ -5669,11 +5694,13 @@ msgid ""
 "Ethiliel is dead! Even if we win by force of arms today, there will never "
 "again be peace between Wesnoth and the Aethenwood... We’ve started a war..."
 msgstr ""
+"Ethiliel je mrtvá! I kdybychom dnes zvítězili silou zbraní, mezi Wesnothem a "
+"Aethenským lesem už nikdy nebude mír... Rozpoutali jsme válku..."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:947
 msgid "Ethiliel! What in Irdya is going on here?"
-msgstr "Ethiliel! Co se tu pro všechno v Irdyi děje?"
+msgstr "Ethilielo! Co se tu pro všechno v Irdyi děje?"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:951
@@ -5681,6 +5708,8 @@ msgid ""
 "These snakes have captured Mebrin, and committed who knows what horrible "
 "atrocities against him! Galdrad, we must take him back!"
 msgstr ""
+"Tihle hadi unesli Mebrina a dopustily se na něm bůhví jakých hrůzných "
+"zvěrstev! Galdrade, musíme ho dostat zpátky!"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:955
@@ -5688,6 +5717,8 @@ msgid ""
 "Kidnapped Mebrin? I have heard otherwise. Ethiliel, this is Urza Afalas of "
 "the humans."
 msgstr ""
+"Unesli Mebrina? Slyšel jsem něco jiného. Ethilielo, tohle je Urza Afalas od "
+"lidí."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:967
@@ -6363,7 +6394,7 @@ msgid ""
 "We could build an empire together, where the humans are our slaves and you "
 "and I are the immortal rulers of the world!"
 msgstr ""
-"Počkej! Ethiliel... přemýšlej o tom! Mysli na všechno, co zahazuješ! Spolu "
+"Počkej! Ethilielo... přemýšlej o tom! Mysli na všechno, co zahazuješ! Spolu "
 "můžeme vybudovat říši, ve které lidé budou našimi otroky a ty a já "
 "nesmrtelnými vládci světa!"
 
