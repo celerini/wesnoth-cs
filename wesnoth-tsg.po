@@ -5708,7 +5708,7 @@ msgid ""
 "These snakes have captured Mebrin, and committed who knows what horrible "
 "atrocities against him! Galdrad, we must take him back!"
 msgstr ""
-"Tihle hadi unesli Mebrina a dopustily se na něm bůhví jakých hrůzných "
+"Tihle hadi unesli Mebrina a dopustili se na něm bůhví jakých hrůzných "
 "zvěrstev! Galdrade, musíme ho dostat zpátky!"
 
 #. [message]: speaker=Galdrad
