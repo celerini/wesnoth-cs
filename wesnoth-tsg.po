@@ -6394,7 +6394,7 @@ msgid ""
 "We could build an empire together, where the humans are our slaves and you "
 "and I are the immortal rulers of the world!"
 msgstr ""
-"Počkej! Ethilielo... přemýšlej o tom! Mysli na všechno, co zahazuješ! Spolu "
+"Počkej! Ethiliel... přemýšlej o tom! Mysli na všechno, co zahazuješ! Spolu "
 "můžeme vybudovat říši, ve které lidé budou našimi otroky a ty a já "
 "nesmrtelnými vládci světa!"
 
