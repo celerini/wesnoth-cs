@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-04-20 03:20 UTC\n"
-"PO-Revision-Date: 2026-05-16 23:00+0200\n"
+"PO-Revision-Date: 2026-05-18 22:27+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5811,6 +5811,9 @@ msgid ""
 "this is your first time playing Heir to the Throne, you may want to try a "
 "lower difficulty."
 msgstr ""
+"POZNÁMKA: „Smrtící“ obtížnost má být děsivě obtížnou výzvou pro hráče, kteří "
+"již znají mnohá tajemství tohoto tažení. Pokud hraješ Dědice trůnu poprvé, "
+"možná budeš chtít zkusit obtížnost nižší."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:39
@@ -5818,6 +5821,8 @@ msgid ""
 "In the twenty-eighth year of the reign of Garard II, King of Wesnoth, the "
 "kingdom was plunged into a bitter war with the Orcs of the North."
 msgstr ""
+"Ve dvacátém osmém roce vlády Gararda II., krále Wesnothu, se království "
+"dostalo do kruté války se skřety ze severu."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:44
@@ -5827,6 +5832,10 @@ msgid ""
 "ruin, but at long last victory was won through the actions of Garard’s arch-"
 "mage, Delfador."
 msgstr ""
+"Severní horda se utábořila v Galcadaru, u Abezského brodu, a král táhl "
+"v čele svého vojska, aby se s nimi utkal. Roky války přivedly Wesnoth na "
+"pokraj zkázy, ale nakonec se podařilo zvítězit díky činům Garardova arcimága "
+"Delfadora."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:48
