@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-18 22:27+0200\n"
+"PO-Revision-Date: 2026-05-20 19:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5828,16 +5828,12 @@ msgstr ""
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:39
-#, fuzzy
-#| msgid ""
-#| "In the twenty-eighth year of the reign of Garard II, King of Wesnoth, the "
-#| "kingdom was plunged into a bitter war with the Orcs of the North."
 msgid ""
 "In the twenty-eighth year of the reign of Garard II, King of Wesnoth, the "
 "kingdom made bitter war against the Orcs of the North."
 msgstr ""
-"Ve dvacátém osmém roce vlády Gararda II., krále Wesnothu, se království "
-"dostalo do kruté války se skřety ze severu."
+"Ve dvacátém osmém roce vlády Gararda II., krále Wesnothu, vedlo království "
+"krutou válku se skřety ze severu."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:44
