@@ -1100,7 +1100,7 @@ msgid ""
 "Some creatures were about to attack some other creatures. Both creatures’ "
 "appearances were strange and monstrous."
 msgstr ""
-"Nějaká stvoření se chystala zaútočit na jiná. Oba druhy měli podivný a "
+"Nějaká stvoření se chystala zaútočit na jiná. Oba druhy měly podivný a "
 "odlišný vzhled."
 
 #. [message]: speaker=narrator
