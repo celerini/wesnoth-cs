@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-13 16:31+0200\n"
+"PO-Revision-Date: 2026-05-21 19:29+0200\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1075,22 +1075,24 @@ msgid ""
 "Ougl’s control over fire has improved. Fire guardians can now move faster in "
 "cave terrain."
 msgstr ""
+"Ouglova schopnost ovládat plamen se zlepšila. Plamenní strážci se nyní mohou "
+"v jeskyních pohybovat rychleji."
 
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:315
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:665
 msgid "Ally and enemy guard units have 0 movement points."
-msgstr ""
+msgstr "Spojenecké i nepřátelské jednotky se nemohou pohybovat."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:354
 msgid "Drums could be heard in the distance."
-msgstr ""
+msgstr "V dálce byly slyšet bubny."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:370
 msgid "It didn’t take long for the trolls to understand what was happening."
-msgstr ""
+msgstr "Trollům netrvalo dlouho, než pochopili, co se děje."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:404
@@ -1098,31 +1100,33 @@ msgid ""
 "Some creatures were about to attack some other creatures. Both creatures’ "
 "appearances were strange and monstrous."
 msgstr ""
+"Nějaká stvoření se chystala zaútočit na jiná. Oba druhy měli podivný a "
+"odlišný vzhled."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:410
 msgid "However, Ougl could feel who was not driven by a good heart."
-msgstr ""
+msgstr "Ougl však dokázal vycítit, čí srdce bylo na správném místě."
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:420
 msgid "<b>S s a s...! ?</b> (Another enemy!?)"
-msgstr ""
+msgstr "<b>S s a s...! ?</b> (Další nepřítel!?)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:433
 msgid "Ougl shook his head in denial."
-msgstr ""
+msgstr "Ougl nesouhlasně zakroutil hlavou."
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:438
 msgid "<b>S s a s...?</b> (A friend, then?)"
-msgstr ""
+msgstr "<b>S s a s...?</b> (Takže přítel?)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:451
 msgid "Ougl nodded."
-msgstr ""
+msgstr "Ougl přikývl."
 
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:461
@@ -1130,46 +1134,48 @@ msgid ""
 "<b>Arg-hah!</b> (There is no more hope for you. No matter how many help you, "
 "death awaits you anyway.)"
 msgstr ""
+"<b>Arg-hah!</b> (Nemáte naději. Ať vám pomáhá kdokoli, smrt si vás stejně "
+"najde.)"
 
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:471
 msgid "<b>S y s s...!</b> (Give up your treasures and we will spare you!)"
-msgstr ""
+msgstr "<b>S y s s...!</b> (Vzdejte se svých pokladů a my vás ušetříme!)"
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:476
 msgid "<b>S s a s...!</b> (Never!)"
-msgstr ""
+msgstr "<b>S s a s...!</b> (Nikdy!)"
 
 #. [message]: speaker=NG
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:481
 msgid "<b>Urg-hah!</b> (Then die!)"
-msgstr ""
+msgstr "<b>Urg-hah!</b> (Tak zemřete!)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:499
 msgid "The Nagini looked again at the trolls."
-msgstr ""
+msgstr "Nága se podívala na trolly."
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:504
 msgid "<b>S s a s...?</b> (Will you help us?)"
-msgstr ""
+msgstr "<b>S s a s...?</b> (Pomůžete nám?)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:517
 msgid "Ougl said only one thing."
-msgstr ""
+msgstr "Ougl řekl jen jednu věc."
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:550
 msgid "<b>S y s y...!</b> (I want to fight too!)"
-msgstr ""
+msgstr "<b>S y s y...!</b> (Já chci taky bojovat!)"
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:562
 msgid "<b>S y s y...</b> (Let me deal with this one.)"
-msgstr ""
+msgstr "<b>S y s y...</b> (O toho se postarám)"
 
 #. [message]: speaker=unit
 #. [message]: speaker=OL
@@ -1177,7 +1183,7 @@ msgstr ""
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1057
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1076
 msgid "...!"
-msgstr ""
+msgstr "...!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:633
@@ -1185,11 +1191,12 @@ msgid ""
 "The hungry troll gorged itself on the mushrooms. They weren’t very tasty. "
 "Could they have been poisonous?"
 msgstr ""
+"Hladový troll se nacpal houbami. Moc mu nechutnaly. Mohly být snad jedovaté?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:639
 msgid "The troll suddenly feels an overwhelming rage."
-msgstr ""
+msgstr "Troll najednou pocítil nezměrný hněv."
 
 #. [note]
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:669
