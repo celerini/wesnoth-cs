@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-20 19:25+0200\n"
+"PO-Revision-Date: 2026-05-21 21:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5856,6 +5856,10 @@ msgid ""
 "grown into a wise ruler. Unfortunately for Garard, his son was also "
 "ambitious... and treacherous."
 msgstr ""
+"Garardův syn, korunní princ Eldred, se připojil k bouřlivý oslavám králova "
+"vítězství. Eldred byl bystrý a cílevědomý a jednoho dne z něj mohl vyrůst "
+"moudrý vládce. Naneštěstí pro Gararda byl jeho syn také ctižádostivý... "
+"a zrádný."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:52
@@ -5864,6 +5868,8 @@ msgid ""
 "blood. Seizing the crown for himself, the young prince led his father’s army "
 "south towards Weldyn."
 msgstr ""
+"Na vrcholu Garardova triumfu Eldred starého krále chladnokrevně zabil. Mladý "
+"princ se zmocnil koruny a vedl otcovo vojsko na jih k Weldynu."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:56
@@ -5872,6 +5878,9 @@ msgid ""
 "her son’s treachery. The rule of Eldred would surely satisfy her lust for "
 "power far better than her husband’s had."
 msgstr ""
+"Garardova královna Ašvíra se na to dívala se škodolibou radostí, protože "
+"připravila velkou část zrady svého syna. Vláda Eldreda by jistě uspokojila "
+"její touhu po moci mnohem lépe než vláda jejího manžela."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:60
@@ -5880,6 +5889,9 @@ msgid ""
 "a distant battle, he mustered a force of loyalists to fight the young prince "
 "and avenge the King’s death. The loyalist army marched south to meet Eldred."
 msgstr ""
+"Arcimág Delfador však po boku svého krále nepadl. Vrátil se ze vzdálené "
+"bitvy a shromáždil oddíl věrných, aby bojoval proti mladému princi a pomstil "
+"královu smrt. Vojsko stoupenců se vydalo na jih, aby se utkalo s Eldredem."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:64
@@ -5888,6 +5900,9 @@ msgid ""
 "ears: <i>“Fight no one great or small except the old mage, whose head should "
 "be severed from his shoulders.”</i>"
 msgstr ""
+"Eldred se pustil do války s věrnými a v uších mu zněly matčiny rady: "
+"<i>„Nebojuj s nikým velkým ani malým, kromě starého mága, kterému by měla "
+"být useknuta hlava.“</i>"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:68
@@ -5896,6 +5911,9 @@ msgid ""
 "road to Weldyn. Sword clashed against staff, as the wise old mage fought the "
 "brash young warrior."
 msgstr ""
+"A Eldred se skutečně setkal s Delfadorem tváří v tvář v bitvě na hlavní "
+"cestě do Weldynu. Meč se střetl s holí, když starý moudrý mág bojoval "
+"s drzým mladým válečníkem."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:72
@@ -5903,6 +5921,8 @@ msgid ""
 "In the end Delfador’s men were defeated and routed, but Asheviere found her "
 "son’s lifeless body, fixed to the ground by the great mage’s staff."
 msgstr ""
+"Nakonec byli Delfadorovi muži přemoženi a rozdrceni, ale Ašvíra našla synovo "
+"bezvládné tělo přibodnuté k zemi holí velkého mága."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:76
@@ -5912,6 +5932,10 @@ msgid ""
 "ordered them all killed and declared herself Queen of Wesnoth, striking down "
 "any lord bold enough to oppose her."
 msgstr ""
+"Ašvíra pak sama převzala velení nad vojskem a vedla je zpět do Weldynu. "
+"Protože věděla, že královi mladí synovci jsou dalšími v pořadí na trůn, "
+"nařídila je všechny zabít a prohlásila se královnou Wesnothu, přičemž "
+"porazila každého pána, který se jí odvážil postavit."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:80
@@ -5920,6 +5944,9 @@ msgid ""
 "the palace and stole away Konrad, the youngest of Garard’s nephews, thereby "
 "saving him from death."
 msgstr ""
+"Brzy poté, co se k Delfadorovi donesly zprávy o Ašvířiných příkazech, tajně "
+"vstoupil do paláce a ukradl Konráda, nejmladšího z Garardových synovců, čímž "
+"ho zachránil před smrtí."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:84
@@ -5928,6 +5955,9 @@ msgid ""
 "Delfador raised the child Konrad under the protection of the elves, watching "
 "sadly as Asheviere’s reign of terror over the land began..."
 msgstr ""
+"Delfador uprchl do Aethenského lesa za jihozápadní hranicí Wesnothu, "
+"vychovával malého Konráda pod ochranou elfů a smutně sledoval, jak v zemi "
+"nastupuje Ašvířina hrůzovláda..."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:148
