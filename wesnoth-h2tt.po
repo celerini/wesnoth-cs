@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-21 21:57+0200\n"
+"PO-Revision-Date: 2026-05-22 20:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5969,6 +5969,8 @@ msgstr "10 zlatých"
 msgid ""
 "A little gold for use in magical experiments. I’m sure it won’t be missed."
 msgstr ""
+"Trochu zlata pro použití při magických experimentech. Jsem si jistý, že "
+"nebude chybět."
 
 #. [message]: speaker=narrator
 #. this is Delfador trying to wake up a sleeping Konrad, as heard from Konrad's perspective
@@ -5998,6 +6000,8 @@ msgid ""
 "Wake up, wake up, wake up! Curse you Konrad, get up and get out here! We’re "
 "under attack!"
 msgstr ""
+"Probuď se, vzbuď se, vstávej! Zatraceně, Konráde, vylez z postele a vypadni "
+"odtamtud! Jsme pod útokem!"
 
 #. [message]: speaker=Konrad
 #. Konrad has heard Delfador calling him but is not concerned. In the past, Delfador has often surprised Konrad with training. In reality, there's a real battle beginning
@@ -6006,12 +6010,14 @@ msgid ""
 "I’m up, I’m up. What’s the “attack” today, Delfador? Orcs in the walls? Magi "
 "under my bedsheets?"
 msgstr ""
+"Jsem vzhůru, nespím. Co je to dnes za „útok“, Delfadore? Skřeti za dveřmi? "
+"Mágové pod mým povlečením?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:250
 msgid ""
 "No, you daft child, nothing like that! Grab your sword and come outside!"
-msgstr ""
+msgstr "Ne, ty hloupé děcko, nic takového! Popadni svůj meč a pojď ven!"
 
 #. [message]: speaker=Konrad
 #. the intent of this is to show that 1) Konrad trains regularly with Delfador and 2) Konrad is living with and on friendly terms with elves, particulary Ethiliel
@@ -6020,22 +6026,27 @@ msgid ""
 "Well, I’d better do as he says. Last time I missed battle training, Ethiliel "
 "made me spend all week transcribing her poetry. <i>(shudder)</i>"
 msgstr ""
+"Dobrá, raději udělám, co říká. Když jsem naposledy zmeškal bojový výcvik, "
+"Ethiliel mě donutila strávit celý týden přepisováním své poezie. <i>(brrr)</"
+"i>"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:300
 msgid "Explore your home"
-msgstr ""
+msgstr "Prozkoumej svůj domov"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:304
 msgid "Meet Delfador"
-msgstr ""
+msgstr "Setkej se s Delfadorem"
 
 #. [message]: speaker=Konrad
 #. the player has moved Konrad to his bed
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:335
 msgid "No time to rest! Got to train hard if I ever want to be a good king."
 msgstr ""
+"Není čas na odpočinek! Musím tvrdě trénovat, jestli se chci někdy stát "
+"dobrým králem."
 
 #. [message]: speaker=Konrad
 #. the player has moved Konrad near a writing desk. This foreshadows Asheviere's large-scale invasion
@@ -6045,11 +6056,14 @@ msgid ""
 "missive finds you well. Lord Maddock’s latest report is worrying: the recent "
 "mobilization suggests...</i>”"
 msgstr ""
+"Vypadá to jako kus Delfadorova dopisu. <i>„Sire Kaylane, doufám, že tě můj "
+"list zastihl ve zdraví. Poslední zpráva lorda Maddoka je znepokojivá: "
+"nedávná mobilizace naznačuje...“</i>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:355
 msgid "The letter trails off there."
-msgstr ""
+msgstr "Tady psaní končí."
 
 #. [message]: speaker=Konrad
 #. Konrad has moved near a bookshelf. These are the names of some of the books
@@ -6059,23 +6073,28 @@ msgid ""
 "“<i>Basics of Swordsmanship, feat. Sergeant Mari</i>”\n"
 "“<i>An Abridged History of Wesnoth, by Delfador</i>”"
 msgstr ""
+"<i>„Politická příručka pro začínající mladé státníky“</i>\n"
+"<i>„Základy šermířství, v podání seržantky Mari“</i>\n"
+"<i>„Stručné dějiny Wesnothu, sepsal Delfador“</i>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:378
 msgid ""
 "My textbooks, courtesy of the Aethenwood. The shelves get fuller every day."
 msgstr ""
+"Moje učebnice, které mi laskavě poskytl Aethenský les. Police jsou den ode "
+"dne plnější."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #. Konrad is attacking a quintain
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:411
 msgid "Hi-ya! Take that Eldred! Take that Asheviere!"
-msgstr ""
+msgstr "Hejá! Tumáš, Eldrede! Tumáš, Ašvíro!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:424
 msgid "This is good practice! I’m starting to tire myself out."
-msgstr ""
+msgstr "To je dobré cvičení! Začínám být unavený."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:443
@@ -6083,12 +6102,14 @@ msgid ""
 "Whew... I’m bruised and exhausted. It’s been good training so far, but if I "
 "keep throwing myself at this dummy I’m worried I might faint!"
 msgstr ""
+"Uf... Jsem pohmožděný a vyčerpaný. Zatím to byl dobrý výcvik, ale jestli se "
+"budu dál vrhat na toho panáka, bojím se, že omdlím!"
 
 #. [message]: speaker=Konrad
 #. Konrad is leaving home, kicking off the main scenario
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:487
 msgid "Well, time to see what Delfador’s so excited about."
-msgstr ""
+msgstr "No, je čas zjistit, z čeho je Delfador tak rozčilený."
 
 #. [side]: type=Red Mage, id=redmage, gender=female
 #. [side]
@@ -20823,7 +20844,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:764
 msgid "We are vanquished, for I have been defeated!"
-msgstr ""
+msgstr "Jsme poraženi, protože jsem byl přemožen!"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:765
 msgid "This is the end! Without me, who will guide the prince?"
