@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-22 20:57+0200\n"
+"PO-Revision-Date: 2026-05-23 13:28+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6165,6 +6165,8 @@ msgid ""
 "I’m here, Delfador! I thought you were calling me for more training, but "
 "there’s smoke rising from the forest. What’s going on?"
 msgstr ""
+"Jsem tady, Delfadore! Já myslel, že mě voláš, abych zase cvičil, ale z lesa "
+"stoupá kouř. Co se děje?"
 
 #. [message]: speaker=Ethiliel
 #. human armies have surrounded the Aethenwood and are burning it
@@ -6174,13 +6176,16 @@ msgid ""
 "throughout your youth. Now she comes bearing fiery retribution, and the dawn "
 "of a dark age for the Aethenwood."
 msgstr ""
+"Potíže, které způsobila tvá královna Ašvíra, dítě! Ví, že jsme tě celé tvé "
+"mládí ukrývali. Nyní přichází s ohnivou odplatou a počátkem temného věku pro "
+"Aethenský les."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1148
 msgid ""
 "I have already been injured. I fear she is after you personally, Master "
 "Konrad!"
-msgstr ""
+msgstr "Já už byl zraněn. Obávám se, že jde po tobě osobně, mistře Konráde!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1152
@@ -6188,11 +6193,12 @@ msgid ""
 "They have us nearly surrounded, but we can still flee to the west. I will "
 "protect you!"
 msgstr ""
+"Téměř nás obklíčili, ale stále můžeme utéct na západ. Budu tě ochraňovat!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1156
 msgid "But what about the elves? They are our friends! We have to help fight!"
-msgstr ""
+msgstr "Ale co elfové? Jsou to naši přátelé! Musíme jim pomoci bojovat!"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1160
@@ -6201,26 +6207,28 @@ msgid ""
 "escape, Konrad. Lord Kalenz has commanded your safety. It is imperative that "
 "you escape!"
 msgstr ""
+"Ašvíra je nepřítelem nás všech. Budeme bojovat proti útočníkům, ale ty musíš "
+"utéct, Konráde. Lord Kalenz nařídil tvé bezpečí. Je nutné, abys uprchl!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1164
 msgid "Galdrad is right. Do not throw your life away so easily, Your Highness."
-msgstr ""
+msgstr "Galdrad má pravdu. Nezahazujte svůj život tak snadno, Vaše Výsosti."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1168
 msgid "There can be no looking back. We must go quickly!"
-msgstr ""
+msgstr "Nelze se ohlížet zpět. Musíme jít rychle!"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1180
 msgid "Move Konrad and Delfador to the west edge of the map"
-msgstr ""
+msgstr "Přesuň Konráda a Delfadora na západní okraj mapy"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1214
 msgid "Watch out for the fire!"
-msgstr ""
+msgstr "Pozor na oheň!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1225
