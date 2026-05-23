@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-23 13:28+0200\n"
+"PO-Revision-Date: 2026-05-23 13:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20997,25 +20997,25 @@ msgstr ""
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:886
 msgid "Death of Konrad"
-msgstr ""
+msgstr "Konrád zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:894
 msgid "Death of Konrad or Delfador"
-msgstr ""
+msgstr "Konrád nebo Delfador zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:902
 msgid "Death of Konrad or Li’sar"
-msgstr ""
+msgstr "Konrád nebo Lisar zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:910
 msgid "Death of Konrad, Delfador, or Li’sar"
-msgstr ""
+msgstr "Konrád, Delfador nebo Lisar zemře"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:923
 msgid ""
 "Delfador is a leader, and can recruit elementals when standing on a keep."
-msgstr ""
+msgstr "Delfador je vůdce, a když stojí v pevnosti, může verbovat elementály."
