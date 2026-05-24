@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-23 13:44+0200\n"
+"PO-Revision-Date: 2026-05-24 07:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6150,14 +6150,14 @@ msgstr "No, je čas zjistit, z čeho je Delfador tak rozčilený."
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:62
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:82
 msgid "Army of Wesnoth"
-msgstr ""
+msgstr "Vojsko Wesnothu"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:757
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:778
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:139
 msgid "Aethenwood Elves"
-msgstr ""
+msgstr "Elfové z Aethenského lesa"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1138
@@ -6236,6 +6236,8 @@ msgid ""
 "Konrad, it took you some time to rise this morning. I’m not angry, but I am "
 "worried. I won’t always be here to keep you safe!"
 msgstr ""
+"Konráde, dnes ráno ti trvalo nějakou dobu, než jsi vstal. Nezlobím se, ale "
+"dělám si starosti. Nebudu tu vždycky, abych tě ochránil!"
 
 #. [message]: speaker=Konrad
 #. Asheviere and her army are burning the Aethenwood and killing Konrad's elven friends.
@@ -6244,6 +6246,8 @@ msgid ""
 "I know, Delfador, and I’m sorry. This is horrible! How did the fires get so "
 "close without me noticing!?"
 msgstr ""
+"Já vím, Delfadore, a je mi to líto. Tohle je strašné! Jak se ty požáry mohly "
+"dostat tak blízko, aniž bych si toho všiml!?"
 
 #. [message]: speaker=Konrad
 #. Asheviere and her army are burning the Aethenwood and killing Konrad's elven friends.
@@ -6252,6 +6256,8 @@ msgid ""
 "I’ve never seen so many humans all in one place before. I can’t believe you "
 "and I are really the same as them..."
 msgstr ""
+"Tolik lidí na jednom místě jsem ještě nikdy neviděl. Nemůžu uvěřit, že my "
+"dva jsme úplně stejní jako oni..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1239
@@ -6260,6 +6266,9 @@ msgid ""
 "Our kind can be a little crude, but we aren’t usually so bad — it’s "
 "Asheviere who’s stirred up all this mischief."
 msgstr ""
+"<i><b>Je mi líto</b></i>, že jsi nemohl vyrůstat mezi svými. Náš druh umí "
+"být trochu hrubý, ale většinou nejsme tak zlí – to Ašvíra rozdmýchala "
+"všechny tyhle rozbroje."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1243
@@ -6268,47 +6277,50 @@ msgid ""
 "whole of her armies! We must get out of this forest so we can see what else "
 "is going on."
 msgstr ""
+"A jestli je mé podezření pravdivé, je to jen malá část většího celku jejích "
+"vojsk! Musíme se dostat z tohoto lesa, abychom se mohli podívat, co se tu "
+"ještě děje."
 
 #. [message]: type=Cavalryman # their armored helm looks more intimidating than our Bowman or Spearman portraits
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1255
 msgid "Surround the enclaves! Don’t let anyone escape!"
-msgstr ""
+msgstr "Obkličte enklávy! Nenechte nikoho utéct!"
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1274
 msgid "I am Galdrad. You will have to fight me to get any further!"
-msgstr ""
+msgstr "Já jsem Galdrad. Abyste se dostali dál, budete se mnou muset bojovat!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #. said when Konrad attacks / is attacked
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1295
 msgid "Leave my home alone, you villain!"
-msgstr ""
+msgstr "Nech můj domov na pokoji, ty darebáku!"
 
 #. [message]
 #. Asheviere's official stance is that Konrad is a fraud. At this point, the player believes Konrad is the true prince
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1300
 msgid ""
 "You’re just an imposter! Everyone knows the real Prince Konrad died long ago."
-msgstr ""
+msgstr "Jsi jen podvodník! Každý ví, že skutečný princ Konrád už dávno zemřel."
 
 #. [message]: speaker=second_unit
 #. said when Delfador attacks. The unit flees off the map before Delfador can deal damage
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1313
 msgid "Oh no, it’s HIM, it’s Delfador THE GREAT! Get me out of here!"
-msgstr ""
+msgstr "Ale ne, to je ON, to je Delfador VELIKÝ! Dostaňte mě odsud!"
 
 #. [message]: speaker=Delfador
 #. an enemy has just fled, even before Delfador got a chance to attack
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1335
 msgid "My reputation precedes me."
-msgstr ""
+msgstr "Moje pověst mě předchází."
 
 #. [message]: speaker=Delfador
 #. Delfador has killed 10 enemies, and the player has earned an achievement
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1362
 msgid "Only fools dare oppose me."
-msgstr ""
+msgstr "Jen blázni se mi odváží odporovat."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1376
@@ -6318,6 +6330,10 @@ msgid ""
 "exceeded all expectations! (or you’re cheating to see what happens / using "
 "overpowered add-ons)"
 msgstr ""
+"Páni, porazil jsi všechny útočníky a zachránil Aethenský les! Nečekal jsem, "
+"že je to možné, takže pokud čteš tuto zprávu ve hře, překonal jsi všechna "
+"očekávání! (nebo podvádíš, abys zjistil, co se stane, či používáš příliš "
+"silná rozšíření)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1381
@@ -6325,32 +6341,34 @@ msgid ""
 "Unfortunately this breaks the story, so for the rest of the campaign we’re "
 "going to have to pretend that this never happened, okay?"
 msgstr ""
+"Bohužel to narušuje příběh, takže po zbytek tažení budeme muset předstírat, "
+"že se to nikdy nestalo, ano?"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1394
 msgid "Impossible! I must report back to the queen."
-msgstr ""
+msgstr "Nemožné! Musím to ohlásit královně."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1417
 msgid "Hurry, Delfador! I’m not leaving without you."
-msgstr ""
+msgstr "Pospěš si, Delfadore! Bez tebe neodejdu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1431
 msgid "Hurry along, Konrad! We leave together, or not at all."
-msgstr ""
+msgstr "Pospěš si, Konráde! Buď odejdeme společně, nebo vůbec."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1457
 msgid "Time to go, Konrad! Come on!"
-msgstr ""
+msgstr "Je čas jít, Konráde! Pojď!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1461
 msgid ""
 "Of course you are right, Delfador. But what will become of our friends here?"
-msgstr ""
+msgstr "Samozřejmě máš pravdu, Delfadore. Ale co bude s našimi přáteli tady?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1465
@@ -6358,11 +6376,13 @@ msgid ""
 "The elves will fight. They may even prevail. But I fear things do not bode "
 "well for them. Let us not speak of it now. Onward!"
 msgstr ""
+"Elfové budou bojovat. Možná dokonce zvítězí. Ale obávám se, že to pro ně "
+"nevěstí nic dobrého. Teď o tom nemluvme. Kupředu!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1481
 msgid "Hurry, hurry! We have but a moment left."
-msgstr ""
+msgstr "Pospěš si, pospěš si! Zbývá nám už jen chvilka."
 
 #. [message]: role=halberdier
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1492
@@ -6370,11 +6390,13 @@ msgid ""
 "General, we’ve seized the western forest and occupied the elf-roads! The "
 "rest of the men will be here shortly."
 msgstr ""
+"Generále, ovládli jsme západní les a obsadili elfí cesty! Zbytek mužů tu "
+"bude co nevidět."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:1496
 msgid "We have run out of time! There can be no more escape..."
-msgstr ""
+msgstr "Došel nám čas! Už není úniku..."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:19
