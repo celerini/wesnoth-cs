@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-18 00:07 UTC\n"
-"PO-Revision-Date: 2026-05-24 08:42+0200\n"
+"PO-Revision-Date: 2026-05-25 21:21+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4907,7 +4907,7 @@ msgstr "Arcimágyně"
 #. [unit_type]: id=Elder Mage, race=human
 #: data/core/units/humans/Mage_Elder.cfg:4
 msgid "Elder Mage"
-msgstr "Starý mág"
+msgstr "Starší mág"
 
 #. [unit_type]: id=Elder Mage, race=human
 #: data/core/units/humans/Mage_Elder.cfg:23
@@ -4916,7 +4916,7 @@ msgid ""
 "wearying years of battle. Nevertheless they remain feared on the battlefield "
 "on account of their powerful lightning bolts."
 msgstr ""
-"Staří mágové byli kdysi velkými mágy, ale únavné roky bitev jim už něco sil "
+"Starší mágové byli kdysi velkými mágy, ale únavné roky bitev jim už něco sil "
 "ubraly. Na bitevním poli jsou nicméně pro své mocné blesky stále obávanými "
 "protivníky."
 
