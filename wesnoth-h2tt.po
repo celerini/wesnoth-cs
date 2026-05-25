@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-24 07:56+0200\n"
+"PO-Revision-Date: 2026-05-25 22:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19175,7 +19175,7 @@ msgstr ""
 #. [unit_type]: id=Delfador, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:8
 msgid "Elder Mage"
-msgstr ""
+msgstr "Starší mág"
 
 #. [unit_type]: id=Delfador, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:24
@@ -19186,11 +19186,15 @@ msgid ""
 "retains a dominating presence on the battlefield, calling devastating blasts "
 "of lightning down upon their foes."
 msgstr ""
+"Po letech pečlivého studia a těžce nabytých zkušeností se znalosti "
+"a moudrost staršího mága nesrovnatelně rozrostly. Ačkoli se jejich síla "
+"vlivem času poněkud zmenšila, starší mág přesto stále působivě ovládá "
+"bojiště a svolává na své nepřátele ničivé blesky."
 
 #. [dummy]
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:71
 msgid "levitate"
-msgstr ""
+msgstr "vznášení"
 
 #. [dummy]
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:72
@@ -19198,11 +19202,13 @@ msgid ""
 "This unit ignores most movement costs, bypasses Zone of Control, and always "
 "has at least 50% defense."
 msgstr ""
+"Tato jednotka nedbá většiny cen pohybu, obchází oblast kontroly a má vždy "
+"alespoň 50% obranu."
 
 #. [leadership]: id=summoner
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:84
 msgid "summoner"
-msgstr ""
+msgstr "přivolávač"
 
 #. [leadership]: id=summoner
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:85
@@ -19210,26 +19216,28 @@ msgid ""
 "This unit is a skilled summoner. Adjacent allied elementals deal +100% "
 "damage and gain +100% experience."
 msgstr ""
+"Tato jednotka je zkušený přivolávač. Sousední spojenečtí elementálové "
+"způsobují +100 % zranění a získávají +100 % zkušeností."
 
 #. [leadership]: id=summoner
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:87
 msgid "Recruited elementals dissipate at the end of each scenario."
-msgstr ""
+msgstr "Naverbovaní elementálové se na konci každého scénáře rozptýlí."
 
 #. [attack]: type=impact
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:146
 msgid "staff"
-msgstr ""
+msgstr "hůl"
 
 #. [attack]: type=fire
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:155
 msgid "lightning"
-msgstr ""
+msgstr "blesk"
 
 #. [dummy]: id=chain
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:163
 msgid "chain"
-msgstr ""
+msgstr "řetězec"
 
 #. [dummy]: id=chain
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:164
@@ -19237,6 +19245,8 @@ msgid ""
 "This attack can be used multiple times on offense, but consecutive uses "
 "strike one fewer time."
 msgstr ""
+"Při zahájení útoku lze tento použít vícekrát, ale každý další útok má "
+"o jeden úder méně."
 
 #. [unit_type]: id=Injured Lieutenant
 #: data/campaigns/Heir_To_The_Throne/units/Human_Injured_Lieutenant.cfg:7
