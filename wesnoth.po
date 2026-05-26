@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-18 21:15-0500\n"
-"PO-Revision-Date: 2026-05-24 08:35+0200\n"
+"PO-Revision-Date: 2026-05-26 21:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4247,7 +4247,7 @@ msgstr "životy"
 #. [label]: id=label-xp
 #: data/themes/default.cfg:173
 msgid "XP"
-msgstr "zkušenosti"
+msgstr "zkušen."
 
 #. [label]: id=label-mp
 #: data/themes/default.cfg:181
