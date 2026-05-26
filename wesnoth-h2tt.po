@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-25 22:26+0200\n"
+"PO-Revision-Date: 2026-05-26 21:21+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19324,13 +19324,15 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:4
 msgid "Fighter"
-msgstr ""
+msgstr "Bojovník"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:21
 msgid ""
 "Young and brash, Fighters attack with a sword, and are vulnerable to more "
 "seasoned enemies. At this early age, their greatest value is their potential."
 msgstr ""
+"Bojovníci jsou mladí a drzí, útočí mečem a jsou zranitelní vůči zkušenějším "
+"nepřátelům. V tomto raném věku jsou největší hodnotou jejich možnosti."
 
 #. [variation]
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:87
