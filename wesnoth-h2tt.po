@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-26 21:36+0200\n"
+"PO-Revision-Date: 2026-05-26 21:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20797,12 +20797,12 @@ msgstr ""
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:444
 msgid "loyal"
-msgstr ""
+msgstr "věrný"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:445
 msgid "Zero upkeep"
-msgstr ""
+msgstr "Nulové výdaje"
 
 #. [unit]: id=Kaylan, type=Grand Knight
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:484
