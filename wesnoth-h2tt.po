@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-26 21:55+0200\n"
+"PO-Revision-Date: 2026-05-27 20:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -521,24 +521,30 @@ msgstr "Pravý dědic"
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:65
 msgid "Difficulty: "
-msgstr ""
+msgstr "Obtížnost: "
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:72
 msgid ""
 "Expected Gold Carryover Reward: <b><span color='#ad6a61'>NONE</span></b>"
 msgstr ""
+"Očekávaná odměna v přeneseném zlatě: <b><span color='#ad6a61'>ŽÁDNÁ</span></"
+"b>"
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:73
 msgid "Expected Gold Carryover Reward: <b><span color='#a9a150'>LOW</span></b>"
 msgstr ""
+"Očekávaná odměna v přeneseném zlatě: <b><span color='#a9a150'>NÍZKÁ</span></"
+"b>"
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:74
 msgid ""
 "Expected Gold Carryover Reward: <b><span color='#6ca364'>HIGH</span></b>"
 msgstr ""
+"Očekávaná odměna v přeneseném zlatě: <b><span color='#6ca364'>VYSOKÁ</span></"
+"b>"
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #. [object]
@@ -547,27 +553,27 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:549
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:347
 msgid "New Recruits:"
-msgstr ""
+msgstr "Noví rekruti:"
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:91
 msgid "New Companion:"
-msgstr ""
+msgstr "Nový společník:"
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:185
 msgid "Continue"
-msgstr ""
+msgstr "Pokračovat"
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:190
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:266
 msgid "Welcome to the Great Continent"
-msgstr ""
+msgstr "Vítej na Velkém kontinentu"
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:274
@@ -575,6 +581,8 @@ msgid ""
 "The Great Continent is a place of many possibilities.\n"
 "Where shall you go? What shall you do?"
 msgstr ""
+"Velký kontinent je místem mnoha možností.\n"
+"Kam se vydáš? Co budeš dělat?"
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:290
@@ -583,18 +591,21 @@ msgid ""
 "a battle scenario, <i><b>move Konrad\n"
 "to one of the marked hexes.</b></i>"
 msgstr ""
+"Abys opustil přehled a hrál\n"
+"bitevní scénář, <i><b>přesuň Konráda\n"
+"na jedno z vyznačených políček.</b></i>"
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #. [lua]: wesnoth.wml_actions.display_lisar_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:302
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:366
 msgid "Understood"
-msgstr ""
+msgstr "Rozumím"
 
 #. [lua]: wesnoth.wml_actions.display_lisar_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:339
 msgid "Li’sar’s Army"
-msgstr ""
+msgstr "Lisařino vojsko"
 
 #. [lua]: wesnoth.wml_actions.display_lisar_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:354
