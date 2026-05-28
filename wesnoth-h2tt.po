@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-27 20:09+0200\n"
+"PO-Revision-Date: 2026-05-28 22:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -591,7 +591,7 @@ msgid ""
 "a battle scenario, <i><b>move Konrad\n"
 "to one of the marked hexes.</b></i>"
 msgstr ""
-"Abys opustil přehled a hrál\n"
+"Abys opustil nadhled a hrál\n"
 "bitevní scénář, <i><b>přesuň Konráda\n"
 "na jedno z vyznačených políček.</b></i>"
 
@@ -691,6 +691,7 @@ msgstr ""
 msgid ""
 "Well done, Konrad! Fresh air at last; we have escaped the smoke and fire."
 msgstr ""
+"Dobrá práce, Konráde! Konečně čerstvý vzduch, unikli jsme kouři a ohni."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:90
@@ -698,6 +699,8 @@ msgid ""
 "But the rest of the elves have not; they’re still trapped in the battle! And "
 "look — even our friends at Blackwater Port are being attacked!"
 msgstr ""
+"Ale zbytek elfů ne, ti jsou stále uvězněni v bitvě! A podívej – i naši "
+"přátelé v přístavu Temná Voda jsou pod útokem!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:94
@@ -706,6 +709,9 @@ msgid ""
 "western reaches have suffered less of the dark queen’s tyranny than have the "
 "rest of the realm. But it seems now even this has come to an end."
 msgstr ""
+"Je pravda, že s podporou Elensefaru a Aethenského lesa západní oblasti "
+"trpěly tyranií temné královny méně než zbytek říše. Zdá se však, že i tomu "
+"je nyní konec."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:98
@@ -713,6 +719,8 @@ msgid ""
 "Then we must do something! Delfador, we can’t keep running away while others "
 "get hurt."
 msgstr ""
+"Pak musíme něco udělat! Delfadore, nemůžeme stále utíkat, zatímco ostatní "
+"trpí."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:102
@@ -722,17 +730,21 @@ msgid ""
 "hoped to wait until you were older... Hmph, I remember my own master telling "
 "me that once."
 msgstr ""
+"Máš pravdu, Konráde. Obávám se, že to jinak nepůjde, budeme muset zahájit "
+"tažení proti Ašvíře dříve, než bylo plánováno. Doufal jsem, že počkáme, až "
+"budeš starší... Hm, vzpomínám si, že to mi kdysi říkal můj vlastní mistr."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:106
 msgid ""
 "Don’t worry Delfador, I’m ready. Now come on, let’s go save the kingdom!"
 msgstr ""
+"Neboj se, Delfadore, jsem připraven. Teď pojď, jdeme zachránit království!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:124
 msgid "Aethenwood"
-msgstr ""
+msgstr "Aethenský les"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:134
@@ -750,6 +762,8 @@ msgid ""
 "Konrad, our war is lost! We have tried to flee but human forces encircle us. "
 "If you don’t act now, none of us may escape!"
 msgstr ""
+"Konráde, naše válka je prohraná! Pokusili jsme se utéct, ale oddíly lidí nás "
+"obklíčily. Pokud teď nezakročíš, nikdo z nás neunikne!"
 
 #. [message]: race=elf
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:203
@@ -757,6 +771,8 @@ msgid ""
 "I’m glad you have escaped the attack, Konrad, but we cannot! Help us evade "
 "the human armies and flee our burning forest!"
 msgstr ""
+"Jsem rád, že jsi unikl útoku, Konráde, ale my nemůžeme! Pomoz nám vyhnout se "
+"vojskům lidí a utéct z našeho hořícího lesa!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:224
@@ -4863,7 +4879,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:4
 msgid "scenario name^The Great Continent"
-msgstr ""
+msgstr "Velký kontinent"
 
 #. [event]
 #. [message]: role=lisar_skiff
@@ -4889,11 +4905,13 @@ msgstr ""
 msgid ""
 "Build up your army ($( $bm_milestone_scepter - $bm_turns ) battles remaining)"
 msgstr ""
+"Vybuduj si vojsko (počet zbývajících bitev: $( $bm_milestone_scepter - "
+"$bm_turns ))"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:507
 msgid "Build up your army (1 battle remaining)"
-msgstr ""
+msgstr "Vybuduj si vojsko (zbývá 1 bitva)"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:520
@@ -20616,7 +20634,7 @@ msgstr ""
 #. [menu]: id=menu-main
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:34
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:112
 msgid "Autumn, Year 517"
