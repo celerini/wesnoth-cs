@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-28 22:10+0200\n"
+"PO-Revision-Date: 2026-05-28 22:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20638,171 +20638,171 @@ msgstr "Menu"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:112
 msgid "Autumn, Year 517"
-msgstr ""
+msgstr "podzim, rok 517"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:113
 msgid "Winter, Year 517"
-msgstr ""
+msgstr "zima, rok 517"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:114
 msgid "Spring, Year 518"
-msgstr ""
+msgstr "jaro, rok 518"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:115
 msgid "Summer, Year 518"
-msgstr ""
+msgstr "léto, rok 518"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:116
 msgid "Autumn, Year 518"
-msgstr ""
+msgstr "podzim, rok 518"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:117
 msgid "Winter, Year 518"
-msgstr ""
+msgstr "zima, rok 518"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:118
 msgid "Spring, Year 519"
-msgstr ""
+msgstr "jaro, rok 519"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:119
 msgid "Summer, Year 519"
-msgstr ""
+msgstr "léto, rok 519"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:120
 msgid "Autumn, Year 519"
-msgstr ""
+msgstr "podzim, rok 519"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:121
 msgid "Winter, Year 519"
-msgstr ""
+msgstr "zima, rok 519"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:122
 msgid "Spring, Year 520"
-msgstr ""
+msgstr "jaro, rok 520"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:123
 msgid "Summer, Year 520"
-msgstr ""
+msgstr "léto, rok 520"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:124
 msgid "Autumn, Year 520"
-msgstr ""
+msgstr "podzim, rok 520"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:125
 msgid "Winter, Year 520"
-msgstr ""
+msgstr "zima, rok 520"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:126
 msgid "Spring, Year 521"
-msgstr ""
+msgstr "jaro, rok 521"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:127
 msgid "Summer, Year 521"
-msgstr ""
+msgstr "léto, rok 521"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:128
 msgid "Autumn, Year 521"
-msgstr ""
+msgstr "podzim, rok 521"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:129
 msgid "Winter, Year 521"
-msgstr ""
+msgstr "zima, rok 521"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:130
 msgid "Spring, Year 522"
-msgstr ""
+msgstr "jaro, rok 522"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:131
 msgid "Summer, Year 522"
-msgstr ""
+msgstr "léto, rok 522"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:132
 msgid "Autumn, Year 522"
-msgstr ""
+msgstr "podzim, rok 522"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:133
 msgid "Winter, Year 522"
-msgstr ""
+msgstr "zima, rok 522"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:134
 msgid "Spring, Year 523"
-msgstr ""
+msgstr "jaro, rok 523"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:135
 msgid "Summer, Year 523"
-msgstr ""
+msgstr "léto, rok 523"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:136
 msgid "Autumn, Year 523"
-msgstr ""
+msgstr "podzim, rok 523"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:137
 msgid "Winter, Year 523"
-msgstr ""
+msgstr "zima, rok 523"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:138
 msgid "Spring, Year 524"
-msgstr ""
+msgstr "jaro, rok 524"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:139
 msgid "Summer, Year 524"
-msgstr ""
+msgstr "léto, rok 524"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:140
 msgid "Autumn, Year 524"
-msgstr ""
+msgstr "podzim, rok 524"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:141
 msgid "Winter, Year 524"
-msgstr ""
+msgstr "zima, rok 524"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:142
 msgid "Spring, Year 525"
-msgstr ""
+msgstr "jaro, rok 525"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:143
 msgid "Summer, Year 525"
-msgstr ""
+msgstr "léto, rok 525"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:144
 msgid "Autumn, Year 525"
-msgstr ""
+msgstr "podzim, rok 525"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:145
 msgid "Winter, Year 525"
-msgstr ""
+msgstr "zima, rok 525"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:146
 msgid "Spring, Year 526"
-msgstr ""
+msgstr "jaro, rok 526"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:147
 msgid "Summer, Year 526"
-msgstr ""
+msgstr "léto, rok 526"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:148
 msgid "Autumn, Year 526"
-msgstr ""
+msgstr "podzim, rok 526"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:149
 msgid "Winter, Year 526"
-msgstr ""
+msgstr "zima, rok 526"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:150
 msgid "Spring, Year 527"
-msgstr ""
+msgstr "jaro, rok 527"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:151
 msgid "Summer, Year 527"
-msgstr ""
+msgstr "léto, rok 527"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:152
 msgid "Autumn, Year 527"
-msgstr ""
+msgstr "podzim, rok 527"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:153
 msgid "Winter, Year 527"
-msgstr ""
+msgstr "zima, rok 527"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:184
