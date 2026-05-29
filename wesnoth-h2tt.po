@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-25 22:26+0200\n"
+"PO-Revision-Date: 2026-05-28 22:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -111,7 +111,7 @@ msgstr "Různé"
 #. [dummy]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:169
 msgid "summoned"
-msgstr "povolaný"
+msgstr "přivolaný"
 
 #. [dummy]
 #: data/campaigns/Heir_To_The_Throne/_main.cfg:170
@@ -521,24 +521,30 @@ msgstr "Pravý dědic"
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:65
 msgid "Difficulty: "
-msgstr ""
+msgstr "Obtížnost: "
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:72
 msgid ""
 "Expected Gold Carryover Reward: <b><span color='#ad6a61'>NONE</span></b>"
 msgstr ""
+"Očekávaná odměna v přeneseném zlatě: <b><span color='#ad6a61'>ŽÁDNÁ</span></"
+"b>"
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:73
 msgid "Expected Gold Carryover Reward: <b><span color='#a9a150'>LOW</span></b>"
 msgstr ""
+"Očekávaná odměna v přeneseném zlatě: <b><span color='#a9a150'>NÍZKÁ</span></"
+"b>"
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:74
 msgid ""
 "Expected Gold Carryover Reward: <b><span color='#6ca364'>HIGH</span></b>"
 msgstr ""
+"Očekávaná odměna v přeneseném zlatě: <b><span color='#6ca364'>VYSOKÁ</span></"
+"b>"
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #. [object]
@@ -547,27 +553,27 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:549
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:347
 msgid "New Recruits:"
-msgstr ""
+msgstr "Noví rekruti:"
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:91
 msgid "New Companion:"
-msgstr ""
+msgstr "Nový společník:"
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:185
 msgid "Continue"
-msgstr ""
+msgstr "Pokračovat"
 
 #. [lua]: wesnoth.wml_actions.display_scenario_preview
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:190
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:266
 msgid "Welcome to the Great Continent"
-msgstr ""
+msgstr "Vítej na Velkém kontinentu"
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:274
@@ -575,6 +581,8 @@ msgid ""
 "The Great Continent is a place of many possibilities.\n"
 "Where shall you go? What shall you do?"
 msgstr ""
+"Velký kontinent je místem mnoha možností.\n"
+"Kam se vydáš? Co budeš dělat?"
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:290
@@ -583,18 +591,21 @@ msgid ""
 "a battle scenario, <i><b>move Konrad\n"
 "to one of the marked hexes.</b></i>"
 msgstr ""
+"Abys opustil nadhled a hrál\n"
+"bitevní scénář, <i><b>přesuň Konráda\n"
+"na jedno z vyznačených políček.</b></i>"
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #. [lua]: wesnoth.wml_actions.display_lisar_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:302
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:366
 msgid "Understood"
-msgstr ""
+msgstr "Rozumím"
 
 #. [lua]: wesnoth.wml_actions.display_lisar_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:339
 msgid "Li’sar’s Army"
-msgstr ""
+msgstr "Lisařino vojsko"
 
 #. [lua]: wesnoth.wml_actions.display_lisar_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:354
@@ -680,6 +691,7 @@ msgstr ""
 msgid ""
 "Well done, Konrad! Fresh air at last; we have escaped the smoke and fire."
 msgstr ""
+"Dobrá práce, Konráde! Konečně čerstvý vzduch, unikli jsme kouři a ohni."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:90
@@ -687,6 +699,8 @@ msgid ""
 "But the rest of the elves have not; they’re still trapped in the battle! And "
 "look — even our friends at Blackwater Port are being attacked!"
 msgstr ""
+"Ale zbytek elfů ne, ti jsou stále uvězněni v bitvě! A podívej – i naši "
+"přátelé v přístavu Temná Voda jsou pod útokem!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:94
@@ -695,6 +709,9 @@ msgid ""
 "western reaches have suffered less of the dark queen’s tyranny than have the "
 "rest of the realm. But it seems now even this has come to an end."
 msgstr ""
+"Je pravda, že s podporou Elensefaru a Aethenského lesa západní oblasti "
+"trpěly tyranií temné královny méně než zbytek říše. Zdá se však, že i tomu "
+"je nyní konec."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:98
@@ -702,6 +719,8 @@ msgid ""
 "Then we must do something! Delfador, we can’t keep running away while others "
 "get hurt."
 msgstr ""
+"Pak musíme něco udělat! Delfadore, nemůžeme stále utíkat, zatímco ostatní "
+"trpí."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:102
@@ -711,17 +730,21 @@ msgid ""
 "hoped to wait until you were older... Hmph, I remember my own master telling "
 "me that once."
 msgstr ""
+"Máš pravdu, Konráde. Obávám se, že to jinak nepůjde, budeme muset zahájit "
+"tažení proti Ašvíře dříve, než bylo plánováno. Doufal jsem, že počkáme, až "
+"budeš starší... Hm, vzpomínám si, že to mi kdysi říkal můj vlastní mistr."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:106
 msgid ""
 "Don’t worry Delfador, I’m ready. Now come on, let’s go save the kingdom!"
 msgstr ""
+"Neboj se, Delfadore, jsem připraven. Teď pojď, jdeme zachránit království!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:124
 msgid "Aethenwood"
-msgstr ""
+msgstr "Aethenský les"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:134
@@ -739,6 +762,8 @@ msgid ""
 "Konrad, our war is lost! We have tried to flee but human forces encircle us. "
 "If you don’t act now, none of us may escape!"
 msgstr ""
+"Konráde, naše válka je prohraná! Pokusili jsme se utéct, ale oddíly lidí nás "
+"obklíčily. Pokud teď nezakročíš, nikdo z nás neunikne!"
 
 #. [message]: race=elf
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:203
@@ -746,6 +771,8 @@ msgid ""
 "I’m glad you have escaped the attack, Konrad, but we cannot! Help us evade "
 "the human armies and flee our burning forest!"
 msgstr ""
+"Jsem rád, že jsi unikl útoku, Konráde, ale my nemůžeme! Pomoz nám vyhnout se "
+"vojskům lidí a utéct z našeho hořícího lesa!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:224
@@ -4852,7 +4879,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:4
 msgid "scenario name^The Great Continent"
-msgstr ""
+msgstr "Velký kontinent"
 
 #. [event]
 #. [message]: role=lisar_skiff
@@ -4878,11 +4905,13 @@ msgstr ""
 msgid ""
 "Build up your army ($( $bm_milestone_scepter - $bm_turns ) battles remaining)"
 msgstr ""
+"Vybuduj si vojsko (počet zbývajících bitev: $( $bm_milestone_scepter - "
+"$bm_turns ))"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:507
 msgid "Build up your army (1 battle remaining)"
-msgstr ""
+msgstr "Vybuduj si vojsko (zbývá 1 bitva)"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:520
@@ -19324,13 +19353,15 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:4
 msgid "Fighter"
-msgstr ""
+msgstr "Bojovník"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:21
 msgid ""
 "Young and brash, Fighters attack with a sword, and are vulnerable to more "
 "seasoned enemies. At this early age, their greatest value is their potential."
 msgstr ""
+"Bojovníci jsou mladí a drzí, útočí mečem a jsou zranitelní vůči zkušenějším "
+"nepřátelům. V tomto raném věku jsou největší hodnotou jejich možnosti."
 
 #. [variation]
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:87
@@ -20603,175 +20634,175 @@ msgstr ""
 #. [menu]: id=menu-main
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:34
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:112
 msgid "Autumn, Year 517"
-msgstr ""
+msgstr "podzim, rok 517"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:113
 msgid "Winter, Year 517"
-msgstr ""
+msgstr "zima, rok 517"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:114
 msgid "Spring, Year 518"
-msgstr ""
+msgstr "jaro, rok 518"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:115
 msgid "Summer, Year 518"
-msgstr ""
+msgstr "léto, rok 518"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:116
 msgid "Autumn, Year 518"
-msgstr ""
+msgstr "podzim, rok 518"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:117
 msgid "Winter, Year 518"
-msgstr ""
+msgstr "zima, rok 518"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:118
 msgid "Spring, Year 519"
-msgstr ""
+msgstr "jaro, rok 519"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:119
 msgid "Summer, Year 519"
-msgstr ""
+msgstr "léto, rok 519"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:120
 msgid "Autumn, Year 519"
-msgstr ""
+msgstr "podzim, rok 519"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:121
 msgid "Winter, Year 519"
-msgstr ""
+msgstr "zima, rok 519"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:122
 msgid "Spring, Year 520"
-msgstr ""
+msgstr "jaro, rok 520"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:123
 msgid "Summer, Year 520"
-msgstr ""
+msgstr "léto, rok 520"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:124
 msgid "Autumn, Year 520"
-msgstr ""
+msgstr "podzim, rok 520"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:125
 msgid "Winter, Year 520"
-msgstr ""
+msgstr "zima, rok 520"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:126
 msgid "Spring, Year 521"
-msgstr ""
+msgstr "jaro, rok 521"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:127
 msgid "Summer, Year 521"
-msgstr ""
+msgstr "léto, rok 521"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:128
 msgid "Autumn, Year 521"
-msgstr ""
+msgstr "podzim, rok 521"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:129
 msgid "Winter, Year 521"
-msgstr ""
+msgstr "zima, rok 521"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:130
 msgid "Spring, Year 522"
-msgstr ""
+msgstr "jaro, rok 522"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:131
 msgid "Summer, Year 522"
-msgstr ""
+msgstr "léto, rok 522"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:132
 msgid "Autumn, Year 522"
-msgstr ""
+msgstr "podzim, rok 522"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:133
 msgid "Winter, Year 522"
-msgstr ""
+msgstr "zima, rok 522"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:134
 msgid "Spring, Year 523"
-msgstr ""
+msgstr "jaro, rok 523"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:135
 msgid "Summer, Year 523"
-msgstr ""
+msgstr "léto, rok 523"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:136
 msgid "Autumn, Year 523"
-msgstr ""
+msgstr "podzim, rok 523"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:137
 msgid "Winter, Year 523"
-msgstr ""
+msgstr "zima, rok 523"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:138
 msgid "Spring, Year 524"
-msgstr ""
+msgstr "jaro, rok 524"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:139
 msgid "Summer, Year 524"
-msgstr ""
+msgstr "léto, rok 524"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:140
 msgid "Autumn, Year 524"
-msgstr ""
+msgstr "podzim, rok 524"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:141
 msgid "Winter, Year 524"
-msgstr ""
+msgstr "zima, rok 524"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:142
 msgid "Spring, Year 525"
-msgstr ""
+msgstr "jaro, rok 525"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:143
 msgid "Summer, Year 525"
-msgstr ""
+msgstr "léto, rok 525"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:144
 msgid "Autumn, Year 525"
-msgstr ""
+msgstr "podzim, rok 525"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:145
 msgid "Winter, Year 525"
-msgstr ""
+msgstr "zima, rok 525"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:146
 msgid "Spring, Year 526"
-msgstr ""
+msgstr "jaro, rok 526"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:147
 msgid "Summer, Year 526"
-msgstr ""
+msgstr "léto, rok 526"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:148
 msgid "Autumn, Year 526"
-msgstr ""
+msgstr "podzim, rok 526"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:149
 msgid "Winter, Year 526"
-msgstr ""
+msgstr "zima, rok 526"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:150
 msgid "Spring, Year 527"
-msgstr ""
+msgstr "jaro, rok 527"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:151
 msgid "Summer, Year 527"
-msgstr ""
+msgstr "léto, rok 527"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:152
 msgid "Autumn, Year 527"
-msgstr ""
+msgstr "podzim, rok 527"
 
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:153
 msgid "Winter, Year 527"
-msgstr ""
+msgstr "zima, rok 527"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:184
@@ -20795,12 +20826,12 @@ msgstr ""
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:444
 msgid "loyal"
-msgstr ""
+msgstr "věrný"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:445
 msgid "Zero upkeep"
-msgstr ""
+msgstr "Nulové výdaje"
 
 #. [unit]: id=Kaylan, type=Grand Knight
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:484
