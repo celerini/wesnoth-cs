@@ -1220,7 +1220,7 @@ msgstr ""
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:834
 msgid ""
 "Drums once again echoed through the cavern. Enemy reinforcements had arrived."
-msgstr "Jeskynní se opět rozeznělo dunění bubnů. Dorazily nepřátelské posily."
+msgstr "Jeskyní se opět rozeznělo dunění bubnů. Dorazily nepřátelské posily."
 
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:860
