@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-29 20:19+0200\n"
+"PO-Revision-Date: 2026-05-29 21:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -899,11 +899,14 @@ msgid ""
 "overran our homes and took us prisoner! Now we slave away all day, pearl "
 "diving for the queen."
 msgstr ""
+"Pomoc! Když Ašvířino vojsko táhlo na západ, její skřeti a jejich spojenci "
+"nágy přepadli naše domovy a zajali nás! Teď celý den otročíme, lovíme perly "
+"pro královnu."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:497
 msgid "Shut it, fish!"
-msgstr ""
+msgstr "Sklapni, rybko!"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:510
 msgid "Midiriel"
