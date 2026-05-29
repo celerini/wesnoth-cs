@@ -1230,7 +1230,7 @@ msgstr "<b>Arg-hah!</b> (Já neprohraju!)"
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:872
 msgid "<b>Arg-hah!</b> (You’ll pay for this, you dirty troll!)"
-msgstr "<b>Arg-hah!</b> (Za to zaplatíš ty špinavý trollell!)"
+msgstr "<b>Arg-hah!</b> (Za to zaplatíš, ty špinavý trolle!)"
 
 #. [message]: speaker=NG
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:898
