@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-29 21:14+0200\n"
+"PO-Revision-Date: 2026-05-29 21:34+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -890,7 +890,7 @@ msgstr "Zátoka perel"
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:477
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:431
 msgid "Nepba"
-msgstr ""
+msgstr "Nepba"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:493
@@ -2113,6 +2113,8 @@ msgid ""
 "Hello, “cousin” — if you really are Konrad and not an imposter. I am Li’sar, "
 "princess of Wesnoth and my mother’s most able commander."
 msgstr ""
+"Ahoj, „bratranče“ – pokud opravdu jsi Konrád a ne podvodník. Jsem Lisar, "
+"princezna Wesnothu a nejschopnější velitelka své matky."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:811
@@ -2120,6 +2122,8 @@ msgid ""
 "I hear you are a man of the people, princeling. Will you rescue these "
 "helpless dwarven prisoners before I have them executed?"
 msgstr ""
+"Slyšela jsem, že jsi muž z lidu, princátko. Zachráníš tyto bezmocné "
+"trpasličí vězně, než je nechám popravit?"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:817
@@ -2127,18 +2131,20 @@ msgid ""
 "Well, Konrad? Will you fight me, or leave my dwarven prisoners to a gruesome "
 "fate?"
 msgstr ""
+"Tak co, Konráde? Budeš se mnou bojovat, nebo necháš mé trpasličí vězně "
+"napospas strašlivému osudu?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:828
 msgid ""
 "The princess Li’sar used to be here with some prisoners, but they have gone "
 "now."
-msgstr ""
+msgstr "Kdysi tu byla princezna Lisar s několika vězni, ale už odešli."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:855
 msgid "You may have bested me today Konrad, but this isn’t over."
-msgstr ""
+msgstr "Možná jsi na mě dnes vyzrál, Konráde, ale ještě není konec."
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:869
@@ -2146,6 +2152,8 @@ msgid ""
 "Thank ye again for freein’ me! If I ever get my hands on that cowardly, "
 "sniveling, sissy, waste-o-space princess..."
 msgstr ""
+"Ještě jednou ti děkuju, žes mě osvobodil! Jestli se mi někdy dostane do "
+"rukou ta zbabělá, ufňukaná, slabošská, nanicovatá princezna..."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:881
