@@ -1339,7 +1339,7 @@ msgid ""
 "after a while they understood where the trolls were going."
 msgstr ""
 "Naštěstí to nebylo poprvé, co se nágy setkaly s podobnými bytostmi, a po "
-"chvíli pochopili, kam trollové míří."
+"chvíli pochopily, kam trollové míří."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:29
