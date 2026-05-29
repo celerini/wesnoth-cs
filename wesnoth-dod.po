@@ -1338,7 +1338,7 @@ msgid ""
 "Fortunately, this was not the first time the Nagas had met their kind, and "
 "after a while they understood where the trolls were going."
 msgstr ""
-"Naštěstí to nebylo poprvé, co se nágy setkali s podobnými bytostmi a po "
+"Naštěstí to nebylo poprvé, co se nágy setkaly s podobnými bytostmi, a po "
 "chvíli pochopili, kam trollové míří."
 
 #. [part]
