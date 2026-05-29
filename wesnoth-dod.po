@@ -1292,7 +1292,7 @@ msgstr "<b>S y s s...</b> (Jak se opovažuješ!)"
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1052
 msgid "<b>S s a s...</b> (It’s over...)"
-msgstr "<b>S s a s...</b> (Je konec..)"
+msgstr "<b>S s a s...</b> (Je konec...)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1104
