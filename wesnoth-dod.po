@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-21 19:29+0200\n"
+"PO-Revision-Date: 2026-05-26 20:10+0200\n"
 "Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1204,6 +1204,8 @@ msgid ""
 "In this scenario, trolls entering mushroom terrain will destroy the "
 "mushrooms and gain berserk on their melee attacks."
 msgstr ""
+"V této kampani trollové, kteří vstoupí do houbového háje, tyto háje zničí a "
+"jejich útoky na blízko získají efekt na život a na smrt."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:686
@@ -1211,88 +1213,92 @@ msgid ""
 "Ougl bit into a piece of mushroom, but as soon as he tasted it, he spat it "
 "out in disgust. He was not interested in rage."
 msgstr ""
+"Ougl se zakousl do houby, ale jakmile ji ochutnal, znechuceně ji vyplivl. "
+"Nenechal se ovládnout zuřivostí."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:834
 msgid ""
 "Drums once again echoed through the cavern. Enemy reinforcements had arrived."
-msgstr ""
+msgstr "Jeskyní se opět rozeznělo dunění bubnů. Dorazily nepřátelské posily."
 
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:860
 msgid "<b>Arg-hah!</b> (I won’t lose!)"
-msgstr ""
+msgstr "<b>Arg-hah!</b> (Já neprohraju!)"
 
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:872
 msgid "<b>Arg-hah!</b> (You’ll pay for this, you dirty troll!)"
-msgstr ""
+msgstr "<b>Arg-hah!</b> (Za to zaplatíš, ty špinavý trolle!)"
 
 #. [message]: speaker=NG
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:898
 msgid "<b>Urg-hah...</b> (No! I can’t die...)"
-msgstr ""
+msgstr "<b>Urg-hah...</b> (Ne! Já nemůžu zemřít...)"
 
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:924
 msgid "<b>S y s s...!</b> (Time to retreat!)"
-msgstr ""
+msgstr "<b>S y s s...!</b> (Čas ustoupit!)"
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:940
 msgid "<b>S s a s...!</b> (What a coward!)"
-msgstr ""
+msgstr "<b>S s a s...!</b> (Zbabělec!)"
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:952
 msgid "<b>S y s y...</b> (Forgive me for falling...)"
-msgstr ""
+msgstr "<b>S y s y...</b> (Odpusť mi mé selhání..)"
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:971
 msgid "<b>S y s y...</b> (You are a fool of a saurian.)"
-msgstr ""
+msgstr "<b>S y s y...</b> (Ty jsi ale hloupý ještěrák.)"
 
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:980
 msgid "<b>S y s s...!</b> (No, you are. You saurian traitor!)"
-msgstr ""
+msgstr "<b>S y s s...!</b> (Ne, to ty. Ty jsi zrádce!)"
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:989
 msgid "<b>S y s y...!</b> (You are, not me!)"
-msgstr ""
+msgstr "<b>S y s y...!</b> (Já ne, to ty!)"
 
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1003
 msgid "<b>S y s s...!</b> (You are annoying...)"
-msgstr ""
+msgstr "<b>S y s s...!</b> (Jsi otravná...)"
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1017
 msgid "<b>S y s y...</b> (You are more.)"
-msgstr ""
+msgstr "<b>S y s y...</b> (A ty ještě víc.)"
 
 #. [message]: speaker=RE
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1026
 msgid "<b>S s s s y s y s s y y...!</b> (Saurian insult, no translation.)"
 msgstr ""
+"<b>S s s s y s y s s y y...!</b> (Nepřeložitelná nadávka v ještěráckém "
+"jazyce.)"
 
 #. [message]: speaker=MZ
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1035
 msgid "<b>S y s s...</b> (How dare you!)"
-msgstr ""
+msgstr "<b>S y s s...</b> (Jak se opovažuješ!)"
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1052
 msgid "<b>S s a s...</b> (It’s over...)"
-msgstr ""
+msgstr "<b>S s a s...</b> (Je konec...)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1104
 msgid ""
 "Ougl gave a victorious roar as the last of his enemies fell to the ground."
-msgstr ""
+msgstr "Ougl vítězně zařval, když poslední z nepřátel padl k zemi."
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1114
@@ -1300,21 +1306,22 @@ msgid ""
 "<b>S s a s...</b> (Thank you for your help. Without your aid we would have "
 "been routed.)"
 msgstr ""
+"<b>S s a s...</b> (Děkujeme za vaši pomoc. Bez vás bychom jistě prohráli.)"
 
 #. [message]: speaker=SA
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1119
 msgid "<b>S s a s...</b> (How can we repay you?)"
-msgstr ""
+msgstr "<b>S s a s...</b> (Jak se vám odvděčíme?)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/03_Fateful_Day.cfg:1125
 msgid "Ougl already knew how the Naga could help him."
-msgstr ""
+msgstr "Ougl už věděl, jak mu nága může pomoci."
 
 #. [scenario]: id=04_A_Beautiful_World
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:5
 msgid "A Beautiful World"
-msgstr ""
+msgstr "Krásný svět"
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:20
@@ -1322,6 +1329,8 @@ msgid ""
 "Sessa asked the trolls how she could repay them for their help, but the "
 "trolls did not know how to speak. They pointed upwards with their hands."
 msgstr ""
+"Sessa se trollů zeptala, jak by jim mohla oplatit jejich pomoc, ale trollové "
+"neuměli mluvit. Pouze ukázali rukama vzhůru."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:24
@@ -1329,6 +1338,8 @@ msgid ""
 "Fortunately, this was not the first time the Nagas had met their kind, and "
 "after a while they understood where the trolls were going."
 msgstr ""
+"Naštěstí to nebylo poprvé, co se nágy setkaly s podobnými bytostmi, a po "
+"chvíli pochopily, kam trollové míří."
 
 #. [part]
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:29
@@ -1337,16 +1348,19 @@ msgid ""
 "had forgotten most of them already. But with a guide, the trolls would "
 "surely reach their goal."
 msgstr ""
+"Pokyny stromového šamana byly pro Ougla příliš složité. Většinu z nich už "
+"dávno zapomněl, ale s průvodcem trollové nakonec dosáhli svého cíle."
 
 #. [unit]: type=Naga Fighter, id=IA, gender=female
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:67
 msgid "Ilaja"
-msgstr ""
+msgstr "Ilaja"
 
 #. [message]: speaker=IA
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:146
 msgid "<b>S s a s...</b> (Here we bid farewell, stone friends. Be safe.)"
 msgstr ""
+"<b>S s a s...</b> (Zde se s vámi rozloučím, kamenní přátelé. Opatrujte se.)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:170
