@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-28 22:26+0200\n"
+"PO-Revision-Date: 2026-05-29 20:19+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -659,12 +659,12 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:14
 msgid "Wanderer"
-msgstr ""
+msgstr "Tulák"
 
 #. [message]: speaker=fence_wanderer
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:22
 msgid "Hello, young prince. A lovely day for wandering, isn’t it?"
-msgstr ""
+msgstr "Ahoj, mladý princi. Krásný den na toulky, že?"
 
 #. [message]: speaker=fence_wanderer
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:26
@@ -673,6 +673,9 @@ msgid ""
 "and the bay. I’ve forgotten exactly where, but I’m sure you could find it if "
 "you wandered back and forth, back and forth enough times."
 msgstr ""
+"Jednou jsem bloumal kolem plotu mezi lesem a zátokou a narazil na kus "
+"uvolněného prkna. Už jsem zapomněl, kde přesně to bylo, ale jsem si jistý, "
+"že bys ho našel, kdybys dostatečně dlouho přecházel tam a zpět."
 
 #. [message]: speaker=fence_wanderer
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:30
@@ -680,11 +683,13 @@ msgid ""
 "Of course, wandering too far afield could be dangerous. Especially if you "
 "don’t already know what’s out there..."
 msgstr ""
+"Přílišné toulání do dálek může být samozřejmě nebezpečné. Zvlášť pokud ještě "
+"nevíš, co tam venku čeká..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:42
 msgid "Hey, look! There’s a loose board in the fence here."
-msgstr ""
+msgstr "Hej, podívej! Tady v plotě je uvolněné prkno."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:86
