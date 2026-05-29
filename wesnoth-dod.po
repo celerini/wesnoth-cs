@@ -1360,7 +1360,7 @@ msgstr "Ilaja"
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:146
 msgid "<b>S s a s...</b> (Here we bid farewell, stone friends. Be safe.)"
 msgstr ""
-"<b>S s a s...</b> (Zde se s vámi rozloučím kamenní přátelé. Opatrujte se.)"
+"<b>S s a s...</b> (Zde se s vámi rozloučím, kamenní přátelé. Opatrujte se.)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:170
