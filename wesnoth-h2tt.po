@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-29 21:34+0200\n"
+"PO-Revision-Date: 2026-05-30 09:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -786,6 +786,9 @@ msgid ""
 "the human army has returned to Weldyn... if only I had acted sooner, some of "
 "them might still have been saved."
 msgstr ""
+"Les je tichý. Všichni elfové zahynuli nebo byli zajati a vojsko lidí se "
+"vrátilo do Weldynu... Kdybych jen jednal dříve, někteří z nich by ještě "
+"mohli být zachráněni."
 
 #. [message]: role=s02_speaker_1
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:250
@@ -795,6 +798,10 @@ msgid ""
 "truly wise when he asked us to raise you as our own; he must have known you "
 "would someday save us."
 msgstr ""
+"Děkujeme, Konráde! Mnozí z nás unikli požárům a vojsko lidí vyčerpalo své "
+"zásoby a vrátilo se do Weldynu. Lord Kalenz byl opravdu moudrý, když nás "
+"požádal, abychom tě vychovali jako vlastního. Musel vědět, že nás jednoho "
+"dne zachráníš."
 
 #. [message]: role=s02_speaker_2
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:254
@@ -802,6 +809,8 @@ msgid ""
 "Of course, raising Konrad is part of the reason we were attacked in the "
 "first place..."
 msgstr ""
+"Samozřejmě, že výchova Konráda je především jedním z důvodů, proč jsme byli "
+"napadeni..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:262
@@ -809,6 +818,8 @@ msgid ""
 "The elves have gone into hiding; safely escaped into the southern "
 "Aethenwood! May they prosper again once Asheviere is overthrown."
 msgstr ""
+"Elfové se ukryli. Bezpečně unikli do jižního Aethenského lesa! Kéž se jim "
+"opět daří, jakmile bude Ašvíra svržena."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:272
@@ -831,6 +842,8 @@ msgid ""
 "Konrad, I am hard-pressed by the dark queen’s forces! Without your aid, "
 "Blackwater Port shall soon fall to ruin!"
 msgstr ""
+"Konráde, ozbrojené síly temné královny mě zahnaly do kouta! Bez tvé pomoci "
+"se přístav Temná Voda brzy zhroutí!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:364
@@ -839,6 +852,9 @@ msgid ""
 "one of the few who is willing to oppose the Dark Crown. Rumor has it that "
 "his lance has slain fifty men and a hundred orcs."
 msgstr ""
+"Konráde, znáš sira Kaylana – jednoho z nejmocnějších pánů koní a jednoho "
+"z mála, kteří jsou ochotni postavit se Temné koruně. Povídá se, že jeho kopí "
+"sklálo padesát mužů a sto skřetů."
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:368
@@ -847,6 +863,9 @@ msgid ""
 "’round, but with your aid we can rout their attack and re-secure Blackwater "
 "Port!"
 msgstr ""
+"Delfadore, tvé načasování je dokonalé. Síly temné královny mě tlačí ze všech "
+"stran, ale s tvou pomocí můžeme jejich útok rozdrtit a znovu zabezpečit "
+"přístav Temnou Vodu!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:402
@@ -854,6 +873,8 @@ msgid ""
 "Blackwater Port has fallen, and poor Sir Kaylan is either a prisoner or "
 "dead. If only I had acted sooner, we might have saved him..."
 msgstr ""
+"Přístav Temná Voda padl a ubohý sir Kaylan je buď zajat, nebo mrtvý. Kdybych "
+"jen jednal dříve, mohli jsme ho zachránit..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:436
@@ -861,6 +882,8 @@ msgid ""
 "Alas, poor Sir Kaylan has perished! At least the good people of Blackwater "
 "Port are safe."
 msgstr ""
+"Běda, ubohý sir Kaylan zahynul! Alespoň že dobří lidé z přístavu Temné Vody "
+"jsou v bezpečí."
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:442
@@ -869,6 +892,9 @@ msgid ""
 "of Garard’s Royal Cavalry stands at your service. May they serve you well, "
 "as you ride to claim your rightful place on the throne!"
 msgstr ""
+"Děkuji za pomoc, mladý dědici! Náš přístav je nyní otevřen a zbytky "
+"Garardovy královské jízdy čekají na tvůj povel. Ať ti dobře slouží, až se "
+"pojedeš domáhat svého právoplatného místa na trůnu!"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:450
@@ -876,6 +902,8 @@ msgid ""
 "Thanks again for your aid, young Konrad! May my horsemen serve you well on "
 "your journey."
 msgstr ""
+"Ještě jednou díky za pomoc, mladý Konráde! Ať ti moji jezdci dobře slouží na "
+"tvé cestě."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:460
@@ -910,7 +938,7 @@ msgstr "Sklapni, rybko!"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:510
 msgid "Midiriel"
-msgstr ""
+msgstr "Midiriel"
 
 #. [message]: speaker=Midiriel
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:522
@@ -918,26 +946,28 @@ msgid ""
 "We swim free once more! Thank you Konrad. May our warriors serve you well on "
 "your quest."
 msgstr ""
+"Znovu volně plaveme! Děkuji, Konráde. Ať ti naši bojovníci dobře slouží na "
+"tvé výpravě."
 
 #. [message]: speaker=Midiriel
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:528
 msgid "Thank you again, Konrad! Good luck on your quest."
-msgstr ""
+msgstr "Ještě jednou děkuji, Konráde! Hodně štěstí na tvé cestě."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:538
 msgid "Aldril"
-msgstr ""
+msgstr "Aldril"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:544
 msgid "Woodsman"
-msgstr ""
+msgstr "Lesák"
 
 #. [message]: speaker=aldril_woodsman
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:555
 msgid "Don’ mind me. I’m jus’ a woodsman keeping ’is head down."
-msgstr ""
+msgstr "Nevšímej si mě. Jsem jen lesák, který se drží při zemi."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:559
@@ -945,6 +975,8 @@ msgid ""
 "Asheviere is an evil queen, woodsman. This is a time for action — join me "
 "and help fight for liberty and justice!"
 msgstr ""
+"Ašvíra je zlá královna, lesáku. Nastal čas činů – přidej se ke mně a pomoz "
+"bojovat za svobodu a spravedlnost!"
 
 #. [message]: speaker=aldril_woodsman
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:563
@@ -953,6 +985,8 @@ msgid ""
 "die. Funny, that. If you’ll excuse me, it’s huntin’ season and I have a "
 "family to feed."
 msgstr ""
+"Ona má být ta zlá, ale ty po mně chceš, abych bojoval a zemřel. To je "
+"legrační. Omluv mě, je lovecká sezóna a já musím živit rodinu."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:570
@@ -960,11 +994,13 @@ msgid ""
 "Please? They say there’s more magic in one kind word than in all of "
 "Delfador’s enchantments put together."
 msgstr ""
+"Prosím? Říká se, že v jednom laskavém slově je víc kouzla než ve všech "
+"Delfadorových čárech dohromady."
 
 #. [message]: speaker=aldril_woodsman
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:574
 msgid "Get lost."
-msgstr ""
+msgstr "Ztrať se."
 
 #. [message]: speaker=aldril_woodsman
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:579
@@ -972,11 +1008,13 @@ msgid ""
 "... okay, fine, here’s a few pieces from the town treasury. Go spend ’em on "
 "drink or girls or whatever you soldiers do."
 msgstr ""
+"... tak jo, dobře, tady je pár drobných z městské pokladnice. Běž je utratit "
+"za pití nebo holky nebo cokoliv, co vy vojáci děláte."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:587
 msgid "You have gained 8 gold!"
-msgstr ""
+msgstr "Získal jsi 8 zlatých!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:596
@@ -985,6 +1023,9 @@ msgid ""
 "make life better for everyone. But most just keep quietly to themselves... I "
 "guess I can’t blame them."
 msgstr ""
+"Kdyby se všichni lidé spojili, mohli by snadno sesadit Ašvíru a každému by "
+"se dařilo lépe. Ale většina z nich se stará jen o své věci... Ani jim to "
+"nemám za zlé."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:600
@@ -992,6 +1033,8 @@ msgid ""
 "Maybe that’s what’s so important about being the heir — hope, and a symbol "
 "people can rally behind."
 msgstr ""
+"Možná právě proto je být následníkem tak důležité – dát naději a cíl, pro "
+"které se lidé mohou dát dohromady."
 
 #. [event]
 #. [side]: type=Arch Mage, id=Seimus
