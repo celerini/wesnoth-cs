@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-31 10:23+0200\n"
+"PO-Revision-Date: 2026-05-31 10:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1274,12 +1274,12 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:992
 msgid "The Three Sisters"
-msgstr ""
+msgstr "Tři sestry"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:993
 msgid "Elensefar Reef"
-msgstr ""
+msgstr "Elensefarský útes"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1049
@@ -1288,6 +1288,9 @@ msgid ""
 "weather — if we continue westwards we may have trouble getting back without "
 "a fight."
 msgstr ""
+"Vidím před námi bouřkové mraky. Tyhle lodě nejsou stavěné na manévrování "
+"v rozbouřeném počasí – pokud budeme pokračovat na západ, můžeme mít problém "
+"dostat se zpátky bez boje."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1058
 msgid "Isle of the Damned"
@@ -1297,18 +1300,19 @@ msgstr "Ostrov zatracení"
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1095
 msgid ""
 "We’re caught in the storm! The wind is blowing us towards that island. Brace!"
-msgstr ""
+msgstr "Zastihla nás bouře! Vítr nás žene k tomu ostrovu. Připravte se!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1106
 msgid ""
 "Whew, we survived... but the boats are smashed to bits. Where is this place?"
 msgstr ""
+"Fíha, přežili jsme, ale lodě jsou rozbité na kusy. Kde jsme se to ocitli?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1113
 msgid "I suppose we may as well explore while we’re marooned."
-msgstr ""
+msgstr "Předpokládám, že to můžeme prozkoumat, když už jsme tady uvězněni."
 
 #. [unit]: type=Outlaw, id=Delurin, gender=male
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1121
