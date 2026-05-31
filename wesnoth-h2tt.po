@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-31 09:53+0200\n"
+"PO-Revision-Date: 2026-05-31 10:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19786,22 +19786,22 @@ msgstr ""
 #. [time]: id=spring{NOWEATHER}
 #: data/campaigns/Heir_To_The_Throne/utils/schedule.cfg:186
 msgid "Spring"
-msgstr ""
+msgstr "Jaro"
 
 #. [time]: id=summer{NOWEATHER}
 #: data/campaigns/Heir_To_The_Throne/utils/schedule.cfg:198
 msgid "Summer"
-msgstr ""
+msgstr "Léto"
 
 #. [time]: id=autumn{NOWEATHER}
 #: data/campaigns/Heir_To_The_Throne/utils/schedule.cfg:210
 msgid "Autumn"
-msgstr ""
+msgstr "Podzim"
 
 #. [time]: id=winter{NOWEATHER}
 #: data/campaigns/Heir_To_The_Throne/utils/schedule.cfg:222
 msgid "Winter"
-msgstr ""
+msgstr "Zima"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:50
