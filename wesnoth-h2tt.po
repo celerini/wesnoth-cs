@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-31 11:59+0200\n"
+"PO-Revision-Date: 2026-05-31 12:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20967,52 +20967,52 @@ msgstr "Nulové výdaje"
 #. [unit]: id=Kaylan, type=Grand Knight
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:484
 msgid "Sir Kaylan"
-msgstr ""
+msgstr "Sir Kaylan"
 
 #. [unit]: id=Maddock, type=Lord of Elensefar
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:497
 msgid "Lord Maddock"
-msgstr ""
+msgstr "Lord Maddok"
 
 #. [unit]: id=Reglok, type=Rogue
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:510
 msgid "Reglok"
-msgstr ""
+msgstr "Reglok"
 
 #. [unit]: id=Ethiliel, type=Elvish Shyde
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:520
 msgid "Ethiliel"
-msgstr ""
+msgstr "Ethiliel"
 
 #. [unit]: id=Galdrad, type=Elvish Champion
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:533
 msgid "Galdrad"
-msgstr ""
+msgstr "Galdrad"
 
 #. [unit]: id=Isolde, type=General, gender=female
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:559
 msgid "Isolde"
-msgstr ""
+msgstr "Isolda"
 
 #. [unit]: id=Mirya, type=Silver Mage, gender=female
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:571
 msgid "Mirya"
-msgstr ""
+msgstr "Mirya"
 
 #. [unit]: id=Warven, type=Lieutenant
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:581
 msgid "Warven"
-msgstr ""
+msgstr "Warven"
 
 #. [unit]: id=Kalenz, type=Elvish High Lord
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:595
 msgid "Kalenz"
-msgstr ""
+msgstr "Kalenz"
 
 #. [unit]: id=Chantal, type=Elvish Shyde
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:608
 msgid "Chantal"
-msgstr ""
+msgstr "Chantal"
 
 #. [unit]: id=Ulfdain, type=Dwarvish Ulfserker
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:621
@@ -21022,27 +21022,27 @@ msgstr "Ulfdain"
 #. [unit]: id=Harper, type=Fugitive, gender=female
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:631
 msgid "Harper"
-msgstr ""
+msgstr "Harper"
 
 #. [unit]: id=Somf, type=Bandit
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:644
 msgid "Uncle Somf"
-msgstr ""
+msgstr "Strýček Somf"
 
 #. [unit]: id=Moremirmu, type=White Warrior
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:653
 msgid "Moremirmu"
-msgstr ""
+msgstr "Moremirmu"
 
 #. [unit]: id=Jeniver, type=Alchemist
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:666
 msgid "Jeniver"
-msgstr ""
+msgstr "Jeniver"
 
 #. [unit]: id=Dosh, type=Troll
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:676
 msgid "Dosh"
-msgstr ""
+msgstr "Dosh"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:764
 msgid "We are vanquished, for I have been defeated!"
