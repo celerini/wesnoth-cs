@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-31 09:04+0200\n"
+"PO-Revision-Date: 2026-05-31 09:11+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19774,6 +19774,9 @@ msgid ""
 "This port has many small boats for us to use! I won’t be able to travel "
 "through deep water, but I can certainly reach the coastal islands and reef."
 msgstr ""
+"V tomto přístavu je mnoho malých lodí, které můžeme využít! Nebudu moci "
+"proplouvat hlubokými vodami, ale určitě se dostanu na pobřežní ostrovy "
+"a útesy."
 
 #. [time]: id=spring{NOWEATHER}
 #: data/campaigns/Heir_To_The_Throne/utils/schedule.cfg:186
