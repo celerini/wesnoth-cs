@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-31 10:38+0200\n"
+"PO-Revision-Date: 2026-05-31 11:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5103,7 +5103,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1318
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:230
 msgid "Familiar"
-msgstr ""
+msgstr "Známý"
 
 #. [message]: speaker=familiar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:745
@@ -5111,7 +5111,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1324
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:237
 msgid "Kraa! Kraa! Kraa!"
-msgstr ""
+msgstr "Krá! Krá! Krá!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:749
@@ -5120,6 +5120,8 @@ msgid ""
 "Elensefar! Asheviere has broken the century-old treaty between Wesnoth and "
 "the Elense city-state."
 msgstr ""
+"Co je to? Černák přináší špatné zprávy – muži Koruny obléhají Elensefar! "
+"Ašvíra porušila staletou smlouvu mezi Wesnothem a městským státem Elense."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:753
@@ -5129,11 +5131,14 @@ msgid ""
 "reaches. If Elensefar should fall, we would lose a great ally in our quest "
 "against Asheviere."
 msgstr ""
+"Lord Maddok možná není nejspolehlivějším spojencem, ale on a jeho jmění se "
+"zasloužili o zachování poměrně svobodných západních končin. Pokud by "
+"Elensefar padl, ztratili bychom velkého spojence v našem tažení proti Ašvíře."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:757
 msgid "Then we must go to his aid at once!"
-msgstr ""
+msgstr "Pak mu musíme jít okamžitě na pomoc!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:761
@@ -5142,17 +5147,20 @@ msgid ""
 "aid Elensefar, but to do so would mean leaving you to face the Continent "
 "alone..."
 msgstr ""
+"Ne, mladý princi. Taková bitva by pro tebe byla příliš nebezpečná. Mohl bych "
+"pomoci Elensefaru, ale to by znamenalo nechat tě samotného čelit "
+"Kontinentu..."
 
 #. [message]: speaker=Delfador
 #. Konrad has something to day, and Delfador is promting him.
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:769
 msgid "What is it, Konrad?"
-msgstr ""
+msgstr "Co se děje, Konráde?"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:782
 msgid "Ask Delfador to stay with Konrad for one more battle"
-msgstr ""
+msgstr "Požádej Delfadora, aby zůstal s Konrádem ještě jednu bitvu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:786
@@ -5160,11 +5168,15 @@ msgid ""
 "Yes, you’re quite right. We shall fight one more battle together, and secure "
 "allies for you before I depart."
 msgstr ""
+"Ano, máš pravdu. Než odejdu, vybojujeme spolu ještě jednu bitvu a zajistíme "
+"ti spojence."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:798
 msgid "Ask Delfador to leave (gain Delfador’s raven as a loyal companion)"
 msgstr ""
+"Požádej Delfadora, aby odešel (získej Delfadorova krkavce jako věrného "
+"společníka)."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:802
@@ -5172,13 +5184,15 @@ msgid ""
 "Very well. You will have to do without my elementals, but I can at least "
 "leave with you my familiar — the venerable Blackwing. Care for him well."
 msgstr ""
+"Velmi dobře. Budeš se muset obejít bez mých elementálů, ale mohu ti alespoň "
+"zanechat svého známého – ctihodného Černáka. Dobře se o něj starej."
 
 #. [message]: speaker=familiar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:814
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:931
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:970
 msgid "Cooo..."
-msgstr ""
+msgstr "Króó..."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:842
@@ -5186,6 +5200,8 @@ msgid ""
 "Well done, Konrad! I couldn’t be more proud of your wisdom in battle; you’re "
 "truly well on your way to becoming the prince you were always meant to be."
 msgstr ""
+"Dobrá práce, Konráde! Nemohu být na tvou moudrost v boji více hrdý. Jsi "
+"opravdu na dobré cestě stát se princem, kterým jsi vždycky měl být."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:853
@@ -5193,11 +5209,13 @@ msgid ""
 "I had a good teacher! And now that we’ve helped the people here, all kinds "
 "of new places are suddenly open to us. Where shall we go to next?"
 msgstr ""
+"Měl jsem dobrého učitele! A teď, když jsme pomohli zdejším lidem, se nám "
+"najednou otevřela nejrůznější nová místa. Kam se vydáme dál?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:867
 msgid "What’s going on, Delfador? Is something the matter?"
-msgstr ""
+msgstr "Co se děje, Delfadore? O co se jedná?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:871
@@ -5206,6 +5224,9 @@ msgid ""
 "have been confirmed — Asheviere lays siege to Elensefar, breaking the "
 "century-old treaty between Wesnoth and the Elense city-state."
 msgstr ""
+"Obávám se, že ano, mladý princi. Černák přináší špatné zprávy, neboť mé "
+"podezření se potvrdilo – Ašvíra obléhá Elensefar a porušuje staletou smlouvu "
+"mezi Wesnothem a městským státem Elense."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:875
@@ -5215,6 +5236,10 @@ msgid ""
 "reaches. If Elensefar should fall, we would lose a great ally in our quest "
 "against Asheviere. I must depart at once to aid in the defense!"
 msgstr ""
+"Lord Maddock možná není nejspolehlivějším spojencem, ale on a jeho jmění se "
+"zasloužili o zachování poměrně svobodných západních končin. Pokud by "
+"Elensefar padl, ztratili bychom velkého spojence v našem tažení proti "
+"Ašvíře. Musím okamžitě odjet, abych pomohl s obranou!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:879
@@ -5222,6 +5247,8 @@ msgid ""
 "Then I am to journey on alone? I fear my quest will be difficult without "
 "your guidance and magic... but what must be must be."
 msgstr ""
+"Mám tedy pokračovat sám? Obávám se, že bez tvého vedení a kouzel bude moje "
+"výprava obtížná... ale co se má stát, ať se stane."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:890
@@ -5230,6 +5257,9 @@ msgid ""
 "the Aethenwood — and you will doubtless find many more among the other "
 "denizens of the Great Continent."
 msgstr ""
+"Ne sám, Konráde. Už jsi našel nové spojence – laskavé elfy z Aethenského "
+"lesa – a nepochybně najdeš mnoho dalších mezi ostatními obyvateli Velkého "
+"kontinentu."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:898
@@ -5238,6 +5268,9 @@ msgid ""
 "Blackwater Port — and you will doubtless find many more among the other "
 "denizens of the Great Continent."
 msgstr ""
+"Ne sám, Konráde. Už jsi našel nové spojence – královské rytíře z přístavu "
+"Temné Vody – a nepochybně najdeš mnoho dalších mezi ostatními obyvateli "
+"Velkého kontinentu."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:907
@@ -5246,6 +5279,9 @@ msgid ""
 "Pearls merfolk — and you will doubtless find many more among the other "
 "denizens of the Great Continent."
 msgstr ""
+"Ne sám, Konráde. Už jsi našel nové spojence – vznešený mořský lid ze Zátoky "
+"perel – a nepochybně najdeš mnoho dalších mezi ostatními obyvateli Velkého "
+"kontinentu."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:914
@@ -5253,6 +5289,8 @@ msgid ""
 "Not alone, Konrad. Already you have gained new allies, and you will "
 "doubtless find many more among the other denizens of the Great Continent."
 msgstr ""
+"Ne sám, Konráde. Už jsi získal nové spojence a mezi ostatními obyvateli "
+"Velkého kontinentu jich nepochybně najdeš mnohem víc."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:922
@@ -5261,6 +5299,9 @@ msgid ""
 "for you to recruit — perhaps elves, horsemen, or merfolk — but it was not to "
 "be."
 msgstr ""
+"Obávám se, že ano. Spíše jsem doufal, že už budeme mít nové spojence, které "
+"bys mohl naverbovat – možná elfy, jezdce nebo mořské lidi –, ale nestalo se "
+"tak."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:926
@@ -5268,6 +5309,8 @@ msgid ""
 "You will have to do without my elementals, but I can at least leave with you "
 "my familiar — the venerable Blackwing. Care for him well."
 msgstr ""
+"Budeš se muset obejít bez mých elementálů, ale mohu ti alespoň zanechat "
+"svého známého – ctihodného Černáka. Dobře se o něj starej."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:947
@@ -5275,6 +5318,8 @@ msgid ""
 "I had a good teacher! And now that I’ve gained new allies, you are free to "
 "travel to Elensefar and aid in its defense."
 msgstr ""
+"Měl jsem dobrého učitele! A teď, když jsem získal nové spojence, můžeš "
+"odejít do Elensefaru a pomáhat při jeho obraně."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:951
@@ -5282,6 +5327,8 @@ msgid ""
 "As we agreed. I am loathe to leave you without my magic, but right now Lord "
 "Maddock needs it more."
 msgstr ""
+"Tak jsme se dohodli. Nerad tě opouštím, protože ti má kouzla mohou chybět, "
+"ale právě teď je lord Maddok potřebuje víc."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:957
@@ -5289,6 +5336,8 @@ msgid ""
 "I had a good teacher! But although we’ve fought a battle, I still have no "
 "allies for me to recruit. Must you still leave?"
 msgstr ""
+"Měl jsem dobrého učitele! Ale i když jsme vybojovali bitvu, stále nemám "
+"žádné spojence, které bych mohl verbovat. Musíš i přesto odejít?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:961
@@ -5297,6 +5346,8 @@ msgid ""
 "least leave with you my familiar — the venerable Blackwing. Care for him "
 "well."
 msgstr ""
+"Obávám se, že ano. Budeš se muset obejít bez mých elementálů, ale mohu ti "
+"alespoň zanechat svého známého – ctihodného Černáka. Dobře se o něj starej."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:988
@@ -5304,6 +5355,9 @@ msgid ""
 "Without any soldiers to recruit, I must advise selecting an easy battle for "
 "your next fight. Perhaps one of the islands will be appropriate."
 msgstr ""
+"Protože nemáš žádné vojáky, které bys mohl naverbovat, musím ti doporučit, "
+"aby sis pro příští boj vybral snadnou bitvu. Možná bude vhodný některý "
+"z ostrovů."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:994
@@ -5312,6 +5366,9 @@ msgid ""
 "utmost to prepare you for the difficult quest that lies ahead. You have "
 "trusted me, and for that I am grateful."
 msgstr ""
+"A co se týče mého vedení, no... Vychoval jsem tě, jak nejlépe jsem uměl, "
+"a udělal jsem vše, co bylo v mých silách, abych tě připravil na obtížnou "
+"výpravu, která tě čeká. Důvěřoval jsi mi a za to jsem ti vděčný."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:998
@@ -5320,11 +5377,14 @@ msgid ""
 "succeed where I failed; my trust that you shall yet restore the throne of "
 "Wesnoth! I know that you will make me proud."
 msgstr ""
+"Nyní nadešel čas, abych ti svěřil svou důvěru. Věřím, že uspěješ tam, kde "
+"jsem já selhal. Věřím, že ještě obnovíš trůn Wesnothu! Vím, že na tebe budu "
+"hrdý."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1002
 msgid "Farewell, my young friend. Until we meet again."
-msgstr ""
+msgstr "Sbohem, můj mladý příteli. Až do našeho dalšího setkání."
 
 #. [event]
 #. [then]
@@ -5338,12 +5398,12 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:248
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:467
 msgid "Delfador"
-msgstr ""
+msgstr "Delfador"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1038
 msgid "It’s up to me then. I won’t let Wesnoth down."
-msgstr ""
+msgstr "Takže je to na mně. Wesnoth nezradím."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1081
