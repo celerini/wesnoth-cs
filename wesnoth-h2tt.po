@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-31 09:11+0200\n"
+"PO-Revision-Date: 2026-05-31 09:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1050,24 +1050,24 @@ msgstr "Ostrov Alduin"
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:622
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:551
 msgid "<b>-OR-</b> (choose one reward)"
-msgstr ""
+msgstr "<b>– NEBO –</b> (vybrat si jednu odměnu)"
 
 #. [unit]: id=Elrian, type=Mage
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:630
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:176
 msgid "Elrian"
-msgstr ""
+msgstr "Elrian"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:633
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:52
 msgid "Aenic"
-msgstr ""
+msgstr "Aenic"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:639
 msgid "Where are you taking him? None of them have done anything wrong!"
-msgstr ""
+msgstr "Kam ho vezete? Nikdo z nich neudělal nic špatného!"
 
 #. [message]: speaker=Aenic
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:643
@@ -1075,6 +1075,8 @@ msgid ""
 "The queen will be the judge of that. Asheviere doesn’t look kindly on "
 "treasonous sentiment. Especially not from apprentices!"
 msgstr ""
+"To posoudí královna. Ašvíra se na zrádné postoje nedívá vlídně. Zvláště ne "
+"u učňů!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:649
@@ -1083,6 +1085,9 @@ msgid ""
 "It’s policed by Asheviere now, but is isolated from most of her armies. "
 "Perhaps we can find allies among the faculty or pupils."
 msgstr ""
+"Delfador mi toho hodně řekl o Alduinu, velké akademii kouzel Wesnothu. Nyní "
+"ji hlídá Ašvíra, ale je odříznutá od většiny jejích vojsk. Možná bychom "
+"mohli najít spojence mezi vyučujícími nebo žáky."
 
 #. [side]: type=Arch Mage, id=Seimus
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:663
