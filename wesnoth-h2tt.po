@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-05-31 12:14+0200\n"
+"PO-Revision-Date: 2026-05-31 12:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1244,6 +1244,7 @@ msgid ""
 "The Light rebukes you, foul necromancer! Flee as you may, you cannot escape "
 "my wrath!"
 msgstr ""
+"Světlo tě kárá, odporný nekromante! Prchej, jak můžeš, mému hněvu neunikneš!"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:934
@@ -1251,11 +1252,13 @@ msgid ""
 "Well well, aren’t you a squeaky little toy! I wonder what new noises you’ll "
 "make after I kill you and raise your corpse."
 msgstr ""
+"No, no, jestli ty nejsi pískací hračka! Jsem zvědavý, jaké nové zvuky budeš "
+"vydávat, až tě zabiju a probudím tvou mrtvolu."
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:940
 msgid "Can’t you see I’m busy? Stay out of this or you’ll regret it!"
-msgstr ""
+msgstr "Nevidíš, že mám práci? Nepleť se do toho, nebo budeš litovat!"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:961
@@ -1263,6 +1266,8 @@ msgid ""
 "Lo! We have cleansed a great evil here today, my friend. Together we shall "
 "fight onwards against evil!"
 msgstr ""
+"Hle! Dnes jsme to tu očistili od velkého zla, příteli. Společně budeme proti "
+"zlu bojovat dál!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:968
@@ -1270,6 +1275,8 @@ msgid ""
 "With Muff Malal defeated, in time this land may heal. We did a good deed "
 "here."
 msgstr ""
+"Když je Muff Malal poražen, může se tato země časem uzdravit. Udělali jsme "
+"tu dobrý skutek."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:992
