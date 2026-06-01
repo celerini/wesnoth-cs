@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-01 20:08+0200\n"
+"PO-Revision-Date: 2026-06-01 21:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1644,6 +1644,8 @@ msgid ""
 "Weapon for Konrad: <span color='#EFBF04'><b>+3 strikes, <i>slows</i> and "
 "<i>arcane</i> specials on bow attacks</b></span>"
 msgstr ""
+"Zbraň pro Konráda: <span color='#EFBF04'><b>+3 rány a zvláštnosti "
+"<i>zpomalení</i> a <i>nezemský</i> při útocích lukem</b></span>"
 
 #. [message]: role=fort_tahn_leader1
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:40
@@ -1651,6 +1653,8 @@ msgid ""
 "Incredible craftsmanship! Just incredible! I’ve never seen a bow like this "
 "before in my life! From the Aethenwood, you say?"
 msgstr ""
+"Úžasné řemeslné zpracování! Prostě neuvěřitelné! Takový luk jsem v životě "
+"neviděl! Říkáš, že je z Aethenského lesa?"
 
 #. [message]: role=fort_tahn_leader2
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:44
@@ -1659,6 +1663,9 @@ msgid ""
 "done testing it, we’re excited to get it back home to Westin along with the "
 "rest of our loot."
 msgstr ""
+"Objevili jsme ho v jedné z jejich hal, když jsme ji vypalovali. Vyzkoušej "
+"ho, už se nemůžeme dočkat, až ho spolu s ostatní kořistí přineseme domů do "
+"Westinu."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:50
@@ -1667,6 +1674,9 @@ msgid ""
 "treasure to be even touched by one of Asheviere’s villains, much less "
 "pillaged from the ruins of my home! We have to get it back!"
 msgstr ""
+"Tenhle lučištník drží Měsíční luk z Aethenského lesa! Je to výsměch, že se "
+"takového pokladu vůbec dotkl jeden z Ašvířiných ničemů, a ještě k tomu ho "
+"ukradl z trosek mého domova! Musíme ho dostat zpátky!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:70
@@ -1675,6 +1685,8 @@ msgid ""
 "with the sacking of Fort Tahn we are one step closer to our eventual victory "
 "over Asheviere."
 msgstr ""
+"Dobrá práce, všichni! Získali jsme zpět mocné dědictví elfů a vypleněním "
+"pevnosti Tahn jsme o krok blíže k našemu konečnému vítězství nad Ašvírou."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:76
@@ -1682,6 +1694,8 @@ msgid ""
 "Fort Tahn will rebuild in time, but by driving off the garrison we have "
 "dealt a small, yet meaningful blow against Asheviere."
 msgstr ""
+"Pevnost Tahn se časem obnoví, ale vyhnáním posádky jsme Ašvíře zasadili "
+"malou, ale významnou ránu."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:89
