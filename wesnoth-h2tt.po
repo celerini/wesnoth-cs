@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-01 21:20+0200\n"
+"PO-Revision-Date: 2026-06-01 22:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6584,12 +6584,12 @@ msgstr "Útěk elfů"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:187
 msgid "Quillan"
-msgstr ""
+msgstr "Quillan"
 
 #. [unit]: id=Tanyth, type=Elvish Avenger, gender=female
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:205
 msgid "Tanyth"
-msgstr ""
+msgstr "Tanyth"
 
 #. [message]: speaker=Quillan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:246
@@ -6597,6 +6597,8 @@ msgid ""
 "Master Konrad, I am pleased to see that you have escaped! And even more "
 "pleased to see that you have returned."
 msgstr ""
+"Mistře Konráde, s potěšením vidím, že jsi unikl! A ještě více mě těší, že "
+"ses vrátil."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:251
@@ -6605,6 +6607,8 @@ msgid ""
 "after Konrad and I fled, if you could not defeat the attackers. Yet the "
 "fighting continues."
 msgstr ""
+"Co se děje, Quillane? Plánovali jsme, že se po mém a Konrádově útěku všichni "
+"ukryjete, pokud se vám nepodaří útočníky porazit. Přesto boje pokračují."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:253
@@ -6612,6 +6616,8 @@ msgid ""
 "I suspect Elensefar to be under siege as well — I cannot leave Maddock to "
 "fight alone, yet neither can I leave you elves to be slaughtered."
 msgstr ""
+"Mám podezření, že Elensefar je také v obležení – nemohu nechat Maddoka "
+"bojovat samotného, ale ani vás elfy nesmím nechat vyvraždit."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:258
@@ -6620,6 +6626,8 @@ msgid ""
 "fled, if you could not defeat the attackers, but I still see fires and "
 "fighting in the distance!"
 msgstr ""
+"Quillane, co se děje? Všichni jste se měli po mém útěku schovat, když se vám "
+"nepodaří porazit útočníky, ale já stále vidím v dálce ohně a boje!"
 
 #. [message]: speaker=Quillan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:263
@@ -6627,11 +6635,13 @@ msgid ""
 "Our lines have been broken; men pour into the Aethenwood. The marshals are "
 "coordinating a retreat, but are being harried at every step."
 msgstr ""
+"Naše řady byly prolomeny. Do Aethenského lesa se valí lidé. Maršálové "
+"uspořádávají ústup, ale je na ně dotíráno na každém kroku."
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:267
 msgid "Don’t let them get away! The queen demands a total victory!"
-msgstr ""
+msgstr "Nenechte je utéct! Královna žádá úplné vítězství!"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:271
@@ -6639,6 +6649,8 @@ msgid ""
 "Kill any who resist, but take the rest alive. We need prisoners for "
 "interrogation and slaves for the mines!"
 msgstr ""
+"Zabijte každého, kdo se postaví na odpor, ale ostatní odveďte živé. "
+"Potřebujeme vězně k výslechu a otroky do dolů!"
 
 #. [message]: speaker=Quillan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:277
@@ -6647,6 +6659,9 @@ msgid ""
 "swift enough to escape the spears, but our slower brethren may be caught as "
 "they retreat."
 msgstr ""
+"Moji jezdci a já jsme se jako první vymanili z obklíčení! Jsme dostatečně "
+"rychlí, abychom unikli kopím, ale naši pomalejší bratři mohou být při ústupu "
+"chyceni."
 
 #. [message]: speaker=Quillan
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:281
@@ -6654,12 +6669,15 @@ msgid ""
 "They will be here soon. Konrad, you must help us all reach safety across the "
 "river!"
 msgstr ""
+"Brzy tu budou. Konráde, musíš nám všem pomoci dostat se přes řeku do bezpečí!"
 
 #. [objective]: condition=win
 #. $dead_elves is a number; probably between 0 and 20
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:292
 msgid "Survive until all elves escape or die ($dead_elves dead so far)"
 msgstr ""
+"Přežij, dokud všichni elfové neutečou nebo nezemřou (zatím mrtvých: "
+"$dead_elves)"
 
 #. [objective]: condition=win
 #. [objective]: condition=win, description=<span strikethrough='true' color='#A9A9A9'>
@@ -6667,7 +6685,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:298
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:305
 msgid "15 or fewer deaths: recruit Elvish Archers"
-msgstr ""
+msgstr "15 nebo méně mrtvých: verbuješ elfí lučištníky"
 
 #. [objective]: condition=win
 #. [objective]: condition=win, description=<span strikethrough='true' color='#A9A9A9'>
@@ -6675,7 +6693,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:314
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:321
 msgid "10 or fewer deaths: recruit Elvish Scouts"
-msgstr ""
+msgstr "10 nebo méně mrtvých: verbuješ elfí průzkumníky"
 
 #. [objective]: condition=win, description=  
 #. [objective]: condition=win, description=<span strikethrough='true' color='#A9A9A9'>  
@@ -6683,7 +6701,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:331
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:338
 msgid "5 or fewer deaths: recruit Elvish Fighters"
-msgstr ""
+msgstr "5 nebo méně mrtvých: verbuješ elfí bojovníky"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:375
@@ -6691,11 +6709,13 @@ msgid ""
 "The elves are going south across the river, but we must stand our ground and "
 "help them escape!"
 msgstr ""
+"Elfové se vydávají na jih přes řeku, ale my musíme zůstat na místě a pomoci "
+"jim utéct!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:398
 msgid "I have reached the southern shore! Scatter into the deep forest!"
-msgstr ""
+msgstr "Jsem na jižním břehu! Ztraťme se v hlubokém lese!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:412
@@ -6703,6 +6723,8 @@ msgid ""
 "Will none of you stay and help fight? If we all stand together, surely we "
 "can resist the invaders!"
 msgstr ""
+"Nikdo z vás nezůstane a nepomůže v boji? Když budeme držet pospolu, určitě "
+"se útočníkům ubráníme!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:416
@@ -6711,6 +6733,9 @@ msgid ""
 "east as best we could, but now the decision has been made to scatter, not to "
 "fight."
 msgstr ""
+"Stát spolu znamená spolu padnout, Konráde. Bránili jsme své domovy na "
+"východě, jak nejlépe jsme uměli, ale teď došlo k rozhodnutí rozptýlit se, ne "
+"bojovat."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:420
@@ -6719,6 +6744,9 @@ msgid ""
 "might of Wesnoth is beyond our capacity to withstand. We must scatter and "
 "hide if we wish any hope of evading your kin."
 msgstr ""
+"Aethenský les je ve srovnání s Wesmérií nebo Lintanirem pouhý zapadákov. "
+"Síle Wesnothu nedokážeme čelit. Musíme se rozprchnout a skrýt, pokud chceme "
+"mít naději, že se tvým příbuzným vyhneme."
 
 #. [message]: role=speaker {FILTER_LOCATION x,y,radius=44,7,4}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:444
@@ -6726,16 +6754,18 @@ msgid ""
 "Be swift, friends. We must cross the river and vanish into the southern "
 "woods before our pursuers catch us!"
 msgstr ""
+"Buďte rychlí, přátelé. Musíme překročit řeku a zmizet v jižních lesích dřív, "
+"než nás pronásledovatelé chytí!"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:465
 msgid "Where are my fencers? They should have started their attack by now."
-msgstr ""
+msgstr "Kde jsou moji šermíři? Už by měli začít útočit."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:470
 msgid "Aramis"
-msgstr ""
+msgstr "Aramis"
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:477
@@ -6743,6 +6773,8 @@ msgid ""
 "Sorry for the delay, Lieutenant! We’re finally in position, and ready to "
 "help intercept the elves."
 msgstr ""
+"Omlouváme se za zpoždění, poručíku! Konečně jsme na místě a připraveni "
+"pomoci zastavit elfy."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:513
@@ -6750,26 +6782,27 @@ msgid ""
 "How many more elves are left to evacuate from the east-halls? We cannot keep "
 "fighting forever!"
 msgstr ""
+"Kolik elfů ještě zbývá vystěhovat z východních síní? Nemůžeme bojovat věčně!"
 
 #. [message]: role=speaker {FILTER_LOCATION x,y,radius=44,7,4}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:518
 msgid ""
 "Not many. Galdrad is managing the rest of the retreat — you will see him "
 "soon!"
-msgstr ""
+msgstr "Nemnoho. Galdrad řídí zbytek ústupu – brzy ho uvidíte!"
 
 #. [message]: role=speaker {FILTER_LOCATION x,y,radius=44,7,4}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:524
 msgid ""
 "Not many. Ethiliel is managing the rest of the retreat — you will see her "
 "soon!"
-msgstr ""
+msgstr "Nemnoho. Ethiliel řídí zbytek ústupu – brzy ji uvidíte!"
 
 #. [message]: role=speaker {FILTER_LOCATION x,y,radius=44,7,4}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:530
 msgid ""
 "Not many. Tanyth is managing the rest of the retreat — you will see her soon!"
-msgstr ""
+msgstr "Nemnoho. Tanyth řídí zbytek ústupu – brzy ji uvidíte!"
 
 #. [message]: id=$elf_leader.id
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:559
@@ -6777,6 +6810,8 @@ msgid ""
 "Konrad, I lead the last of the evacuees — we shall make for the ford at "
 "once. But be wary, for the human general comes nipping at our heels!"
 msgstr ""
+"Konráde, vedu poslední vystěhované – okamžitě se vydáme k brodu. Ale mějte "
+"se na pozoru, v patách máme generála lidí!"
 
 #. [message]: id=$elf_leader.id
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:560
@@ -6784,6 +6819,8 @@ msgid ""
 "female^Konrad, I lead the last of the evacuees — we shall make for the ford "
 "at once. But be wary, for the human general comes nipping at our heels!"
 msgstr ""
+"Konráde, vedu poslední vystěhované – ihned se vydáme k brodu. Ale mějte se "
+"na pozoru, v patách máme generála lidí!"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:572
@@ -6791,6 +6828,8 @@ msgid ""
 "Keep pushing forward — don’t let any more of them escape. Twenty gold pieces "
 "for whoever takes the head of their leader!"
 msgstr ""
+"Vytrvejte – nenechte jich víc utéct. Dvacet zlatých tomu, kdo získá hlavu "
+"jejich vůdce!"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:576
@@ -6798,11 +6837,13 @@ msgid ""
 "... is that Konrad? The pretender prince!? He’s returned! We have an "
 "opportunity to make up for our previous failure — men, seize him at once!"
 msgstr ""
+"... je to Konrád? Falešný princ!? Vrátil se! Máme příležitost odčinit naše "
+"předchozí selhání – muži, okamžitě ho chyťte!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:643
 msgid "You should never have attacked my home, you villain!"
-msgstr ""
+msgstr "Nikdy jste neměli útočit na můj domov, vy darebáci!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:651
