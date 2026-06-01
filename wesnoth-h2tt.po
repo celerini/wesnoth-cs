@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-01 22:39+0200\n"
+"PO-Revision-Date: 2026-06-01 22:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19592,7 +19592,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L2.cfg:4
 msgid "Captain"
-msgstr ""
+msgstr "Kapitán"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L2.cfg:21
 msgid ""
@@ -19604,6 +19604,13 @@ msgid ""
 "body alike, the most capable of these elf-trained leaders complement their "
 "improved swordsmanship with an uncanny accuracy at archery."
 msgstr ""
+"Podle elfské myšlenkové školy by kapitáni měli být vycvičeni spíše k řízení "
+"malých potyček než rozsáhlých bitev a často je u nich vidět, že vedou "
+"spíše pomocí kamarádství než nátlaku. Tito velitelé jsou obvykle v čele malých jednotek, "
+"které zůstávají pohromadě po delší dobu, což jim umožňuje osobně radit "
+"svým vojákům a přátelit se s nimi. Nejschopnější z těchto elfy vycvičených "
+"velitelů, kteří zdokonalují svou mysl i tělo, doplňují své vylepšené "
+"šermířské umění o neobyčejnou přesnost ve střelbě z luku."
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L3.cfg:4
 msgid "Prince"
