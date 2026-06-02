@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-01 22:58+0200\n"
+"PO-Revision-Date: 2026-06-02 21:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6850,6 +6850,8 @@ msgid ""
 "That’s the last of their leaders defeated! With Wesnoth beaten back, even if "
 "only temporarily, the rest of the elves can safely evacuate."
 msgstr ""
+"Poslední z jejich vůdců byl poražen! Když jsme odrazili Wesnoth, i když jen "
+"dočasně, zbytek elfů se může bezpečně vystěhovat."
 
 #. [message]: role=victory_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:677
@@ -6857,6 +6859,8 @@ msgid ""
 "Scatter to the south; scatter to the west! Spread ourselves in hiding across "
 "the entire wood, and they shall never be able to root us out."
 msgstr ""
+"Rozptylte se na jih, rozptylte se na západ! Rozdělte se do skrýší po celém "
+"lese a nikdy nás nebudou moci vyhnat."
 
 #. [message]: role=victory_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:705
@@ -6864,6 +6868,8 @@ msgid ""
 "You have my gratitude, friend Konrad. Without your help, this would surely "
 "have been a great slaughter. Allow us to aid you in return."
 msgstr ""
+"Máš mou vděčnost, příteli Konráde. Bez tvého přičinění by to jistě byla "
+"velká jatka. Dovol nám, abychom ti na oplátku pomohli."
 
 #. [message]: role=victory_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:710
@@ -6871,11 +6877,13 @@ msgid ""
 "With so many of our number safely escaped, our archers, fighter, and scouts "
 "all stand ready to join you on your journey!"
 msgstr ""
+"Jelikož mnoho z nás bezpečně uniklo, jsou naši lučištníci, bojovníci "
+"a průzkumníci připraveni se k tobě připojit na tvé cestě!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:712
 msgid "Konrad can now recruit Elvish Archers, Fighters, and Scouts!"
-msgstr ""
+msgstr "Konrád nyní může verbovat elfí lučištníky, bojovníky a průzkumníky!"
 
 #. [message]: role=victory_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:717
@@ -6883,11 +6891,13 @@ msgid ""
 "Though some of our number have fallen, many have escaped to safety! Our "
 "archers and scouts both stand ready to join you on your journey."
 msgstr ""
+"I když někteří z nás padli, mnozí unikli do bezpečí! Naši lučištníci "
+"i průzkumníci jsou připraveni připojit se k tobě na tvé cestě."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:719
 msgid "Konrad can now recruit Elvish Archers and Scouts!"
-msgstr ""
+msgstr "Konrád nyní může verbovat elfí lučištníky a průzkumníky!"
 
 #. [message]: role=victory_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:724
@@ -6895,11 +6905,13 @@ msgid ""
 "Though many of our number have fallen, at least some have escaped. Our "
 "archers stand ready to join you on your journey."
 msgstr ""
+"Ačkoli mnoho z nás padlo, alespoň někteří unikli. Naši lučištníci jsou "
+"připraveni připojit se k tobě na tvé cestě."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:726
 msgid "Konrad can now recruit Elvish Archers!"
-msgstr ""
+msgstr "Konrád nyní může verbovat elfí lučištníky!"
 
 #. [message]: role=victory_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:731
@@ -6907,6 +6919,8 @@ msgid ""
 "Yet even with your aid, only a scant few of us elves have escaped. I fear "
 "that none of our number can be spared to join you on your journey."
 msgstr ""
+"I přes tvou pomoc se podařilo uniknout jen několika málo elfům. Obávám se, "
+"že nikoho z nás nebude možné postrádat, aby se k tobě připojil na tvé cestě."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:740
@@ -6914,13 +6928,15 @@ msgid ""
 "Now, young prince, it is time for us to make our escape as well. Be swift — "
 "make for the western forest!"
 msgstr ""
+"Nyní, mladý princi, je čas, abychom se i my dali na útěk. Buď rychlý – vydej "
+"se do západního lesa!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/02_Flight_of_the_Elves.cfg:741
 msgid ""
 "Now it’s time for us to make our escape too. Quick, make for the western "
 "forest!"
-msgstr ""
+msgstr "Nyní je čas, abychom se i my dali na útěk. Rychle do západního lesa!"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:15
