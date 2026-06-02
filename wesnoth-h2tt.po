@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-02 21:55+0200\n"
+"PO-Revision-Date: 2026-06-02 22:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6950,7 +6950,7 @@ msgstr "Přístav Temná Voda"
 #. [side]: type=Orcish Warrior, id=Mokolo Qimur
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:82
 msgid "Mokolo Qimur"
-msgstr ""
+msgstr "Mokolo Qimur"
 
 #. [side]: type=Orcish Warrior, id=Mokolo Qimur
 #. [side]: type={TYPE}, id={ID}
@@ -6958,17 +6958,17 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:77
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:48
 msgid "Clan Foxtail"
-msgstr ""
+msgstr "Klan Liščí ocas"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:163
 msgid "Rebels"
-msgstr ""
+msgstr "Povstalci"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:262
 msgid "Uncle Kaylan, we’re here! Are you alright? What can I do to help?"
-msgstr ""
+msgstr "Strýčku Kaylane, jsme tady! Jsi v pořádku? Jak vám mohu pomoci?"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:267
@@ -6978,6 +6978,10 @@ msgid ""
 "unprepared, but the bulk of my riders shall soon return to rout the enemy "
 "and seize our victory!"
 msgstr ""
+"Vítej, Delfadore, vítej, Konráde! Je mi ctí opět popatřit okem na pravého "
+"dědice Wesnothu. Síly falešné královny nás zastihly nepřipravené, ale "
+"většina mých jezdců se brzy vrátí, aby nepřítele rozdrtila a zajistila naše "
+"vítězství!"
 
 #. [message]: speaker=Delfador
 #. after the player completes this scenario, Delfador leaves. Foreshadow that now.
@@ -6986,6 +6990,8 @@ msgid ""
 "How soon, Kaylan? I suspect Elensefar to be under siege as well — I cannot "
 "leave Maddock to fight alone, yet neither can I leave the prince unguarded."
 msgstr ""
+"Jak brzy, Kaylane? Mám podezření, že Elensefar je také v obležení – nemohu "
+"nechat Maddoka bojovat samotného, ale ani prince nemohu nechat bez ochrany."
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:277
@@ -6994,6 +7000,9 @@ msgid ""
 "heir of Wesnoth. The false queen’s forces have caught us unprepared, but the "
 "bulk of my riders shall soon return to rout the enemy and seize our victory!"
 msgstr ""
+"Vítej, mladý Konráde! Je mi ctí opět popatřit okem na pravého dědice "
+"Wesnothu. Síly falešné královny nás zastihly nepřipravené, ale většina mých "
+"jezdců se brzy vrátí, aby nepřítele rozdrtila a zajistila naše vítězství!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:281
@@ -7001,6 +7010,8 @@ msgid ""
 "I’m glad to be here, but sorry we couldn’t come sooner. For how long must we "
 "defend before your reinforcements arrive?"
 msgstr ""
+"Jsem rád, že jsem tady, ale mrzí mě, že jsme nemohli přijet dřív. Jak dlouho "
+"se musíme bránit, než dorazí tvé posily?"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:286
@@ -7010,6 +7021,9 @@ msgid ""
 "siege can be broken. Hearken to my words, Konrad, and Blackwater Port shall "
 "yet endure!"
 msgstr ""
+"Pokud se nám podaří udržet Temnou Vodu ještě několik dní, vítězství bude "
+"jisté! Jsem obklíčen a uvězněn v přístavu, ale s vaší pomocí se obléhání "
+"podaří prolomit. Slyš má slova, Konráde, a přístav Temná Voda ještě přetrvá!"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:295
@@ -7018,7 +7032,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:350
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:316
 msgid "Survive until turns run out"
-msgstr ""
+msgstr "Přežij, dokud nevyprší počet kol"
 
 #. [objective]: condition=win
 #. [objective]: description=<span strikethrough='true' color='#A9A9A9'>, condition=win
@@ -7026,7 +7040,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:302
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:310
 msgid "Protect Sir Kaylan: recruit Cavalrymen and Horsemen"
-msgstr ""
+msgstr "Ochraň sira Kaylana: verbuješ kavaleristy a jezdce"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:323
@@ -7036,13 +7050,13 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:303
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:244
 msgid "Defeat all enemy leaders"
-msgstr ""
+msgstr "Poraz všechny nepřátelské vůdce"
 
 #. [objective]: condition=win
 #. This is an objective note. Completing this objective will be very hard, but you gain an early finish bonus and a loyal unit.
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:325
 msgid "(very hard: early finish bonus &#38; loyal companion)"
-msgstr ""
+msgstr "(velmi těžké: odměna za brzké ukončení a věrný společník)"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:345
