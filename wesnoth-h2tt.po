@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-02 21:12+0200\n"
+"PO-Revision-Date: 2026-06-02 21:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5060,6 +5060,9 @@ msgid ""
 "battles will have longer nights and shorter days, often with more snow and "
 "ice. Summer battles are the opposite."
 msgstr ""
+"Rada: Roční období se mění vždy, když dokončíš bitvu. Zimní bitvy budou mít "
+"delší noci a kratší dny, často s větším množstvím sněhu a ledu. Letní bitvy "
+"jsou pravým opakem."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:634
@@ -5067,6 +5070,7 @@ msgid ""
 "Right now it’s winter. You can see the current season in the top-right-hand "
 "corner."
 msgstr ""
+"Právě teď je zima. Nynější roční období můžeš vidět v pravém horním rohu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:647
