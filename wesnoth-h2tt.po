@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-03 23:39+0200\n"
+"PO-Revision-Date: 2026-06-03 23:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19802,7 +19802,7 @@ msgstr ""
 #. [unit_type]: id=Shackled Mage, gender=male, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Mage_Shackled.cfg:7
 msgid "Shackled Mage"
-msgstr ""
+msgstr "Spoutaný mág"
 
 #. [unit_type]: id=Shackled Mage, gender=male, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Mage_Shackled.cfg:15
@@ -19810,16 +19810,18 @@ msgid ""
 "These mages have heavy manacles on their wrists and ankles, slowing their "
 "movement and restricting their magic."
 msgstr ""
+"Tito mágové mají na rukou a nohou těžké okovy, které zpomalují jejich pohyb "
+"a omezují jejich kouzlení."
 
 #. [attack]: type=impact
 #: data/campaigns/Heir_To_The_Throne/units/Human_Mage_Shackled.cfg:26
 msgid "kick"
-msgstr ""
+msgstr "kop"
 
 #. [female]: gender=female
 #: data/campaigns/Heir_To_The_Throne/units/Human_Mage_Shackled.cfg:35
 msgid "female^Shackled Mage"
-msgstr ""
+msgstr "Spoutaná mágyně"
 
 #. [unit_type]: id=Warrior of Light, race=human, gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_Warrior_of_Light.cfg:4
