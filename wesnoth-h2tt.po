@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-03 23:08+0200\n"
+"PO-Revision-Date: 2026-06-03 23:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7811,12 +7811,12 @@ msgstr "Ostrov Alduin"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:50
 msgid "Yaerby"
-msgstr ""
+msgstr "Yaerby"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:190
 msgid "Alyra"
-msgstr ""
+msgstr "Alyra"
 
 #. [message]: speaker=leader2lieutenant
 #. ship can't be from Weldyn, because Elensefar might still be held by Maddock right now.
@@ -7825,6 +7825,8 @@ msgid ""
 "They’re all locked up? Good. The ship from Fort Tahn will be here any day "
 "now, and then we can finally get these troublemakers off the Isle."
 msgstr ""
+"Všichni jsou pod zámkem? Dobře. Loď z pevnosti Tahn tu bude každým dnem "
+"a pak můžeme konečně dostat tyhle potížisty z ostrova."
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:218
@@ -7832,6 +7834,8 @@ msgid ""
 "Is all this really necessary? I mean— back in my day... Just a few drunken "
 "words... Hardly worth being press-ganged, I don’t think..."
 msgstr ""
+"Je tohle všechno opravdu nutné? Chci říct... Za mých časů... Jen pár slov "
+"v opilosti... Nemyslím..., že by museli hned narukovat."
 
 #. [message]: speaker=leader2lieutenant
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:222
@@ -7839,6 +7843,9 @@ msgid ""
 "If we let a few apprentices speak ill of the queen, how long until they all "
 "do? Don’t forget whose royal endorsement secured you your position, Seimus."
 msgstr ""
+"Když dovolíme několika učňům, aby o královně mluvili špatně, jak dlouho bude "
+"trvat, než to udělají všichni? Nezapomeň, čí královský souhlas ti zajistil "
+"tvé postavení, Seime."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:241
@@ -7846,6 +7853,8 @@ msgid ""
 "Hail, scholars of Alduin! I’ve heard much about your home! I’ve even heard "
 "that there are some of you brave enough to stand up to the dark queen."
 msgstr ""
+"Buďte zdrávi, studenti z Alduinu! Slyšel jsem mnoho o vašem domově! Dokonce "
+"se mi doneslo, že někteří z vás mají dost odvahy postavit se temné královně."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:245
@@ -7853,6 +7862,8 @@ msgid ""
 "Who’re you to ask, stranger? That kind of talk can be dangerous. Did you see "
 "what happened to our locked-up friends?"
 msgstr ""
+"Kdo jsi, že se ptáš, cizinče? Takové řeči mohou být nebezpečné. Viděl jsi, "
+"co se stalo našim zavřeným přátelům?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:249
@@ -7861,6 +7872,9 @@ msgid ""
 "Wesnoth! I am Asheviere’s sworn enemy, and would welcome to my cause all who "
 "would oppose her!"
 msgstr ""
+"Kdo jsem? Jsem Konrád, syn prince Aranda a dědic trůnu Wesnothu! Jsem "
+"Ašvířin zapřisáhlý nepřítel a rád přivítám na své straně všechny, kdo by se "
+"jí chtěli postavit!"
 
 #. [message]: speaker=Alyra
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:253
@@ -7868,12 +7882,16 @@ msgid ""
 "Konrad? The one they call “the false prince”! I— I wasn’t even sure you "
 "existed!"
 msgstr ""
+"Konrád? Ten, kterému říkají „falešný princ“! Já... Ani jsem si nebyla jistá, "
+"že jsi skutečný!"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:257
 msgid ""
 "Do you really think you can beat the queen? Is your whole rebel army here?!"
 msgstr ""
+"Opravdu si myslíš, že můžeš porazit královnu? Je tu celá tvá armáda "
+"povstalců?!"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:261
@@ -7882,6 +7900,8 @@ msgid ""
 "are Konrad then you’d best leave right now, before the queen’s soldiers "
 "catch you."
 msgstr ""
+"Takže teď se všichni uklidníme. Nechceme žádné potíže. Jestli jsi opravdu "
+"Konrád, tak bys měl raději hned odejít, než tě chytí královnini vojáci."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:265
@@ -7890,6 +7910,8 @@ msgid ""
 "friends. They dared to criticize the throne, and now they’ve been both "
 "expelled and imprisoned."
 msgstr ""
+"Neposlouchej ho, Konráde. Vojáci z Wesnothu zavřeli naše přátele. Odvážili "
+"se vytýkat chyby trůnu a teď byli vyloučeni i uvězněni."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:269
@@ -7897,26 +7919,29 @@ msgid ""
 "You have to help us rescue them! Many of the older apprentices here think "
 "like Seimus, but my friends and I will fight with you!"
 msgstr ""
+"Musíš nám je pomoci zachránit! Mnozí ze starších učňů tady smýšlejí jako "
+"Seimus, ale já a moji přátelé budeme bojovat s tebou!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:273
 msgid "You can now advance Mages to Red Mages!"
-msgstr ""
+msgstr "Nyní můžeš povyšovat mágy na červené mágy!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:274
 msgid "Konrad can now recruit Mages, and advance them to (only) Red Mages!"
-msgstr ""
+msgstr "Konrád nyní může verbovat mágy a povyšovat je (pouze) na červené mágy!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:278
 msgid "Of course I will help. To battle!"
-msgstr ""
+msgstr "Samozřejmě vám pomůžu. Do boje!"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:286
 msgid "Reach the prisoner mages, then move one near Konrad’s keep."
 msgstr ""
+"Dostaň se k vězněným mágům a jednoho z nich přesuň blízko Konrádovy pevnosti."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:295
