@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-02 22:25+0200\n"
+"PO-Revision-Date: 2026-06-03 22:51+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7065,6 +7065,9 @@ msgid ""
 "have I felt this way, young Konrad. If I have but one regret in my life, it "
 "is that I could not raise you here as my own."
 msgstr ""
+"Bratři ve zbrani, bojující bok po boku! Od smrti starého krále jsem se "
+"takhle necítil, mladý Konráde. Jestli něčeho ve svém životě lituji, pak "
+"toho, že jsem tě tu nemohl vychovat jako vlastního."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:349
@@ -7072,6 +7075,8 @@ msgid ""
 "Master Delfador told me: You wanted to raise me in Blackwater Port among "
 "other humans, but he felt it was too dangerous."
 msgstr ""
+"Mistr Delfador mi řekl, že jsi mě chtěl vychovat v přístavu Temné Vodě mezi "
+"ostatními lidmi, ale připadalo mu to příliš nebezpečné."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:353
@@ -7079,6 +7084,7 @@ msgid ""
 "I don’t mind though. I like elves, and we still got to come visit you "
 "sometimes."
 msgstr ""
+"Mně to ale nevadí. Mám rád elfy a pořád tě můžeme čas od času navštívit."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:357
@@ -7087,16 +7093,18 @@ msgid ""
 "Blackwater Port has seen its fair share of battles since I first rescued "
 "you, Konrad."
 msgstr ""
+"A já měl pravdu. Vojenské město není místo pro malé dítě. Od doby, kdy jsem "
+"tě poprvé zachránil, zažil přístav Temná Voda slušnou řádku bitev, Konráde."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:368
 msgid "Vygwyn"
-msgstr ""
+msgstr "Vygwyn"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:369
 msgid "Gaebryn"
-msgstr ""
+msgstr "Gaebryn"
 
 #. [message]: speaker=Vygwyn
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:373
@@ -7104,6 +7112,8 @@ msgid ""
 "Hail, Sir Kaylan! We rode as swiftly as we could, and come to aid in the "
 "defense! The others will arrive soon — do not despair!"
 msgstr ""
+"Buď zdráv, sire Kaylane! Jeli jsme tak rychle, jak to jen šlo, a přijeli na "
+"pomoc s obranou! Ostatní brzy dorazí – nezoufejte!"
 
 #. [message]: speaker=Vygwyn
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:378
@@ -7112,41 +7122,43 @@ msgid ""
 "in the defense. Do not despair — the rest of your reinforcements will soon "
 "arrive!"
 msgstr ""
+"Zdravím, je ještě někdo naživu? Jeli jsme tak rychle, jak jen to šlo, "
+"a přijeli na pomoc s obranou. Nezoufejte – zbytek vašich posil brzy dorazí!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:425
 msgid "Yredd"
-msgstr ""
+msgstr "Yredd"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:426
 msgid "Tarcyn"
-msgstr ""
+msgstr "Tarcyn"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:427
 msgid "Syryn"
-msgstr ""
+msgstr "Syryn"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:428
 msgid "Cicyn"
-msgstr ""
+msgstr "Cicyn"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:429
 msgid "Ginvan"
-msgstr ""
+msgstr "Ginvan"
 
 #. [unit]: id=Haldiel, type=Horseman
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:433
 msgid "Haldiel"
-msgstr ""
+msgstr "Haldiel"
 
 #. [unit]: type=Knight, id=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:448
 msgid "Simyr"
-msgstr ""
+msgstr "Simyr"
 
 #. [message]: speaker=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:475
@@ -7155,6 +7167,8 @@ msgid ""
 "Your promised reinforcements have arrived! Time to drive back the false "
 "queen’s troops from the port!"
 msgstr ""
+"Tvé slíbené posily dorazily! Je čas vyhnat vojáky falešné královny "
+"z přístavu!"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:480
@@ -7162,6 +7176,8 @@ msgid ""
 "Our promised reinforcements have arrived! Time to drive back the false "
 "queen’s troops from the port!"
 msgstr ""
+"Naše slíbené posily dorazily! Je čas vyhnat vojáky falešné královny "
+"z přístavu!"
 
 #. [message]: speaker=Mokolo Qimur
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:485
@@ -7169,16 +7185,18 @@ msgid ""
 "So many foul humans riding on horses! Asheviere isn’t paying me nearly "
 "enough for this. Let’s get out of here!"
 msgstr ""
+"Tolik mizernejch lidí na koních! Ašvíra mi za tohle neplatí ani zdaleka "
+"dost. Vypadneme odsud!"
 
 #. [message]: speaker=enemy1
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:490
 msgid "The enemy has been reinforced! Quick, we must make our escape!"
-msgstr ""
+msgstr "Nepřítel byl posílen! Rychle, musíme utéct!"
 
 #. [message]: speaker=enemy2
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:495
 msgid "Retreat! Fall back!"
-msgstr ""
+msgstr "Ústup! Stáhněte se!"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:521
@@ -7186,6 +7204,8 @@ msgid ""
 "Reinforcements have arrived, but lo! Together we have already managed to "
 "repel the false queen’s attack!"
 msgstr ""
+"Dorazily posily, avšak hle! Společně se nám již podařilo odrazit útok "
+"falešné královny!"
 
 #. [message]: speaker=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:548
@@ -7193,6 +7213,8 @@ msgid ""
 "Victory is ours — but at such cost! Where is the lord of the town? What has "
 "become of Sir Kaylan?"
 msgstr ""
+"Vítězství je naše – ale za jakou cenu! Kde je pán města? Co se stalo se "
+"sirem Kaylanem?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:552
@@ -7201,6 +7223,9 @@ msgid ""
 "pierced by Asheviere’s spears. It is thanks to his sacrifice that Blackwater "
 "Port still stands free."
 msgstr ""
+"Strýc Kaylan — <b>Sir</b> Kaylan bojoval statečně... ale nakonec padl, "
+"probodnut Ašvířinými kopími. Jen díky jeho oběti zůstal přístav Temná Voda "
+"stále svobodný."
 
 #. [message]: speaker=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:559
@@ -7210,6 +7235,9 @@ msgid ""
 "with his passing we cannot afford to send the Horsemen and Cavalrymen he had "
 "hoped to."
 msgstr ""
+"Běda, to je vskutku zlá zpráva. Hrdinská smrt, ale přesto smrt. Kaylan "
+"doufal, že s vámi na cestu pošle některé z našich mužů, ale s jeho odchodem "
+"si nemůžeme dovolit poslat jezdce a kavaleristy, které chtěl poskytnout."
 
 #. [message]: speaker=Haldiel
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:563
@@ -7219,12 +7247,18 @@ msgid ""
 "behind to guard the port, we can still partially fufill Sir Kaylan’s last "
 "wish, Sir Simyr."
 msgstr ""
+"Ale když jsou dnes Ašvířina vojska poražena, nemůžeme uvolnit alespoň "
+"několik z nás? I když je pravda, že většina našich sil musí zůstat zde, aby "
+"střežila přístav, stále můžeme částečně splnit poslední přání sira Kaylana, "
+"sire Simyre."
 
 #. [message]: speaker=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:567
 msgid ""
 "Very well. Haldiel and I shall join you on your quest, Your Royal Highness."
 msgstr ""
+"Souhlasím. Haldiel a já se k vám připojíme na vaší výpravě, Vaše královská "
+"Výsosti."
 
 #. [message]: speaker=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:577
@@ -7234,6 +7268,10 @@ msgid ""
 "with his passing we can no longer afford to. Konrad, you will have to "
 "journey on from here with only Peasants and Woodsmen by your side."
 msgstr ""
+"Běda, to je vskutku zlá zpráva. Hrdinská smrt, ale přesto smrt. Kaylan "
+"doufal, že s vámi na cestu pošle některé z našich lidí, ale po jeho smrti si "
+"to už nemůžeme dovolit. Konráde, budeš odtud muset pokračovat jen s lesáky "
+"a sedláky po svém boku."
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:585
@@ -7243,11 +7281,14 @@ msgid ""
 "of my riders are free to accompany you on your quest. Konrad, may they serve "
 "you well!"
 msgstr ""
+"Slavné vítězství – děkujeme vám za pomoc, krajané! Musím zde zůstat, abych "
+"zabezpečil přístav, ale po odražení vojáků falešné královny vás mnozí z mých "
+"jezdců mohou doprovázet na vaší výpravě. Konráde, ať ti dobře slouží!"
 
 #. [else]
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:587
 msgid "Konrad can now recruit Cavalrymen and Horsemen!"
-msgstr ""
+msgstr "Konrád nyní může verbovat kavaleristy a jezdce!"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:596
@@ -7257,6 +7298,10 @@ msgid ""
 "I place your lances in the service of His Highness here. May you help him "
 "restore order to the country."
 msgstr ""
+"... a vzhledem k tomu, že síly útočníků jsou na hlavu poraženy, mohu si "
+"dovolit dát vám více jezdců, než jsem původně plánoval. Haldieli, Simyre, "
+"předstupte! Dávám vaše kopí do služeb zde Jeho Výsosti. Kéž mu pomůžete "
+"obnovit pořádek v zemi."
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:601
@@ -7266,36 +7311,42 @@ msgid ""
 "place your lance in the service of His Highness here. May you help him "
 "restore order to the country."
 msgstr ""
+"... a vzhledem k tomu, že síly útočníků jsou na hlavu poraženy, mohu si "
+"dovolit dát vám více jezdců, než jsem původně plánoval. Haldieli, předstup! "
+"Dávám tvé kopí do služeb zde Jeho Výsosti. Kéž mu pomůžeš obnovit pořádek "
+"v zemi."
 
 #. [message]: speaker=Haldiel
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:614
 msgid "Greetings, young master. I pledge myself to your service."
-msgstr ""
+msgstr "Zdravím vás, mladý pane. Slibuji, že vám budu sloužit."
 
 #. [message]: speaker=Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:619
 msgid "It is my pleasure and honor to serve, my liege."
-msgstr ""
+msgstr "Je mi potěšením a ctí vám sloužit, můj vládce."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:638
 msgid "I have failed in my duty to protect the rightful heir and the port..."
-msgstr ""
+msgstr "Nesplnil jsem svou povinnost chránit právoplatného dědice a přístav..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:645
 msgid "Kaylan, no! Please, you have to get back up! You have to keep fighting!"
-msgstr ""
+msgstr "Kaylane, ne! Prosím, musíš znovu vstát! Musíš bojovat dál!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:652
 msgid "I’m sorry, Konrad. He is lost to us now... Today we mourn a good man..."
 msgstr ""
+"Je mi to líto, Konráde. Teď je pro nás ztracen... Dnes truchlíme nad dobrým "
+"člověkem..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:659
 msgid "He’s gone, isn’t he... Today we mourn a good man."
-msgstr ""
+msgstr "Je pryč, že ano... Dnes truchlíme nad dobrým člověkem."
 
 #. [message]: speaker=1Mer1
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:133
