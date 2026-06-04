@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-03 23:48+0200\n"
+"PO-Revision-Date: 2026-06-04 21:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7946,17 +7946,17 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:295
 msgid "Move any prisoner mage to one of the marked hexes."
-msgstr ""
+msgstr "Přesuň libovolného vězněného mága na jedno z vyznačených políček."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:305
 msgid "(gain a loyal Arch Mage)"
-msgstr ""
+msgstr "(získáš věrného arcimága)"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:313
 msgid "Death of all prisoner mages"
-msgstr ""
+msgstr "Všichni věznění mágové zemřou"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:340
@@ -7964,6 +7964,8 @@ msgid ""
 "Seimus! My old colleague, what has come over you? There are soldiers "
 "occupying the Isle and you do nothing?"
 msgstr ""
+"Seime! Můj starý kolego, co tě to popadlo? Ostrov obsadili vojáci a ty nic "
+"neděláš?"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:344
@@ -7972,6 +7974,9 @@ msgid ""
 "position to oppose the crown. I mean, we’re not all cut out to be rebels "
 "like you."
 msgstr ""
+"Delfadore!? Ty jsi tu taky? ...jistě víš, že Alduin není v pozici, kdy by "
+"mohl koruně odporovat. Všichni nejsme stvořeni pro to, abychom byli rebelové "
+"jako ty."
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:348
@@ -7980,6 +7985,8 @@ msgid ""
 "that I wouldn’t like to help. I would! But Alduin has a future to think "
 "about!"
 msgstr ""
+"A ti učedníci v řetězech jsou opravdu potížisté. Opravdu! Ne že bych nechtěl "
+"pomoci. Já bych chtěl! Ale Alduin musí myslet na budoucnost!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:352
@@ -7991,7 +7998,7 @@ msgstr ""
 #. [message]: speaker=leader2lieutenant
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:356
 msgid "Ignore him, Seimus. Attack, or I will have you charged with treason!"
-msgstr ""
+msgstr "Nevšímej si ho, Seime. Zaútoč, nebo tě obviním ze zrady!"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:360
@@ -7999,11 +8006,13 @@ msgid ""
 "The Seimus I knew would never stoop so low! What good is a master who "
 "abandons his apprentices!"
 msgstr ""
+"Seimus, kterého jsem znal, by nikdy neklesl tak hluboko! K čemu je dobrý "
+"mistr, který opustí své učně!"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:364
 msgid "Oh... well..."
-msgstr ""
+msgstr "Ale... no..."
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:374
@@ -8011,11 +8020,13 @@ msgid ""
 "Alright. Okay! Lieutenant, I will not assist you against our own students. "
 "If I am to be branded a rebel, so be it."
 msgstr ""
+"Jistě. Tak dobře! Poručíku, nebudu vám pomáhat proti našim vlastním "
+"studentům. Pokud mám být označen za rebela, budiž."
 
 #. [message]: speaker=leader2lieutenant
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:378
 msgid "Traitor!"
-msgstr ""
+msgstr "Zrádce!"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:382
@@ -8023,6 +8034,8 @@ msgid ""
 "Delfador, I cannot fight alongside you now, but neither will I fight against "
 "you. I must assemble the faculty and make clear Alduin’s new allegiance."
 msgstr ""
+"Delfadore, nemohu teď bojovat po tvém boku, ale nebudu bojovat ani proti "
+"tobě. Musím shromáždit sbor a vyjasnit novou úlohu Alduinu."
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:386
@@ -8030,6 +8043,8 @@ msgid ""
 "And, if you can clear Asheviere’s soldiers off the Isle entirely, I promise "
 "to personally join your army!"
 msgstr ""
+"A pokud se ti podaří Ašvířiny vojáky z ostrova úplně vystrnadit, slibuji, že "
+"se osobně připojím k vašemu vojsku!"
 
 #. [message]: speaker=leader2lieutenant
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:404
@@ -8037,6 +8052,8 @@ msgid ""
 "Seimus, don’t just stand there. There are rebels on the Isle! Put that magic "
 "training to good use and throw some fireballs!"
 msgstr ""
+"Seime, nestůj tam jen tak. Na ostrově jsou povstalci! Využij svou kouzelnou "
+"průpravu a vrhni pár ohnivých koulí!"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:408
@@ -8044,6 +8061,8 @@ msgid ""
 "Rebels? Well... I mean... the worst of the trouble is more or less "
 "apprentices, isn’t it? You can hardly expect faculty to fight students!"
 msgstr ""
+"Povstalci? No... Chci říct... že ta nejhorší nesnáz jsou víceméně učedníci, "
+"že? Těžko můžete očekávat, že se sbor bude prát se studenty!"
 
 #. [message]: speaker=leader2lieutenant
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:412
@@ -8051,6 +8070,8 @@ msgid ""
 "That’s precisely what I expect, provost. There are no students in Konrad’s "
 "army — only rebels. Prove your loyalty to the queen."
 msgstr ""
+"Přesně to očekávám, pane rektore. V Konrádově vojsku nejsou žádní studenti – "
+"jen rebelové. Prokažte svou oddanost královně."
 
 #. [message]: id=Elrian,Alyra
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:425
