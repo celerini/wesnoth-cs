@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-04 21:58+0200\n"
+"PO-Revision-Date: 2026-06-05 23:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8079,16 +8079,18 @@ msgid ""
 "Academy housing is down this way, Konrad. There’re many other students "
 "there, but I think most of them are trying to keep their heads down."
 msgstr ""
+"Touto cestou dolů je ubytovna školy, Konráde. Je tam spousta dalších "
+"studentů, ale myslím, že většina z nich se snaží držet při zemi."
 
 #. [message]: type=Shackled Mage, gender=male
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:440
 msgid "I hear sounds of fighting outside! Should we do something?"
-msgstr ""
+msgstr "Slyším venku zvuky boje! Neměli bychom něco udělat?"
 
 #. [message]: type=Shackled Mage, gender=female
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:445
 msgid "I would if I could get out of these manacles..."
-msgstr ""
+msgstr "Něco bych zkusila, kdybych se mohla dostat z těch pout..."
 
 #. [message]: speaker=unit
 #. [message]: speaker=leader3
@@ -8101,13 +8103,13 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:799
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1976
 msgid "Urgh..."
-msgstr ""
+msgstr "Uf..."
 
 #. [message]: type=Shackled Mage
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:480
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:497
 msgid "Who are you! What’s going on?"
-msgstr ""
+msgstr "Kdo jsi? Co se děje?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:484
@@ -8115,12 +8117,14 @@ msgid ""
 "I’m a friend. We have to go — there’s no time to cut loose your shackles. "
 "Are you willing to help us fight Asheviere?"
 msgstr ""
+"Jsem přítel. Musíme jít – není čas na to zbavit vás pout. Jste ochotni nám "
+"pomoci v boji s Ašvírou?"
 
 #. [message]: type=Shackled Mage
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:488
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:505
 msgid "Better than rotting in here. Come on, everyone, we’re leaving!"
-msgstr ""
+msgstr "Lepší než tady hnít. Pojďte všichni, odcházíme!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:501
@@ -8128,11 +8132,13 @@ msgid ""
 "I’m a friend. Come — let us cut loose your shackles. Are you willing to help "
 "us fight Asheviere?"
 msgstr ""
+"Jsem přítel. Pojďte – uvolníme vám pouta. Jste ochotni nám pomoci v boji "
+"s Ašvírou?"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:540
 msgid "We need more gold! Send in the reserves."
-msgstr ""
+msgstr "Potřebujeme více zlata! Pošlete zálohu."
 
 #. [message]: speaker=unit
 #. the speaker is a level 1 "Shackled Mage", who's just received an AMLA
@@ -8140,17 +8146,17 @@ msgstr ""
 #. this mechanic is a little silly, but not at all important to winning/losing this scenario, so we lampshade it with this line of dialogue
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:561
 msgid "I’m going to be so strong if I ever get out of these shackles..."
-msgstr ""
+msgstr "Já budu tak silný, jestli se někdy dostanu z těch okovů..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:562
 msgid "female^I’m going to be so strong if I ever get out of these shackles..."
-msgstr ""
+msgstr "Já budu tak silná, jestli se někdy dostanu z těch okovů..."
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:591
 msgid "Wait! Stop! Please don’t kill me!"
-msgstr ""
+msgstr "Počkej! Zastav! Prosím, nezabíjej mě!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:595
@@ -8159,11 +8165,13 @@ msgid ""
 "And as long as you live, never forget what would’ve happened to your "
 "apprentices had I not been here to help."
 msgstr ""
+"Nezabiju tě, rektore. Ale vidím, že jsi zbabělec. Uteč. A dokud budeš žít, "
+"nikdy nezapomeň, co by se stalo tvým učňům, kdybych tu nepomohl."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:625
 msgid "Asheviere’s armies are defeated! We’ve won!"
-msgstr ""
+msgstr "Ašvířina vojska jsou poražena! Zvítězili jsme!"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:633
@@ -8171,6 +8179,8 @@ msgid ""
 "You... you really did it! Incredible! Alduin is in your debt, Delfador. And "
 "Konrad. And you apprentices too!"
 msgstr ""
+"Ty... ty jsi to opravdu dokázal! Neuvěřitelné! Alduin ti hodně dluží, "
+"Delfadore. A Konrádovi. A vám také, učedníci!"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:637
@@ -8178,6 +8188,8 @@ msgid ""
 "And, well, I made a promise to join you if you wiped those soldiers out. And "
 "I intend to keep it. I place myself at your service, young master."
 msgstr ""
+"A já jsem slíbil, že se k vám přidám, pokud se těch vojáků úplně zbavíte. "
+"A hodlám to dodržet. Dávám se vám do služeb, mladý pane."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:656
@@ -8185,6 +8197,8 @@ msgid ""
 "We’ve done well to defeat Asheviere’s leaders on the isle, but we still need "
 "to rescue the prisoners and escape before reinforcements arrive."
 msgstr ""
+"Podařilo se nám porazit Ašvířiny vůdce na ostrově, ale stále musíme "
+"zachránit vězně a utéct, než dorazí posily."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:672
@@ -8193,11 +8207,16 @@ msgid ""
 "couldn’t do better, but at least we’ve shown the people here that Asheviere "
 "can be beaten."
 msgstr ""
+"Chtěli jsme zachránit životy, ale ztratili jsme jich mnohem víc, než kolika "
+"jsme pomohli. Mrzí mě, že jsme to nedokázali lépe, ale alespoň jsme zdejším "
+"lidem ukázali, že Ašvíru lze porazit."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:678
 msgid "We’ve saved everyone we could! Now it’s time for us to save ourselves."
 msgstr ""
+"Zachránili jsme všechny, které jsme mohli! Teď je čas, abychom zachránili "
+"sami sebe."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:685
@@ -8205,6 +8224,8 @@ msgid ""
 "Live not in fear, Alduin! Once I’m king I will return here to set things "
 "right."
 msgstr ""
+"Nežij ve strachu, Alduine! Až se stanu králem, vrátím se sem, abych vše "
+"napravil."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:691
@@ -8212,6 +8233,8 @@ msgid ""
 "Live not in fear, Alduin, for today proves that Asheviere can be beaten! "
 "Once I’m king I will return here to set things right."
 msgstr ""
+"Nežij ve strachu, Alduine, neboť dnešek dokazuje, že Ašvíru lze porazit! Až "
+"se stanu králem, vrátím se sem, abych vše napravil."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:712
@@ -8219,6 +8242,8 @@ msgid ""
 "All of the prisoners we set out to rescue are dead! This has been a "
 "disaster..."
 msgstr ""
+"Všichni vězni, které jsme se vydali zachránit, jsou mrtví! Tohle byla "
+"katastrofa..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:726
