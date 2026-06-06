@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-06 07:33+0200\n"
+"PO-Revision-Date: 2026-06-06 07:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20299,11 +20299,12 @@ msgstr ""
 msgid ""
 "Haldiel, you fought in Garard’s war against the orcs. Did you know my father?"
 msgstr ""
+"Haldieli, bojoval jsi v Garardově válce proti skřetům. Znal jsi mého otce?"
 
 #. [message]: speaker=Haldiel
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:294
 msgid "Prince Arand? No, I was a member of King Garard’s Royal Cavalry."
-msgstr ""
+msgstr "Prince Aranda? Ne, já byl členem královské kavalerie krále Gararda."
 
 #. [message]: speaker=Haldiel
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:298
@@ -20312,6 +20313,9 @@ msgid ""
 "bestowed much favor upon the Horse Clans, but only so long as we trained "
 "ever-greater numbers of young men for his cavalry."
 msgstr ""
+"Byl jsem ještě mladík, když tvůj otec padl, sotva plnoletý. Garard klanům "
+"jezdců věnoval velkou přízeň, ale jen po tu dobu, dokud jsme pro jeho jízdu "
+"cvičili stále větší počty mladých mužů."
 
 #. [message]: id=Haldiel,Simyr
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:317
