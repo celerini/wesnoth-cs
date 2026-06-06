@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-06 08:51+0200\n"
+"PO-Revision-Date: 2026-06-06 09:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5467,7 +5467,7 @@ msgstr "Takže je to na mně. Wesnoth nezradím."
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1081
 msgid "Well?"
-msgstr ""
+msgstr "Nuže?"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1085
@@ -5475,6 +5475,8 @@ msgid ""
 "Battle plan approved, Your Highness. And your mother adds — remember what "
 "happened to Eldred."
 msgstr ""
+"Bojový plán byl schválen, Vaše Výsosti. A vaše matka dodává: nezapomeňte, co "
+"se stalo Eldredovi."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1089
@@ -5482,6 +5484,9 @@ msgid ""
 "I know the risks, but Elensefar has dragged on for far too long already. "
 "Wizard or no, we have to finish things before we overextend."
 msgstr ""
+"Vím, jaká jsou rizika, ale ta záležitost s Elensefarem se už táhne příliš "
+"dlouho. Ať už jde o čaroděje, nebo ne, musíme to vyřešit, než nám to "
+"přeroste přes hlavu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1119
