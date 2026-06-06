@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-06 08:24+0200\n"
+"PO-Revision-Date: 2026-06-06 08:51+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1101,6 +1101,7 @@ msgid ""
 "Farewell, Delfador. We will liberate the Isle and finish what you and Konrad "
 "started!"
 msgstr ""
+"Sbohem, Delfadore. Osvobodíme ostrov a dokončíme, co jste s Konrádem začali!"
 
 #. [message]: role=alduin_justcompleted_mage
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:716
@@ -1108,6 +1109,8 @@ msgid ""
 "Thank you, Konrad! Asheviere won’t forget what happened here today, and "
 "neither will we."
 msgstr ""
+"Děkujeme, Konráde! Ašvíra nezapomene na to, co se tu dnes stalo, a my také "
+"ne."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:726
@@ -1116,6 +1119,9 @@ msgid ""
 "already done for us, but... I’ve been speaking with the others, and not "
 "everyone is ready to join your army."
 msgstr ""
+"Vím, že po tom, co jsi pro nás už udělal, nemáme právo žádat o nic dalšího, "
+"ale... Mluvil jsem s ostatními a ne všichni jsou připraveni připojit se "
+"k tvému vojsku."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:730
@@ -1123,6 +1129,8 @@ msgid ""
 "You’re a soldier, but most of us are just students. And some of us are "
 "afraid. Asheviere targets the families of those who oppose her."
 msgstr ""
+"Jsi voják, ale většina z nás jsou jen studenti. A někteří z nás se bojí. "
+"Ašvíra se zaměřuje na rodiny těch, kteří se jí staví na odpor."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:732
@@ -1130,11 +1138,13 @@ msgid ""
 "Can you find it in your heart to help us one more time, by releasing some of "
 "us from our duty to you?"
 msgstr ""
+"Najdeš ve svém srdci sílu nám ještě jednou pomoci a zbavit některé z nás "
+"povinnosti vůči tobě?"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:746
 msgid "Dismiss Elrian from your army"
-msgstr ""
+msgstr "Propusit Elriana ze svého vojska"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:750
@@ -1142,11 +1152,14 @@ msgid ""
 "I knew you’d understand. My friends will gladly stay and fight knowing that "
 "I’ve left to warn their families. Thank you, and good luck."
 msgstr ""
+"Věděl jsem, že to pochopíš. Moji přátelé rádi zůstanou a budou bojovat "
+"s vědomím, že jsem odešel varovat jejich rodiny. Děkuji ti a přeji hodně "
+"štěstí."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:760
 msgid "Dismiss your other Mages (and lose recruitment)"
-msgstr ""
+msgstr "Propustit ostatní mágy (a přijít o jejich verbování)"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:768
@@ -1155,6 +1168,8 @@ msgid ""
 "Thank you for understanding, Konrad. I’ll gladly stay and fight knowing my "
 "friends are safe elsewhere."
 msgstr ""
+"Děkuji za pochopení, Konráde. Rád zůstanu a budu bojovat s vědomím, že moji "
+"přátelé jsou jinde v bezpečí."
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:780
@@ -1162,6 +1177,8 @@ msgid ""
 "Konrad can no longer recruit Mages. Except for Elrian and Seimus, his "
 "existing Mages, Red Mages, etc have been dismissed."
 msgstr ""
+"Konrád už nemůže verbovat mágy. S výjimkou Elriana a Seima byli všichni jeho "
+"stávající mágové, červení mágové a jiní propuštěni."
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:787
@@ -1169,11 +1186,13 @@ msgid ""
 "Konrad can no longer recruit Mages. Except for Elrian, his existing Mages, "
 "Red Mages, etc have been dismissed."
 msgstr ""
+"Konrád již nemůže verbovat mágy. Kromě Elriana byli jeho stávající mágové, "
+"červení mágové a jiní propuštěni."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:811
 msgid "Dismiss your other Mages (not your White Mages)"
-msgstr ""
+msgstr "Propustit své ostatní mágy (ne bílé mágy)"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:824
@@ -1181,11 +1200,13 @@ msgid ""
 "Konrad can no longer advance Mages to Red Mages. Except for Elrian, his "
 "existing Mages, Red Mages, etc (not White Mages) have been dismissed."
 msgstr ""
+"Konrád již nemůže povyšovat mágy na červené mágy. Kromě Elriana byli jeho "
+"stávající mágové, červení mágové a jiní (nikoliv bílí mágové) propuštěni."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:842
 msgid "Refuse Elrian’s request"
-msgstr ""
+msgstr "Odmítnout Elrianovu žádost"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:849
@@ -1193,6 +1214,8 @@ msgid ""
 "I came here to help these people, not to force them to die for me. Refusing "
 "their request would make me little better than Asheviere."
 msgstr ""
+"Přišel jsem sem, abych těmto lidem pomohl, ne abych je nutil umírat kvůli "
+"mně. Odmítnutím jejich žádosti bych se stal jen o málo lepším než Ašvíra."
 
 #. [message]: role=alduin_justcompleted_mage
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:865
@@ -1201,6 +1224,9 @@ msgid ""
 "outright. We’re immensely grateful for your help, but you’re a soldier, and "
 "we’re just students."
 msgstr ""
+"Přiznávám, že někteří z nás si zpočátku nebyli jisti, zda se k vašemu vojsku "
+"rovnou připojit. Jsme vám nesmírně vděční za pomoc, ale vy jste voják a my "
+"jen studenti."
 
 #. [message]: role=alduin_justcompleted_mage
 #. Elrian was another student Mage, who died in the previous scenario.
@@ -1209,16 +1235,19 @@ msgid ""
 "But after what Asheviere’s soldiers did to Elrian? We’d be cowards if we "
 "asked you to let us leave now. Let us take revenge against the dark queen."
 msgstr ""
+"Ale po tom, co Ašvířini vojáci udělali Elrianovi? Byli bychom zbabělci, "
+"kdybychom vás požádali, abyste nás teď nechal odejít. Nechte nás pomstít se "
+"temné královně."
 
 #. [message]: role=alduin_mage_leader
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:886
 msgid "Good luck, Konrad! The Isle of Alduin stands behind you."
-msgstr ""
+msgstr "Hodně štěstí, Konráde! Ostrov Alduin stojí za tebou."
 
 #. [message]: role=alduin_mage_leader
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:891
 msgid "You’ve caused enough trouble here. Off with you!"
-msgstr ""
+msgstr "Už jsi tu způsobil dost problémů. Pryč s tebou!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:895
@@ -1226,6 +1255,7 @@ msgid ""
 "Delfador may have understood these people, but to them I’m just another "
 "outlaw..."
 msgstr ""
+"Delfador těm lidem možná rozuměl, ale já jsem pro ně jen další psanec..."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:907
 msgid "Muff Malal’s Peninsula"
