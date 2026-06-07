@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-06 09:09+0200\n"
+"PO-Revision-Date: 2026-06-07 10:45+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7392,17 +7392,17 @@ msgstr "Je pryč, že ano... Dnes truchlíme nad dobrým člověkem."
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:133
 msgid ""
 "Are you coming to liberate us? Finally, we stand a chance against the orcs!"
-msgstr ""
+msgstr "Přišel jsi nás osvobodit? Konečně máme proti skřetům šanci!"
 
 #. [message]: speaker=4Mer1
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:140
 msgid "Now that we are free, together we can defeat our oppressors!"
-msgstr ""
+msgstr "Teď, když jsme svobodní, můžeme společně porazit naše utlačovatele!"
 
 #. [message]: speaker=5Mer1
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:147
 msgid "Let’s take back the Trident the orcs stole from us!"
-msgstr ""
+msgstr "Vezměme si zpátky Trojzubec, který nám skřeti ukradli!"
 
 #. [message]: speaker=6Mer1
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:154
@@ -7410,16 +7410,20 @@ msgid ""
 "Death to the orcs! Come, my brethren, let us fight the orcs and drive them "
 "from our shores!"
 msgstr ""
+"Smrt skřetům! Pojďte, bratři, bojujme proti skřetům a vyžeňme je z našich "
+"břehů!"
 
 #. [message]: speaker=8Mer1
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:161
 msgid "Thank you for rescuing us! Now we can help you fight the evil orcs!"
 msgstr ""
+"Děkujeme, že jste nás zachránili! Teď vám můžeme pomoct v boji proti zlým "
+"skřetům!"
 
 #. [message]: speaker=9Mer1
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:168
 msgid "Freedom! Now where are those orcs? Let me at ’em!"
-msgstr ""
+msgstr "Svoboda! Tak kde jsou ti skřeti? Chci se na ně vrhnout!"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:273
@@ -7429,124 +7433,124 @@ msgstr "Zátoka perel"
 #. [side]: type=Orcish Crossbowman, id=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:304
 msgid "Dverag-Kukai"
-msgstr ""
+msgstr "Dverag-Kukai"
 
 #. [side]: type=Orcish Crossbowman, id=Dverag-Kukai
 #. [side]: type=Orcish Warrior, id=Managa'Gwin
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:312
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:334
 msgid "Orcs"
-msgstr ""
+msgstr "Skřeti"
 
 #. [side]: type=Orcish Warrior, id=Managa'Gwin
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:323
 msgid "Managa’Gwin"
-msgstr ""
+msgstr "Managa’Gwin"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:384
 msgid "Merfolk"
-msgstr ""
+msgstr "Mořský lid"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:412
 msgid "Bugg"
-msgstr ""
+msgstr "Bugg"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:413
 msgid "Drasha"
-msgstr ""
+msgstr "Draša"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:430
 msgid "Gwaba"
-msgstr ""
+msgstr "Gwaba"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:432
 msgid "Triram"
-msgstr ""
+msgstr "Triram"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:433
 msgid "Mriram"
-msgstr ""
+msgstr "Mriram"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:434
 msgid "Aigaion"
-msgstr ""
+msgstr "Aigaion"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:435
 msgid "Nethuns"
-msgstr ""
+msgstr "Nethuns"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:436
 msgid "Earooa"
-msgstr ""
+msgstr "Earooa"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:437
 msgid "Mabooa"
-msgstr ""
+msgstr "Mabooa"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:438
 msgid "Elcmar"
-msgstr ""
+msgstr "Elcmar"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:439
 msgid "Gwarloa"
-msgstr ""
+msgstr "Gwarloa"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:440
 msgid "Gwimli"
-msgstr ""
+msgstr "Gwimli"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:441
 msgid "Kwaboo"
-msgstr ""
+msgstr "Kwaboo"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:442
 msgid "Kaba"
-msgstr ""
+msgstr "Kaba"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:443
 msgid "Apalala"
-msgstr ""
+msgstr "Apalala"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:444
 msgid "Heldaga"
-msgstr ""
+msgstr "Heldaga"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:445
 msgid "Jarla"
-msgstr ""
+msgstr "Jarla"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:446
 msgid "Tini"
-msgstr ""
+msgstr "Tini"
 
 #. [message]: speaker=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:485
 msgid "Are all the fishmen in cages yet?"
-msgstr ""
+msgstr "Jsou už všichni rybáci v klecích?"
 
 #. [message]: speaker=Managa'Gwin
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:489
 msgid "Almost."
-msgstr ""
+msgstr "Skoro."
 
 #. [message]: speaker=Managa'Gwin
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:491
@@ -7554,36 +7558,38 @@ msgid ""
 "UP, SEA LICE! Drag your slimy hides from the deep! Drop the pearls, then "
 "scuttle back to your cages!"
 msgstr ""
+"VSTÁVAT, MOŘSKÝ VŠI! Vytáhněte svý slizký kůže z hloubky! Vyložte perly "
+"a pak fofrem zapádlujte do svejch klecí!"
 
 #. [floating_text]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:511
 msgid "+120 gold"
-msgstr ""
+msgstr "+120 zlatých"
 
 #. [floating_text]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:511
 msgid "+160 gold"
-msgstr ""
+msgstr "+160 zlatých"
 
 #. [floating_text]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:511
 msgid "+40 gold"
-msgstr ""
+msgstr "+40 zlatých"
 
 #. [floating_text]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:511
 msgid "+80 gold"
-msgstr ""
+msgstr "+80 zlatých"
 
 #. [message]: speaker=Gwaba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:528
 msgid "Nepba, it’s noon. The orcs are groggy and sleepy. This is our moment!"
-msgstr ""
+msgstr "Nepbo, je poledne. Skřeti jsou otupělí a ospalí. Teď je naše chvíle!"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:532
 msgid "Let’s just take a look around for now. We must not act rashly."
-msgstr ""
+msgstr "Prozatím se jen rozhlédněme kolem. Nesmíme jednat ukvapeně."
 
 #. [message]: speaker=Gwaba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:536
@@ -7592,6 +7598,9 @@ msgid ""
 "open! When the others see that we’ve reclaimed it, they’ll rise up and we’ll "
 "finally drive out the orcs!"
 msgstr ""
+"Dneska ráno jsem se podíval a dveře do jeskyně s Trojzubcem bouří byly "
+"otevřené! Až ostatní uvidí, že jsme ho získali zpět, vzbouří se a my konečně "
+"skřety vyženeme!"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:540
@@ -7599,6 +7608,8 @@ msgid ""
 "I don’t like our odds. Someone could shoot us from the castle while we swim "
 "to the entrance."
 msgstr ""
+"Nechce se mi to líbit. Z hradu by na nás někdo mohl střílet, zatímco budeme "
+"plavat ke vchodu."
 
 #. [message]: speaker=Gwaba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:544
@@ -7606,11 +7617,13 @@ msgid ""
 "Let’s try swimming around the cave. There are cliffs and kelp that are easy "
 "to hide in."
 msgstr ""
+"Zkusme plavat okolo jeskyně. Jsou tam útesy a chaluhy, ve kterých se dá "
+"snadno schovat."
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:550
 msgid "Gwaba, wait!"
-msgstr ""
+msgstr "Gwabo, počkej!"
 
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:573
@@ -7618,18 +7631,20 @@ msgid ""
 "Chief, I went to throw some trash in the sea and shot a fishman creeping up "
 "on the Trident!"
 msgstr ""
+"Šéfe, šel jsem hodit odpad do moře a zastřelil rybáka, kterej se krad "
+"k Trojzubci!"
 
 #. [message]: speaker=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:577
 msgid ""
 "They’re planning an uprising! Drasha, have you managed to harness the power "
 "of the Trident yet?"
-msgstr ""
+msgstr "Chystají vzpouru! Drašo, už jsi zkrotila sílu Trojzubce?"
 
 #. [message]: speaker=Drasha
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:581
 msgid "Not yet, no."
-msgstr ""
+msgstr "Ne, zatím ne."
 
 #. [message]: speaker=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:585
@@ -7637,6 +7652,8 @@ msgid ""
 "Lock yourself in the cave until you can get the Trident to send a storm that "
 "destroys their villages. They need to be punished."
 msgstr ""
+"Zamkni se v jeskyni, dokud nedokážeš s Trojzubcem seslat bouři, která zničí "
+"jejich vesnice. Musíme jim dát zabrat."
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:645
@@ -7644,6 +7661,9 @@ msgid ""
 "Your Highness! Thank you for answering our plea for help. I am Nepba. We are "
 "all grateful you have come, but you must hurry!"
 msgstr ""
+"Vaše Výsosti! Děkujeme, že jste vyslyšel naši úpěnlivou prosbu o pomoc. "
+"Jmenuji se Nepba. Všichni jsme vám vděční, že jste přišel, ale musíte si "
+"pospíšit!"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:649
@@ -7651,11 +7671,13 @@ msgid ""
 "The orcs have stolen our Trident of Storms and are now trying to harness its "
 "power to destroy our villages. They already killed my cousin Gwaba!"
 msgstr ""
+"Skřeti nám ukradli Trojzubec bouří a teď se snaží využít jeho sílu k zničení "
+"našich vesnic. Už zabili mého bratrance Gwabu!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:654
 msgid "Delfador, can you do anything to stop them?"
-msgstr ""
+msgstr "Delfadore, můžeš něco udělat, abys je zastavil?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:658
@@ -7664,6 +7686,9 @@ msgid ""
 "spells could break it, but the power unleashed would do immeasurable damage "
 "to this place."
 msgstr ""
+"Cítím kouzlo Trojzubce... je staré a mocné. Možná by ho moje čarování "
+"dokázalo zničit, ale síla, která by se tím uvolnila, by tomuto místu "
+"způsobila nezměrné škody."
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:663
@@ -7671,21 +7696,23 @@ msgid ""
 "We can take the Trident back from the orcs, but it is locked away in a cave. "
 "They keep the key on land, where my kind cannot easily go."
 msgstr ""
+"Můžeme skřetům Trojzubec sebrat, ale je zamčený v jeskyni. Klíč mají na "
+"souši, kam se můj druh nedostane tak snadno."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:670
 msgid "We’ll help you, Nepba. Let’s get the key and reclaim your Trident."
-msgstr ""
+msgstr "Pomůžeme ti, Nepbo. Pojďme pro klíč a získejme zpět váš Trojzubec."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:679
 msgid "Get the key on 32,28; then attack the Orcish Shaman"
-msgstr ""
+msgstr "Získej klíč na 32,28 a pak zaútoč na skřetí šamanku"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:686
 msgid "Attack the Orcish Shaman"
-msgstr ""
+msgstr "Zaútoč na skřetí šamanku"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:711
@@ -7693,11 +7720,13 @@ msgid ""
 "Konrad, we merfolk are eager to fight for our freedom. My people will join "
 "you when you liberate our villages."
 msgstr ""
+"Konráde, my mořští lidé jsme odhodláni bojovat za svou svobodu. Můj lid se "
+"k tobě připojí, když osvobodíš naše vesnice."
 
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:729
 msgid "But chief, why are we only using bats and nagas?"
-msgstr ""
+msgstr "Ale šéfe, proč používáme jen netopejry a nágy?"
 
 #. [message]: speaker=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:733
@@ -7705,52 +7734,54 @@ msgid ""
 "Because we need to control the seas and the merfolk, and nagas and bats are "
 "best for doing that!"
 msgstr ""
+"Protože musíme ovládnout moře a mořské lidi, a k tomu se nágy a netopýři "
+"hodí nejlíp!"
 
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:737
 msgid "But orcs are the most powerful race in all of..."
-msgstr ""
+msgstr "Ale skřeti jsou nejmocnější rasou v celým..."
 
 #. [message]: speaker=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:741
 msgid "Shut up, worm! I’m the boss!"
-msgstr ""
+msgstr "Drž hubu, červe! Já jsem tady šéf!"
 
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:751
 msgid "Look at me!"
-msgstr ""
+msgstr "Podívej se na mě!"
 
 #. [message]: speaker=Bugg
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:761
 msgid "Ha ha ha! Now orcs will rule over land and sea!"
-msgstr ""
+msgstr "Ha ha ha! Teď budou skřeti vládnout na souši i na moři!"
 
 #. [message]: speaker=Dverag-Kukai
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:768
 msgid "(Sigh) Will someone kill this fool for me, please?"
-msgstr ""
+msgstr "(s povzdechem) Mohl by pro mne někdo toho blázna zabít, prosím?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:777
 msgid "But... but... how can this be happening to me?"
-msgstr ""
+msgstr "Ale... ale... jak se mi tohle mohlo stát?"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:787
 msgid "That’s for Gwaba!"
-msgstr ""
+msgstr "To je za Gwabu!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:801
 msgid "Who was that fool?"
-msgstr ""
+msgstr "Kdo byl ten blázen?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:818
 msgid ""
 "We have the key to the cave now! Let’s stop the shaman before it’s too late."
-msgstr ""
+msgstr "Teď máme klíč od jeskyně! Zastavme šamanku, než bude příliš pozdě."
 
 #. [message]: speaker=Drasha
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:845
