@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-07 10:45+0200\n"
+"PO-Revision-Date: 2026-06-07 12:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7786,17 +7786,17 @@ msgstr "Teď máme klíč od jeskyně! Zastavme šamanku, než bude příliš po
 #. [message]: speaker=Drasha
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:845
 msgid "Arrgh! No! They broke my concentration — the Trident is out of control!"
-msgstr ""
+msgstr "Árr! Ne! Přerušili mé soustředění – Trojzubec se vymkl kontrole!"
 
 #. [message]: race=merman
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:851
 msgid "It was never rightfully yours."
-msgstr ""
+msgstr "Nikdy ti právem nepatřil."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:857
 msgid "I am sure the Trident will yield to <i>me</i> much more readily."
-msgstr ""
+msgstr "Jsem si jistý, že <i>mně</i> se Trojzubec poddá mnohem snáze."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:892
@@ -7804,21 +7804,23 @@ msgid ""
 "We’re running out of time. If we cannot reclaim the Trident of Storms soon, "
 "the orcs will use it to wreak great destruction upon the merfolk!"
 msgstr ""
+"Čas se nám krátí. Pokud se nám nepodaří brzy získat zpět Trojzubec bouří, "
+"skřeti ho využijí k tomu, aby na mořské lidi uvrhli obrovskou zkázu!"
 
 #. [message]: speaker=Drasha
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:908
 msgid "Finally!"
-msgstr ""
+msgstr "Konečně!"
 
 #. [message]: speaker=Drasha
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:910
 msgid "The trident has yielded to my power!"
-msgstr ""
+msgstr "Trojzubec se podvolil mé moci!"
 
 #. [message]: speaker=Nepba
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:916
 msgid "No!"
-msgstr ""
+msgstr "Ne!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:932
@@ -7826,6 +7828,8 @@ msgid ""
 "We were too slow, and the merfolk’s villages have been destroyed! How could "
 "I let this happen?"
 msgstr ""
+"Byli jsme příliš pomalí a vesnice mořských lidí byly zničeny! Jak jsem to "
+"mohl dopustit?"
 
 #. [message]: race=merman
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:974
@@ -7833,22 +7837,26 @@ msgid ""
 "Your Royal Highness, Prince Konrad, protector of the oppressed! Thank you "
 "for saving us from our enemies and helping us to reclaim our sacred Trident!"
 msgstr ""
+"Vaše královská Výsosti, princi Konráde, ochránče utlačovaných! Děkujeme vám, "
+"že jste nás zachránil před našimi nepřáteli a pomohl nám získat zpět náš "
+"posvátný Trojzubec!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:978
 msgid "From now on, your pearls belong to you and you alone."
-msgstr ""
+msgstr "Od teď patří vaše perly jen a jen vám."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:980
 msgid ""
 "Konrad can now recruit Merman Fighters, Hunters, Brawlers, and Initiates!"
 msgstr ""
+"Konrád nyní může verbovat mořské bojovníky, lovce, rváče a víly novicky!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:983
 msgid "Can we take the Trident with us? It seems like it could be very useful."
-msgstr ""
+msgstr "Můžeme si vzít Trojzubec s sebou? Vypadá to, že by se mohl hodit."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:988
@@ -7857,6 +7865,9 @@ msgid ""
 "Trident of Storms helps maintain the delicate balance of the Bay of Pearls "
 "and protects the merfolk from the fierce power of the sea."
 msgstr ""
+"Ne, Konráde. Je pevně ukotven ve skále. A to z velmi dobrého důvodu! "
+"Trojzubec bouří pomáhá udržovat křehkou rovnováhu v Zátoce perel a chrání "
+"mořský lid před divokou silou moře."
 
 #. [message]: race=merman
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:994
@@ -7865,11 +7876,14 @@ msgid ""
 "can pry it from the rock in which it is embedded. It is just as well, for "
 "its power protects my people from the often terrible power of the sea."
 msgstr ""
+"Kdyby to bylo tak snadné, skřeti by ho už dávno uloupili. Ale žádná ruka ho "
+"nedokáže vypáčit ze skály, do níž je zapuštěn. A je to tak dobře, neboť jeho "
+"síla chrání můj lid před často strašlivou mocí moře."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/04_The_Bay_of_Pearls.cfg:999
 msgid "(sigh) I knew it wouldn’t be that easy."
-msgstr ""
+msgstr "(s povzdechem) Věděl jsem, že to nebude tak snadné."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:10
