@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-07 12:31+0200\n"
+"PO-Revision-Date: 2026-06-08 19:11+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5128,6 +5128,8 @@ msgid ""
 "Tip: This campaign’s difficulty setting affects both the strength of your "
 "enemies and the number of scenarios you can play before the final battle."
 msgstr ""
+"Rada: Nastavení obtížnosti tohoto tažení ovlivňuje jak sílu nepřátel, tak "
+"počet scénářů, které můžeš odehrát před závěrečnou bitvou."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:675
@@ -5135,6 +5137,8 @@ msgid ""
 "However, if you adjust the difficulty mid-campaign, the number of scenarios "
 "won’t change (or else you might end up stuck in an unplayable area)."
 msgstr ""
+"Pokud však upravíš obtížnost v průběhu tažení, počet scénářů se nezmění "
+"(jinak bys mohl skočit zaseknutý v oblasti, kde není možné hrát)."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:688
