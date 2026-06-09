@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-08 21:45+0200\n"
+"PO-Revision-Date: 2026-06-09 22:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8410,7 +8410,7 @@ msgstr "Poloostrov Muffa Malala"
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:236
 msgid "What’s going on here? Stop attacking that helpless man!"
-msgstr ""
+msgstr "Co se to tady děje? Přestaň útočit na toho bezbranného muže!"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:240
@@ -8418,6 +8418,9 @@ msgid ""
 "I warned you not to interrupt! I’m BUSY! And for the record, HE attacked ME, "
 "while I was peacefully minding my own business killing innocent townsfolk."
 msgstr ""
+"Varoval jsem tě, abys mě nepřerušoval! Mám plné ruce práce! A jen pro "
+"pořádek: to ON zaútočil na MĚ, zatímco jsem si v klidu hleděl svého "
+"a zabíjel nevinné měšťany."
 
 #. [message]: speaker=Moremirmu
 #. vague reference to the events of UtBS
@@ -8426,6 +8429,8 @@ msgid ""
 "For at the end of days, the texts prophesy a great destruction, yea, the sun "
 "itself shall rain down from the heavens as sulfur and fire!"
 msgstr ""
+"Neboť písma prorokují, že na konci časů nastane veliká zkáza, ano, samotné "
+"slunce bude dštít z nebes jako síra a oheň!"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:249
@@ -8433,11 +8438,13 @@ msgid ""
 "And lo! The unclean dead shall be smitten down, and lo! There shall be peace "
 "eternal for all men. So readeth the texts."
 msgstr ""
+"A hle! Nečistí mrtví budou poraženi, a hle! Pro všechen lid nastane věčný "
+"mír. Tak je psáno."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:253
 msgid "Yet until then, it falls to those such as me to do the smiting!"
-msgstr ""
+msgstr "Do té doby však připadá úloha bít je na lidech, jako jsem já!"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:258
@@ -8445,6 +8452,8 @@ msgid ""
 "Such an annoyance. Just stay out of my way until I’ve dealt with these "
 "newcomers, will you? I’ll have plenty of time to finish you off later!"
 msgstr ""
+"To je ale otrava. Prostě mi nechoď do cesty, dokud si to nevyřídím s těmihle "
+"nováčky, jo? Na to, abych tě dorazil, budu mít později spoustu času!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:264
@@ -8455,6 +8464,9 @@ msgid ""
 "power in him, but one man alone will not prevail against the hordes of "
 "undead that roam this peninsula."
 msgstr ""
+"Musíme si pospíšit, pokud chceme toho válečníka zachránit, Konráde! Cítím "
+"v něm kouzelnou sílu, ale jeden člověk sám nedokáže zvítězit nad hordami "
+"nemrtvých, které se potulují po tomto poloostrově."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:266
@@ -8462,6 +8474,8 @@ msgid ""
 "20 against 1 is pretty long odds, Konrad. If we’re goin’ to help that "
 "warrior before he’s overwhelmed, we’d better hurry things up."
 msgstr ""
+"20 proti 1 moc naděje nedává, Konráde. Jestli chceme tomu válečníkovi "
+"pomoct, než ho přemohou, měli bychom si pospíšit."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:267
@@ -8470,6 +8484,9 @@ msgid ""
 "a skilled fighter, but one man alone will not prevail against the hordes of "
 "undead that roam this peninsula."
 msgstr ""
+"Musíme spěchat, pokud chceme toho válečníka zachránit, Konráde! Vypadá to, "
+"že je to zkušený bojovník, ale jeden člověk sám nedokáže zvítězit nad "
+"hordami nemrtvých, které se potulují po tomto poloostrově."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:268
@@ -8478,6 +8495,9 @@ msgid ""
 "magical power in him, but one man alone will not prevail against the hordes "
 "of undead that roam this peninsula."
 msgstr ""
+"Musíme si pospíšit, jestli máme mít naději toho válečníka zachránit, "
+"Konráde! Cítím v něm kouzelnou sílu, ale jeden člověk sám nedokáže zvítězit "
+"nad hordami nemrtvých, které se potulují po tomto poloostrově."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:270
@@ -8512,7 +8532,7 @@ msgstr ""
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:277
 msgid "Get ready for battle, everyone!"
-msgstr ""
+msgstr "Všichni se připravte na bitvu!"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:285
@@ -8523,6 +8543,8 @@ msgstr "Poraz Muffa Malala"
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:299
 msgid "Moremirmu will join you if you move any unit adjacent to him."
 msgstr ""
+"Moremirmu se k tobě připojí, pokud přesuneš jakoukoli jednotku do jeho "
+"sousedství."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:314
