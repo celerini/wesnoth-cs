@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-09 22:54+0200\n"
+"PO-Revision-Date: 2026-06-10 22:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8474,8 +8474,8 @@ msgid ""
 "20 against 1 is pretty long odds, Konrad. If we’re goin’ to help that "
 "warrior before he’s overwhelmed, we’d better hurry things up."
 msgstr ""
-"20 proti 1 moc naděje nedává, Konráde. Jestli chceme tomu válečníkovi "
-"pomoct, než ho přemohou, měli bychom si pospíšit."
+"Dvacet proti jednomu moc šancí nedává, Konráde. Jestli chceme tomu "
+"válečníkovi pomoct, než ho přemohou, měli bychom si pospíšit."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:267
@@ -8506,6 +8506,9 @@ msgid ""
 "Tha’ long-staff sixpenny sorcerer’ll be having a change o’ heart — "
 "literally! — once we’re through with ’im!"
 msgstr ""
+"Dvacet proti jednomu takému válečníkovi – to je fakt mizerná šance, i kdyby "
+"to byl trpaslík! Ten šestákovej čáryfuk s dlouhým klackem bude hledat srdce "
+"v kalhotách, až se k němu prosekáme!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:271
@@ -8514,6 +8517,9 @@ msgid ""
 "that’s also a lot, really quite many undead surrounding him. We’d better "
 "hurry if we want to save him."
 msgstr ""
+"A jéje, pane jo. Ten kouzelný válečník vypadá docela, ehm, mocně, co? Ale "
+"obklopuje ho spousta, opravdu docela dost nemrtvých. Měli bychom si "
+"pospíšit, jestli ho chceme zachránit."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:272
@@ -8521,6 +8527,8 @@ msgid ""
 "Dat holy man be lookin’ mighty strong, but Dosh is thinking there’s too many "
 "o’ dem undead e’en for him. We’d better be helpin’ him out, Konrad."
 msgstr ""
+"Ten svatej muž vypadá fakt silně, ale Doš si myslí, že těch nemrtvejch je "
+"i na něj moc. Radši bychom mu měli pomoct, Konráde."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:273
@@ -8528,6 +8536,8 @@ msgid ""
 "We’d better move quickly and help fight! That warrior looks powerful, but "
 "the necromancer has the advantage of numbers."
 msgstr ""
+"Měli bychom se raději pohnout a pomoct bojovat! Ten válečník vypadá silně, "
+"ale nekromant má početní převahu."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:277
@@ -8554,6 +8564,10 @@ msgid ""
 "fishers... Muff Malal must have killed them all, while the queen’s armies "
 "did nothing to help."
 msgstr ""
+"O tomhle místě jsem četl v Delfadorových knihách. Na Poloostrově perel kdysi "
+"stálo několik malých městeček, která vzkvétala díky obchodu s perlami. "
+"Sedláci, rybáři... Muff Malal je musel všechny povraždit, zatímco královnina "
+"vojska nehnula ani prstem, aby jim pomohla."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:317
@@ -8565,6 +8579,10 @@ msgid ""
 "to protecting the townsfolk — time we can no longer spend fighting her "
 "directly."
 msgstr ""
+"Obávám se, že jde zase o její politické čachry. Tím, že Ašvíra nechává "
+"v západních oblastech království bujet nekromancii, nutí nás vynakládat čas "
+"a prostředky na ochranu obyvatel měst – čas, který už nemůžeme věnovat "
+"přímému boji proti ní."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:320
@@ -8573,6 +8591,9 @@ msgid ""
 "“necromancy”. And here Asheviere won’t even act when an entire town is "
 "destroyed. She’ll work with anyone she finds useful."
 msgstr ""
+"Na Alduinu jsem viděl studenty, kteří byli vyloučeni jen proto, že vyřkli "
+"slovo „nekromancie“. A tady Ašvíra nehne ani prstem, když je zničeno celé "
+"město. Spolupracuje s kýmkoli, koho považuje za užitečného."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:321
@@ -8581,6 +8602,9 @@ msgid ""
 "“necromancy”. And here Asheviere won’t even act when an entire town is "
 "destroyed. She’ll work with anyone she finds useful."
 msgstr ""
+"Hm. Na Alduinu jsme vyloučili studenty jen za to, že vyřkli slovo "
+"„nekromancie“. A tady Ašvíra nehne ani prstem, když je zničeno celé město. "
+"Spolupracuje s kýmkoli, koho považuje za užitečného."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:322
@@ -21432,7 +21456,7 @@ msgstr "Jeniver"
 #. [unit]: id=Dosh, type=Troll
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:676
 msgid "Dosh"
-msgstr "Dosh"
+msgstr "Doš"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:764
 msgid "We are vanquished, for I have been defeated!"
@@ -21490,6 +21514,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:776
 msgid "Send word of my fall to Sir Kaylan, Konrad! I fought my best..."
 msgstr ""
+"Vzkaž siru Kaylanovi, Konráde, že jsem padl! Já bojoval ze všech sil..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:777
 msgid ""
