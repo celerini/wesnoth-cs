@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-10 22:39+0200\n"
+"PO-Revision-Date: 2026-06-11 22:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8635,6 +8635,8 @@ msgid ""
 "Lo and behold! I stood in need of aid, and so aid has come! What brings you "
 "to Muff Malal’s peninsula, pilgrims?"
 msgstr ""
+"Světe, div se! Potřeboval jsem pomoc, a tak přišla! Co vás přivádí na "
+"poloostrov Muffa Malala, poutníci?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:348
@@ -8642,6 +8644,8 @@ msgid ""
 "I am Konrad, heir to the throne of Wesnoth, and seeking to reclaim my seat "
 "from the evil queen Asheviere! Who are you?"
 msgstr ""
+"Jmenuji se Konrád, jsem následník trůnu Wesnothu a hodlám si své místo "
+"vybojovat zpět od zlé královny Ašvíry! A kdo jsi ty?"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:352
@@ -8650,6 +8654,8 @@ msgid ""
 "the strands of fate have brought us here together, that we may unite in arms "
 "towards the vanquishing of evil!"
 msgstr ""
+"Bratr Moremirmu, putující válečník, k tvým službám. Raduj se, neboť zdá se, "
+"že nás sem svedly nitky osudu, abychom se spojili v boji proti zlu!"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:357
@@ -8657,6 +8663,8 @@ msgid ""
 "Aid me in my quest against this foul necromancer, and I shall ever-more be "
 "your loyal companion in the eternal war against the darkness!"
 msgstr ""
+"Pomoz mi v mém boji proti tomuto ohavnému nekromantovi a já ti budu navždy "
+"věrným společníkem ve věčné válce proti temnotě!"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:373
@@ -8664,11 +8672,13 @@ msgid ""
 "The Light rebukes you, foul creature of the night! In a blaze of brilliance "
 "shall you be purged!"
 msgstr ""
+"Světlo tě usvědčuje, ohavná noční stvůro! V zářivém jasu budeš očištěn!"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:388
 msgid "Curse you all! The queen promised I would be left in peace here..."
 msgstr ""
+"K čertu s vámi všemi! Královna mi slíbila, že mě tu nechají na pokoji..."
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:404
@@ -8676,6 +8686,8 @@ msgid ""
 "Ugh, forget this! I’m not wasting any more time here with you — time for my "
 "dashing escape!"
 msgstr ""
+"Uf, kašlu na to! Už tady s vámi nebudu ztrácet čas – teď dojde na můj "
+"elegantní únik!"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:422
@@ -8683,11 +8695,12 @@ msgid ""
 "Gah, where did all these piranhas come from? There’s too much rotting meat "
 "in the water!"
 msgstr ""
+"Fuj, odkud se tu vzaly všechny ty piraně? Ve vodě je moc shnilého masa!"
 
 #. [message]: speaker=Muff Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:429
 msgid "(Gurgle gurgle gurgle...)"
-msgstr ""
+msgstr "(Glo glo glo glo glo glo...)"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:444
@@ -8696,6 +8709,7 @@ msgid ""
 "The necromancer is defeated, and the countryside is safe once more! Good "
 "work, everybody."
 msgstr ""
+"Nekromant byl poražen a venkov je opět v bezpečí! Dobrá práce, všichni."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:456
@@ -8703,6 +8717,8 @@ msgid ""
 "The Light shall always find the Light, and so have I found you! Let us quest "
 "on together in opposition to the dark queen!"
 msgstr ""
+"Světlo vždy najde Světlo, a tak jsem našel i tebe! Pojďme společně bojovat "
+"proti temné královně!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:461
@@ -8711,6 +8727,8 @@ msgid ""
 "sorry that Moremirmu has perished, but at least he did not die in vain. Now "
 "we must continue onwards!"
 msgstr ""
+"Nekromant byl poražen a venkov je opět v bezpečí! Je mi líto, že Moremirmu "
+"zahynul, ale alespoň nezemřel nadarmo. Teď musíme pokračovat dál!"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:8
