@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-12 22:13+0200\n"
+"PO-Revision-Date: 2026-06-12 22:34+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5146,6 +5146,8 @@ msgid ""
 "Tip: This campaign has many secrets and special interactions. Some are "
 "hinted at in the achievements list (viewable on the Wesnoth main menu)."
 msgstr ""
+"Rada: Toto tažení skrývá mnoho tajemství a nabízí řadu zvláštních interakcí. "
+"Některé jsou naznačené v seznamu úspěchů (k nahlédnutí v hlavním menu hry)."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:701
@@ -5155,6 +5157,10 @@ msgid ""
 "eggs to major power-ups. Companion dialogue and backstories may hint as to "
 "where these events can be found."
 msgstr ""
+"Rada: Většina Konrádových volitelných společníků (Moremirmu, Haldiel atd.) "
+"má v nadhledu nebo v určitých scénářích připravené zvláštní události, od "
+"skrytých vtípků až po významná vylepšení. Rozmluvy a příběhy společníků "
+"mohou naznačovat, kde lze tyto události objevit."
 
 #. [then]
 #. [else]
