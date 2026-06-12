@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-11 22:57+0200\n"
+"PO-Revision-Date: 2026-06-12 21:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19698,7 +19698,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_Warrior_of_Light.cfg:32
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_White_Warrior.cfg:30
 msgid "sword"
-msgstr ""
+msgstr "meč"
 
 #. [attack]: type=pierce
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:31
@@ -20093,12 +20093,12 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_Warrior_of_Light.cfg:44
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_White_Warrior.cfg:42
 msgid "lightbeam"
-msgstr ""
+msgstr "paprsek světla"
 
 #. [unit_type]: id=White Warrior, race=human, gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_White_Warrior.cfg:4
 msgid "White Warrior"
-msgstr ""
+msgstr "Bílý válečník"
 
 #. [unit_type]: id=White Warrior, race=human, gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_White_Warrior.cfg:20
@@ -20108,6 +20108,9 @@ msgid ""
 "out villainy wherever it lies, delving into dark places and cleansing them "
 "of evil."
 msgstr ""
+"Ne každý bílý mág se spokojí s tím, že jen putuje po světě a léčí nemocné "
+"a zraněné. Mágové s bojovnějším založením se často vydávají na lov zločinců, "
+"ať už se skrývají kdekoli, pronikají do temných zákoutí a zbavují je zla."
 
 #. [unit_type]: id=White Warrior, race=human, gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_White_Warrior.cfg:22
@@ -20116,6 +20119,9 @@ msgid ""
 "their own wounds, such a warrior proves a potent ally against all things "
 "unnatural."
 msgstr ""
+"Vyzbrojen požehnaným mečem a soustředěním svého ohně na uzdravení vlastních "
+"ran se takový válečník stává mocným spojencem v boji proti všemu "
+"nadpřirozenému."
 
 #. [unit_type]: id=Caravan, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Caravan.cfg:5
@@ -21083,7 +21089,7 @@ msgstr ""
 #. [dummy]: id=rejuvenate
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:92
 msgid "rejuvenates"
-msgstr ""
+msgstr "omlazuje"
 
 #. [dummy]: id=rejuvenate
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:93
@@ -21091,6 +21097,9 @@ msgid ""
 "This unit will heal itself and adjacent allied units for 4 HP each turn. "
 "This ability cannot cure poison, however, only delay its effect."
 msgstr ""
+"Tato jednotka každé kolo vyléčí sebe i sousední spřátelené jednotky o 4 body "
+"zdraví. Touto schopností však nedokáže vyléčit otravu, pouze oddálí její "
+"účinek."
 
 #. [dummy]: id=smite
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:160
