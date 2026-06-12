@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-12 21:57+0200\n"
+"PO-Revision-Date: 2026-06-12 22:13+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8613,6 +8613,9 @@ msgid ""
 "skinflint o’ a poltroon, she is! Dinnae you worry son, when we git our hands "
 "on her ah’ll tear her queenly flesh t’ shreds!"
 msgstr ""
+"Jo, ta tvoje lidská královna je špinavá, vycmrndlá, strachopudná a lakomá "
+"zbabělkyně, to ti povím! Neboj se, synku, až ji dostaneme do rukou, roztrhám "
+"to její královský tělo na cucky!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:323
@@ -8621,6 +8624,9 @@ msgid ""
 "purpose, to keep all us rebels busy while she be livin’ luxury up in Weldyn. "
 "If’n not for Baldras and Relana, one o’ these dead folk could’ve been me..."
 msgstr ""
+"To je ale pořádná potvora, co? Vsadím se, že to udělala schválně, aby nás "
+"všechny povstalce zaměstnala, zatímco si ona užívá přepychu ve Weldynu. "
+"Kdyby nebylo Baldrase a Relany, mohla jsem být jednou z těch mrtvých..."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:324
@@ -8628,6 +8634,8 @@ msgid ""
 "I’ve visited this place before, to buy supplies from the fishermen... It’s "
 "rather terrible to see what’s become of it now."
 msgstr ""
+"Už jsem tu jednou byl, abych si od rybářů nakoupil zásoby... Je to docela "
+"hrozný pohled, jak to tu teď vypadá."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:344
