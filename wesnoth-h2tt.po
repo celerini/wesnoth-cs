@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-12 22:34+0200\n"
+"PO-Revision-Date: 2026-06-12 23:37+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10101,11 +10101,13 @@ msgid ""
 "Villains! You have pillaged a great treasure from the halls of my home. "
 "Return it at once, and your lives may yet be spared!"
 msgstr ""
+"Ničemové! Ukradli jste velký poklad ze síní mého domova. Okamžitě ho vraťte, "
+"a možná si tak zachráníte své životy!"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:164
 msgid "You— you’re Konrad! The false prince himself, here?!"
-msgstr ""
+msgstr "Ty... ty jsi Konrád! Ten falešný princ osobně, tady?!"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:168
@@ -10113,6 +10115,8 @@ msgid ""
 "I’m not about to surrender myself nor my property to a rebel! To arms, "
 "loyalists, and make ready to repel the invaders!"
 msgstr ""
+"Rozhodně se nevzdám, ani nevydám svůj majetek nějakému povstalci! Do zbraně, "
+"věrní, a připravte se na odražení útočníků!"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:172
@@ -10120,11 +10124,13 @@ msgid ""
 "It is war, then. Such an insult against my Aethenwood kin shall not go "
 "unpunished."
 msgstr ""
+"Tak tedy válka. Taková urážka mých příbuzných z Aethenského lesa nezůstane "
+"bez trestu."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:180
 msgid "Defeat the Master Bowman"
-msgstr ""
+msgstr "Poraz mistra lučištníka"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:214
@@ -10132,6 +10138,8 @@ msgid ""
 "Seeing all this stolen gold and broken treasures kindles a great coldness in "
 "my heart. Asheviere has much to pay for..."
 msgstr ""
+"Pohled na všechno to ukradené zlato a rozbité poklady v mém srdci probouzí "
+"veliký chlad. Ašvíra má za co platit..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:239
@@ -10139,6 +10147,8 @@ msgid ""
 "You dare use that bow against us? The Moonbows belong to the elves; you know "
 "nothing about them and have no right to lay a hand on one!"
 msgstr ""
+"Jak se opovažuješ použít ten luk proti nám? Měsíční luky patří elfům. Nic "
+"o nich nevíš a nemáš právo na jeden z nich vztáhnout ruku!"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:243
@@ -10146,11 +10156,14 @@ msgid ""
 "I know enough: I’ve trained in archery my entire life and never seen a bow "
 "to rival this one. Fighting with it is my best chance at beating you!"
 msgstr ""
+"Vím toho dost: lukostřelbu cvičím celý svůj život a ještě jsem neviděl luk, "
+"který by se tomuto vyrovnal. Bojovat s ním je moje nejlepší možnost, jak vás "
+"porazit!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:274
 msgid "One leader has been defeated, but he is not the one who holds the bow."
-msgstr ""
+msgstr "Jeden vůdce byl poražen, ale není to ten, který drží luk."
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:294
@@ -10158,6 +10171,8 @@ msgid ""
 "The rebels are too powerful! Mercy, Konrad! I’m just doing my duty to defend "
 "my country, as ordered by my sovereign, the queen!"
 msgstr ""
+"Povstalci jsou příliš silní! Slitování, Konráde! Jen plním svou povinnost "
+"a bráním svou zemi, jak mi nařídila moje panovnice, královna!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:298
@@ -10166,6 +10181,9 @@ msgid ""
 "against me or my allies. I am the true sovereign in Wesnoth, and will give "
 "you but one chance at redemption."
 msgstr ""
+"Odevzdej svou elfí zbraň a slož přísahu, že už nikdy nepozvedneš zbraň proti "
+"mně nebo mým spojencům. Já jsem pravým vládcem Wesnothu a dám ti poslední "
+"šanci na vykoupení."
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:302
@@ -10174,12 +10192,15 @@ msgid ""
 "heir, and an elf-lover besides, then I suppose our pillage does most "
 "rightfully belong to you. Here, take it, and leave the rest of us alive!"
 msgstr ""
+"Ale Ašvíra mě zabije! ... A ty asi taky. Jestli jsi opravdu ten dědic "
+"a navíc milovník elfů, pak ti ten náš lup asi právem patří. Tady, vezmi si "
+"ho a nás ostatní nech naživu!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:328
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:500
 msgid "You have gained 300 gold!"
-msgstr ""
+msgstr "Získal jsi 300 zlatých!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:351
@@ -10187,6 +10208,8 @@ msgid ""
 "As for the rest of you — begone! Return to your homes in Westin and never "
 "again trouble my people, lest the wrath of the elves fall upon you!"
 msgstr ""
+"A co se týče vás ostatních – zmizte! Vraťte se do svých domovů ve Westinu "
+"a už nikdy neobtěžujte můj lid, jinak na vás dopadne hněv elfů!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:352
@@ -10194,6 +10217,8 @@ msgid ""
 "Your master has fled — now begone, servants of the false queen! Return to "
 "your homes in Westin, and trouble the true heir no more."
 msgstr ""
+"Váš pán uprchl – a teď zmizte, služebníci falešné královny! Vraťte se do "
+"svých domovů ve Westinu a už pravého dědice neobtěžujte."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:353
@@ -10201,6 +10226,8 @@ msgid ""
 "Hah! Yeah, you’d better run! And that goes for the rest of you, too, now "
 "that your leader has fled!"
 msgstr ""
+"Ha! Jo, to bys měl radši utéct! A to platí i pro vás ostatní, když už váš "
+"vůdce utekl!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:354
@@ -10208,6 +10235,8 @@ msgid ""
 "An’ that goes for th’ rest o’ you too! Get out o’ here, an’ tell Westin we "
 "sent you!"
 msgstr ""
+"A to platí i pro vás ostatní! Vypadněte odsud a řekněte ve Westinu, že jsme "
+"vás poslali!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:355
@@ -10215,6 +10244,8 @@ msgid ""
 "And the rest of you — begone! For lo! The Light stands with Konrad, and only "
 "those of darkness dare to oppose him."
 msgstr ""
+"A vy ostatní – zmizte! Neboť hle, Světlo stojí po boku Konráda a postavit se "
+"mu opováží jen ti, kdo patří temnotě."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:356
@@ -10222,6 +10253,8 @@ msgid ""
 "An’ that goes for th’ rest o’ you too, ye horse-faced sons o’ elves! Run "
 "back to Westin afore I boil yer kneecaps inside yer skulls!"
 msgstr ""
+"A to platí i pro vás ostatní, vy syni elfů s koňskými ksichty! Utíkejte "
+"zpátky do Westinu, než vám uvařím kolena přímo v lebkách!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:358
@@ -10229,6 +10262,9 @@ msgid ""
 "Da rest of you better be leavin’ now too. Konrad good troll-friend. You don’ "
 "wanna see what troll do to you if you keep fightin’ Konrad."
 msgstr ""
+"Vy ostatní byste taky měli raděj hned zmizet. Konrád je dobrý kamarád "
+"trollů. Nechcete přece vidět, co vám troll udělá, když se s Konrádem budete "
+"dál prát."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:359
@@ -10236,6 +10272,8 @@ msgid ""
 "And that goes for the rest of you too! Return to your homes in Westin, and "
 "trouble the Aethenwood no more."
 msgstr ""
+"A to platí i pro vás ostatní! Vraťte se do svých domovů ve Westinu a už "
+"Aethenskému lesu nedělejte žádné potíže."
 
 #. [message]: speaker=Konrad
 #. Konrad is level 1, and does not have a bow attack. Once he reaches level 2 and gains a bow attack, the Moonbow will strengthen it.
@@ -10246,6 +10284,10 @@ msgid ""
 "someday wield it in battle against the dark queen. May its silver never "
 "tarnish."
 msgstr ""
+"Tím je pevnost Tahn naše, zlato z Aethenského lesa jsme získali zpět "
+"a ukořistili znovu tento Měsíční luk! Jakmile se zdokonalím v lukostřelbě, "
+"vezmu si ho za svůj a jednoho dne s ním budu bojovat proti temné královně. "
+"Kéž jeho stříbro nikdy neztratí lesk."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:376
@@ -10255,11 +10297,15 @@ msgid ""
 "Aethenwood, but for now I choose to wield it in battle against the dark "
 "queen. May its silver never tarnish."
 msgstr ""
+"Tímto je pevnost Tahn naše, zlato z Aethenwoodu získáno zpět a tento Měsíční "
+"luk znovu v našich rukou! Jakmile bude mír obnoven, tato zbraň se vrátí do "
+"Aethenského lesa, ale prozatím jsem se rozhodl ji použít v boji proti temné "
+"královně. Kéž její stříbro nikdy neztratí lesk."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:385
 msgid "Elvish Moonbow"
-msgstr ""
+msgstr "Elfí Měsíční luk"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:386
@@ -10267,6 +10313,8 @@ msgid ""
 "This magical weapon adds 3 strikes, the <i>slows</i> special, and the "
 "<i>arcane</i> special to Konrad’s bow attacks."
 msgstr ""
+"Tato kouzelná zbraň přidává ke Konrádovým útokům z luku 3 rány a zvláštnosti "
+"<i>zpomalení</i> a <i>nezemský</i>."
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:401
@@ -10275,6 +10323,9 @@ msgid ""
 "soldiers left for Westin not long ago — I’d better send a messenger and call "
 "them back to help."
 msgstr ""
+"Ten falešný princ se ukazuje být mnohem obtížnějším protivníkem, než jsem "
+"čekal. Před chvílí odešla do Westinu skupina vojáků – raději vyšlu posla "
+"a zavolám je zpět na pomoc."
 
 #. [message]: role=reinforcement
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:416
@@ -10282,6 +10333,8 @@ msgid ""
 "You called for aid, Castellan? We’ve come to fight, and the Westin militia "
 "is not far behind!"
 msgstr ""
+"Volal jste o pomoc, hradní pane? Přišli jsme bojovat a domobrana z Westinu "
+"je hned za námi!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:420
@@ -10289,6 +10342,8 @@ msgid ""
 "We’ve taken too long to sack the fort, and now more soldiers have arrived! "
 "Even if we defeat them all, we’ll suffer greatly from the delay..."
 msgstr ""
+"S vydrancováním pevnosti jsme si dali na čas a teď dorazili další vojáci! "
+"I kdybychom je všechny porazili, toto zpoždění nás bude stát mnoho..."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:8
@@ -21169,7 +21224,7 @@ msgstr ""
 #. [object]: id=moonbow
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:309
 msgid "moonbow"
-msgstr ""
+msgstr "měsíční luk"
 
 #. [dummy]: id=sandals
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:330
@@ -21568,7 +21623,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:779
 msgid "Ow!"
-msgstr ""
+msgstr "Au!"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:780
 msgid "Jotha regrets nothing..."
