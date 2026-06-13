@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-12 23:37+0200\n"
+"PO-Revision-Date: 2026-06-13 09:03+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1729,17 +1729,17 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:89
 msgid "Dulatus Hills"
-msgstr ""
+msgstr "Dulatské vrchy"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:93
 msgid "Merle"
-msgstr ""
+msgstr "Merle"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:125
 msgid "Hullo, stranger. What brings you to these forsaken parts?"
-msgstr ""
+msgstr "Ahoj, cizinče. Co tě přivádí do těchto opuštěných končin?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:129
@@ -1747,6 +1747,8 @@ msgid ""
 "I am Konrad, son of Arand and heir to Garard’s throne! I’m on a quest to "
 "depose the evil queen Asheviere!"
 msgstr ""
+"Jsem Konrád, syn Arandův a dědic Garardova trůnu! Na výpravě za sesazením "
+"zlé královny Ašvíry!"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:133
@@ -1754,6 +1756,7 @@ msgid ""
 "Here in the Dulatus, we don’ want no queen. Don’ much want no prince or king "
 "neither, though."
 msgstr ""
+"Tady v Dulatu nechceme žádnou královnu. Ale nechceme ani prince nebo krále."
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:137
@@ -1762,6 +1765,9 @@ msgid ""
 "it to pay fer his wars, an’ his bride Asheviere took the rest. Now we’ve got "
 "nothin’ but empty mines an’ dusty vaults."
 msgstr ""
+"Kdysi byly tyto kopce bohaté na zlato a žulu. Král Garard si z toho většinu "
+"vzal, aby zaplatil za své války, a zbytek sebrala jeho nevěsta Ašvíra. Teď "
+"tu máme jen prázdné doly a zaprášené sklepy."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:141
@@ -1769,6 +1775,8 @@ msgid ""
 "I’m sorry for your misfortunes, friend. Perhaps we can work together for the "
 "benefit of us both."
 msgstr ""
+"Je mi líto tvého neštěstí, příteli. Snad bychom mohli spolupracovat ku "
+"prospěchu nás obou."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:145
@@ -1778,6 +1786,10 @@ msgid ""
 "and guard our excess gold for us now, once I overthrow Asheviere and assume "
 "the throne I will be happy to help revitalize the Dulatus."
 msgstr ""
+"Máte možnost skladovat cenné věci a my máme někdy více zlata a zásob, než "
+"bychom chtěli mít s sebou na pochodu. Pokud pro nás nyní uskladníte naše "
+"přebytečné zlato a budete ho hlídat, jakmile svrhnu Ašvíru a nastoupím na "
+"trůn, rád vám pomohu Dulat oživit."
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:149
@@ -1785,6 +1797,8 @@ msgid ""
 "Hmm... I suppose we’ve got nothin’ else to do. You’re not worried we’re "
 "gonna steal it, or sell ye out to the queen?"
 msgstr ""
+"Hmm... Připouštím, že nemáme na práci nic lepšího. Nebojíš se, že vám ho "
+"ukradneme nebo prodáme královně?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:153
@@ -1793,17 +1807,20 @@ msgid ""
 "squander my earnings, but I would rather take a risk and make a friend than "
 "live my life in distrust."
 msgstr ""
+"Sám jsi řekl, že Ašvíru nemáte v lásce. Nejsem blázen, který by byl ochoten "
+"promrhat své příjmy, ale raději budu riskovat a najdu si přítele, než abych "
+"žil v nedůvěře."
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:157
 msgid ""
 "Alright, kid. It’s a deal. We’ll hang onto your extra gold, free of charge."
-msgstr ""
+msgstr "Dobře, chlapče. Platí. Tvoje přebytečné zlato tu zdarma podržíme."
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:166
 msgid "Welcome back, prince. What business have you here?"
-msgstr ""
+msgstr "Vítej zpět, princi. Co tě k nám přivádí?"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:178
@@ -1812,6 +1829,8 @@ msgid ""
 "Asheviere. I don’ want no queen. Don’ much want no prince or king neither, "
 "though."
 msgstr ""
+"Takže ty jsi ten princ, ze kterého jsou všichni tak nadšení, na cestě do "
+"boje s Ašvírou. Nechci žádnou královnu. Ale nechci ani prince nebo krále."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:183
@@ -1819,6 +1838,8 @@ msgid ""
 "Konrad, we don’t have time to stop and chat with villagers; especially not "
 "ones who scoff at the very idea of royalty. Let’s keep moving."
 msgstr ""
+"Konráde, nemáme čas zastavovat se a povídat si s vesničany, zvláště ne "
+"s těmi, kteří se vysmívají samotné myšlence na královský majestát. Jdeme dál."
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:193
@@ -1826,11 +1847,13 @@ msgid ""
 "Hullo again, Konrad! I thought you might have trouble getting back to our "
 "old hole in the Dulatus, so me an’ some of the boys set up shop here instead."
 msgstr ""
+"Ahoj znovu, Konráde! Myslel jsem si, že bys mohl mít potíže dostat se zpátky "
+"do naší staré díry v Dulatu, tak jsem začal s několika hochy podnikat tady."
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:201
 msgid "Welcome back, prince. Soon I might be calling you “king.”"
-msgstr ""
+msgstr "Vítej zpět, princi. Brzy ti možná budu říkat „králi“."
 
 #. [message]: speaker=Konrad
 #. $bm_merle_stored_gold may be between 0 and 100. $gold may be between 0 and infinity
@@ -1839,11 +1862,12 @@ msgid ""
 "I have $bm_merle_stored_gold gold stored with Merle, and $gold gold in my "
 "coffers."
 msgstr ""
+"Zlato uložené u Merla: $bm_merle_stored_gold, zlato v mých truhlách: $gold."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:224
 msgid "Deposit 10 gold"
-msgstr ""
+msgstr "Uložit 10 zlatých"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:243
@@ -1853,6 +1877,10 @@ msgid ""
 "as me, an’ these days there’s bandits in th’ countryside too. You carry "
 "around the rest o’ yer coin yerself, alright?"
 msgstr ""
+"Více než sto zlatých? Nepřipadá mi bezpečné ti to všechno u sebe držet, "
+"Konráde. Nechystám se to ukrást, ale někteří chlapci nejsou tak poctiví jako "
+"já a v dnešní době jsou na venkově i banditi. Zbytek mincí si vezmi s sebou, "
+"ano?"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:247
@@ -1861,11 +1889,16 @@ msgid ""
 "whole village into yer army. If that’s the way ye wanted to go, I think most "
 "of us’d be willing."
 msgstr ""
+"Nebo jestli opravdu chceš, myslím, že tu máš dost peněz na to, abys najal "
+"celou naši vesnici do svého vojska. Kdybys to chtěl takhle udělat, myslím, "
+"že většina z nás by byla ochotná."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:252
 msgid "Hire Merle’s village (lose all stored gold, learn to recruit Ruffians)"
 msgstr ""
+"Najmout Merlovu vesnici (přijdeš o všechno uložené zlato a naučíš se "
+"verbovat lotry)"
 
 #. [message]: speaker=Merle
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:256
@@ -1873,22 +1906,24 @@ msgid ""
 "Alright, then, we’re with you. Whether this works out for us or not, at "
 "least it’s better than sittin’ around this old town waiting to rot."
 msgstr ""
+"Tak dobře, jdeme s vámi. Ať už to s námi dopadne dobře, nebo ne, je to aspoň "
+"lepší než sedět v tomhle starém městě a hnít tu."
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:259
 msgid "Konrad can now recruit Ruffians!"
-msgstr ""
+msgstr "Konrád nyní může verbovat lotry!"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:266
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:293
 msgid "Leave"
-msgstr ""
+msgstr "Odejít"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:279
 msgid "Withdraw 10 gold"
-msgstr ""
+msgstr "Vybrat 10 zlatých"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:309
