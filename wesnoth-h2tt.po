@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-13 09:03+0200\n"
+"PO-Revision-Date: 2026-06-13 10:45+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8807,38 +8807,40 @@ msgstr "Ostrov zatracení"
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:51
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:50
 msgid "Undead"
-msgstr ""
+msgstr "Nemrtví"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:141
 msgid "Hello? Is anybody here?"
-msgstr ""
+msgstr "Haló? Je tu někdo?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:151
 msgid ""
 "I’m nearly blind in this fog, but I think I see a hovel off in the distance."
 msgstr ""
+"V té mlze se skoro všechno ztrácí, ale zdá se mi, že v dálce vidím nějakou "
+"chatrč."
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:179
 msgid "Freeze! Drop the sword, or we won’t hesitate to run ye through."
-msgstr ""
+msgstr "Ani hnout! Odhoď ten meč, jinak tě bez váhání sejmeme."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:183
 msgid "(This keeps getting worse...)"
-msgstr ""
+msgstr "(Je to čím dál horší...)"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:187
 msgid "How many of ye are there? How did she find out about us! Speak, vermin!"
-msgstr ""
+msgstr "Kolik vás tam je? Jak se o nás dozvěděla? Mluv, ty šmejde!"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:189
 msgid "This is the worst timing... an’ us fighting without Harper too..."
-msgstr ""
+msgstr "To je fakt nejhorší načasování... a navíc se musíme prát bez Harper..."
 
 #. [message]: type=Thug
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:193
@@ -8846,6 +8848,8 @@ msgid ""
 "I dunno, Delurin. They’re a mean lot, but they don’t much look like "
 "Asheviere’s. It’s been a long time since we ’ad to put down any of her goons."
 msgstr ""
+"Nevím, Delurine. Je to pěkně zlá banda, ale nevypadají moc jako od Ašvíry. "
+"Už je to dlouho, co jsme museli někoho z jejích ranařů zneškodnit."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:197
@@ -8854,17 +8858,21 @@ msgid ""
 "name is Konrad. I’m a prince, nephew of Garard, son of Arand and rightful "
 "heir to Wesnoth!"
 msgstr ""
+"Mír, přátelé! Nechci vám ublížit a nejsem žádný Ašvířin služebník! Jmenuji "
+"se Konrád. Jsem princ, synovec Gararda, syn Aranda a právoplatný dědic "
+"Wesnothu!"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:201
 msgid ""
 "Konrad? I’ve heard of Prince Konrad... You might be he, or you mightn’t."
 msgstr ""
+"Konrád? O princi Konrádovi jsem už slyšel... Možná jsi to ty, možná ne."
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:209
 msgid "You say you’re a friend, an’ that’s worth something at least."
-msgstr ""
+msgstr "Říkáš, že jsi přítel, a to má přinejmenším nějakou cenu."
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:213
@@ -8873,6 +8881,9 @@ msgid ""
 "some bestial undead on the isle. Our leader is missing, and without ’er "
 "we’re struggling to fight back."
 msgstr ""
+"Dám ti šanci, abys se osvědčil, chlapče. Na ostrově máme potíže s hodně "
+"divokými nemrtvými. Naše velitelka se pohřešuje a bez ní se nám nedaří jim "
+"vzdorovat."
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:217
@@ -8881,22 +8892,25 @@ msgid ""
 "the dead. Lead us against the corpses, prince, and we’ll see just how "
 "genuine you are. I’ll be watching."
 msgstr ""
+"Ale ten pravý Konrád by byl skvělý vojevůdce. Neměl by žádný problém porazit "
+"mrtvé. Veď nás proti mrtvolám, princi, a uvidíme, jak opravdový jsi. Budu tě "
+"sledovat."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:262
 msgid "Konrad can now recruit Thugs and Footpads!"
-msgstr ""
+msgstr "Konrád může nyní verbovat lupiče a lapky!"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:290
 msgid "Death of Delurin"
-msgstr ""
+msgstr "Delurin zemře"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:317
 msgid ""
 "Undead in th’ heart o’ town! I’m glad Baldras didn’t live to see this..."
-msgstr ""
+msgstr "Nemrtví přímo v centru města! Ještě že se toho Baldras nedožil..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:333
@@ -8904,11 +8918,13 @@ msgid ""
 "This crypt was once grand, but now all has gone to rot. There’s nothing of "
 "value here."
 msgstr ""
+"Tato hrobka bývala kdysi velkolepá, ale dnes je už všechno zchátralé. Není "
+"tu nic cenného."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:345
 msgid "This crypt is shallow and dry, and there’s 20 gold inside!"
-msgstr ""
+msgstr "Tato hrobka je mělká a suchá a uvnitř je 20 zlatých!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:362
@@ -8916,11 +8932,12 @@ msgid ""
 "This crypt is deep, and a foul stench wafts up from below. There’s something "
 "near the entrance."
 msgstr ""
+"Tahle hrobka je hluboká a zdola se line odporný zápach. U vchodu něco je."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:370
 msgid "Gah, undead!"
-msgstr ""
+msgstr "Fuj, nemrtví!"
 
 #. [message]: speaker=Delurin
 #. hint to the player that one crypt contains gold, but another contains undead
@@ -8929,6 +8946,8 @@ msgid ""
 "Watch out around those crypts, Konrad. This whole undead problem only "
 "started after our leader went down into one of them looking for treasure."
 msgstr ""
+"Dávej si pozor na ty hrobky, Konráde. Celý tenhle problém s nemrtvými začal "
+"teprve poté, co naše vůdkyně sestoupila do jedné z nich hledat poklad."
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:427
@@ -8936,6 +8955,8 @@ msgid ""
 "She’s still down in there, somewhere. But we can’t do much to help now, not "
 "till we deal with them that’s up here an’ fightings us."
 msgstr ""
+"Ještě tam někde dole je. Ale teď jí moc nepomůžeme, dokud si neporadíme "
+"s těmi, co jsou tady nahoře a útočí na nás."
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:446
