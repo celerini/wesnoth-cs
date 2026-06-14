@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-13 10:45+0200\n"
+"PO-Revision-Date: 2026-06-14 13:02+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8964,6 +8964,8 @@ msgid ""
 "Not bad, prince. Maybe you is who you says you is after all. But there’s "
 "still more of ’em out there to fight."
 msgstr ""
+"To nebylo špatné, princi. Možná jsi nakonec opravdu ten, za koho se vydáváš. "
+"Ale je jich tam ještě víc, se kterými se musíš utkat."
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:460
@@ -8971,6 +8973,8 @@ msgid ""
 "That’s the last of ’em! The Three Sisters is safe. You done well, kid — I’m "
 "sorry we threatened you."
 msgstr ""
+"To byl poslední z nich! „Tři sestry“ jsou v bezpečí. Vedl sis dobře, hochu – "
+"mrzí mě, že jsme ti vyhrožovali."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:464
@@ -8979,6 +8983,8 @@ msgid ""
 "I understand: you’ve been out here so long that you’ve forgotten what a "
 "friendly face looks like."
 msgstr ""
+"Kdyby ses pokusil své výhrůžky uskutečnit, znamenalo by to tvůj konec. Ale "
+"chápu tě: jsi tu už tak dlouho, že jsi zapomněl, jak vypadá přátelská tvář."
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:468
@@ -8987,11 +8993,15 @@ msgid ""
 "that stinker Asheviere warned us to swear fealty or die. We ain’t no friends "
 "of hers, and we’d be honored to join you on the rest of yer journey."
 msgstr ""
+"No to je pravda. Je to už skoro dvacet let, co jsme opustili své domovy, "
+"když nám ta mrcha Ašvíra pohrozila, že jí buď odpřisáhneme věrnost, nebo "
+"zemřeme. Nejsme její přátelé a bude nám ctí připojit se k vám na zbytek vaší "
+"cesty."
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:486
 msgid "Some leader you are. I’m glad Baldras didn’t live to see this..."
-msgstr ""
+msgstr "Ty jsi ale vůdce. Ještě že se toho Baldras nedožil..."
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:500
@@ -8999,6 +9009,8 @@ msgid ""
 "Hurry it up, “Prince Konrad”! There’s friends of mine in trouble, and we "
 "can’t do naught about it until these undead are finished!"
 msgstr ""
+"Zrychli to, „princi Konráde“! Moji přátelé jsou v nebezpečí a my s tím "
+"nemůžeme nic udělat, dokud se nezbavíme těch nemrtvých!"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/scenarios/08a_Isle_of_the_Damned_part1.cfg:507
@@ -9006,6 +9018,8 @@ msgid ""
 "This is taking too long. ’s what I get for trusting a “prince”; we should’ve "
 "dealt with these dead by ourselves from the beginning."
 msgstr ""
+"Tohle trvá moc dlouho. To mám za to, že jsem věřil „princovi“. Měli jsme se "
+"o ty mrtvé postarat sami už od začátku."
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:96
