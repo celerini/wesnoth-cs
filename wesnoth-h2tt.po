@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-14 13:02+0200\n"
+"PO-Revision-Date: 2026-06-14 16:13+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20684,6 +20684,9 @@ msgid ""
 "I’m grateful for your commitment, Elrian. Few are accepted into Alduin, and "
 "even fewer choose to leave it. You gave up everything to fight alongside me."
 msgstr ""
+"Jsem ti vděčný za tvou oddanost, Elriane. Jen málokdo je přijat do Alduinu "
+"a ještě méně lidí se rozhodne jej opustit. Vzdal jsi se všeho, abys bojoval "
+"po mém boku."
 
 #. [message]: speaker=Elrian
 #. this is a hint that there's a special event if Konrad brings Elrian to Tath
@@ -20693,6 +20696,10 @@ msgid ""
 "grandparents are “new money”; wealthy merchants from the east side of Tath. "
 "(As an aside — we should visit them if we’re ever in the area.)"
 msgstr ""
+"Upřímně řečeno, studium kouzel bylo spíš snem mé rodiny než mým. Moji "
+"prarodiče jsou „zbohatlíci“ – bohatí obchodníci z východní části Tathu. (Jen "
+"tak mimochodem – měli bychom je navštívit, pokud se někdy ocitneme v té "
+"oblasti.)"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:363
@@ -20701,6 +20708,9 @@ msgid ""
 "grandparents are “new money”; wealthy merchants from the east side of Tath. "
 "You’ve already been there and met them."
 msgstr ""
+"Upřímně řečeno, studium kouzel bylo spíš snem mé rodiny než mým. Moji "
+"prarodiče jsou „zbohatlíci“ – bohatí obchodníci z východní části Tathu. Už "
+"jsi tam byl a setkal ses s nimi."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:369
@@ -20709,6 +20719,9 @@ msgid ""
 "connections and making inroads with Wesnoth’s more established elites. I "
 "suppose that hasn’t really worked out, seeing as I’m now a rebel and all."
 msgstr ""
+"Poslali svého nejstaršího vnuka – tedy mě – do Alduinu v naději, že navážu "
+"vztahy a proniknu do kruhů uznávaného výkvětu Wesnothu. Myslím, že to moc "
+"nevyšlo, když teď jsem povstalec a tak vůbec."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:386
