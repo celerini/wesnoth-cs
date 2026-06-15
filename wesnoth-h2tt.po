@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-14 16:13+0200\n"
+"PO-Revision-Date: 2026-06-15 23:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1364,6 +1364,9 @@ msgid ""
 "of all places? There must be safer hideouts than foggy islands crawling with "
 "undead!"
 msgstr ""
+"Těší mě, že jsem ti mohl pomoci zajistit bezpečný domov, ale... proč sis "
+"vybral zrovna tohle místo? Musí existovat bezpečnější úkryty než zamlžené "
+"ostrovy, kde se to hemží nemrtvými!"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1131
@@ -1371,6 +1374,8 @@ msgid ""
 "Naw, weren’t always like this. The Three Sisters’ve always been good to us — "
 "tough, but fair. These undead be a new thing."
 msgstr ""
+"Ne, nebyly takové vždycky. Tři sestry k nám byly vždy laskavé – drsné, ale "
+"spravedlivé. Tihle nemrtví jsou něco nového."
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1135
@@ -1379,6 +1384,9 @@ msgid ""
 "down, hunting for weapons, treasure, magic and what have ye. But instead of "
 "her coming back out, all we got was hordes of the dead."
 msgstr ""
+"Na západní straně ostrova jsou staré hrobky, vidíš? Naše vůdkyně se tam "
+"vydala pátrat po zbraních, pokladech, kouzlech a kdovíčem ještě. Ale místo "
+"toho, aby se vrátila, přišly jen hordy mrtvých."
 
 #. [message]: speaker=Delurin
 #. "If’n" here just means "If"
@@ -1387,6 +1395,8 @@ msgid ""
 "Her and some of her girls are still down there, trapped — or dead. If’n you "
 "can help, we’d all be in yer debt."
 msgstr ""
+"Ona a některé z jejích dívek jsou stále tam dole, uvězněné – nebo mrtvé. "
+"Pokud nám můžete pomoci, budeme vám všichni zavázáni."
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1142
@@ -1394,6 +1404,8 @@ msgid ""
 "If not... well, there’s our port. I’ve got some ships to take ye back to the "
 "mainland. We owe you that much."
 msgstr ""
+"Pokud ne... tak tady je náš přístav. Mám několik lodí, které vás odvezou "
+"zpátky na pevninu. Tolik vám dlužíme."
 
 #. [scenario]: id=08b_Isle_of_the_Damned_part2
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1156
@@ -7137,8 +7149,8 @@ msgid ""
 "I’m glad to be here, but sorry we couldn’t come sooner. For how long must we "
 "defend before your reinforcements arrive?"
 msgstr ""
-"Jsem rád, že jsem tady, ale mrzí mě, že jsme nemohli přijet dřív. Jak dlouho "
-"se musíme bránit, než dorazí tvé posily?"
+"Těší mě, že jsem tady, ale mrzí, že jsme nemohli přijet dřív. Jak dlouho se "
+"musíme bránit, než dorazí tvé posily?"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/Heir_To_The_Throne/scenarios/03_Blackwater_Port.cfg:286
