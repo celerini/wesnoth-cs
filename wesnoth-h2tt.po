@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-16 21:50+0200\n"
+"PO-Revision-Date: 2026-06-16 22:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19769,7 +19769,7 @@ msgstr ""
 #. [terrain_type]: id=web
 #: data/campaigns/Heir_To_The_Throne/terrain.cfg:16
 msgid "Spiderweb"
-msgstr ""
+msgstr "pavučina"
 
 #. [terrain_type]: id=dummy_obstacle
 #: data/campaigns/Heir_To_The_Throne/terrain.cfg:27
