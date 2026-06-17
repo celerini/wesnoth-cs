@@ -1735,7 +1735,7 @@ msgid ""
 "body, they quickly realize that they have been blessed with an unusually "
 "strong bond with fire."
 msgstr ""
-"Někteří trollové se rodí menší ostatní. Ačkoli jsou tělesně slabí, brzy si "
+"Někteří trollové se rodí menší než ostatní. Ačkoli jsou tělesně slabí, brzy si "
 "uvědomí, že jsou obdařeni neobvykle silným spojením s ohněm."
 
 #. [attack]: type=fire
@@ -1751,7 +1751,7 @@ msgstr "Kamenný golem"
 #. [unit_type]: id=Strong Troll Whelp, race=troll
 #: data/campaigns/Dusk_of_Dawn/units/Strong_Whelp.cfg:5
 msgid "Strong Troll Whelp"
-msgstr "Silný trollí mládě"
+msgstr "Silné trollí mládě"
 
 #. [unit_type]: id=Strong Troll Whelp, race=troll
 #: data/campaigns/Dusk_of_Dawn/units/Strong_Whelp.cfg:18
@@ -1759,7 +1759,7 @@ msgid ""
 "Some Troll Whelps are stronger and larger than others. They are usually "
 "found leading newly born troll tribes."
 msgstr ""
-"Někteřá trollí mláďata jsou silnější a větší než ostatní. Obvykle stojí v "
+"Některá trollí mláďata jsou silnější a větší než ostatní. Obvykle stojí v "
 "čele kmenů nově narozených trollů."
 
 #. [unit_type]: id=Wild Saurian, race=lizard, gender=female
@@ -1790,21 +1790,21 @@ msgstr "Ougl...!"
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:23
 msgid "Should $unit.name| drink the potion?"
-msgstr "Měl by $unit.name| vypít lektvar?"
+msgstr "Má $unit.name| vypít lektvar?"
 
 #. [message]: speaker=$unit.id|
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:24
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:47
 msgid "Potion grants steadfast ability and 20% resistance to impact."
-msgstr "Lektvar poskytuje schopnost vytrvalosti a 20% odolnost proti úderu."
+msgstr "Lektvar poskytuje schopnost vytrvalosti a 20% odolnost proti útoku úderem."
 
 #. [option]
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:26
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:102
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:173
 msgid "Yes"
-msgstr "Yes"
+msgstr "Ano"
 
 #. [object]: id={ID}
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:30
@@ -1819,14 +1819,14 @@ msgstr "Lektvar neznámého původu."
 #. [message]: speaker=$unit.id|
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:48
 msgid "female^Potion grants steadfast ability and 20% resistance to impact."
-msgstr "Lektvar jí dal schopnost výdrž a 20% odolnost proti útoku úderem."
+msgstr "Lektvar jí dal schopnost výdrže a 20% odolnost proti útoku úderem."
 
 #. [option]
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:71
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:142
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:214
 msgid "No"
-msgstr "No"
+msgstr "Ne"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/utils/items.cfg:99
