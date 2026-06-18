@@ -1453,7 +1453,7 @@ msgstr "OUGL... NE NÁSLEDOVAT TEBE!!!"
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:556
 msgid "<b>Arg-hah!</b> (The beast is trying to fight! Archers, to me!)"
-msgstr "<b>Arg-hah!</b> (Ta bestie se snaží bránit! Lučištníci, ke mě!)"
+msgstr "<b>Arg-hah!</b> (Ta bestie se snaží bránit! Lučištníci, ke mně!)"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:643
