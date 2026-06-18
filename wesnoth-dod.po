@@ -1468,7 +1468,7 @@ msgid ""
 "space remained in his heart."
 msgstr ""
 "Ougl padl na kolena. Odhodlaný pohled trolla vyhasl, stejně jako jeho vůle "
-"bojovat. Jeho hněv a odhodlání se vytratily do prázdnoty uvnitř jeho srdce."
+"bojovat. Jeho hněv a životní síla se vytratily do prázdnoty uvnitř jeho srdce."
 
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:916
