@@ -1476,7 +1476,7 @@ msgid ""
 "<b>Arg-hah!</b> (You have no chance to win against me. Do you understand? "
 "Ha, ha, ha...!)"
 msgstr ""
-"<b>Arg-hah!</b> (Proti mě nemůžeš vyhrát. Rozumíš tomu? Ha, ha, ha...!)"
+"<b>Arg-hah!</b> (Proti mně nemůžeš vyhrát. Rozumíš tomu? Ha, ha, ha...!)"
 
 #. [message]: speaker=AR
 #: data/campaigns/Dusk_of_Dawn/scenarios/04_A_Beautiful_World.cfg:923
