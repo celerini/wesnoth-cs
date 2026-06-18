@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-16 22:23+0200\n"
+"PO-Revision-Date: 2026-06-18 23:21+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9037,7 +9037,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:96
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:33
 msgid "Beasts"
-msgstr ""
+msgstr "Zvěř"
 
 #. [scenario]: id=08b_Isle_of_the_Damned_part2
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:106
@@ -9053,7 +9053,7 @@ msgstr "60 zlatých"
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:181
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:197
 msgid "Midnight Queen"
-msgstr ""
+msgstr "Půlnoční královna"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:280
@@ -9062,6 +9062,8 @@ msgid ""
 "must be down here somewhere... and the outlaw leaders, if they’re still "
 "alive."
 msgstr ""
+"A jsme tu: u vchodu do ostrovních katakomb. Zdroj nemrtvých musí být někde "
+"tady dole... a také vůdci psanců, pokud ještě žijí."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:284
@@ -9069,11 +9071,13 @@ msgid ""
 "If Delurin’s guess is correct, this place goes on for miles. We may have to "
 "split up if we want to search the whole thing in decent time."
 msgstr ""
+"Pokud má Delurin pravdu, tyhle prostory se táhnou na míle daleko. Možná se "
+"budeme muset rozdělit, pokud to chceme celé prohledat v rozumném čase."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:292
 msgid "Find and destroy the source of the undead"
-msgstr ""
+msgstr "Najdi a znič zdroj nemrtvých"
 
 #. [message]: speaker=Konrad
 #. saying "500 years" is important, as the vampire lady says it takes her 500 years to regenerate after being destroyed. 500 years ago is when Haldric arrived and destroyed her the first time
