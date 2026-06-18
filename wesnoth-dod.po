@@ -1643,7 +1643,7 @@ msgid ""
 "raven, birds that have been great allies of the dwarves since time "
 "immemorial."
 msgstr ""
-"Tento amulet vyzařuje auru síly. Je na něm vyryta hlava havrana – ptáka, "
+"Tento amulet vyzařuje auru síly. Je na něm vyryta hlava krkavce – ptáka, "
 "který je od nepaměti velkým spojencem trpaslíků."
 
 #. [message]: speaker=narrator
