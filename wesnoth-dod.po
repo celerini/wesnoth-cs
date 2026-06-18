@@ -1721,7 +1721,7 @@ msgstr "Ale to jsou jen povídačky. Že jo?"
 #: data/campaigns/Dusk_of_Dawn/units/Stone_Golem.cfg:46
 #: data/campaigns/Dusk_of_Dawn/units/Strong_Whelp.cfg:25
 msgid "fist"
-msgstr "první"
+msgstr "pěst"
 
 #. [unit_type]: id=Troll Initiate, race=troll
 #: data/campaigns/Dusk_of_Dawn/units/Initiate.cfg:5
