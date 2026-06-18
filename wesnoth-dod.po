@@ -1493,7 +1493,7 @@ msgid ""
 "None of the Golden Flame Tribe were as bright or as bold as Ougl had been. "
 "They did not understand the danger of the orcs."
 msgstr ""
-"Nikdo z Kmene Zlatého plamene nebyl odhodlaný jako Ougl. Nerozuměli "
+"Nikdo z kmene Zlatého plamene nebyl odhodlaný jako Ougl. Nerozuměli "
 "nebezpečí, jaké skřeti představovali."
 
 #. [message]: speaker=narrator
