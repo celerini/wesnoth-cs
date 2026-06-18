@@ -1663,7 +1663,7 @@ msgstr "Díky umění run se prach opět začal shlukovat..."
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:790
 msgid "...and a new golem loyal to Ougl is born."
-msgstr "...a zrodil se nový golem věrný Ouglovi."
+msgstr "... a zrodil se nový golem věrný Ouglovi."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Dusk_of_Dawn/scenarios/Secret.cfg:903
