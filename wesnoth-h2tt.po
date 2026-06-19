@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-19 21:24+0200\n"
+"PO-Revision-Date: 2026-06-19 23:21+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9189,17 +9189,19 @@ msgid ""
 "Welcome, strangers, to the boudoir of the midnight queen. It’s been so many "
 "years since I’ve had such handsome visitors."
 msgstr ""
+"Vítejte, cizinci, v budoáru půlnoční královny. Už je to tolik let od doby, "
+"kdy jsem tu měla tak pohledné návštěvníky."
 
 #. [message]: speaker=Vampire
 #. exactly what she says to Haldric in TRoW
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:415
 msgid "You will be made to serve... Come admire me. Feel my love."
-msgstr ""
+msgstr "Budete nuceni mi sloužit... Pojďte mě obdivovat. Pocítit mou lásku."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:420
 msgid "She’s... She’s beautiful..."
-msgstr ""
+msgstr "Je... Je nádherná..."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:425
@@ -9207,6 +9209,7 @@ msgid ""
 "Knock it off, lady! Don’t any of you listen to her, she’s nothing but an "
 "illusion!"
 msgstr ""
+"Nechte toho, paní! Nikdo z vás ji neposlouchejte, není nic jiného než klam!"
 
 #. [message]: speaker=Vampire
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:441
@@ -9214,11 +9217,13 @@ msgid ""
 "Insolent man-lings! I was immortal queen of this isle since before your kind "
 "had learned to walk! You will learn to show proper respect!"
 msgstr ""
+"Drzí človíčci! Byla jsem nesmrtelnou královnou tohoto ostrova ještě dříve, "
+"než se váš druh naučil chodit! Teď se naučíte projevovat náležitou úctu!"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:457
 msgid "Hey. I’m Harper. Aren’t you a sight for sore eyes."
-msgstr ""
+msgstr "Ahoj. Já jsem Harper. To je ale radost tě vidět."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:461
@@ -9226,6 +9231,8 @@ msgid ""
 "You’re the leader of the outlaws? Err, we came to rescue you, and to put an "
 "end to the undead threat on the isle. What happened in this place?!"
 msgstr ""
+"Ty jsi vůdkyně těch psanců? Ehm, přišli jsme tě zachránit a skoncovat "
+"s hrozbou nemrtvých na ostrově. Co se tady vlastně stalo?!"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:465
@@ -9234,6 +9241,9 @@ msgid ""
 "treasure, anythin’ that could help really make a difference ’gainst that "
 "stinker Queen Asheviere. Really thought I’d found somethin’ too."
 msgstr ""
+"No... před pár týdny jsem přivedla pár lovců sem dolů, abychom hledali "
+"kouzla, poklady, prostě cokoli, co by mohlo skutečně pomoct v boji proti té "
+"šmejdské královně Ašvíře. To jsem se ale krutě přepočítala."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:469
@@ -9242,6 +9252,9 @@ msgid ""
 "Queen”, an’ now I’m the last one of us who came down here what’s left "
 "alive..."
 msgstr ""
+"Místo toho moje veškerá tvrdá práce vedla jen k tomu, že lidi přišli "
+"o život. Probudila jsem tu „Půlnoční královnu“ a teď jsem poslední z nás, "
+"kdo přišel sem dolů a zůstal naživu..."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:473
@@ -9249,6 +9262,8 @@ msgid ""
 "But there be no time for talk. C’mon, we gots to finish her off afore she "
 "gets her glamour put back on!"
 msgstr ""
+"Ale na povídání není čas. Pojď, musíme ji dorazit, než si zas oblékne svůj "
+"půvab!"
 
 #. [message]: speaker=Vampire
 #. This is an elven druid from long, long ago, now turned to a lich. "Lilanas" is her name for "The Three Sisters"
@@ -20412,12 +20427,12 @@ msgstr ""
 #. [unit_type]: id=Vampire Lady, gender=female, race=undead, description=
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Vampire_Lady.cfg:4
 msgid "female^Vampire Lady"
-msgstr ""
+msgstr "Upíří dáma"
 
 #. [attack]: type=blade
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Vampire_Lady.cfg:27
 msgid "blood kiss"
-msgstr ""
+msgstr "krvavý polibek"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/utils/bigmap.cfg:22
