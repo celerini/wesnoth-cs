@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-18 23:21+0200\n"
+"PO-Revision-Date: 2026-06-19 21:19+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3563,6 +3563,17 @@ msgid ""
 "will disable all achievements (except for <i>“Asleep\n"
 "at the Wheel”</i>). Are you sure?"
 msgstr ""
+"Proplutí tímto vírem překroutí skutečnost,\n"
+"což Konrádovi umožní hrát neomezený počet scénářů\n"
+"a vyřadí časově omezené události, které ho nutí pokračovat dál.\n"
+"\n"
+"Za každý scénář, který odehraješ nad rámec běžného počtu, \n"
+"získá Ašvíra v posledním scénáři přídavek k příjmu ve výši +"
+"$s50_extra_income_per_scenario.\n"
+"\n"
+"Použití víru pravděpodobně není vyvážené\n"
+"a znemožní všechny úspěchy (kromě <i>„Spánku za pochodu“</i>).\n"
+"Opravdu to chceš udělat?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1522
@@ -3570,11 +3581,13 @@ msgid ""
 "There is a strange whirlpool here, clearly magical in nature... I wonder "
 "what would happen if we allowed ourselves to be pulled in?"
 msgstr ""
+"Je tu podivný vír, který má zjevně kouzelný původ... Zajímalo by mě, co by "
+"se stalo, kdybychom se nechali vtáhnout dovnitř?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1543
 msgid "Oh... my head! What just happened?"
-msgstr ""
+msgstr "Ach... moje hlava! Co se to právě stalo?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1550
