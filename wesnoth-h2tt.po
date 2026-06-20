@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-20 08:35+0200\n"
+"PO-Revision-Date: 2026-06-20 09:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9188,6 +9188,9 @@ msgid ""
 "could not have cast the spells needed to raise his fellows. There must be a "
 "necromancer or lich somewhere else within these caverns."
 msgstr ""
+"Revenant! Tahle věc je zdatný bojovník, ale taková bezduchá bytost by "
+"nemohla seslat kouzla potřebná k oživení svých druhů. Někde jinde v těchto "
+"jeskyních musí být nekromant nebo lich."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:376
