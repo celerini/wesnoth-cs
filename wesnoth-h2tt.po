@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-20 07:38+0200\n"
+"PO-Revision-Date: 2026-06-20 08:27+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9177,6 +9177,9 @@ msgid ""
 "of these creatures. There’s certainly no undead anywhere inside their lair; "
 "perhaps if we keep our distance they will leave us alone."
 msgstr ""
+"Hnízdo obřích pavouků! Slyšel jsem strašlivé příběhy o tom, jak hrozné "
+"nebezpečí tito tvorové představují. Uvnitř jejich doupěte určitě nejsou "
+"žádní nemrtví. Možná, když si budeme držet odstup, nechají nás na pokoji."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:368
