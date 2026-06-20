@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-20 08:27+0200\n"
+"PO-Revision-Date: 2026-06-20 08:35+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20794,6 +20794,9 @@ msgid ""
 "a shame he decided to side with Asheviere instead of joining us as you did, "
 "Elrian."
 msgstr ""
+"Ten „rektor Seimus“, s nímž jsme bojovali na Alduinu, působil jako mocný "
+"mág. Je škoda, že se rozhodl přidat na stranu Ašvíry, místo aby se k nám "
+"připojil tak jako ty, Elriane."
 
 #. [message]: speaker=Elrian
 #. this is a hint that Konrad can recruit Seimus if he brings Delfador to speak with him. That can't happen in this playthrough anymore; only on a future playthrough.
@@ -20803,6 +20806,9 @@ msgid ""
 "only way Alduin can survive is by bending the knee. It would probably take a "
 "talking-to from Delfador himself to convince him otherwise..."
 msgstr ""
+"Myslím, že Seimus je v hloubi duše dobrý člověk. Jenže se sám přesvědčil, že "
+"Alduin může přežít jedině tím, že se podřídí. K tomu, aby změnil názor, by "
+"asi bylo potřeba, aby si s ním promluvil sám Delfador..."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:407
