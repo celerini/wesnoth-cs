@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-19 23:21+0200\n"
+"PO-Revision-Date: 2026-06-20 07:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9100,6 +9100,9 @@ msgid ""
 "look dwarvish, but it’s far too old to have been tunneled by men. Their— "
 "err, our kind has barely been on the Great Continent for 500 years!"
 msgstr ""
+"Zajímalo by mě, kdo tyhle prostory zbudoval a k jakému účelu? Ta práce "
+"nevypadá jako trpasličí, ale je to příliš staré na to, aby to vykopali lidé. "
+"Jejich... ehm, náš druh je na Velkém kontinentu teprve necelých 500 let!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:315
@@ -9107,6 +9110,9 @@ msgid ""
 "Aye, ain’t no dwarf-tunnels, that’s for sure. Jus’ look at them ugly, lumpy "
 "walls! Whoever made this place weren’t no troll, neither."
 msgstr ""
+"Jo, trpasličí štoly to rozhodně nejsou, to je jasný. Stačí se podívat na ty "
+"ošklivý, hrbolatý stěny! Ale ať už to tu spáchal kdokoli, rozhodně to nebyl "
+"ani troll."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:316
@@ -9114,6 +9120,8 @@ msgid ""
 "I have heard stories of this place; the isle of Lilanas. Elves once lived "
 "here. But that was long ago, before even my time."
 msgstr ""
+"Slyšel jsem příběhy o tomto místě – o ostrově Lilan. Kdysi tu žili elfové. "
+"Ale to už je dávno, ještě předtím, než jsem se narodil."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:317
@@ -9122,6 +9130,8 @@ msgid ""
 "I detect powerful magic down in these tunnels, Konrad, very old magic. But I "
 "can’t speak as to its origin."
 msgstr ""
+"V těchto tunelech cítím silné kouzlo, Konráde, velmi staré kouzlo. Ale "
+"o jeho původu nic říct nedokážu."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:319
@@ -9129,6 +9139,8 @@ msgid ""
 "There is a dark presence here, Konrad, foul; something that has rejected the "
 "Light and hides deep within this place. Beyond that I cannot say."
 msgstr ""
+"Je tu nějaká temná, zlověstná přítomnost, Konráde. Něco, co zavrhlo Světlo "
+"a skrývá se hluboko v těchto prostorách. Více k tomu nemohu říci."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:320
@@ -9137,6 +9149,9 @@ msgid ""
 "these caves are certainly natural. Someone found the caves and took up, err, "
 "residence?"
 msgstr ""
+"No, ehm... ta architektura je... hm, stará. Mořských? Možná elfí? Ale tyhle "
+"jeskyně jsou rozhodně přírodního původu. Někdo je objevil a, ehm, zabydlel "
+"se tu?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:321
@@ -9144,6 +9159,8 @@ msgid ""
 "Dis not a troll hole, Konrad. But not a dwarf hole neither. An’ Dosh dunno "
 "who else be livin’ in caves."
 msgstr ""
+"Tohle není trollí doupě, Konráde. Ale ani trpasličí. A Doš netuší, kdo další "
+"ještě žije v jeskyních."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:341
