@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-20 09:00+0200\n"
+"PO-Revision-Date: 2026-06-21 08:34+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9198,6 +9198,8 @@ msgid ""
 "Well done, everyone! We’ve beaten one group of undead, but the source behind "
 "this dark magic is still at large."
 msgstr ""
+"Skvělá práce, všichni! Porazili jsme jednu skupinu nemrtvých, ale zdroj "
+"těchto temných kouzel stále není zajištěn."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:389
