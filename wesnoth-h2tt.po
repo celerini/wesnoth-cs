@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-21 08:34+0200\n"
+"PO-Revision-Date: 2026-06-22 23:02+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9168,6 +9168,8 @@ msgid ""
 "I smell clean fresh air, and spray laced with salt! Nearby lies the ocean; "
 "we will find no undead this way."
 msgstr ""
+"Cítím čistý čerstvý vzduch a vůni mořské soli! Nedaleko je oceán. Tímhle "
+"směrem na žádné nemrtvé nenarazíme."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #. tell the player that they don't need to fight the giant spiders to win
@@ -9207,6 +9209,7 @@ msgid ""
 "That’s the last of the spider! A difficult fight, but we’ve gained valuable "
 "experience."
 msgstr ""
+"To byl poslední z pavouků! Těžký souboj, ale získali jsme cenné zkušenosti."
 
 #. [message]: speaker=Vampire
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:408
@@ -9298,6 +9301,8 @@ msgid ""
 "Lilanas; my spirit is the isle’s wind, my bones its earth, my blood its "
 "beasts!"
 msgstr ""
+"Blázni! Vy jepice mě nemůžete zabít! Jsem nejmocnější z druidek Lilan. Můj "
+"duch je větrem tohoto ostrova, mé kosti jeho zemí, má krev zvěří!"
 
 #. [message]: speaker=Vampire
 #. it's been a little over 500 years since Haldric arrived, fought, and killed her. Now she's back - and killed again for another 500 years
@@ -9306,16 +9311,18 @@ msgid ""
 "You may destroy me now, but in 500 years I shall return! So long as the isle "
 "stands... I shall always return..."
 msgstr ""
+"Můžete mě teď zničit, ale za 500 let se vrátím! Dokud tu bude tento "
+"ostrov... vždy se vrátím..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:503
 msgid "Death to tyrants, now and forevermore!"
-msgstr ""
+msgstr "Smrt tyranům, teď i na věčné časy!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:507
 msgid "... do you think she meant what she said about returning in 500 years?"
-msgstr ""
+msgstr "... myslíš, že to mínila vážně, když říkala, že se vrátí za 500 let?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:510
@@ -9324,6 +9331,9 @@ msgid ""
 "ninnyhammerin’ tripe since th’ last time my pa’ got too deep in ’is drink. "
 "We got nothin’ to worry about."
 msgstr ""
+"Jasně, bodejť, až budou trollové lítat! Takovou hromadu nesmyslů jsem "
+"neslyšel od tý doby, co se můj táta naposled pořádně opil. Nemáme se čeho "
+"bát."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:511
@@ -9332,6 +9342,8 @@ msgid ""
 "Whatever powers she had in life or undeath, there’s no magic that can revive "
 "the dead. I don’t think we have anything to worry about."
 msgstr ""
+"Ať už měla za života nebo jako nemrtvá jakékoli schopnosti, neexistuje žádné "
+"kouzlo, které by dokázalo oživit mrtvé. Myslím, že se nemáme čeho bát."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:513
@@ -9339,6 +9351,8 @@ msgid ""
 "An accursed curse by an accursed creature, Konrad! Even in death, she still "
 "aims to beguile us with her foul lies."
 msgstr ""
+"Zpropadená kletba od prokleté bytosti, Konráde! I po smrti se nás stále "
+"snaží oklamat svými ohavnými lžemi."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:517
@@ -9346,6 +9360,8 @@ msgid ""
 "C’mon, let’s be gettin’ back to the village. And on the way, you boys better "
 "be tellin’ me just who exactly you all are."
 msgstr ""
+"No tak, vraťme se zpátky do vesnice. A cestou mi radši řekněte, kdo vlastně "
+"všichni jste."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:534
@@ -9354,6 +9370,9 @@ msgid ""
 "minute; if we cannot defeat the leader of the undead, we shall soon be "
 "forced to return to the surface."
 msgstr ""
+"Nesmíme se tady dole zdržovat příliš dlouho. Vzduch je zkažený a každou "
+"minutou se zhoršuje. Pokud se nám nepodaří porazit vůdce nemrtvých, brzy "
+"budeme nuceni vrátit se na povrch."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/08b_Isle_of_the_Damned_part2.cfg:541
@@ -9361,6 +9380,8 @@ msgid ""
 "I can barely continue to breathe in air so foul, much less fight. I am sorry "
 "to flee, but if we stay here any longer we shall surely suffocate."
 msgstr ""
+"V tak odporném vzduchu sotva dokážu dýchat, natož bojovat. Je mi líto, že "
+"utíkáme, ale pokud tu zůstaneme déle, určitě se udusíme."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:16
@@ -20910,6 +20931,8 @@ msgid ""
 "Accede not your souls to the unclean, my fellow warriors! We shall cleanse "
 "these dead in holy fire!"
 msgstr ""
+"Ať vaše duše nepodlehnou nečistým, moji spolubojovníci! Tyto mrtvé očistíme "
+"svatým ohněm!"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:530
