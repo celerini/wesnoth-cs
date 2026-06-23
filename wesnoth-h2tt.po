@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-05-19 02:15 UTC\n"
-"PO-Revision-Date: 2026-06-22 23:02+0200\n"
+"PO-Revision-Date: 2026-06-23 23:28+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1419,11 +1419,15 @@ msgid ""
 "Our leader an’ some o’ her hunters are still down there underground, trapped "
 "— or dead. If’n you can help, we’d all be in yer debt."
 msgstr ""
+"Naše vůdkyně a někteří z jejích lovců jsou stále dole v podzemí, uvězněni – "
+"nebo mrtví. Pokud nám můžete pomoci, budeme vám všichni zavázáni."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1192
 msgid "... a prince? No kiddin’. Never thought I’d be friends with blue blood."
 msgstr ""
+"... princ? Nekecej. Nikdy jsem si nemyslela, že se budu přátelit s modrou "
+"krví."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1196
@@ -1431,10 +1435,12 @@ msgid ""
 "Well. Listen, if you’re fightin’ Asheviere, then me an’ my hunters are with "
 "you; we want to help. It’s about time someone did somethin’ ’bout her."
 msgstr ""
+"Dobře. Poslyš, jestli bojuješ s Ašvírou, tak já a moji lovci jsme s tebou, "
+"chceme ti pomoct. Je načase, aby s ní někdo něco udělal."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1198
 msgid "Konrad can now recruit Poachers!"
-msgstr ""
+msgstr "Konrád nyní může verbovat pytláky!"
 
 #. [message]: speaker=Delurin
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1205
@@ -1443,6 +1449,8 @@ msgid ""
 "in your debt, now an’ ferever. Go an’ give Asheviere the thrashing she "
 "deserves."
 msgstr ""
+"Ještě jednou díky, Konráde, jak moc jsi nám pomohl! Tři sestry jsou tvými "
+"dlužníky, teď a navždycky. Jdi a dej Ašvíře výprask, který si zaslouží."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1215
