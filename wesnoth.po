@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-22 22:16-0500\n"
-"PO-Revision-Date: 2026-05-26 21:32+0200\n"
+"PO-Revision-Date: 2026-06-24 23:17+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1729,28 +1729,28 @@ msgid "No gold carried over to the next scenario."
 msgstr "Do dalšího scénáře není přeneseno žádné zlato."
 
 #: data/core/macros/deprecated-utils.cfg:63
-#, fuzzy
-#| msgid "No gold carried over to the next scenario."
 msgid ""
 "\n"
 "100% of finishing gold carried over to the next scenario."
-msgstr "Do dalšího scénáře není přeneseno žádné zlato."
+msgstr ""
+"\n"
+"100 % získaného zlata přeneseno do dalšího scénáře."
 
 #: data/core/macros/deprecated-utils.cfg:68
-#, fuzzy
-#| msgid "No gold carried over to the next scenario."
 msgid ""
 "\n"
 "40% of finishing gold carried over to the next scenario."
-msgstr "Do dalšího scénáře není přeneseno žádné zlato."
+msgstr ""
+"\n"
+"40 % získaného zlata přeneseno do dalšího scénáře."
 
 #: data/core/macros/deprecated-utils.cfg:73
-#, fuzzy
-#| msgid "No gold carried over to the next scenario."
 msgid ""
 "\n"
 "20% of finishing gold carried over to the next scenario."
-msgstr "Do dalšího scénáře není přeneseno žádné zlato."
+msgstr ""
+"\n"
+"20 % získaného zlata přeneseno do dalšího scénáře."
 
 #. [chance_to_hit]: id=deflect
 #: data/core/macros/deprecated-utils.cfg:284
