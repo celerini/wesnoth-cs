@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-05-18 21:15-0500\n"
+"POT-Creation-Date: 2026-06-22 22:16-0500\n"
 "PO-Revision-Date: 2026-05-26 21:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -286,7 +286,7 @@ msgid "poisoned"
 msgstr "otrávený"
 
 #. [effect]: type=fire
-#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:492
+#: data/campaigns/The_Rise_Of_Wesnoth/scenarios/12_A_Final_Spring.cfg:491
 #: data/core/macros/items.cfg:559
 msgid "storm trident"
 msgstr "trojzubec bouře"
@@ -312,43 +312,43 @@ msgid "Close"
 msgstr "Zavřít"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:76
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:75
 #: data/english.cfg:31
 msgid "blade"
 msgstr "čepel"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:79
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:78
 #: data/english.cfg:34
 msgid "fire"
 msgstr "oheň"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:82
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:81
 #: data/english.cfg:35
 msgid "cold"
 msgstr "chlad"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:85
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:84
 #: data/english.cfg:32
 msgid "pierce"
 msgstr "bodnutí"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:88
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:87
 #: data/english.cfg:33
 msgid "impact"
 msgstr "úder"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:91
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:90
 #: data/english.cfg:27
 msgid "melee"
 msgstr "zblízka"
 
 #. [language]
-#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:94
+#: data/campaigns/World_Conquest/resources/strings/mainline.cfg:93
 #: data/english.cfg:28
 msgid "ranged"
 msgstr "na dálku"
@@ -1709,17 +1709,56 @@ msgstr ""
 "_current_settings.currently_doing_special_description"
 
 #. [else]
-#: data/core/macros/deprecated-utils.cfg:35
+#: data/core/macros/deprecated-utils.cfg:34
 msgid "This unit has been renamed to: "
 msgstr "Tato jednotka byla přejmenována na: "
 
+#. [lua]: generate_objectives
+#: data/core/macros/deprecated-utils.cfg:51 data/lua/wml/objectives.lua:106
+msgid "Early finish bonus."
+msgstr "Bonus za rychlý konec."
+
+#. [lua]: generate_objectives
+#: data/core/macros/deprecated-utils.cfg:55 data/lua/wml/objectives.lua:109
+msgid "No early finish bonus."
+msgstr "Bez bonusu za rychlý konec."
+
+#. [lua]: generate_objectives
+#: data/core/macros/deprecated-utils.cfg:59 data/lua/wml/objectives.lua:117
+msgid "No gold carried over to the next scenario."
+msgstr "Do dalšího scénáře není přeneseno žádné zlato."
+
+#: data/core/macros/deprecated-utils.cfg:63
+#, fuzzy
+#| msgid "No gold carried over to the next scenario."
+msgid ""
+"\n"
+"100% of finishing gold carried over to the next scenario."
+msgstr "Do dalšího scénáře není přeneseno žádné zlato."
+
+#: data/core/macros/deprecated-utils.cfg:68
+#, fuzzy
+#| msgid "No gold carried over to the next scenario."
+msgid ""
+"\n"
+"40% of finishing gold carried over to the next scenario."
+msgstr "Do dalšího scénáře není přeneseno žádné zlato."
+
+#: data/core/macros/deprecated-utils.cfg:73
+#, fuzzy
+#| msgid "No gold carried over to the next scenario."
+msgid ""
+"\n"
+"20% of finishing gold carried over to the next scenario."
+msgstr "Do dalšího scénáře není přeneseno žádné zlato."
+
 #. [chance_to_hit]: id=deflect
-#: data/core/macros/deprecated-utils.cfg:124
+#: data/core/macros/deprecated-utils.cfg:284
 msgid "deflect"
 msgstr "odražení"
 
 #. [chance_to_hit]: id=deflect
-#: data/core/macros/deprecated-utils.cfg:125
+#: data/core/macros/deprecated-utils.cfg:285
 msgid ""
 "When used defensively, this attack reduces the opponent’s chance to hit by "
 "10%."
@@ -1728,7 +1767,7 @@ msgstr ""
 "zásah."
 
 #. [chance_to_hit]: id=deflect
-#: data/core/macros/deprecated-utils.cfg:126
+#: data/core/macros/deprecated-utils.cfg:286
 msgid ""
 "This unit’s defensive techniques reduce the chance of a successful enemy "
 "attack."
@@ -1736,12 +1775,12 @@ msgstr ""
 "Obranné techniky této jednotky snižují šanci na úspěšný útok nepřítele."
 
 #. [damage]: id=absorb
-#: data/core/macros/deprecated-utils.cfg:139
+#: data/core/macros/deprecated-utils.cfg:299
 msgid "absorb"
 msgstr "zmírnění"
 
 #. [damage]: id=absorb
-#: data/core/macros/deprecated-utils.cfg:140
+#: data/core/macros/deprecated-utils.cfg:300
 msgid ""
 "This attack puts the unit in good defensive position, and it absorbs some of "
 "the damage dealt by an enemy strike."
@@ -1750,7 +1789,7 @@ msgstr ""
 "poškození utrženého při úderu nepřítele."
 
 #. [damage]: id=absorb
-#: data/core/macros/deprecated-utils.cfg:141
+#: data/core/macros/deprecated-utils.cfg:301
 msgid ""
 "This unit can block enemy strikes, so that it takes reduced damage when hit."
 msgstr ""
@@ -3067,7 +3106,7 @@ msgid "Weight of Revenge"
 msgstr "Weight of Revenge"
 
 #. [message]: speaker=narrator
-#: data/core/macros/utils.cfg:664
+#: data/core/macros/utils.cfg:662
 msgid "You retrieve $amount_gold pieces of gold."
 msgstr "Získáváš $amount_gold zlatých."
 
@@ -3979,7 +4018,7 @@ msgstr "neléčitelný"
 
 #. #-#-#-#-#  wesnoth.wml.pot (PACKAGE VERSION)  #-#-#-#-#
 #. [lua]: wesnoth.wml_actions.message
-#: data/lua/wml/message.lua:433 src/scripting/game_lua_kernel.cpp:3755
+#: data/lua/wml/message.lua:442 src/scripting/game_lua_kernel.cpp:3755
 #: src/scripting/game_lua_kernel.cpp:3790
 msgid "input"
 msgstr "vstup"
@@ -4002,21 +4041,6 @@ msgid_plural "($remaining_turns turns left)"
 msgstr[0] "(zbývá toto kolo)"
 msgstr[1] "(zbývají $remaining_turns kola)"
 msgstr[2] "(zbývá $remaining_turns kol)"
-
-#. [lua]: generate_objectives
-#: data/lua/wml/objectives.lua:106
-msgid "Early finish bonus."
-msgstr "Bonus za rychlý konec."
-
-#. [lua]: generate_objectives
-#: data/lua/wml/objectives.lua:109
-msgid "No early finish bonus."
-msgstr "Bez bonusu za rychlý konec."
-
-#. [lua]: generate_objectives
-#: data/lua/wml/objectives.lua:117
-msgid "No gold carried over to the next scenario."
-msgstr "Do dalšího scénáře není přeneseno žádné zlato."
 
 #. [lua]: generate_objectives
 #: data/lua/wml/objectives.lua:119
@@ -6027,7 +6051,7 @@ msgstr "$elem byl označen za zastaralý a odstraněn."
 msgid "Chat message"
 msgstr "Zpráva chatu"
 
-#: src/desktop/windows_tray_notification.cpp:126 src/game_config.cpp:588
+#: src/desktop/windows_tray_notification.cpp:137 src/game_config.cpp:588
 msgid "The Battle for Wesnoth"
 msgstr "Bitva o Wesnoth"
 
@@ -6231,7 +6255,7 @@ msgstr[0] "Nahlas to prosím autorovi nebo správci tohoto rozšíření."
 msgstr[1] "Nahlas to prosím příslušným autorům nebo správcům těchto rozšíření."
 msgstr[2] "Nahlas to prosím příslušným autorům nebo správcům těchto rozšíření."
 
-#: src/game_events/pump.cpp:389 src/game_launcher.cpp:957
+#: src/game_events/pump.cpp:389 src/game_launcher.cpp:950
 msgid "Error: "
 msgstr "Chyba: "
 
@@ -6567,20 +6591,20 @@ msgstr "Bylo provedeno příliš mnoho pokusů o přihášení."
 msgid "Password hashing failed."
 msgstr "Hašování hesla se nepodařilo."
 
-#: src/game_initialization/playcampaign.cpp:150 src/game_launcher.cpp:910
+#: src/game_initialization/playcampaign.cpp:150 src/game_launcher.cpp:903
 msgid "The game could not be loaded: "
 msgstr "Hru se nepodařilo nahrát: "
 
-#: src/game_initialization/playcampaign.cpp:156 src/game_launcher.cpp:912
+#: src/game_initialization/playcampaign.cpp:156 src/game_launcher.cpp:905
 msgid "Error while playing the game: "
 msgstr "Během hraní hry se vyskytla chyba: "
 
-#: src/game_initialization/playcampaign.cpp:159 src/game_launcher.cpp:949
+#: src/game_initialization/playcampaign.cpp:159 src/game_launcher.cpp:942
 msgid "The game map could not be loaded: "
 msgstr "Nepodařilo se nahrát herní mapu: "
 
-#: src/game_initialization/playcampaign.cpp:162 src/game_launcher.cpp:914
-#: src/game_launcher.cpp:1035
+#: src/game_initialization/playcampaign.cpp:162 src/game_launcher.cpp:907
+#: src/game_launcher.cpp:1028
 msgid "Map generator error: "
 msgstr "Chyba v generátoru map: "
 
@@ -6605,28 +6629,28 @@ msgstr "Neznámý scénář: „$scenario|“"
 msgid "No campaigns are available."
 msgstr "K dispozici nejsou žádná tažení."
 
-#: src/game_launcher.cpp:692 src/game_launcher.cpp:711
+#: src/game_launcher.cpp:685 src/game_launcher.cpp:704
 #: src/hotkey/hotkey_handler_sp.cpp:324 src/replay.cpp:662 src/savegame.cpp:167
 msgid "The file you have tried to load is corrupt"
 msgstr "Soubor, který se snažíš načíst, je poškozený"
 
-#: src/game_launcher.cpp:694 src/game_launcher.cpp:713
+#: src/game_launcher.cpp:687 src/game_launcher.cpp:706
 msgid "The file you have tried to load is corrupt: '"
 msgstr "Soubor, který ses snažil načíst, je poškozený: '"
 
-#: src/game_launcher.cpp:703
+#: src/game_launcher.cpp:696
 msgid "File I/O Error while reading the game"
 msgstr "Vstupně výstupní chyba souboru při načítání hry"
 
-#: src/game_launcher.cpp:705
+#: src/game_launcher.cpp:698
 msgid "File I/O Error while reading the game: '"
 msgstr "Vstupně výstupní chyba souboru při načítání hry: '"
 
-#: src/game_launcher.cpp:908
+#: src/game_launcher.cpp:901
 msgid "Error while starting server: "
 msgstr "Při spouštění serveru se vyskytla chyba: "
 
-#: src/game_launcher.cpp:930
+#: src/game_launcher.cpp:923
 msgid "Connection failed: "
 msgstr "Připojení selhalo: "
 
@@ -6956,7 +6980,7 @@ msgstr ""
 msgid "The file you have tried to load is not from the current session."
 msgstr "Soubor, který ses pokusil načíst, nepochází ze stávajícího sezení."
 
-#: src/language.cpp:101
+#: src/language.cpp:115
 msgid "System default language"
 msgstr "Výchozí jazyk systému"
 
@@ -7623,7 +7647,7 @@ msgstr "Příkaz:"
 msgid "prompt^Formula:"
 msgstr "Vzorec:"
 
-#: src/mouse_events.cpp:1307
+#: src/mouse_events.cpp:1317
 msgid ""
 "You cannot move your leader away from the keep with some planned recruits or "
 "recalls left."
@@ -7631,36 +7655,36 @@ msgstr ""
 "Pokud má vůdce naplánováno verbování nebo povolávání, nelze jím pohnout z "
 "tvrze."
 
-#: src/mouse_events.cpp:1410
+#: src/mouse_events.cpp:1420
 msgid "No Attacks"
 msgstr "Žádné útoky"
 
-#: src/mouse_events.cpp:1410
+#: src/mouse_events.cpp:1420
 msgid "This unit has no usable weapons."
 msgstr "Tato jednotka nemá žádné použitelné zbraně."
 
-#: src/mouse_events.cpp:1486 src/mouse_events.cpp:1502
+#: src/mouse_events.cpp:1496 src/mouse_events.cpp:1512
 msgid "Other aspects: "
 msgstr "Další aspekty: "
 
-#: src/mouse_events.cpp:1515 src/mouse_events.cpp:1529
+#: src/mouse_events.cpp:1525 src/mouse_events.cpp:1539
 msgid "Weapon: "
 msgstr "Zbraň: "
 
-#: src/mouse_events.cpp:1516 src/mouse_events.cpp:1530
+#: src/mouse_events.cpp:1526 src/mouse_events.cpp:1540
 msgid "Type: "
 msgstr "Typ: "
 
 # !!!! prozkoumat jestli se sem nehodí něco jiného
-#: src/mouse_events.cpp:1517 src/mouse_events.cpp:1531
+#: src/mouse_events.cpp:1527 src/mouse_events.cpp:1541
 msgid "Damage: "
 msgstr "Zranění: "
 
-#: src/mouse_events.cpp:1518 src/mouse_events.cpp:1532
+#: src/mouse_events.cpp:1528 src/mouse_events.cpp:1542
 msgid "Attacks: "
 msgstr "Útoky: "
 
-#: src/mouse_events.cpp:1519 src/mouse_events.cpp:1533
+#: src/mouse_events.cpp:1529 src/mouse_events.cpp:1543
 msgid "Chance to hit: "
 msgstr "Šance na zásah: "
 
@@ -8652,21 +8676,21 @@ msgstr "Útržek denní doby"
 msgid "This Time of Day is only a Stub!"
 msgstr "Tato denní doba je pouze útržek!"
 
-#: src/units/abilities.cpp:1141
+#: src/units/abilities.cpp:1161
 msgid "Owned: "
 msgstr "Vlastní: "
 
 #. TRANSLATORS: Past-participle of "teach", used for an ability similar to leadership
-#: src/units/abilities.cpp:1143
+#: src/units/abilities.cpp:1163
 msgid "Taught: "
 msgstr "Naučeno: "
 
 #. TRANSLATORS: Past-participle of "teach", used for an ability similar to leadership
-#: src/units/abilities.cpp:1145
+#: src/units/abilities.cpp:1165
 msgid "Taught: (by an enemy): "
 msgstr "Naučeno (nepřítelem): "
 
-#: src/units/abilities.cpp:1146
+#: src/units/abilities.cpp:1166
 msgid "Used by opponent: "
 msgstr "Užito protivníkem: "
 
@@ -8915,7 +8939,7 @@ msgstr "$year př. P."
 msgid "$year AF"
 msgstr "$year po P."
 
-#: src/wesnoth.cpp:811
+#: src/wesnoth.cpp:804
 msgid ""
 "Unable to create log files in directory $logdir. This is often caused by "
 "incorrect folder permissions, anti-virus software restricting folder access, "
@@ -8925,7 +8949,7 @@ msgstr ""
 "chybným oprávněním na složce, antivirovým programem, který omezuje ke složce "
 "přístup, nebo použitím OneDrive pro správu tvé složky Dokumenty."
 
-#: src/wesnoth.cpp:812
+#: src/wesnoth.cpp:805
 msgid "Logging Failure"
 msgstr "Selhání zaznamenávání"
 
