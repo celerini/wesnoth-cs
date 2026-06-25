@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-06-24 23:30+0200\n"
+"PO-Revision-Date: 2026-06-25 21:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5796,7 +5796,7 @@ msgstr ""
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1339
 msgid "A message from Delfador. He has found the Sceptre of Fire!"
-msgstr ""
+msgstr "Zpráva od Delfadora. Našel Ohnivé žezlo!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1345
@@ -5804,11 +5804,13 @@ msgid ""
 "We must go at once! Once we hold the sceptre of my fathers; the symbol of "
 "the kings of Wesnoth, surely Asheviere can no longer hope to oppose us."
 msgstr ""
+"Musíme ihned vyrazit! Jakmile se zmocníme žezla mých předků – symbolu králů "
+"Wesnothu – Ašvíra už jistě nebude moci doufat, že se nám postaví."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1349
 msgid "Indeed. Let us make haste, before some misfortune befalls it..."
-msgstr ""
+msgstr "Vskutku. Pospěšme si, než ho potká nějaké neštěstí..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1354
@@ -5816,6 +5818,8 @@ msgid ""
 "The Sceptre of Fire? I thought that was just a myth! This is the quest he’s "
 "been off doing so secretly?"
 msgstr ""
+"Ohnivé žezlo? Myslel jsem, že je to jen mýtus! To byl ten úkol, na kterém "
+"tak tajně pracoval?"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1358
@@ -5823,11 +5827,14 @@ msgid ""
 "Indeed. Delfador will explain more once we three reunite. He is deep in the "
 "Heart Mountains to the northeast — you must go to him at once, Konrad."
 msgstr ""
+"Vskutku. Delfador ti to vysvětlí podrobněji, až se my tři znovu setkáme. "
+"Nachází se hluboko v Srdcových horách na severovýchodě – musíš za ním "
+"okamžitě vyrazit, Konráde."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1369
 msgid "A message from Delfador! He has found the Sceptre of Fire!"
-msgstr ""
+msgstr "Zpráva od Delfadora! Našel Ohnivé žezlo!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1373
@@ -5835,6 +5842,8 @@ msgid ""
 "We must go at once! Once we hold the sceptre of my fathers; the symbol of "
 "the king of Wesnoth, surely Asheviere can no longer hope to oppose us."
 msgstr ""
+"Musíme ihned vyrazit! Jakmile se zmocníme žezla mých předků – symbolu krále "
+"Wesnothu – Ašvára už jistě nebude moci doufat, že se nám postaví."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1378
@@ -5842,6 +5851,8 @@ msgid ""
 "A message from Delfador! He has found... the Sceptre of Fire?! I thought the "
 "Sceptre was just a myth! This is the quest he’s been off doing so secretly?"
 msgstr ""
+"Zpráva od Delfadora! Našel... Ohnivé žezlo?! Myslel jsem, že to žezlo je jen "
+"mýtus! To je ten úkol, na kterém tak tajně pracoval?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1382
@@ -5849,6 +5860,9 @@ msgid ""
 "I suppose Delfador will explain more once we reunite. The message says he is "
 "deep in the Heart Mountains to the northeast — I must go to him at once."
 msgstr ""
+"Myslím, že mi to Delfador vysvětlí podrobněji, až se znovu setkáme. Ve "
+"zprávě se píše, že je hluboko v Srdcových horách na severovýchodě – musím za "
+"ním okamžitě vyrazit."
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1403
