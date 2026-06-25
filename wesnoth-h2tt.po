@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-06-25 21:23+0200\n"
+"PO-Revision-Date: 2026-06-25 21:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5079,7 +5079,7 @@ msgstr "Lisar"
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:475
 msgid "Explore Wesnoth"
-msgstr ""
+msgstr "Prozkoumej Wesnoth"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:499
@@ -5102,12 +5102,12 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:529
 msgid "Find Delfador"
-msgstr ""
+msgstr "Najdi Delfadora"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:538
 msgid "Claim the Sceptre of Fire"
-msgstr ""
+msgstr "Získej Ohnivé žezlo"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:546
