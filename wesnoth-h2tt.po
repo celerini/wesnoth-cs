@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-06-25 21:26+0200\n"
+"PO-Revision-Date: 2026-06-26 22:18+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1516,6 +1516,9 @@ msgid ""
 "old, Konrad. It were a nasty fight, but in the end we knocked the whole "
 "thing down, Baldras and I did. I miss him something fierce."
 msgstr ""
+"Tady to je – to, co zbylo z Halsteadu. Tobě bylo sotva rok nebo dva, "
+"Konráde. Byl to ošklivý boj, ale nakonec jsme to celé zbořili, Baldras a já. "
+"Strašně mi chybí."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1420
@@ -1523,6 +1526,7 @@ msgid ""
 "Baldras was your uncle, is that right? Is he not back with the others on the "
 "Three Sisters?"
 msgstr ""
+"Baldras byl tvůj strýc, je to tak? Nevrátil se s ostatními na Tři sestry?"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1424
@@ -1532,6 +1536,9 @@ msgid ""
 "too, you know? But it’s been years, and not one of thems that went out has "
 "come back."
 msgstr ""
+"Ne. On a pár členů jeho rodiny odjeli zachránit bandu otroků někam na "
+"východ. Udělat dobrý skutek a možná si taky najít nějaké nové přátele, víš? "
+"Ale už jsou to roky a nikdo z těch, co odešli, se nevrátil."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1428
@@ -1539,6 +1546,8 @@ msgid ""
 "Delurin says they’re probably all dead, but I refuse t’ believe it. My uncle "
 "Baldras is tougher than that..."
 msgstr ""
+"Delurin říká, že jsou nejspíš všichni mrtví, ale já tomu odmítám věřit. Můj "
+"strýc Baldras je tvrdší..."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1450
