@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-06-26 22:18+0200\n"
+"PO-Revision-Date: 2026-07-06 23:46+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2424,6 +2424,8 @@ msgid ""
 "Dan’Tonk. Delfador says this is the largest city in Wesnoth, and the source "
 "of most of Asheviere’s footmen."
 msgstr ""
+"Dan’Tonk. Podle Delfadora je to největší město ve Wesnothu a právě odtud "
+"pochází většina Ašvířiných pěšáků."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1135
@@ -2432,6 +2434,9 @@ msgid ""
 "we’ve helped Maddock repel her attack, they’ve begun transporting soldiers "
 "and weapons from the front back towards Dan’Tonk."
 msgstr ""
+"Bylo to také výchozí místo pro Ašvířin vpád do Elensefaru. Nyní, když jsme "
+"pomohli Maddokovi odrazit její útok, začali přepravovat vojáky a zbraně "
+"z fronty zpět do Dan’Tonku."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1141
@@ -2440,6 +2445,8 @@ msgid ""
 "she’s taken the city, they’ve begun transporting soldiers and weapons from "
 "the front back towards Dan’Tonk."
 msgstr ""
+"Bylo to také výchozí místo pro Ašvířin vpád do Elensefaru. Nyní, když město "
+"dobyla, začali přepravovat vojáky a zbraně z fronty zpět do Dan’Tonku."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1147
@@ -2448,6 +2455,8 @@ msgid ""
 "attacks draw to a close, they’ve begun transporting soldiers and weapons "
 "from the front back towards Dan’Tonk."
 msgstr ""
+"Je to také výchozí bod pro Ašvířinu invazi na západ. Jak se její útoky chýlí "
+"ke konci, začali přepravovat vojáky a zbraně z fronty zpět do Dan’Tonku."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1152
@@ -2456,6 +2465,9 @@ msgid ""
 "able to intercept and pilfer some of those inbound sabers, spears, and bows "
 "for our own arsenal!"
 msgstr ""
+"Ačkoli město samotné se hemží strážemi, pokud zaútočíme rychle, možná se nám "
+"podaří zadržet a ukrást některé z těch šavlí, kopí a luků, které sem "
+"směřují, a přidat je do naší vlastní zbrojnice!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1158
