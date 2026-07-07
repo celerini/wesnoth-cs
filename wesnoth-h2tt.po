@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-07 19:18+0200\n"
+"PO-Revision-Date: 2026-07-07 19:24+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -14710,13 +14710,13 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:324
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "Poraz nepřátelského vůdce"
 
 #. [objective]: condition=win
 #. this is deliberately vague, and foreshadows Li'sar's appearance in part two of this scenario
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:329
 msgid "Then, fight to claim the Sceptre"
-msgstr ""
+msgstr "Poté bojuj, abys získal žezlo"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:339
@@ -14724,6 +14724,8 @@ msgid ""
 "The longer you take to defeat the enemy leader, the more time your other "
 "enemies will have to accrue gold."
 msgstr ""
+"Čím déle ti bude trvat porazit nepřátelského vůdce, tím více času budou mít "
+"tvoji ostatní nepřátelé na to, aby nashromáždili zlato."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:351
