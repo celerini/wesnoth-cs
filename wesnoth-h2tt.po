@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-06 23:46+0200\n"
+"PO-Revision-Date: 2026-07-07 19:18+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20244,7 +20244,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L3.cfg:4
 msgid "Prince"
-msgstr ""
+msgstr "Princ"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L3.cfg:22
 msgid ""
@@ -20255,6 +20255,13 @@ msgid ""
 "victorious. Outfitted in finely-made weapons and armor, these leaders are a "
 "force to be reckoned with in both warfare and single combat."
 msgstr ""
+"Nejtalentovanější velitelé procházejí rozsáhlým výcvikem v různých "
+"vojenských stylech, včetně způsobů elfů a skřetů. Jsou ostřílení v umění "
+"války a představují velice neobvyklé, avšak vynikající stratégy, kteří "
+"dokážou i ty nejnovější rekruty vést k taktickým útokům proti zdánlivě "
+"nepřekonatelným přesilám a vybojovat tak vítězství. Vybaveni precizně "
+"vyrobenými zbraněmi a brněním ukazují tito vůdci sílu, s níž je třeba "
+"počítat jak ve válce, tak v souboji jeden na jednoho."
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L4.cfg:4
 msgid "Warrior Prince"
