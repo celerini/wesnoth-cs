@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-07 19:24+0200\n"
+"PO-Revision-Date: 2026-07-08 22:30+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5911,6 +5911,8 @@ msgid ""
 "There is no time to stop and fight — I must meet with Delfador and claim the "
 "Sceptre. He is deep within the Heart Mountains, somewhere to the northeast."
 msgstr ""
+"Není čas se zastavovat a bojovat – musím se setkat s Delfadorem a převzít "
+"žezlo. Nachází se hluboko v Srdcových horách, někde na severovýchodě."
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1492
