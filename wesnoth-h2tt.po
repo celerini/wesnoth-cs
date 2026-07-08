@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-08 22:30+0200\n"
+"PO-Revision-Date: 2026-07-08 22:49+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2021,7 +2021,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:427
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:31
 msgid "Brother Kaelor"
-msgstr ""
+msgstr "bratr Kaelor"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:440
@@ -2029,13 +2029,15 @@ msgid ""
 "Press forward, brothers! We must vanquish these abominations and summon aid "
 "for our brethren, lest they fall to the darkness below!"
 msgstr ""
+"Vytrvejte, bratři! Musíme tyto ohavnosti přemoci a přivolat pomoc pro naše "
+"bratří, aby neupadli do té temnoty dole!"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:448
 msgid ""
 "Lo! Konrad, a fellow brother of the order stands in need! Shall we answer "
 "the call?"
-msgstr ""
+msgstr "Hle! Konráde, spolubratr z řádu je v nouzi! Odpovíme na tuto výzvu?"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:482
 msgid "Valley of Death II"
