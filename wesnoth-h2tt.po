@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-08 22:49+0200\n"
+"PO-Revision-Date: 2026-07-09 22:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -11581,7 +11581,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:462
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:889
 msgid "Defeat Li’sar"
-msgstr ""
+msgstr "Poraz Lisar"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:279
@@ -14798,23 +14798,26 @@ msgid ""
 "That wasn’t so bad! The vermin are defeated, and the way is clear to explore "
 "further."
 msgstr ""
+"To nebylo tak zlé! Havěť je poražena a cesta k dalšímu průzkumu je volná."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:458
 msgid ""
 "I sense great power emanating from the chasm nearby. Everyone, gather round."
 msgstr ""
+"Tuším, že z nedaleké propasti vyzařuje obrovská síla. Pojďte všichni sem."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:560
 msgid "55 gold"
-msgstr ""
+msgstr "55 zlatých"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:560
 msgid ""
 "Li’sar’s soldiers have stockpiled some gold here! We’ll put it to better use."
 msgstr ""
+"Lisařini vojáci si tu nashromáždili nějaké zlato! My ho využijeme lépe."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:599
@@ -14824,6 +14827,9 @@ msgid ""
 "provided a small reprieve from the thick blackness. Volcanic fumes drifted "
 "up from cracks in the floor."
 msgstr ""
+"Blízko propasti vzduch téměř praskal magickou energií. Také se postupně "
+"oteplovalo. Podlaha byla místy hladká a sklovitá a slabé světlo přinášelo "
+"nepatrnou úlevu od husté tmy. Z trhlin v podlaze stoupaly sopečné výpary."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:603
@@ -14832,6 +14838,8 @@ msgid ""
 "The very earth had come alive, heaving, struggling to be relieved of its "
 "centuries-old burden..."
 msgstr ""
+"Vzdálené dunění a zemětřesení ztěžovaly udržení rovnováhy. Samotná země "
+"ožila, vlnila se a snažila se zbavit svého staletého břemene..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:616
@@ -14839,6 +14847,8 @@ msgid ""
 "We are here. The Sceptre... the earth... the fire... the air around us... "
 "everything! It calls out to be freed — I can barely hold it back in my mind."
 msgstr ""
+"Jsme na místě. Žezlo... země... oheň... vzduch kolem nás... všechno! Volá to "
+"po osvobození – sotva to dokážu udržet v mysli."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:619
@@ -14849,6 +14859,8 @@ msgid ""
 "I sense it too... there is a strangeness in the air. A fire in the soul of "
 "this place. But where? The cave is empty!"
 msgstr ""
+"Také to cítím... ve vzduchu visí něco podivného. V duši tohoto místa hoří "
+"oheň. Ale kde? Jeskyně je prázdná!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:623
@@ -14856,6 +14868,8 @@ msgid ""
 "Aye, tha’s nice... except there’s nothin’ here, ye cloud-headed flapdragon! "
 "It’s an empty cave!"
 msgstr ""
+"Jo, to je hezký... jenže tu nic není, ty umávanej draku s hlavou v oblacích! "
+"Je to prázdná jeskyně!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:624
@@ -14863,6 +14877,8 @@ msgid ""
 "But where is it, o’ great Delfador? The cave here is empty. Do we stand in "
 "the wrong place?"
 msgstr ""
+"Ale kde to je, ó veliký Delfadore? Tahle jeskyně je prázdná. Stojíme snad na "
+"špatném místě?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:625
@@ -14870,6 +14886,8 @@ msgid ""
 "Err... is this one o’ those confusing wizard things? Where’s the Sceptre? "
 "Th’ cave looks pretty empty to me."
 msgstr ""
+"Ehm... je to zase jedna z těch zmatených kouzelnických záležitostí? Kde je "
+"to žezlo? Ta jeskyně mi připadá docela prázdná."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:626
@@ -14877,6 +14895,8 @@ msgid ""
 "Yea, truly there is a strangeness in the air here... not of the Light, but "
 "of something else entirely. But where is the source? The cave stands empty."
 msgstr ""
+"Ano, opravdu tu ve vzduchu visí něco podivného... ne Světlo, ale něco úplně "
+"jiného. Kde je však ten zdroj? Jeskyně je prázdná."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:627
@@ -14884,6 +14904,8 @@ msgid ""
 "Err... it— it does? I don’t see anything... Oh! Is this a metaphor? The real "
 "treasure is the friends we made along the way?"
 msgstr ""
+"Ehm... to... to opravdu? Já nic nevidím... Ach! Je to snad metafora? Že tím "
+"skutečným pokladem jsou přátelé, které jsme na té cestě získali?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:628
@@ -14891,11 +14913,13 @@ msgid ""
 "Dey say trolls are slow, but even Dosh can see dere’s nothing here. Flat and "
 "empty. Nothing for us to take, is dere?"
 msgstr ""
+"Říkaj, že trollové jsou pomalí, ale i Doš vidí, že tu nic není. Prázdno "
+"a pusto. Nic pro nás, co bychom si vzali, ne?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:629
 msgid "But where is it? I don’t see a thing!"
-msgstr ""
+msgstr "Ale kde to je? Nic nevidím!"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:633
@@ -14904,11 +14928,14 @@ msgid ""
 "of a dormant volcano, which erupted centuries ago and buried the Sceptre in "
 "rock. It is indeed here, under the cave floor."
 msgstr ""
+"Právě naopak! Na základě mého výzkumu se domnívám, že stojíme uprostřed "
+"spící sopky, která před staletími vybuchla a pohřbila žezlo pod vyvřelinou. "
+"Je skutečně tady, pod podlahou jeskyně."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:659
 msgid "It shall take time, but my magic can dig the Sceptre out."
-msgstr ""
+msgstr "Bude to chvíli trvat, ale má magie dokáže to žezlo vydolovat."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:695
@@ -14916,6 +14943,8 @@ msgid ""
 "A sound like that can mean only one thing: Konrad and his handler have "
 "reached the Sceptre of Fire."
 msgstr ""
+"Takový zvuk může znamenat jen jedno: Konrád a jeho loutkář dorazili "
+"k Ohnivému žezlu."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:699
@@ -14923,6 +14952,9 @@ msgid ""
 "Princess Li’sar! Villain! Asheviere’s greed must extend far if she would "
 "risk her last child this far from Wesnoth, deep under the northern mountains."
 msgstr ""
+"Princezna Lisar! Potvora! Ašvířina chamtivost musí být opravdu obrovská, "
+"když je ochotná riskovat své poslední dítě tak daleko od Wesnothu, hluboko "
+"pod severními horami."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:721
@@ -14930,81 +14962,83 @@ msgid ""
 "Loyalists, this is it. Within these caves lurks my usurping cousin; the "
 "false prince; the puppet of Delfador."
 msgstr ""
+"Věrní, je to tady. V těchto jeskyních se skrývá můj bratranec uchvatitel, "
+"falešný princ, Delfadorova loutka."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:741
 msgid "your comrades dead at Elensefar"
-msgstr ""
+msgstr "vaše padlé kamarády u Elensefaru"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:742
 msgid "Elensefar ruled by thieves"
-msgstr ""
+msgstr "Elensefar ovládaný zloději"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:743
 msgid "supplies pillaged at Fort Tahn"
-msgstr ""
+msgstr "zásoby uloupené v pevnosti Tahn"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:744
 msgid "convoys aflame outside Dan’Tonk"
-msgstr ""
+msgstr "hořící karavany před Dan’Tonkem"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:745
 msgid "zombified townsfolk at the peninsula"
-msgstr ""
+msgstr "oživlé mrtvé obyvatele poloostrova"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:746
 msgid "dead slaves at the Dwarven Doors"
-msgstr ""
+msgstr "mrtvé otroky u Trpasličích Dveří"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:747
 msgid "libraries aflame at Alduin"
-msgstr ""
+msgstr "hořící knihovny na Alduinu"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:748
 msgid "rebels at Blackwater Port"
-msgstr ""
+msgstr "povstalce v přístavu Temná Voda"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:749
 msgid "riots at the Bay of Pearls"
-msgstr ""
+msgstr "výtržnosti v Zátoce perel"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:750
 msgid "undead amok in the hills"
-msgstr ""
+msgstr "zuřivé nemrtvé v kopcích"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:751
 msgid "elvish criminals escaping into the south"
-msgstr ""
+msgstr "elfí zločince prchající na jih"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:752
 msgid "trouble with the orcs at Glamdrol"
-msgstr ""
+msgstr "potíže se skřety v Glamdrolu"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:753
 msgid "corpses clogging up the Ford"
-msgstr ""
+msgstr "mrtvoly, které zaplňují brod"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:754
 msgid "blood-stained slopes on Gryphon Mountain"
-msgstr ""
+msgstr "krví zbrocené svahy Hory gryfů"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:756
 msgid ": $lisar_speech."
-msgstr ""
+msgstr ": $lisar_speech"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:757
@@ -15012,6 +15046,8 @@ msgid ""
 ". You have heard the lies he tells, misleading those who would otherwise "
 "oppose him"
 msgstr ""
+". Slyšeli jste lži, které šíří, a jimiž klame ty, kteří by se mu jinak "
+"postavili na odpor"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #. several of the strings above are joined to create $lisar_speech.
@@ -15022,32 +15058,34 @@ msgid ""
 "You know the blood and chaos that follow in his wake$lisar_speech|... Today, "
 "we put a stop to it. Is everyone in position?"
 msgstr ""
+"Víte, jaké krveprolití a zmatek za sebou zanechává$lisar_speech|... Dnes "
+"tomu učiníme přítrž. Jsou všichni na svých místech?"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:784
 msgid "Northern company ready and reporting, ma’am."
-msgstr ""
+msgstr "Severní rota je připravena a hlásí se, madam."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:788
 msgid "Yrridyn"
-msgstr ""
+msgstr "Yridyn"
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:800
 msgid ""
 "We’ve burned the trolls out of the eastern tunnels. Our way forward is clear."
-msgstr ""
+msgstr "Vypálili jsme trolly z východních chodeb. Cesta před námi je volná."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:804
 msgid "Arynnoc"
-msgstr ""
+msgstr "Arynok"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:805
 msgid "Gwytharyn"
-msgstr ""
+msgstr "Gwytharyn"
 
 #. [message]: speaker=leader7
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:817
@@ -15055,6 +15093,8 @@ msgid ""
 "My bowmen and I are ready and waiting at the far passage. They won’t get "
 "through us, Your Highness."
 msgstr ""
+"Moji lučištníci a já jsme připraveni a čekáme u vzdálenějšího průchodu. Přes "
+"nás se nedostanou, Vaše Výsosti."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:825
@@ -15062,6 +15102,8 @@ msgid ""
 "Good. And Mirya — scout around for any other exits we’ve missed. We must not "
 "allow Konrad to escape with the Sceptre of Fire."
 msgstr ""
+"Dobře. A Miryo – prohledej okolí, jestli jsme nepřehlédli nějaké další "
+"východy. Nesmíme dopustit, aby Konrád s Ohnivým žezlem unikl."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:861
@@ -15070,6 +15112,9 @@ msgid ""
 "strong, friends. We must guard Delfador while he unearths the Sceptre, or "
 "perhaps even attack and defeat Li’sar herself!"
 msgstr ""
+"Lisar si myslí, že se pokusíme o útěk? Ne, tak snadno se nevzdám. Vydržte, "
+"přátelé. Musíme chránit Delfadora, zatímco doluje žezlo, nebo možná dokonce "
+"zaútočit a porazit samotnou Lisar!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:865
@@ -15079,46 +15124,49 @@ msgid ""
 "afraid to swallow your pride and flee. I feel fresh air coming from the "
 "north."
 msgstr ""
+"Žezlo je cenné, ale tvůj život je ještě cennější, Konráde. Pokud naše síly "
+"ještě nejsou dost pevné na to, aby čelily wesnothskému vojsku, neboj se "
+"spolknout svou hrdost a prchnout. Cítím, jak ze severu proudí čerstvý vzduch."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:869
 msgid "Of course, fleeing would surely mean leaving the Sceptre behind..."
-msgstr ""
+msgstr "Útěk by samozřejmě znamenal, že bychom tu museli žezlo nechat..."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:877
 msgid "Cowardly Victory:"
-msgstr ""
+msgstr "Zbabělé vítězství:"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:878
 msgid "Move Konrad to any edge of the map"
-msgstr ""
+msgstr "Přesuň Konráda k libovolnému okraji mapy"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:882
 msgid "Normal Victory:"
-msgstr ""
+msgstr "Obyčejné vítězství:"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:883
 msgid "(gain the Sceptre of Fire)"
-msgstr ""
+msgstr "(získáš Ohnivé žezlo)"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:883
 msgid "Protect Delfador until he unearths the sceptre"
-msgstr ""
+msgstr "Chraň Delfadora, dokud neodkryje žezlo"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:888
 msgid "Heroic Victory:"
-msgstr ""
+msgstr "Hrdinné vítězství:"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:889
 msgid "(gain the Sceptre of Fire, and special armor for Konrad)"
-msgstr ""
+msgstr "(získáš Ohnivé žezlo a zvláštní zbroj pro Konráda)"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:913
