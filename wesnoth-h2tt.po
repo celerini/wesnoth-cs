@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-10 21:39+0200\n"
+"PO-Revision-Date: 2026-07-10 22:04+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2048,13 +2048,13 @@ msgstr "Údolí smrti II"
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:552
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:128
 msgid "Sister Myrilell"
-msgstr ""
+msgstr "sestra Myrilel"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:492
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:133
 msgid "Gwatharry"
-msgstr ""
+msgstr "Gwatary"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:517
@@ -2062,6 +2062,8 @@ msgid ""
 "Fear not, Gwatharry, for Brother Kaelor has gone south to fetch help. May "
 "the Light speed him on his journey."
 msgstr ""
+"Neboj se, Gwatary, bratr Kaelor se vydal na jih pro pomoc. Kéž mu Světlo "
+"urychlí cestu."
 
 #. [message]: speaker=Gwatharry
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:521
@@ -2069,6 +2071,8 @@ msgid ""
 "And may he return soon. The sacred seal continues to weaken, and undead are "
 "starting to slip through..."
 msgstr ""
+"A ať se brzy vrátí. Posvěcená pečeť stále slábne a nemrtví začínají pronikat "
+"skrz..."
 
 #. [message]: speaker=Gwatharry
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:526
@@ -2076,6 +2080,7 @@ msgid ""
 "The seal is broken! The texts are burned! Yea, the very Light itself has "
 "forsaken us..."
 msgstr ""
+"Pečeť je zlomena! Texty jsou spáleny! Věru, i samotné Světlo nás opustilo..."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:530
@@ -2083,6 +2088,8 @@ msgid ""
 "Doubt not, brother, for our faith is our shield. The warriors have gone for "
 "aid, and aid shall soon come."
 msgstr ""
+"Nepochybuj, bratře, neboť naše víra je náš štít. Bojovníci vyrazili pro "
+"posily a ty brzy dorazí."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:538
@@ -2090,6 +2097,8 @@ msgid ""
 "Strangers... and do I see Brother Moremirmu among their number? Your are "
 "sorely needed, Brother!"
 msgstr ""
+"Cizinci... a snad mezi nimi vidím i bratra Moremirmu? Velmi tě potřebujeme, "
+"bratře!"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:543
@@ -2097,6 +2106,8 @@ msgid ""
 "Are you the help we have been waiting for, stranger? Your aid would be most "
 "welcome."
 msgstr ""
+"Jsi ty ta pomoc, na kterou jsme čekali, cizinče? Tvá podpora by nám velmi "
+"přišla vhod."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:563
@@ -2105,6 +2116,9 @@ msgid ""
 "prince. May the Lords of Light shine their blessings down upon you as you "
 "journey forth on your quest of inheritance."
 msgstr ""
+"Náš domov – i vše, co žije v Irdyi – je díky tobě v bezpečí, spravedlivý "
+"princi. Kéž na tebe Páni světla sešlou své požehnání, při tvé cestě za "
+"dědictvím."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:573
