@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-09 22:23+0200\n"
+"PO-Revision-Date: 2026-07-10 21:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2317,7 +2317,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:916
 msgid "Tath"
-msgstr ""
+msgstr "Tath"
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:955
@@ -2325,6 +2325,8 @@ msgid ""
 "Konrad, you’ll remember I told you my family lives in Tath? Well, they’re "
 "quite well off, financially speaking."
 msgstr ""
+"Konráde, vzpomínáš si, jak jsem ti říkal, že moje rodina žije v Tathu? No, "
+"jsou na tom docela dobře, pokud jde o peníze."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:961
@@ -2332,6 +2334,8 @@ msgid ""
 "Konrad, I never got around to telling you this, but my family lives in Tath. "
 "And they’re quite well off, financially speaking."
 msgstr ""
+"Konráde, ještě jsem ti to neřekl, ale moje rodina žije v Tathu. A jsou na "
+"tom docela dobře, pokud jde o peníze."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:967
@@ -2339,11 +2343,13 @@ msgid ""
 "Give me a moment to reconnect and let them know I’m still alive. Maybe I can "
 "convince them to help support our cause."
 msgstr ""
+"Dej mi chvilku, abych tam zaskočil a dal jim vědět, že jsem pořád naživu. "
+"Možná je dokážu přesvědčit, aby podpořili naši věc."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:982
 msgid "Great news! My grandparents have agreed to pledge 60 gold to our cause."
-msgstr ""
+msgstr "Skvělá zpráva! Moji prarodiče souhlasili, že nám věnují 60 zlatých."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:987
@@ -2351,6 +2357,8 @@ msgid ""
 "Well done, and my thanks. That’s a great deal of wealth for a single family "
 "to contribute. You and they have my gratitude for such a generous gift."
 msgstr ""
+"Dobrá práce, děkuji. To je od jedné rodiny opravdu štědrý příspěvek. Tobě "
+"i jim patří můj vděk za tak velkorysý dar."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:991
@@ -2359,6 +2367,9 @@ msgid ""
 "interest once you assume the throne. I had to offer very generous terms — "
 "apparently you’re a “high-risk investment.”"
 msgstr ""
+"No, vlastně jde spíš o půjčku než o dar. Až nastoupíš na trůn, budeš ji "
+"muset splatit i s úroky. Musel jsem nabídnout velmi výhodné podmínky – "
+"zřejmě jsi totiž „vysoce riziková investice“."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:995
@@ -2366,16 +2377,18 @@ msgid ""
 "You can accept the coin now, or wait for a more opportune time. Don’t worry "
 "about repayment: that can be dealt with after we defeat the queen."
 msgstr ""
+"Můžeš si ty peníze vzít hned, nebo počkat na vhodnější příležitost. "
+"O splacení se nemusíš starat: to vyřešíme až poté, co porazíme královnu."
 
 #. [message]: speaker=Elrian
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1002
 msgid "Are you ready to make use of my family’s coin?"
-msgstr ""
+msgstr "Jsi připraven využít peníze mé rodiny?"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1009
 msgid "Accept 60 gold from Elrian’s family"
-msgstr ""
+msgstr "Přijmout 60 zlatých od Elrianovy rodiny"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1018
@@ -2383,11 +2396,13 @@ msgid ""
 "I accept the gold, and am grateful for it. Their generosity will be repaid "
 "in kind once I am king."
 msgstr ""
+"Zlato přijímám a jsem za něj vděčný. Jejich štědrost jim oplatím "
+"v naturáliích, až se stanu králem."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1025
 msgid "Not yet"
-msgstr ""
+msgstr "Ještě ne"
 
 #. [message]: speaker=Konrad
 #. referencing the tunnel used by Bazur and Isolde in Asheviere's Dogs
