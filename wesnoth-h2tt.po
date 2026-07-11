@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-11 16:30+0200\n"
+"PO-Revision-Date: 2026-07-11 16:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1666,6 +1666,7 @@ msgstr ""
 msgid ""
 "Look at all this gold! Tear up the floorboards; don’t let ’em hide a thing."
 msgstr ""
+"Koukněte na všechno to zlato! Vytrhejte prkna z podlah. Ať vám nic neunikne."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1809
@@ -1673,6 +1674,8 @@ msgid ""
 "Leave Elensefar alone, you villains! Rule under Asheviere would have been "
 "bad enough, but orcs?!"
 msgstr ""
+"Nechte Elensefar na pokoji, vy darebáci! Jako by vláda Ašvíry nebyla už tak "
+"dost zlá, ale skřeti?!"
 
 #. [message]: role=elensefar_orc_leader1
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1813
@@ -1680,16 +1683,18 @@ msgid ""
 "Don’t try anything stupid, wretch. Your queen gave us this place fair and "
 "square, and we’re not givin’ it up so easy!"
 msgstr ""
+"Nezkoušej žádné hlouposti, ty ubožáku. Tvoje královna nám tohle místo "
+"přenechala čestně a poctivě, a my se ho tak snadno nevzdáme!"
 
 #. [message]: role=elensefar_orc_leader1
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1819
 msgid "Get lost, pinkskin! Elensefar is our city now."
-msgstr ""
+msgstr "Vypadni, bledá kůže! Elensefar je teď naše město."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1823
 msgid "Not if my sword has anything to say about it!"
-msgstr ""
+msgstr "To se nestane, pokud k tomu bude mít co říct můj meč!"
 
 #. [message]: role=elensefar_completed_thief
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1859
@@ -1697,6 +1702,8 @@ msgid ""
 "Thanks again for saving our city, Konrad! Good luck in your fight against "
 "the dark queen — for all our sakes."
 msgstr ""
+"Ještě jednou díky, že jsi zachránil naše město, Konráde! Hodně štěstí v boji "
+"proti temné královně – v zájmu nás všech."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:10
