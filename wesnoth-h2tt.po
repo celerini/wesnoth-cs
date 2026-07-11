@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-10 22:04+0200\n"
+"PO-Revision-Date: 2026-07-11 15:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1446,7 +1446,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1234
 msgid "Carcyn"
-msgstr ""
+msgstr "Carcyn"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1285
@@ -1454,6 +1454,8 @@ msgid ""
 "There is a small port here, but most of the boats have been seized and "
 "sailed away! Those that remain are out in the river, filled with soldiers."
 msgstr ""
+"Je tu sice malý přístav, ale většina lodí byla zabavena a odplula! Ty, které "
+"tu zůstaly, jsou na řece a plné vojáků."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1289
@@ -1462,20 +1464,22 @@ msgid ""
 "Many of the townsfolk relied on those boats for their livelihood. We have to "
 "do something!"
 msgstr ""
+"Mnozí z místních obyvatel se na tyto lodě spoléhali jako na zdroj obživy. "
+"Musíme něco udělat!"
 
 #. [message]: role=merman2
 #. [message]: role=gryphon1
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1298
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1332
 msgid "Leave it to us, Your Highness!"
-msgstr ""
+msgstr "Nechte to na nás, Vaše Výsosti!"
 
 #. [message]: role=merman2
 #. [message]: role=gryphon1
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1307
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1340
 msgid "Now bring the rest of the boats back to port."
-msgstr ""
+msgstr "Teď přiveďte zbytek lodí zpět do přístavu."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #. [message]: speaker=Konrad
@@ -1485,6 +1489,8 @@ msgid ""
 "There is a small port here, but most of the ships have been seized and "
 "sailed away! Those that remain are out in the river, filled with soldiers."
 msgstr ""
+"Je tu sice malý přístav, ale většina lodí byla zabavena a odplula! Ty, které "
+"tu zůstaly, jsou na řece a plné vojáků."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1356
@@ -1492,6 +1498,9 @@ msgid ""
 "Many of the townsfolk relied on those boats for their livelihood. We have to "
 "do something — and with my magical water-walking sandals, maybe I can."
 msgstr ""
+"Mnozí z místních obyvatel se na tyto lodě spoléhali jako na zdroj obživy. "
+"Musíme něco udělat – a s mými kouzelnými sandály, díky kterým dokážu chodit "
+"po vodě, se mi to možná podaří."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1381
@@ -1500,6 +1509,9 @@ msgid ""
 "back to port! Doing this by myself was very dangerous and I got very lucky, "
 "but I am glad to have taken the risk and helped this town."
 msgstr ""
+"Zahnal jsem ty nejhorší z vojáků a zbývající lodě dopravil zpět do přístavu! "
+"Udělat to sám bylo velmi nebezpečné a měl jsem obrovské štěstí, ale bylo mi "
+"potěšením, to riziko podstoupit a pomoci tomuto městu."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1391
@@ -1508,6 +1520,9 @@ msgid ""
 "away! Some hang just out of reach, as if to taunt us. If only I could "
 "reclaim them..."
 msgstr ""
+"Je tu sice malý přístav, ale všechny lodě byly zabaveny a odpluly! Některé "
+"kotví těsně mimo dosah, jako by se nám vysmívaly. Kéž bych je jen mohl "
+"získat zpět..."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1416
@@ -5919,7 +5934,7 @@ msgstr ""
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1403
 msgid "You already been paid for by da wizzard. Go on thru, softskin."
-msgstr ""
+msgstr "Čaroděj už za tě platil. Projdi, měkká kůže."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1428
