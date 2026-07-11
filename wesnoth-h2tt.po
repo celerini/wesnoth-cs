@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-11 15:39+0200\n"
+"PO-Revision-Date: 2026-07-11 16:30+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2143,7 +2143,7 @@ msgstr "Šedý hvozd"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:578
 msgid "Mya"
-msgstr ""
+msgstr "Mya"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:603
@@ -2151,6 +2151,8 @@ msgid ""
 "There is a cloaked figure watching me from the edge of the Grey Woods... "
 "Hello! Who’s there?"
 msgstr ""
+"Z okraje Šedého hvozdu mě sleduje postava zahalená do pláště... Haló! Kdo je "
+"tam?"
 
 #. [message]: speaker=Konrad
 #. this is a hint that there's a special event if the player brings Harper here
@@ -2159,6 +2161,8 @@ msgid ""
 "She’s fled! I’ve no hope of tracking anyone through such an overgrown "
 "forest. We need someone who already knows the way..."
 msgstr ""
+"Utekla! Nemám šanci někoho stopovat v takovém zarostlém lese. Potřebujeme "
+"někoho, kdo ví jak na to..."
 
 #. [message]: role=grey_woods_explainer
 #. this is a hint that there's a special event if the player brings Harper here
@@ -2168,12 +2172,17 @@ msgid ""
 "never met one. I were too young back then. Only Baldras and Harper really "
 "knew them."
 msgstr ""
+"Konráde, to vypadalo jako stínový mág! Slyšel jsem o nich vyprávět, ale "
+"nikdy jsem žádného nepotkal. Byl jsem tehdy ještě moc mladý. Opravdu je "
+"znali jen Baldras a Harper."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:660
 msgid ""
 "Hey, wait! You’re a Shadow Mage! One o’ Helicrom’s. Wait — it’s me, Harper!"
 msgstr ""
+"Hele, počkej! Ty jsi stínová mágyně! Jedna z Helikromových. Počkej – to jsem "
+"já, Harper!"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:664
@@ -2181,12 +2190,15 @@ msgid ""
 "Konrad, I’ve told you stories about them Shadow Mages. How they helped "
 "Baldras an’ me bring down Halstead?"
 msgstr ""
+"Konráde, vyprávěla jsem ti už o těch stínových mázích. Jak pomohli "
+"Baldrasovi a mně způsobit pád Halsteadu?"
 
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:672
 msgid ""
 "Little Harper? This is a surprise. You’re marching alongside Prince Konrad?"
 msgstr ""
+"Malá Harper? To je ale překvapení. Ty pochoduješ po boku prince Konráda?"
 
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:676
@@ -2195,12 +2207,15 @@ msgid ""
 "outlaws were helping us destabilize the crown, not fighting to supplant and "
 "restore it."
 msgstr ""
+"A teď jsi ho přivedla přímo k našim dveřím. Pokud si dobře vzpomínám, vy "
+"psanci jste nám pomáhali oslabit korunu, a nebojovali za to, abyste ji "
+"nahradili a obnovili."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:680
 msgid ""
 "Hey now, it ain’t as bad as all that. Asheviere is the evil one, not Konrad!"
-msgstr ""
+msgstr "Hele, zas tak špatné to není. Ašvíra je ta zlá, ne Konrád!"
 
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:684
@@ -2208,6 +2223,8 @@ msgid ""
 "Be that as it may, a strong throne is not in the interest of the Grey Woods. "
 "I believe Helicrom made that clear when you and he first met."
 msgstr ""
+"Ať už je tomu jakkoli, silný trůn není v zájmu Šedého hvozdu. Myslím, že to "
+"Helikrom dal jasně najevo, když jste se poprvé setkali."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:688
@@ -2215,6 +2232,8 @@ msgid ""
 "I understand that you want to be left alone, and I mean you no harm. Harper "
 "has vouched for me. Perhaps we can make a deal?"
 msgstr ""
+"Chápu, že chceš, aby vás nechali na pokoji, a já s vámi nemám žádné zlé "
+"úmysly. Harper se za mě zaručila. Možná bychom se mohli nějak domluvit?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:690
@@ -2223,6 +2242,9 @@ msgid ""
 "of the crown’s agents interfere with whatever your business is in the Grey "
 "Woods. Provided that business causes nobody any harm."
 msgstr ""
+"Pomozte mi teď svrhnout Ašvíru, a jakmile se stanu králem, postarám se o to, "
+"aby žádný z královských zástupců nezasahoval do vašich věcí v Šedém hvozdu. "
+"Za předpokladu, že tyto záležitosti nikomu neublíží."
 
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:694
@@ -2231,11 +2253,14 @@ msgid ""
 "younger members care rather less about ideals and more about gold. They "
 "might be willing to follow you, if you can pay."
 msgstr ""
+"Nemám zájem s tebou spolupracovat. Přiznávám však, že některým z našich "
+"mladších členů jde méně o ideály a více o zlato. Možná by byli ochotni se "
+"k tobě přidat, pokud jim za to zaplatíš."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:713
 msgid "80 gold: learn to recruit Rogue Mages."
-msgstr ""
+msgstr "80 zlatých: naučíš se verbovat potulné mágy."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:718
@@ -2244,7 +2269,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:810
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:513
 msgid "Decline"
-msgstr ""
+msgstr "Odmítnout"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:734
@@ -2252,6 +2277,8 @@ msgid ""
 "I would like to agree to your offer, but I don’t have enough gold right now. "
 "I’ll return when I can afford to pay."
 msgstr ""
+"Rád bych tvou nabídku přijal, ale momentálně nemám dostatek zlata. Vrátím "
+"se, až si to budu moci dovolit zaplatit."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:747
@@ -2259,11 +2286,13 @@ msgid ""
 "I agree to your offer. Thank you for your willingness to work with us — I "
 "vow to keep my word."
 msgstr ""
+"S tvou nabídkou souhlasím. Děkuji za tvou ochotu s námi spolupracovat – "
+"slibuji, že své slovo dodržím."
 
 #. [else]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:749
 msgid "Konrad can now recruit Rogue Mages!"
-msgstr ""
+msgstr "Konrád nyní může verbovat potulné mágy!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:761
