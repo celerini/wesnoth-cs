@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-11 16:56+0200\n"
+"PO-Revision-Date: 2026-07-12 10:36+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2998,7 +2998,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:456
 msgid "Wesmere Forest"
-msgstr ""
+msgstr "Wesmerský les"
 
 #. [message]: role=wesmere_guard {FILTER_ADJACENT id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:487
@@ -3006,6 +3006,8 @@ msgid ""
 "By order of the lady Chantal, Wesmere forest is closed to outsiders. Be off "
 "with you."
 msgstr ""
+"Na příkaz paní Chantal je Wesmerský les pro cizí osoby uzavřen. Nemáte tu co "
+"dělat."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:491
@@ -3013,6 +3015,9 @@ msgid ""
 "Good elf, I am Konrad, heir to the throne of Wesnoth, child of the "
 "Aethenwood and ally of Wesmere. I am no outsider, but come as a friend!"
 msgstr ""
+"Dobrý elfe, jmenuji se Konrád, jsem následník trůnu Wesnothu, syn "
+"Aethenského lesa a spojenec Wesmérie. Nejsem žádný cizinec, přicházím jako "
+"přítel!"
 
 #. [message]: role=wesmere_guard {FILTER_ADJACENT id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:495
@@ -3020,6 +3025,8 @@ msgid ""
 "Apologies, but I have my orders. None can enter here. Even you, Your Royal "
 "Highness."
 msgstr ""
+"Omlouvám se, ale mám své rozkazy. Nikdo sem nesmí vstoupit. Ani vy, Vaše "
+"královská Výsosti."
 
 #. [message]: role=wesmere_guard {FILTER_ADJACENT id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:500
@@ -3027,16 +3034,18 @@ msgid ""
 "By order of the lady Chantal, Wesmere forest is closed to outsiders. Even "
 "you, Your Royal Highness."
 msgstr ""
+"Na příkaz paní Chantal je Wesmerský les pro cizí osoby uzavřen. Dokonce "
+"i pro vás, Vaše královská Výsosti."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:511
 msgid "Even me, guard of Wesmere?"
-msgstr ""
+msgstr "To platí i pro mne, strážce Wesmérie?"
 
 #. [message]: role=wesmere_guard {FILTER_ADJACENT id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:515
 msgid "High Lord Kalenz! Speaking to me!?"
-msgstr ""
+msgstr "Nejvyšší lorde Kalenzi! Mluvíte se mnou!?"
 
 #. [message]: role=wesmere_guard {FILTER_ADJACENT id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:519
@@ -3044,11 +3053,13 @@ msgid ""
 "Err, well, I was told not to let anyone in... but surely you and any "
 "companions of yours are an exception. Go on, and speak to your granddaughter."
 msgstr ""
+"No, vlastně mi bylo řečeno, abych nikoho nepouštěl dovnitř... ale vy a vaši "
+"společníci jste jistě výjimka. Pojďte dál a promluvte si se svou vnučkou."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:526
 msgid "How strange..."
-msgstr ""
+msgstr "To je ale divné..."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:547
 msgid "An Old Friend"
