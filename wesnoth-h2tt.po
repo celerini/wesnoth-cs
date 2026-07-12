@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-12 10:36+0200\n"
+"PO-Revision-Date: 2026-07-12 11:06+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3068,7 +3068,7 @@ msgstr "Starý přítel"
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:565
 msgid "Great-grandfather?! What is the meaning of this?"
-msgstr ""
+msgstr "Pradědečku?! Co to má znamenat?"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:569
@@ -3076,6 +3076,8 @@ msgid ""
 "What is the meaning of this, indeed. The borders of Wesmere closed, even to "
 "Konrad and his retinue? What sort of trouble ails you, Chantal?"
 msgstr ""
+"Vskutku, co to znamená? Hranice Wesmérie se uzavřely, dokonce i pro Konráda "
+"a jeho družinu? Co tě trápí, Chantal?"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:573
@@ -3084,6 +3086,9 @@ msgid ""
 "confrontation, but I know it is for the best that you are here, and that my "
 "hand is forced."
 msgstr ""
+"Vrátil se starý přítel, Kalenzi... Doufala jsem, že tuto konfrontaci budu "
+"moci odložit, ale vím, je to pro dobro věci, že jsi tady, takže mi nezbývá "
+"nic jiného, než se s tím vypořádat."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:580
@@ -3091,6 +3096,8 @@ msgid ""
 "This is a matter of a personal nature, Konrad. If you do not object, I would "
 "prefer if Kalenz and I did this alone."
 msgstr ""
+"Tohle je osobní záležitost, Konráde. Pokud proti tomu nic nenamítáš, byla "
+"bych raději, kdybychom to s Kalenzem vyřídili sami."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:594
@@ -3098,12 +3105,14 @@ msgid ""
 "This is a matter of a personal nature, Konrad. Kalenz is not here, and I "
 "would rather handle things myself."
 msgstr ""
+"Tohle je osobní záležitost, Konráde. Kalenz tu není a já bych to raději "
+"vyřídila sama."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:615
 msgid ""
 "Thank you for your patience, Konrad. Kalenz and I are finished with our task."
-msgstr ""
+msgstr "Děkuji ti za trpělivost, Konráde. Kalenz a já jsme náš úkol dokončili."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:619
@@ -3112,6 +3121,9 @@ msgid ""
 "most of us must stay here to protect our domain, the shamans of Wesmere are "
 "ready to follow you."
 msgstr ""
+"Jak se mé srdce začíná uzdravovat, tak i my, elfové, pomůžeme uzdravit vaše "
+"vojsko. Ačkoli většina z nás musí zůstat zde, abychom chránili naše území, "
+"šamanky z Wesmérie jsou připraveny se k vám připojit."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:621
@@ -3119,11 +3131,13 @@ msgid ""
 "Or, if you wish, I can personally accompany you on your quest to overthrow "
 "the dark queen."
 msgstr ""
+"Nebo, pokud chceš, mohu tě osobně doprovázet na tvé výpravě za svržením "
+"temné královny."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:626
 msgid "Learn to recruit Elvish Shamans"
-msgstr ""
+msgstr "Naučit se verbovat elfí šamanky"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:630
@@ -3131,16 +3145,18 @@ msgid ""
 "I am glad we can help you, Konrad, for the dark queen has many deaths to "
 "answer for. Asheviere will rue the day she made an enemy of the elves."
 msgstr ""
+"Jsem ráda, že ti můžeme pomoci, Konráde, neboť temná královna má na svědomí "
+"mnoho mrtvých. Ašvíra bude litovat dne, kdy si z elfů udělala nepřátele."
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:632
 msgid "Konrad can now recruit Elvish Shamans!"
-msgstr ""
+msgstr "Konrád nyní může verbovat elfí šamanky!"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:636
 msgid "Gain Chantal as a loyal companion"
-msgstr ""
+msgstr "Získej Chantal jako věrnou společnici"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:640
@@ -3149,6 +3165,9 @@ msgid ""
 "deaths to answer for. Asheviere will rue the day she made an enemy of the "
 "elves."
 msgstr ""
+"Jsem ráda, že se k tobě mohu připojit na tvé výpravě, Konráde, neboť temná "
+"královna má na svědomí mnoho mrtvých. Ašvíra bude litovat dne, kdy si z elfů "
+"udělala nepřátele."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:669
