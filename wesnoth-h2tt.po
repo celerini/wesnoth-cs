@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-12 12:05+0200\n"
+"PO-Revision-Date: 2026-07-12 12:28+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -15286,6 +15286,10 @@ msgid ""
 "i></b> to save Wesnoth from the ruin it has fallen to at the hands of your "
 "mother?"
 msgstr ""
+"Víš přece, Lisar, že jsem tu, abych získal žezlo jako své dědičné právo. Je "
+"tvá nenávist tak velká, že bys raději šla po nás, než aby ses "
+"<b><i>pokusila</i></b> zachránit Wesnoth před zkázou, do níž se propadl "
+"vinou tvé matky?"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:918
@@ -15293,6 +15297,8 @@ msgid ""
 "I <i>am</i> trying to save it — from you. Do you have any idea how much "
 "chaos you and your little gang of ruffians have caused?"
 msgstr ""
+"Já se <i>snažím</i> ho zachránit – před tebou. Máš vůbec tušení, kolik "
+"zmatku jste ty a tvoje malá banda výtržníků způsobili?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:922
@@ -15301,6 +15307,9 @@ msgid ""
 "every part of her reign. All she knows is blood! And all she cares about is "
 "power."
 msgstr ""
+"Ašvíra se chopila vlády nad Wesnothem násilím a násilí prostupuje každou "
+"částí její vlády. Nezná nic jiného než krev! A jediné, na čem jí záleží, je "
+"moc."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:926
@@ -15310,6 +15319,10 @@ msgid ""
 "sometimes that means unsavory decisions, like the kind the queen has to make "
 "every day."
 msgstr ""
+"Jsi opravdu ještě pouhé dítě. Možná že v Aethenském lese stačí přátelství "
+"a květy, ale tady ve skutečném světě se lidem někdy stává, že přijdou "
+"k úrazu. A ano, někdy to znamená přijmout nepříjemná rozhodnutí, jako ta, "
+"která musí královna činit každý den."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:930
@@ -15319,6 +15332,10 @@ msgid ""
 "the tyranny of Asheviere. Whether we defeat you now or never, Wesnoth will "
 "never stop fighting for what is right!"
 msgstr ""
+"Možná si opravdu myslíš, že jednáš v tom nejlepším zájmu. Ale věz toto: dnes "
+"tu se mnou stojí svobodné národy ze všech koutů Wesnothu, sjednocené v boji "
+"proti krutovládě Ašvíry. Ať už tě porazíme teď, nebo nikdy, Wesnoth "
+"nepřestane bojovat za to, co je správné!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:935
@@ -15326,6 +15343,8 @@ msgid ""
 "... not bad, as hero speeches go. We’ll see how the palace dungeons change "
 "your tune."
 msgstr ""
+"... na hrdinskou řeč to nebylo špatné. Uvidíme, jak ti palácové žaláře změní "
+"názor."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:953
