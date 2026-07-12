@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-12 12:28+0200\n"
+"PO-Revision-Date: 2026-07-12 12:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1570,6 +1570,8 @@ msgid ""
 "Dallben, my home. Might look like jus’ another ruined town to you, but this "
 "place was once full of life an’ adventure!"
 msgstr ""
+"Dalben, můj domov. Možná ti to připadá jen jako další zničené město, ale "
+"tohle místo kdysi překypovalo životem a dobrodružstvím!"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1454
@@ -1577,6 +1579,9 @@ msgid ""
 "’course everythin’ fell apart come Asheviere. We had to run fer our lives "
 "an’ hide, an’ now all’s left is memories. Lotsa stories like ours these days."
 msgstr ""
+"Samozřejmě se to všechno s příchodem Ašvíry rozpadlo. Museli jsme utíkat, "
+"abychom si zachránili život, a schovávat se, a teď nám zbyly jen vzpomínky. "
+"Takových příběhů, jako je ten náš, je dneska spousta."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1458
@@ -1584,11 +1589,13 @@ msgid ""
 "Wait a moment, Konrad. I might still be able to scrounge up a li’l gold for "
 "us."
 msgstr ""
+"Počkej chvilku, Konráde. Možná se mi ještě podaří vyloudit pro nás trošku "
+"zlata."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1463
 msgid "You have gained 25 gold!"
-msgstr ""
+msgstr "Získal jsi 25 zlatých!"
 
 #. [event]
 #. [side]
