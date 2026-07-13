@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-12 12:55+0200\n"
+"PO-Revision-Date: 2026-07-13 22:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20134,7 +20134,7 @@ msgstr ""
 #. [dummy]: id=march
 #: data/campaigns/Heir_To_The_Throne/units/Elite_Units.cfg:12
 msgid "march"
-msgstr ""
+msgstr "pochod"
 
 #. [dummy]: id=march
 #: data/campaigns/Heir_To_The_Throne/units/Elite_Units.cfg:13
@@ -20142,6 +20142,8 @@ msgid ""
 "This unit has improved movement on forest, cave, hill, mountain, frozen, and "
 "water terrain."
 msgstr ""
+"Tato jednotka má vylepšený pohyb v lesním, jeskynním, kopcovitém, horském, "
+"zamrzlém a vodním terénu."
 
 #. [unit_type]: id=Elvish Civilian, race=elf, gender=male,female
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:4
