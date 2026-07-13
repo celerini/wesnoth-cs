@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-13 22:50+0200\n"
+"PO-Revision-Date: 2026-07-13 23:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -21554,7 +21554,7 @@ msgstr ""
 #. [dummy]: id=exacting
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:9
 msgid "exacting"
-msgstr ""
+msgstr "náročná"
 
 #. [dummy]: id=exacting
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:10
@@ -21562,6 +21562,9 @@ msgid ""
 "Li’sar has drilled her infantry to perfection. Though few in number, each of "
 "her soldiers possesses skills not usually seen on others of their type."
 msgstr ""
+"Lisar vycvičila svou pěchotu k dokonalosti. Ačkoli je jich málo, každý "
+"z jejích vojáků disponuje schopnostmi, které u ostatních zástupců jeho typu "
+"obvykle nenajdeme."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:62
@@ -21570,6 +21573,10 @@ msgid ""
 "large in number, they are exactingly trained — each of them possesses one "
 "ability not usually seen on others of their type."
 msgstr ""
+"Lisar jsem studoval už v Aethenwoodu. Ačkoli její osobní družina není "
+"početná, její členové jsou velmi důkladně vycvičeni – každý z nich disponuje "
+"jednou schopností, kterou u ostatních příslušníků jeho typu obvykle "
+"nenajdeme."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:77
