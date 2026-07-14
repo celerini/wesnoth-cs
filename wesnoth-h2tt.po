@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-14 18:38+0200\n"
+"PO-Revision-Date: 2026-07-14 18:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -21194,6 +21194,9 @@ msgid ""
 "your crimes! Return to the Light, or soon shall come the black soot over "
 "Weldyn and the death of all men!"
 msgstr ""
+"Odvrátili jste se od Světla, muži z Wesnothu! Vyslechněte má slova! Odčiňte "
+"své zločiny! Vraťte se ke Světlu, jinak na Weldyn brzy padnou černé saze "
+"a nastane smrt všech lidí!"
 
 #. [message]: speaker=Harper
 #. Harper and Konrad discuss the events of Liberty
