@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-14 18:47+0200\n"
+"PO-Revision-Date: 2026-07-14 19:13+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2867,6 +2867,8 @@ msgid ""
 "What do you want? You here to trade? Jotha’s got nothin’ to trade but some "
 "old fish."
 msgstr ""
+"Co chceš? Přišel jsi obchodovat? Jota nemá k výměně nic jiného než pár "
+"starých ryb."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:255
@@ -2874,6 +2876,8 @@ msgid ""
 "Is this your home, strange merman? The bay is warm, but fishing alone so far "
 "north must make for a lonely life."
 msgstr ""
+"Je tohle tvůj domov, podivný mořský muži? Záliv je teplý, ale rybařit sám "
+"tak daleko na severu musí být dost smutný život."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:269
@@ -2882,6 +2886,9 @@ msgid ""
 "instead of slaving away as a trawler! We already have merfolk among our "
 "number — you’ll feel right at home."
 msgstr ""
+"Dovol mi, abych ti udělal nabídku. Přidej se k mému vojsku a bojuj za "
+"spravedlivou věc, místo aby ses dřel jako rybář se sítí! V našich řadách už "
+"je i mořský lid – budeš se cítit jako doma."
 
 #. [message]: speaker=Jotha
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:273
@@ -2890,11 +2897,14 @@ msgid ""
 "still ain’t working fer free. 10 gold and I’ll join you, and you’ll still "
 "have to pay to recall me each battle."
 msgstr ""
+"Říkáš, že jsou tu další mořští lidé? Hmm... Za to ti dám slevu, ale stejně "
+"nebudu pracovat zadarmo. Za 10 zlatých se k vám přidám, ale pořád mi budeš "
+"muset zaplatit za každé povolání do bitvy."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:278
 msgid "Pay 10 gold"
-msgstr ""
+msgstr "Zaplatit 10 zlatých"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:298
@@ -2903,19 +2913,26 @@ msgid ""
 "instead of slaving away as a trawler! I would be glad to welcome one of the "
 "noble mermen to our ranks."
 msgstr ""
+"Dovol mi, abych ti něco nabídl. Přidej se k mému vojsku a bojuj za "
+"spravedlivou věc, místo aby ses dřel jako rybář se sítí! Rád bych v našich "
+"řadách přivítal jednoho z ušlechtilých mořských lidí."
 
 #. [message]: speaker=Jotha
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:302
+#, fuzzy
 msgid ""
 "Join your army, you say? Hmm... I wouldn’t mind getting out o’ this pond, "
 "but I still ain’t working fer free. 30 gold and I’ll join you, and you’ll "
 "still have to pay to recall me each battle."
 msgstr ""
+"Říkáš, že se mám přidat k tvému vojsku? Hmm... Nevadilo by mi vypadnout "
+"z tohohle rybníka, ale zadarmo to nebude. Dej 30 zlatých a já se k tobě "
+"přidám, ale pořád mi budeš muset zaplatit za každé povolání do bitvy."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:307
 msgid "Pay 30 gold."
-msgstr ""
+msgstr "Zaplatit 30 zlatých."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:328
@@ -2923,11 +2940,13 @@ msgid ""
 "I would like to agree to your offer, but I don’t have enough gold right now. "
 "Would you consider lowering your price?"
 msgstr ""
+"Rád bych tvou nabídku přijal, ale právě teď nemám dostatek zlata. Nezvážil "
+"bys snížení své ceny?"
 
 #. [message]: speaker=Jotha
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:332
 msgid "No gold, no Jotha. Now go away and stop bothering me."
-msgstr ""
+msgstr "Žádné zlato, žádný Jota. Teď běž pryč a přestaň mě otravovat."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:348
@@ -2935,6 +2954,8 @@ msgid ""
 "Welcome to the rebellion against Asheviere, friend merman. I am glad to have "
 "you on our side."
 msgstr ""
+"Vítej v povstání proti Ašvíře, příteli z moře. Jsem rád, že jsi na naší "
+"straně."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:361
