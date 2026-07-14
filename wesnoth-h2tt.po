@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-14 19:13+0200\n"
+"PO-Revision-Date: 2026-07-14 19:15+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2919,7 +2919,6 @@ msgstr ""
 
 #. [message]: speaker=Jotha
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:302
-#, fuzzy
 msgid ""
 "Join your army, you say? Hmm... I wouldn’t mind getting out o’ this pond, "
 "but I still ain’t working fer free. 30 gold and I’ll join you, and you’ll "
