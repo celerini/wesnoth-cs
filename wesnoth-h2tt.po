@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-13 23:00+0200\n"
+"PO-Revision-Date: 2026-07-14 18:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20473,7 +20473,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess.cfg:4
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess.cfg:64
 msgid "female^Princess"
-msgstr ""
+msgstr "princezna"
 
 #. [variation]: race=human
 #. [unit_type]: id=Princess, gender=female, race=human
@@ -20485,11 +20485,15 @@ msgid ""
 "combatant and a leader. The units of lower level around the Princess will "
 "fight better due to her presence."
 msgstr ""
+"Jako šlechtična se princezna naučila šerm po boku nejlepších vojevůdců "
+"a bojové taktiky od nejvýznamnějších mudrců, díky čemuž je nejen vynikající "
+"bojovnicí, ale i vůdkyní. Jednotky nižší úrovně v její blízkosti budou díky "
+"její přítomnosti bojovat lépe."
 
 #. [unit_type]: id=Bound Princess, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess_Bound.cfg:4
 msgid "female^Bound Princess"
-msgstr ""
+msgstr "spoutaná princezna"
 
 #. [unit_type]: id=Bound Princess, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess_Bound.cfg:30
@@ -20497,13 +20501,15 @@ msgid ""
 "Asheviere’s fearless princess now marches in chains, a prisoner of Konrad "
 "and his rebels."
 msgstr ""
+"Ašvířina neohrožená princezna nyní kráčí v okovech jako vězeňkyně Konráda "
+"a jeho povstalců."
 
 #. [variation]: race=human
 #. [unit_type]: id=Warrior Princess, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Warrior_Princess.cfg:4
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Warrior_Princess.cfg:103
 msgid "female^Warrior Princess"
-msgstr ""
+msgstr "princezna válečnice"
 
 #. [variation]: race=human
 #. [unit_type]: id=Warrior Princess, gender=female, race=human
@@ -20515,6 +20521,10 @@ msgid ""
 "combatant and a leader. Now battle-hardened and strong of will, she can aid "
 "those around her in the art of combat."
 msgstr ""
+"Jako šlechtična se princezna naučila šerm po boku nejlepších vojevůdců "
+"a bojové taktiky od nejvýznamnějších mudrců, díky čemuž je nejen vynikající "
+"bojovnicí, ale i vůdkyní. Nyní, když je zocelená bojem a má pevnou vůli, "
+"může pomáhat lidem ve svém okolí v umění boje."
 
 #. [unit_type]: id=Shackled Mage, gender=male, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Mage_Shackled.cfg:7
