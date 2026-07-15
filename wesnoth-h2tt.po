@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-15 23:07+0200\n"
+"PO-Revision-Date: 2026-07-15 23:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2747,7 +2747,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:11
 msgid "Glamdrol Fortress"
-msgstr ""
+msgstr "pevnost Glamdrol"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:19
 msgid "Glamdrol"
@@ -2759,11 +2759,14 @@ msgid ""
 "allies dies,\n"
 "all others gain regeneration for one turn.</b></span>"
 msgstr ""
+"Předmět pro Konráda: <span color='#EFBF04'><b>kdykoli zemře jeden "
+"z Konrádových živých spojenců,\n"
+"všichni ostatní získají na jedno kolo regeneraci.</b></span>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:70
 msgid "We approach the walls of a great orcish fortress. Glamdrol!"
-msgstr ""
+msgstr "Blížíme se ke hradbám mohutné skřetí pevnosti. Glamdrol!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:74
@@ -2771,6 +2774,9 @@ msgid ""
 "Most orcish tribes live as nomads, but Delfador says they take great pride "
 "in possessing Glamdrol — or in defeating the last possessor."
 msgstr ""
+"Většina skřetích kmenů žije kočovným způsobem, ale podle Delfadora jsou "
+"velmi hrdí na to, že mají v držení Glamdrol – nebo že porazili jeho "
+"posledního majitele."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:80
@@ -2779,6 +2785,9 @@ msgid ""
 "valuables they can find. Perhaps it’s time we gave them a taste of their own "
 "medicine!"
 msgstr ""
+"Skřeti často přepadají vesnice a města ve Wesnothu a kradou všechno zlato "
+"a cennosti, na které narazí. Možná je na čase, abychom jim oplatili stejnou "
+"mincí!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:150
@@ -2787,6 +2796,9 @@ msgid ""
 "paying our agreed-upon $bm_s22_gold_cost gold to our Stoneskin friends, we "
 "still have $gold gold remaining for our next battle."
 msgstr ""
+"Vydali jsme se do mohutné skřetí pevnosti a podařilo se nám odtud uniknout! "
+"Nyní, poté, co jsme našim přátelům Šutrokožcům zaplatili dohodnutou částku "
+"$bm_s22_gold_cost zlatých, nám na další bitvu zbývá ještě $gold zlatých."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:155
@@ -2796,6 +2808,10 @@ msgid ""
 "$bm_s22_gold_cost gold to our Stoneskin friends, we still have $gold gold "
 "remaining for our next battle."
 msgstr ""
+"Vydali jsme se do mohutné skřetí pevnosti a podařilo se nám odtud uniknout! "
+"A za to jsme byli bohatě odměněni! I po zaplacení dohodnuté částky "
+"$bm_s22_gold_cost zlatých našim přátelům Šutrokožcům nám ještě zbývá $gold "
+"zlatých na další bitvu."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:164
@@ -2804,6 +2820,9 @@ msgid ""
 "we only managed to pillage $gold gold for our next battle, at least we have "
 "survived."
 msgstr ""
+"Vydali jsme se do velké skřetí pevnosti a podařilo se nám odtud uniknout! "
+"I když se nám podařilo uloupit jen $gold zlatých na naši další bitvu, "
+"alespoň jsme to přežili."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:169
@@ -2812,6 +2831,9 @@ msgid ""
 "have been well-rewarded for it, for we now have $gold gold stockpiled for "
 "our next battle."
 msgstr ""
+"Vydali jsme se do velké skřetí pevnosti a podařilo se nám odtud uniknout! "
+"A za to jsme byli bohatě odměněni, protože nyní máme nashromážděno $gold "
+"zlatých na naši příští bitvu."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:178
@@ -2819,10 +2841,13 @@ msgid ""
 "Perhaps most importantly, we defeated the orcs’ shaman and took her magical "
 "horn! I shall wear it myself, and blow it whenever its magic is in need."
 msgstr ""
+"A co je možná nejdůležitější, porazili jsme skřetí šamanku a zmocnili se "
+"jejího kouzelného rohu! Budu ho nosit sám a troubit na něj, kdykoli bude "
+"zapotřebí jeho kouzla."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:183
 msgid "Horn of Glamdrol"
-msgstr ""
+msgstr "Roh z Glamdrolu"
 
 #. "allies" includes both the player side and allied sides. "living" excludes Delfador's elementals. When one ally dies, other allies gain the "regenerates" ability for one turn.
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:185
@@ -2830,6 +2855,9 @@ msgid ""
 "This nondescript horn is infused with powerful orcish magic. Whenever one of "
 "Konrad’s living allies dies, all others gain regeneration for one turn."
 msgstr ""
+"Tento nenápadný roh je naplněn mocným skřetím kouzlem. Kdykoli zemře jeden "
+"z Konrádových živých spojenců, všichni ostatní získají na jedno kolo "
+"schopnost regenerace."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:192
@@ -2837,6 +2865,8 @@ msgid ""
 "If only we had been able to defeat the orcs’ shaman and claim her magical "
 "horn..."
 msgstr ""
+"Kéž bychom byli schopni porazit skřetí šamanku a zmocnit se jejího "
+"kouzelného rohu..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:205
@@ -2844,17 +2874,21 @@ msgid ""
 "With the original orcish owners wiped out, our friends in the Stoneskin clan "
 "now hold the city."
 msgstr ""
+"Poté, co byli původní skřetí majitelé vyhubeni, ovládají nyní město naši "
+"přátelé z klanu Šutrokožců."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:210
 msgid "Glamdrol has been wiped clean of orcs!"
-msgstr ""
+msgstr "Glamdrol byl zcela očištěn od skřetů!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:216
 msgid ""
 "We’d best keep our distance. The orcs will be watching for any more raids!"
 msgstr ""
+"Raději bychom si měli držet odstup. Skřeti si budou na další přepady dávat "
+"pozor!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:233
