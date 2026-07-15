@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-15 22:58+0200\n"
+"PO-Revision-Date: 2026-07-15 23:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -15394,7 +15394,7 @@ msgstr ""
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:979
 msgid "Argh! He’s more powerful than we thought. I have to get away!"
-msgstr ""
+msgstr "To snad ne! Je silnější, než jsme si mysleli. Musím odtud pryč!"
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:989
