@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-14 19:15+0200\n"
+"PO-Revision-Date: 2026-07-15 22:37+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2204,8 +2204,8 @@ msgid ""
 "Konrad, I’ve told you stories about them Shadow Mages. How they helped "
 "Baldras an’ me bring down Halstead?"
 msgstr ""
-"Konráde, vyprávěla jsem ti už o těch stínových mázích. Jak pomohli "
-"Baldrasovi a mně způsobit pád Halsteadu?"
+"Konráde, vyprávěla jsem ti už o těch stínových mázích. Jak pomohli Baldrovi "
+"a mně způsobit pád Halsteadu?"
 
 #. [message]: speaker=Mya
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:672
@@ -8894,7 +8894,7 @@ msgid ""
 msgstr ""
 "To je ale pořádná potvora, co? Vsadím se, že to udělala schválně, aby nás "
 "všechny povstalce zaměstnala, zatímco si ona užívá přepychu ve Weldynu. "
-"Kdyby nebylo Baldrase a Relany, mohla jsem být jednou z těch mrtvých..."
+"Kdyby nebylo Baldra a Relany, mohla jsem být jednou z těch mrtvých..."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/07_Muff_Malals_Peninsula.cfg:324
