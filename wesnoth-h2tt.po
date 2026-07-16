@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-15 23:58+0200\n"
+"PO-Revision-Date: 2026-07-16 23:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2993,22 +2993,22 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:361
 msgid "Ashen’s Maw"
-msgstr ""
+msgstr "Popelný jícen"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:370
 msgid "Northern Spring"
-msgstr ""
+msgstr "Jaro na severu"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:371
 msgid "Northern Summer"
-msgstr ""
+msgstr "Léto na severu"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:372
 msgid "Northern Autumn"
-msgstr ""
+msgstr "Podzim na severu"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:373
@@ -3018,7 +3018,7 @@ msgstr "Zima na severu"
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:400
 msgid "... three parts essence of bark, one part yeti tongue..."
-msgstr ""
+msgstr "... tři díly výtažku z kůry, jeden díl jazyka yettiho..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:404
@@ -3026,11 +3026,13 @@ msgid ""
 "Hello, strange woman! What are you doing alone so far north? And in the "
 "middle of a blizzard too!"
 msgstr ""
+"Haló, neznámá ženo! Co tu děláš sama tak daleko na severu? A ještě k tomu "
+"uprostřed sněhové bouře!"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:408
 msgid "... a distillation of fire, elixir of the right-eye..."
-msgstr ""
+msgstr "... esence ohně, elixír z pravého oka..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:412
@@ -3038,6 +3040,7 @@ msgid ""
 "Hello? Hello!? ...she’s very engrossed in something, and still hasn’t "
 "noticed us."
 msgstr ""
+"Haló? Haló!? ... je do něčeho úplně pohroužená a pořád si nás nevšimla."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:419
@@ -3047,6 +3050,9 @@ msgid ""
 "middle of winter. We should speak to this woman and see if she needs any "
 "help."
 msgstr ""
+"Severní země jsou nebezpečným místem pro osamělé putování, zejména uprostřed "
+"tak prudké sněhové bouře, a <b><i>především</i></b> uprostřed zimy. Měli "
+"bychom si s touto ženou promluvit a zjistit, zda nepotřebuje nějakou pomoc."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:424
@@ -3055,6 +3061,9 @@ msgid ""
 "the center of such a fierce snowstorm. We should speak to this woman and see "
 "if she needs any help."
 msgstr ""
+"Severní země jsou nebezpečným místem pro osamělé putování, zvláště uprostřed "
+"tak prudké sněhové bouře. Měli bychom si s tou ženou promluvit a zjistit, "
+"jestli nepotřebuje nějakou pomoc."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:456
