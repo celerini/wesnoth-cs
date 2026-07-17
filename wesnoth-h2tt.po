@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-17 21:14+0200\n"
+"PO-Revision-Date: 2026-07-17 23:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16314,6 +16314,8 @@ msgid ""
 "Living soldiers at the perimeter! It’s Konrad and his rebels, intact despite "
 "the volcano! And... they’ve taken the princess prisoner?!"
 msgstr ""
+"Na obranném pásu jsou živí vojáci! Je to Konrád a jeho povstalci, kteří "
+"přežili výbuch sopky bez úhony! A... zajali princeznu?!"
 
 #. [message]: role=leader7
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:679
@@ -16321,6 +16323,9 @@ msgid ""
 "I’d been hoping for reinforcements, for we are already hard-pressed, but if "
 "we must fight a second foe to rescue our general I shall not shy away!"
 msgstr ""
+"Doufal jsem v posily, neboť už teď jsme v tísni, ale pokud budeme muset "
+"bojovat i proti druhému nepříteli, abychom zachránili naši generálku, "
+"rozhodně před tím neuhnu!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:683
@@ -16329,6 +16334,9 @@ msgid ""
 "temporary truce — emphasis on temporary. Until these undead are defeated, "
 "you are to work together with Konrad against the dead."
 msgstr ""
+"Ne, kapitáne, to nebude nutné. Jsem sice vězeň, ale dohodli jsme se na "
+"dočasném příměří – s důrazem na slovu „dočasném“. Dokud nebudou tito nemrtví "
+"poraženi, budete spolupracovat s Konrádem proti mrtvým."
 
 #. [message]: role=leader7
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:687
@@ -16336,6 +16344,8 @@ msgid ""
 "You’re certain? You’re not being coerced? Well, in the dire straits we’re in "
 "I can hardly say no to an ally."
 msgstr ""
+"Jste si jistá? Nedonutili vás? No, vzhledem k tomu, jak špatně na tom teď "
+"jsme, těžko mohu odmítnout spojence."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:706
@@ -21710,7 +21720,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:230
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:244
 msgid "sceptre of fire"
-msgstr ""
+msgstr "ohnivé žezlo"
 
 #. [object]: id=royal_chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:276
