@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-17 23:47+0200\n"
+"PO-Revision-Date: 2026-07-17 23:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16355,6 +16355,9 @@ msgid ""
 "once these undead are defeated. And perhaps sooner, if she senses in us some "
 "weakness!"
 msgstr ""
+"Konráde, neměli bychom se obávat Lisařiných výhrůžek? Ať už je vězněná, nebo "
+"ne, velmi jasně dala najevo, že jakmile budou tito nemrtví poraženi, poštve "
+"proti nám své spojence. A možná i dříve, pokud u nás vytuší nějakou slabost!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:710
@@ -16364,6 +16367,10 @@ msgid ""
 "enough to honor her word if she agrees not to harm us. I ask you to trust my "
 "judgement on this, my mentor."
 msgstr ""
+"Lisar není Eldred. Ačkoli je naším nepřítelem, dospěl jsem k přesvědčení, že "
+"Její Výsost má o svůj lid stejnou starost jako my a že je natolik "
+"důvěryhodná, aby dodržela své slovo, pokud se zaváže, že nám neublíží. "
+"Prosím tě, abys v této věci důvěřoval mému úsudku, můj učiteli."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:714
@@ -16373,6 +16380,9 @@ msgid ""
 "growing wise beyond your years. Let us set aside my worries and direct our "
 "efforts against the undead."
 msgstr ""
+"Když mě naposledy nějaký král požádal, abych mu věřil, dopadlo to pro nás "
+"oba dost špatně. Nicméně, Konráde, jsi můj pán a vím, že jsi na svůj věk až "
+"dost moudrý. Odložme mé obavy stranou a soustřeďme se na boj proti nemrtvým."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:728
