@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-16 23:14+0200\n"
+"PO-Revision-Date: 2026-07-17 21:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -15860,7 +15860,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:516
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:535
 msgid "Death of Li’sar"
-msgstr ""
+msgstr "Lisar zemře"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:527
@@ -16266,22 +16266,22 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:501
 msgid "Reach Li’sar’s loyalists before they are slain"
-msgstr ""
+msgstr "Dostaň se k Lisařiným věrným, než budou zabiti"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:508
 msgid "Then, defeat the primary enemy leader"
-msgstr ""
+msgstr "Poté poraz hlavního nepřátelského vůdce"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:516
 msgid "Defeat the primary enemy leader"
-msgstr ""
+msgstr "Poraz hlavního nepřátelského vůdce"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:525
 msgid "Defeat Iliah-Malal"
-msgstr ""
+msgstr "Poraz Iliah-Malala"
 
 #. [note]
 #. because of the low starting gold, companions (who're usually recalled for free) would be overly powerful here
@@ -16290,6 +16290,8 @@ msgid ""
 "Konrad’s forces are exhausted, and have less starting gold than usual. Loyal "
 "companions (except Delfador) are not automatically recalled."
 msgstr ""
+"Konrádovy jednotky jsou vyčerpané a je tu méně počátečního zlata než "
+"obvykle. Věrní společníci (kromě Delfadora) nejsou povoláni automaticky."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:566
