@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-17 23:57+0200\n"
+"PO-Revision-Date: 2026-07-18 09:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16435,6 +16435,8 @@ msgid ""
 "My men and I are desperately low on gold and supplies, Li’sar. Now we have "
 "met with your allies — do they have anything to spare?"
 msgstr ""
+"Lisar, mým mužům i mně zoufale dochází zlato a zásoby. Teď, když jsme se "
+"setkali s tvými spojenci – nemají náhodou něco nazbyt?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:783
@@ -16442,6 +16444,8 @@ msgid ""
 "My men and I are desperately low on gold and supplies, Li’sar. Now that we "
 "are allies, do you have anything to spare?"
 msgstr ""
+"Lisar, mým mužům i mně zoufale dochází zlato a zásoby. Teď, když jsme "
+"spojenci, nemáte něco, co byste nám mohli poskytnout?"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:788
@@ -16449,6 +16453,8 @@ msgid ""
 "We are allies only of convenience, cousin, and it is not in my best interest "
 "for you or your rebels to be too well-supplied."
 msgstr ""
+"Jsme spojenci jen z praktických důvodů, bratranče, a není v mém zájmu, "
+"abyste ty nebo tvoji povstalci byli příliš dobře zásobeni."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:793
@@ -16457,6 +16463,9 @@ msgid ""
 "enough to outfit themselves as it is. It’s unfortunate that the queen’s "
 "orders harmed us as much as they did you, if not more."
 msgstr ""
+"... ne že by na tom záleželo, protože vidím, že moji vojáci mají sotva dost, "
+"aby se vůbec mohli vystrojit. Je smutné, že královniny rozkazy nám uškodily "
+"stejně jako vám, ne-li ještě víc."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:798
@@ -16465,12 +16474,15 @@ msgid ""
 "as it is. It’s unfortunate that the queen’s orders harmed us as much as they "
 "did you, if not more."
 msgstr ""
+"... ne že by na tom záleželo, protože i tak máme sotva dost na to, abychom "
+"se sami vystrojili. Je smutné, že královniny rozkazy nám uškodily stejně "
+"jako vám, ne-li ještě víc."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:803
 msgid ""
 "It’s not “unfortunate” — your mother was more than willing to see you killed."
-msgstr ""
+msgstr "Není to „smutné“ – tvoje matka byla více než ochotná nechat tě zabít."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:807
@@ -16480,6 +16492,10 @@ msgid ""
 "to ensure that Wesnoth survives, even if I don’t. I cannot fault her for "
 "that."
 msgstr ""
+"Ašvíra vydala Mirye rozkazy, které považovala za nezbytné, aby ti zabránila "
+"v útěku. Zda to byly moudré rozkazy, či nikoli, není podstatné. Jednala tak, "
+"aby zajistila přežití Wesnothu, i kdybych já sama nepřežila. Za to ji nemohu "
+"vinit."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:811
@@ -16487,6 +16503,8 @@ msgid ""
 "She acted to ensure her power remains unchallenged, you mean. The dark queen "
 "cares only for herself."
 msgstr ""
+"Chceš tím říct, že jednala tak, aby její moc zůstala nezpochybnitelná. Temná "
+"královna se stará jen o sebe."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:816
@@ -16494,6 +16512,9 @@ msgid ""
 "“<i>The dark queen</i>,” pfft. I’ve heard enough slander; hold your tongue "
 "or I shall have my men make an end to our truce and short work of you."
 msgstr ""
+"„<i>Temná královna</i>,“ pfff. Už jsem si vyslechla dost pomluv. Drž jazyk "
+"za zuby, nebo přikážu svým mužům, aby zrušili naše příměří a rychle s tebou "
+"skoncovali."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:821
@@ -16501,6 +16522,8 @@ msgid ""
 "“<i>The dark queen</i>,” pfft. I’ve heard enough slander; hold your tongue "
 "or I shall make an end to our truce and short work of you."
 msgstr ""
+"„<i>Temná královna</i>,“ pfff. Už jsem si vyslechla dost pomluv. Drž jazyk "
+"za zuby, nebo ukončím naše příměří a rychle s tebou skoncuji."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:863
