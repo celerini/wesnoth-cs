@@ -5,14 +5,15 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-05-20 19:21+0200\n"
-"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
+"PO-Revision-Date: 2026-07-18 15:49+0200\n"
+"Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Poedit 3.9\n"
 
 #. [editor_group]: id=the_deceivers_gambit
 #. [campaign]: id=The Deceivers Gambit 1
@@ -844,7 +845,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:411
 msgid "Hello, my adoring fans!"
-msgstr ""
+msgstr "Zdravím, mí věrní fanoušci!"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:415
