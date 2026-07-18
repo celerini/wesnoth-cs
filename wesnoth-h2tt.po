@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-18 11:57+0200\n"
+"PO-Revision-Date: 2026-07-18 18:42+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3473,7 +3473,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1065
 msgid "Caverns of Chaincolt"
-msgstr ""
+msgstr "Jeskyně Rychlotepců"
 
 #. [scenario]: id=28_The_Lost_General
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1076
