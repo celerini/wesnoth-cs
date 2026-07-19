@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-19 10:15+0200\n"
+"PO-Revision-Date: 2026-07-19 11:59+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3584,7 +3584,7 @@ msgstr ""
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1224
 msgid "Another attack! Up axes, and make ready to repel the invaders!"
-msgstr ""
+msgstr "Další útok! Pozdvihněte sekery a připravte se na odražení vetřelců!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1228
@@ -3592,6 +3592,8 @@ msgid ""
 "Peace, dwarves of Knalga! I am a man of Wesnoth, not an orc or a troll, and "
 "I come as a friend."
 msgstr ""
+"Mír s vámi, trpaslíci z Knalgy! Jsem člověk z Wesnothu, nejsem skřet ani "
+"troll, a přicházím jako přítel."
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1232
@@ -3599,6 +3601,8 @@ msgid ""
 "A man? Haven’t seen many o’ yer kind since our friends at the Doors fell, "
 "an’ you ain’t one o’ their’s. Who says we should trust ye?"
 msgstr ""
+"Člověk? Neviděl jsem moc lidí od té doby, co padli naši přátelé z Dveří, "
+"a ty k nim zjevně nepatříš. Kdo říká, že bychom ti měli věřit?"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1248
@@ -3606,6 +3610,8 @@ msgid ""
 "Let us in, ye chicken-hearted cad! Cannae a dwarf return to ’is home without "
 "bein’ set upon like some horde o’ trolls?"
 msgstr ""
+"Pusť nás dovnitř, ty ustrašený nevychovanče! Copak se trpaslík nemůže vrátit "
+"domů, aniž ho napadnou, jako by byl horda trollů?"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1252
@@ -3613,7 +3619,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1305
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1333
 msgid "I dunno..."
-msgstr ""
+msgstr "No nevím..."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1257
@@ -3622,6 +3628,9 @@ msgid ""
 "a Bloodaxe now too!? Get across th’ bridge then, quickly-now, afore th’ orcs "
 "find ye."
 msgstr ""
+"Ulfdain!? Neviděl jsem tě už roky, od té doby, co jsi odešel do Wesnothu – "
+"a teď jsi dokonce i Krvavá sekyra!? Tak přejdi ten most, rychle, než tě "
+"zastihnou skřeti."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1262
@@ -3629,6 +3638,8 @@ msgid ""
 "Ulfdain!? I ain’t seen you in years, not since you left fer Wesnoth! Get "
 "across th’ bridge then, quickly-now, afore th’ orcs find ye."
 msgstr ""
+"Ulfdain!? Neviděl jsem tě už roky, od té doby, co jsi odešel do Wesnothu! "
+"Tak přejdi ten most, rychle, než tě zastihnou skřeti."
 
 #. [message]: speaker=Somf
 #. [message]: role=doors_vouch_peasant
@@ -3638,6 +3649,8 @@ msgid ""
 "I’m from the Doors, your old human allies! And I’m free now, thanks to this "
 "boy Konrad and his army! They’re good people, and I’ll vouch for ’em."
 msgstr ""
+"Jsem z Dveří, vašich bývalých lidských spojenců! A teď jsem na svobodě, díky "
+"tomuhle chlapci Konrádovi a jeho vojsku! Jsou to dobří lidé a ručím za ně."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1286
@@ -3645,6 +3658,8 @@ msgid ""
 "Ah, let ’em in, Geldar. They ain’t orcs, trolls, or undead, an’ that’s good "
 "enough for now."
 msgstr ""
+"Ach, pusť je dovnitř, Geldare. Nejsou to skřeti, trollové ani nemrtví, a to "
+"nám prozatím stačí."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1309
@@ -3653,6 +3668,8 @@ msgid ""
 "Ah, let ’em in, Geldar. They ain’t orcs, trolls, or undead, an’ that’s good "
 "enough for me."
 msgstr ""
+"Ach, pusť je dovnitř, Geldare. Nejsou to skřeti, trollové ani nemrtví, a to "
+"mi stačí."
 
 #. [message]: role=doors_vouch_peasant
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1329
@@ -3660,6 +3677,8 @@ msgid ""
 "Ah’m a dwarf, gatekeeper, an’ I’ll vouch for them. Lower yer axes an’ let us "
 "in, ye hear?"
 msgstr ""
+"Jsem trpaslík, strážce brány, a ručím za ně. Skloňte sekery a pusťte nás "
+"dovnitř, slyšíte?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1350
@@ -3667,6 +3686,8 @@ msgid ""
 "I am Konrad, nephew of Garard, son of Arand and heir to the throne of "
 "Wesnoth! I give my word — you can trust me, dwarf."
 msgstr ""
+"Jmenuji se Konrád, jsem synovec Gararda, syn Aranda a dědic trůnu Wesnothu! "
+"Dávám ti své slovo – můžeš mi věřit, trpaslíku."
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1354
@@ -3675,6 +3696,9 @@ msgid ""
 "here before. Even if you really are a prince, you ain’t gettin’ ’cross the "
 "east bridge lest ye’ve got someone to vouch for ye."
 msgstr ""
+"Hm. To říkáš ty. Už jsme tu měli podvodníky, co pracovali pro skřety "
+"a snažili se sem vplížit. I kdybys opravdu byl princ, přes východní most se "
+"nedostaneš, pokud nemáš někoho, kdo se za tebe zaručí."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1369
