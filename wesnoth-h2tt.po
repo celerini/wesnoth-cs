@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-18 18:42+0200\n"
+"PO-Revision-Date: 2026-07-19 10:15+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3261,7 +3261,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:720
 msgid "Tirix"
-msgstr ""
+msgstr "Tirix"
 
 #. [message]: speaker=Tirix
 #. Slow, slow! It is disgusting how all you tall ones are so slow!
@@ -3270,6 +3270,8 @@ msgid ""
 "Ssslow, ssslow! It isss disssgusssting how you tall onesss are all ssso "
 "ssslow!"
 msgstr ""
+"Pomalý jak ssslimák! To je nechutné, jak jssste vy, ti vysssocí, všššichni "
+"tak pomalí!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:744
@@ -3277,6 +3279,8 @@ msgid ""
 "What do you mean, lizard? Both my legs and my sword-arm are perfectly quick "
 "— as you will soon find out if you wish me any ill-intent."
 msgstr ""
+"Co tím myslíš, ještěrko? Jak nohy, tak ruka, v níž držím meč, jsou naprosto "
+"hbité – o čemž se brzy přesvědčíš, pokud máš se mnou v úmyslu něco nekalého."
 
 #. [message]: speaker=Tirix
 #. Psssh... I know your kind; tall, and clumsy. Tirix can teach you speed... yes, speed... But only if you pay. It shall not be cheap.
@@ -3285,11 +3289,13 @@ msgid ""
 "Psssh... I know your kind; tall, and clumsssy. Tirix can teach you "
 "ssspeed... yesss, ssspeed... But only if you pay. It ssshall not be cheap."
 msgstr ""
+"Psss... Znám tvůj druh. Vysoký a neohrabaný. Tirix tě může naučit "
+"rychlosssti... ano, rychlosssti... Ale jen když zaplatíššš. Nebude to levné."
 
 #. [message]: speaker=Tirix
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:754
 msgid "Have you returned to learn the waysss of ssspeed, human?"
-msgstr ""
+msgstr "Vrátil sssesss naučit ssse umění rychlosssti, člověče?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:768
@@ -3298,6 +3304,9 @@ msgid ""
 "have no time to spare for lengthy training. Perhaps we will meet again "
 "another day."
 msgstr ""
+"Je od tebe hezké, že mi to nabízíš, ale spěchám na sever, abych se setkal se "
+"svým učitelem, a nemám čas na zdlouhavý výcvik. Možná se někdy jindy znovu "
+"potkáme."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:778
@@ -3454,6 +3463,8 @@ msgid ""
 "Get back to work, pinkskin! Show your masters a proper work ethic and maybe "
 "you’ll be spared the lash!"
 msgstr ""
+"Vrať se k práci, bledá kůže! Ukaž svým pánům, jak se má pořádně pracovat, "
+"a možná tě ušetří bičování!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1046
@@ -3461,6 +3472,8 @@ msgid ""
 "Slaves? This is a travesty! Weren’t the Dwarven Doors once a great center of "
 "civilization?"
 msgstr ""
+"Otroci? To je výsměch! Nebyly snad Trpasličí Dveře kdysi velkým centrem "
+"civilizace?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1050
@@ -3469,6 +3482,9 @@ msgid ""
 "not stop the orcish war-horde. And now it’s a slave city under the heel of "
 "the orcs!"
 msgstr ""
+"Jejich spojenectví s Knalgou bylo silné, ale ani lidé a trpaslíci společně "
+"nedokázali zastavit skřetí válečnou hordu. A teď je to otrocké město pod "
+"nadvládou skřetů!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1065
@@ -3501,6 +3517,9 @@ msgid ""
 "or merely moved. There might have been treasure here, once, but all that is "
 "left now is rubble and excrement."
 msgstr ""
+"Trollové, kteří kdysi obývali tyto staré sály, jsou pryč. Buď byli vyhubeni, "
+"nebo se prostě odstěhovali. Možná tu kdysi byl nějaký poklad, ale dnes tu "
+"zbyly jen sutiny a výkaly."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1127
@@ -3523,10 +3542,13 @@ msgid ""
 "tragedy when the kingdom of the dwarves was shattered by the orcs and their "
 "allies. Now all that’s left here are trolls and ruins."
 msgstr ""
+"Západní brána Knalgy! Něco o tomhle místě vím... Byla to strašná tragédie, "
+"když království trpaslíků rozvrátili skřeti a jejich spojenci. Teď tu "
+"zůstali už jen trollové a trosky."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1167
 msgid "Greater Knalga"
-msgstr ""
+msgstr "širší Knalga"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1172
@@ -6078,6 +6100,8 @@ msgid ""
 "Any other time I would have insisted on stopping to help these poor people! "
 "But I’ve been instructed to meet with Delfador at once."
 msgstr ""
+"Být to jindy, trval bych na tom zastavit a pomoci těm ubohým lidem! Ale "
+"dostal jsem pokyn, abych se okamžitě setkal s Delfadorem."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1432
@@ -6086,6 +6110,9 @@ msgid ""
 "closed to us. But I can still loop around to the west, north, then east, "
 "through the Caverns of Chaincolt."
 msgstr ""
+"Delfador je odtud jen kousek na sever. Vzhledem k tomu, že je v okolí tolik "
+"skřetů, jsou pro nás Dveře uzavřené. Ale pořád to můžu obejít na západ, na "
+"sever a pak na východ, skrz Jeskyně Rychlotepců."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1450
