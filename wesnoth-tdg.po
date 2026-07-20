@@ -994,7 +994,7 @@ msgid ""
 "achievements, the restless king could find no peace."
 msgstr ""
 "Poté, co zajistil východní země a zpacifikoval bandity na jihu, se jeho říše "
-"rozrostla a zesílila. Sňatek s mladou Avšírou mu dal nejen královnu, ale i "
+"rozrostla a zesílila. Sňatek s mladou Ašvírou mu dal nejen královnu, ale i "
 "naději na budoucího dědice. Navzdory všem úspěchům král stále nenacházel "
 "klid."
 
