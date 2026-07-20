@@ -947,7 +947,7 @@ msgid ""
 "to the written section; please conjure your quill and parchment..."
 msgstr ""
 "...jak jsem říkal... učedníku, gratuluji vám k úspěšnému absolvování "
-"praktické části závěrečné zkoušky! Nyní přejdeme k písemné části; vykouzlete "
+"praktické části závěrečné zkoušky! Nyní přejdeme k písemné části. Vykouzlete "
 "si prosím brk a pergamen..."
 
 #. [message]: speaker=Delfador
