@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-21 23:10+0200\n"
+"PO-Revision-Date: 2026-07-21 23:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3862,6 +3862,7 @@ msgid ""
 "The Sceptre is quite real, I assure you. Perhaps you have forgotten our "
 "lessons..."
 msgstr ""
+"Žezlo je zcela skutečné, to ti zaručuji. Možná jsi zapomněl na naše lekce..."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:54
@@ -3871,6 +3872,10 @@ msgid ""
 "finest smiths years to make it, but soon after it was completed, the makers "
 "were chased underground, attacked by the elves."
 msgstr ""
+"Rubín – dnes známý jako Ohnivé žezlo – je symbolem králů Wesnothu, který "
+"vytvořili trpaslíci z Knalgy na příkaz krále Haldrika II. Jejich nejlepším "
+"kovářům trvalo jeho zhotovení několik let, ale krátce po jeho dokončení byli "
+"tvůrci donuceni uchýlit se do podzemí, kde na ně zaútočili elfové."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:58
@@ -3879,6 +3884,9 @@ msgid ""
 "great caverns. Years have passed, and the fortunes of the dwarves have waxed "
 "and waned, but the Sceptre has never been found."
 msgstr ""
+"Nikdo přesně neví, co se stalo, ale žezlo se ztratilo někde v těch "
+"obrovských jeskyních. Uplynula léta a osudy trpaslíků se střídavě zlepšovaly "
+"a zhoršovaly, ale žezlo se nikdy nenašlo."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:69
@@ -3887,6 +3895,8 @@ msgid ""
 "that if your mentor searches for the Sceptre here, his magic is sure to find "
 "it."
 msgstr ""
+"Až dosud. Nitky proroctví se dávají do pohybu, Konráde – bylo předpovězeno, "
+"že pokud tvůj učitel bude hledat žezlo zde, jeho magie ho jistě najde."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:74
@@ -3895,6 +3905,9 @@ msgid ""
 "if your mentor searched for the Sceptre here, his magic would be sure to "
 "find it. And he has."
 msgstr ""
+"Až dosud. Nitky proroctví se dávají do pohybu, Konráde – bylo předpovězeno, "
+"že pokud tvůj učitel bude hledat žezlo zde, jeho magie ho jistě najde. A on "
+"ho našel."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:79
@@ -3903,6 +3916,9 @@ msgid ""
 "that you must someday hold the Sceptre if peace is ever to find Wesnoth... "
 "or the elves."
 msgstr ""
+"A ačkoli nevím jak ani přesně proč, vyšlo rovněž najevo, že jednoho dne "
+"budeš muset převzít žezlo, má-li někdy ve Wesnothu zavládnout mír... nebo "
+"u elfů."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:84
@@ -3911,6 +3927,9 @@ msgid ""
 "that if I searched for the Sceptre here, my magic would be sure to find it. "
 "And I have."
 msgstr ""
+"Až dosud. Nitky proroctví se dávají do pohybu, Konráde – bylo předpovězeno, "
+"že pokud budu hledat žezlo právě tady, moje magie ho jistě najde. A já jsem "
+"ho našel."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:103
@@ -3919,6 +3938,9 @@ msgid ""
 "the Sceptre, and reclaim the kingdom! If there’s augury about it we’re "
 "guaranteed to succeed, right?"
 msgstr ""
+"No, tak dobře. Na co ještě čekáme? Prohledáme ty jeskyně, seženeme žezlo "
+"a získáme království zpět! Jestli to předpovídají věštby, úspěch máme "
+"zaručený, ne?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:108
@@ -3927,6 +3949,8 @@ msgid ""
 "reclaim the kingdom! If there’s augury about it we’re guaranteed to succeed, "
 "right?"
 msgstr ""
+"No, tak dobře. Na co ještě čekáme? Pojďme si vzít žezlo a získat království "
+"zpět! Jestli to předpovídají věštby, úspěch máme zaručený, ne?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:113
@@ -3934,6 +3958,8 @@ msgid ""
 "No, no, no! This is <b><i>precisely</i></b> what I was worried about. You "
 "are not guaranteed to succeed, nor are you invincible!"
 msgstr ""
+"Ne, ne, ne! To je <b><i>přesně</i></b> to, čeho jsem se obával. Úspěch nemáš "
+"zaručený a nejsi ani neporazitelný!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:117
@@ -3942,11 +3968,13 @@ msgid ""
 "and my haste, I ruined quite nearly everything. You already know the story "
 "of my folly."
 msgstr ""
+"Když jsem byl mladý, ocitl jsem se v podobné situaci. Svou namyšleností "
+"a ukvapeností jsem zkazil téměř všechno. Příběh o mé pošetilosti už znáš."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:121
 msgid "My father, Prince Arand."
-msgstr ""
+msgstr "A o mém otci, princi Arandovi."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:126
@@ -3954,6 +3982,8 @@ msgid ""
 "Quite right. Do not become overconfident, Konrad. I am searching for the "
 "Sceptre now. Once it is found, I promise you shall most certainly have it."
 msgstr ""
+"Zcela správně. Nebuď příliš sebejistý, Konráde. Právě hledám žezlo. Jakmile "
+"ho najdu, slibuji ti, že ho určitě dostaneš."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:131
@@ -3961,6 +3991,8 @@ msgid ""
 "Quite right. Do not become overconfident, Konrad. We may be about to claim "
 "the Sceptre, but we have not done so yet. And you are not yet king."
 msgstr ""
+"Zcela správně. Nebuď příliš sebejistý, Konráde. Možná získáme žezlo, ale "
+"zatím se nám to ještě nepodařilo. A ty ještě nejsi králem."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:136
@@ -3968,6 +4000,8 @@ msgid ""
 "But no matter what, please — be forgiving, be wise, and above all be kind. "
 "For that is where I failed."
 msgstr ""
+"Ať už se stane cokoli, prosím – buď shovívavý, buď moudrý a především buď "
+"laskavý. Právě v tom jsem totiž selhal."
 
 #. [scenario]: id=30_The_Sceptre_of_Fire
 #. [object]: id=sceptre_of_fire, type=fire, type=fire, type=fire, type=fire
