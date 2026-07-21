@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-19 11:59+0200\n"
+"PO-Revision-Date: 2026-07-21 23:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3554,13 +3554,13 @@ msgstr "širší Knalga"
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1172
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:189
 msgid "Geldar"
-msgstr ""
+msgstr "Geldar"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1173
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:460
 msgid "Relgorn"
-msgstr ""
+msgstr "Relgorn"
 
 #. [scenario]: id=29_Digging_for_Dwarves
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1184
@@ -3580,6 +3580,8 @@ msgid ""
 "What now, human? I already told ye, no-one gets in without someone to vouch "
 "for ’em."
 msgstr ""
+"Co zas, člověče? Už jsem ti přece říkal, že dovnitř se nikdo nedostane, "
+"pokud se za něj někdo nezaručí."
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1224
