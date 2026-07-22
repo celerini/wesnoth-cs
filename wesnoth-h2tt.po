@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-21 23:44+0200\n"
+"PO-Revision-Date: 2026-07-22 22:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4014,7 +4014,7 @@ msgstr "Ohnivé žezlo"
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:156
 msgid ""
 "Weapon for Konrad: <span color='#EFBF04'><b>The Sceptre of Fire</b></span>"
-msgstr ""
+msgstr "Zbraň pro Konráda: <span color='#EFBF04'><b>Ohnivé žezlo</b></span>"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:178
@@ -4022,6 +4022,8 @@ msgid ""
 "Hello, Konrad! I am most glad to see you again. Have you and Kalenz been "
 "taking good care of yourselves?"
 msgstr ""
+"Haló, Konráde! Moc mě těší, že tě zase vidím. Staráte se o sebe s Kalenzem "
+"dobře?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:182
@@ -4029,13 +4031,15 @@ msgid ""
 "Delfador, at last! So this is where you went off to! What quest could "
 "possibly bring you into this maze of tiny caves and tunnels?"
 msgstr ""
+"Delfadore, konečně! Tak sem jsi tedy zmizel! Jaký úkol tě mohl zavést do "
+"tohoto bludiště malých jeskyní a tunelů?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:186
 msgid ""
 "Well, I suppose I must tell you eventually... Konrad, I am searching for the "
 "Sceptre of Fire."
-msgstr ""
+msgstr "No, asi ti to nakonec budu muset říct... Konráde, hledám Ohnivé žezlo."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:190
@@ -4043,6 +4047,8 @@ msgid ""
 "The Sceptre of Fire? The youngfolk at Blackwater Port always said that was "
 "just an old myth."
 msgstr ""
+"Ohnivé žezlo? Mládež v přístavu Temná Voda vždycky říkala, že je to jen "
+"stará báje."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:200
@@ -4050,6 +4056,8 @@ msgid ""
 "I have come, Delfador! So this is where you went off to! It is good to see "
 "you again, even if it is in such an unpleasant maze of caves and tunnels."
 msgstr ""
+"Už jsem tady, Delfadore! Tak sem jsi tedy zmizel! Rád tě zase vidím, i když "
+"je to v takovém nepříjemném bludišti jeskyní a tunelů."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:204
@@ -4057,6 +4065,8 @@ msgid ""
 "You say you are searching for the Sceptre of Fire? The youngfolk at "
 "Blackwater Port always said that was just an old myth!"
 msgstr ""
+"Říkáš, že hledáš Ohnivé žezlo? Mládež v přístavu Temná Voda vždycky tvrdila, "
+"že je to jen stará báje!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:219
@@ -4064,6 +4074,8 @@ msgid ""
 "I am glad to see you have returned, Konrad. Are you ready to proceed onto "
 "the next phase of your adventures?"
 msgstr ""
+"Jsem rád, že ses vrátil, Konráde. Jsi připravený pustit se do další fáze "
+"svých dobrodružství?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:230
@@ -4071,6 +4083,8 @@ msgid ""
 "I have not located the Sceptre yet, but I am making progress. I shall send a "
 "messenger once we are ready to retrieve it — perhaps after your next battle."
 msgstr ""
+"Žezlo jsem zatím nenašel, ale daří se mi postupovat vpřed. Pošlu posla, "
+"jakmile budeme připraveni ho získat – možná po tvé další bitvě."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:235
@@ -4079,6 +4093,9 @@ msgid ""
 "messenger once we are ready to retrieve it — perhaps in $"
 "( $bm_milestone_scepter - $bm_turns ) battles’ time."
 msgstr ""
+"Žezlo jsem zatím nenašel, ale postupuji vpřed. Jakmile budeme připraveni ho "
+"získat, pošlu posla – možná to bude trvat ještě několik bitev, asi $"
+"( $bm_milestone_scepter - $bm_turns )."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:240
@@ -4088,6 +4105,10 @@ msgid ""
 "and continue exploring the Great Continent. You have done much good already, "
 "but there are countless others who still need your help."
 msgstr ""
+"Nalezení žezla bude znamenat zásadní zlom v našem dobrodružství, Konráde. "
+"Než k tomu dojde, naléhavě tě žádám, abys využil své svobody a pokračoval "
+"v prozkoumávání Velkého kontinentu. Už jsi vykonal mnoho dobrého, ale "
+"existuje nespočet dalších, kteří stále potřebují tvou pomoc."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:244
@@ -4096,6 +4117,9 @@ msgid ""
 "although doing so may afford us more time for our future endeavors, it will "
 "also mark the end of your deeds in this region."
 msgstr ""
+"Můžeš se ke mně připojit a urychlit pátrání, pokud si to přeješ, ale měj na "
+"paměti, že ačkoli nám to možná poskytne více času na naše budoucí podniky, "
+"bude to zároveň znamenat konec tvých činů v této oblasti."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:254
@@ -4104,6 +4128,8 @@ msgid ""
 "located the object of our search, but we will need to work together to "
 "retrieve it."
 msgstr ""
+"Výborně, přišel jsi rychle. Děkuji, Konráde. Jsem si jistý, že už vím, kde "
+"je to, co hledáme, ale budeme muset spolupracovat, abychom to získali."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:260
@@ -4112,6 +4138,9 @@ msgid ""
 "The surrounding caverns are crawling with all manner of monsters, doubtless "
 "drawn by its power."
 msgstr ""
+"Tady je tunel, v jehož hloubi leží Ohnivé žezlo – symbol králů. Okolní "
+"jeskyně se hemží nejrůznějšími příšerami, které nepochybně přitahuje jeho "
+"síla."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:264
@@ -4119,6 +4148,8 @@ msgid ""
 "Together, we shall clear the tunnels and claim your birthright once and for "
 "all."
 msgstr ""
+"Společně vyčistíme tunely a jednou provždy si vybojujeme to, na co máš od "
+"narození nárok."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:336
@@ -4126,6 +4157,8 @@ msgid ""
 "The lava continues to rise! Hurry, Konrad — I have cast a spell to hasten "
 "our flight, but you must decide in which direction we go!"
 msgstr ""
+"Láva stále stoupá! Pospěš si, Konráde — seslal jsem kouzlo, které urychlí "
+"náš útěk, ale ty se musíš rozhodnout, kterým směrem se vydáme!"
 
 #. [scenario]: id=31_Plunging_Into_Darkness
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:355
