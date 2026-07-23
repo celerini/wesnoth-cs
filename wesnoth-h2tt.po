@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-22 22:31+0200\n"
+"PO-Revision-Date: 2026-07-23 22:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6222,12 +6222,16 @@ msgid ""
 "Crossin’ through Stoneskin ford? Dat’ll be $ford_cost gold for passage, "
 "whelp."
 msgstr ""
+"Chceš přejít brod Šutrokožců? To tě bude stát $ford_cost zlatých za průchod, "
+"děvče."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1496
 msgid ""
 "Clan Stoneskin is an ally of the crown. Let me by or face the consequences."
 msgstr ""
+"Klan Šutrokožců je spojencem koruny. Pusťte mě dál, nebo si ponesete "
+"následky."
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1500
@@ -6235,11 +6239,13 @@ msgid ""
 "Das right, miss princess. An bein’ our allies, I’m sure you wooden mind "
 "donatin’ dem $ford_cost gold pieces."
 msgstr ""
+"Pravdu díš, slečno princezno. A jelikož jste naši spojenci, jsem si jistý, "
+"že by vám nevadilo přispět těmi $ford_cost zlaťáky."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1533
 msgid "Good news or bad news, Mirya. Are we too late?"
-msgstr ""
+msgstr "Dobrá zpráva, nebo špatná, Miryo? Je už příliš pozdě?"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1537
@@ -6248,11 +6254,13 @@ msgid ""
 "Highness. But your “cousin” has only just arrived. They can’t yet have "
 "reached it."
 msgstr ""
+"Rozhodně mají před námi náskok – tím jsem si jistá, Vaše Výsosti. Ale váš "
+"„bratranec“ teprve dorazil. Ještě se k žezlu nemohli dostat."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1541
 msgid "Then there’s still a chance. Double-quick, men!"
-msgstr ""
+msgstr "Tak to ještě není ztracené. Poklusem, hoši!"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1567
