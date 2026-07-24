@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-23 22:14+0200\n"
+"PO-Revision-Date: 2026-07-24 21:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -14904,7 +14904,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:92
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:77
 msgid "Monsters"
-msgstr ""
+msgstr "Příšery"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:259
@@ -14913,6 +14913,10 @@ msgid ""
 "parts of the hewn caverns. Except for disturbances caused by the occasional "
 "rodent, the air in the lower passages was still and tomblike."
 msgstr ""
+"S posledními trpasličími ruinami daleko za zády sestoupila výprava do "
+"nejhlubších částí vytesaných jeskyní. Až na rušivé zvuky, které občas "
+"vydával nějaký hlodavec, byl vzduch v nižších chodbách nehybný a hrobově "
+"tichý."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:265
@@ -14922,6 +14926,10 @@ msgid ""
 "flickered and went out. Even the staff of the elder mage struggled to "
 "produce enough light to see by."
 msgstr ""
+"Konrád a Delfador prošli nízkou chodbou a vynořili se ze spleti katakomb do "
+"ledové tmy. Zdálo se, že je temnota drtí. Světla blikala a zhasínala. "
+"Dokonce i hůl staršího mága sotva vydávala dost světla, aby se dalo něco "
+"vidět."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:271
@@ -14930,12 +14938,16 @@ msgid ""
 "visible. Wind howled and whipped over narrow ledges bridging the depths, "
 "almost as if animated by powerful nearby magic... and approaching evil."
 msgstr ""
+"Před nimi se rozprostírala obrovská prázdnota, přes kterou nebylo vidět ani "
+"strop, ani stěny. Vítr kvílel a bičoval úzké římsy, které překlenovaly "
+"propasti, téměř jako by jej oživovalo nedaleké mocné kouzlo...  a blížící se "
+"zlo."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:295
 msgid ""
 "We’ve been traveling for days upon days. Surely the Sceptre is getting close!"
-msgstr ""
+msgstr "Cestujeme už celé dny. Žezlo je určitě blízko!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:299
@@ -14944,6 +14956,9 @@ msgid ""
 "near! The Sceptre was forged here, not far where we now stand. The sheer "
 "power of it!"
 msgstr ""
+"Ano, cítím, že je někde tady poblíž. Volá po osvobození... je blízko. Velmi "
+"blízko! Bylo vykováno právě tady, nedaleko od místa, kde teď stojíme. Ta "
+"jeho ohromná síla!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:302
@@ -14952,6 +14967,8 @@ msgid ""
 "It is the fault of my people — Landar’s rebels — that the Sceptre was lost. "
 "It is only fair that I help get it back. Which way should we go, Delfador?"
 msgstr ""
+"To, že se žezlo ztratilo, je vina mého lidu – Landarových povstalců. Je jen "
+"spravedlivé, když pomůžu získat ho zpět. Kterou cestou se vydáme, Delfadore?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:304
@@ -14960,6 +14977,8 @@ msgid ""
 "thought I might actually be seein’ it in person. Which way do we go, "
 "Delfador?"
 msgstr ""
+"Když jsem byla malá, vyprávěli mi o žezle pohádky... Nikdy by mě nenapadlo, "
+"že ho jednou uvidím na vlastní oči. Kudy se vydáme, Delfadore?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:305
@@ -14968,6 +14987,8 @@ msgid ""
 "proclaim the texts, and so shall it be. Whither shall we go to find the "
 "Sceptre, scholar?"
 msgstr ""
+"Věru, posvátný oheň vnese Světlo do temných míst! Tak to hlásají texty, "
+"a tak se také stane. Kam se vydáme, abychom našli žezlo, učenče?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:306
@@ -14976,6 +14997,9 @@ msgid ""
 "it, long ago. Now ’tis only right that I help ye get it back. Where be the "
 "Sceptre, scholar?"
 msgstr ""
+"Byl to můj národ, který ho pro vás, lidi, vyrobil, a byl to můj národ, který "
+"ho kdysi dávno ztratil. Teď je jen správné, abych vám pomohl ho získat zpět. "
+"Kde je to žezlo, učenče?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:307
@@ -14983,6 +15007,8 @@ msgid ""
 "I’ve read so much about the lost Sceptre of Fire! I never though I would, "
 "well, actually help <i>find</i> it. Where do we go, Delfador?"
 msgstr ""
+"O ztraceném Ohnivém žezlu jsem toho už tolik četla! Nikdy by mě nenapadlo, "
+"že bych ho skutečně pomohla <i>najít</i>. Kam se vydáme, Delfadore?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:308
@@ -14991,6 +15017,8 @@ msgid ""
 "Konrad, and right the many wrongs of Asheviere. Whither shall we go, "
 "Delfador?"
 msgstr ""
+"Konečně se naplní Garardův výnos. Ty, Konráde, se chopíš žezla a napravíš "
+"četné Ašvířiny křivdy. Kamžto se vydáme, Delfadore?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:309
@@ -14999,6 +15027,8 @@ msgid ""
 "I feel the power! It’s overwhelming! I never— well, Delfador, thank you for "
 "trusting me to be here with you. Where shall we start the search?"
 msgstr ""
+"Cítím tu sílu! Je to ohromující! Nikdy jsem... no, Delfadore, děkuji ti, že "
+"jsi mi důvěřoval a vzal mě s sebou sem. Kde začneme s pátráním?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:311
@@ -15006,11 +15036,13 @@ msgid ""
 "Dis cave good place for troll, but no good place for softskins. Better find "
 "your scep-tar an’ get back to sun-lit places. Which way should we start?"
 msgstr ""
+"Tahle jeskyně je pro trolly skvělá, ale není nic moc pro měkké kůže. Radši "
+"si najděte své že-zlo a vraťte se na sluníčko. Kudy se vydáme?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:312
 msgid "Very well — then where? How do we find it?"
-msgstr ""
+msgstr "Výborně – tak kam? Jak ho najdeme?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:316
@@ -15018,6 +15050,8 @@ msgid ""
 "North and east. More than that, I cannot tell. Whatever beasts, monsters, "
 "and other denizens of the dark lurk ahead, I know that we shall prevail."
 msgstr ""
+"Na sever a na východ. Víc k tomu říct nedokážu. Ať už před námi číhají "
+"jakákoli zvířata, příšery a další obyvatelé temnoty, vím, že zvítězíme."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:324
