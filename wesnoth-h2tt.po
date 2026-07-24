@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-24 22:03+0200\n"
+"PO-Revision-Date: 2026-07-24 23:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -15081,6 +15081,9 @@ msgid ""
 "of Wesnoth. With the Sceptre in my hand even Asheviere would struggle to "
 "deny my claim to the throne."
 msgstr ""
+"Delfadore, řekl jsi mi, jak důležité Ohnivé žezlo je. A já ti věřím! Je to "
+"mocný magický artefakt a bájný symbol králů Wesnothu. S tímto žezlem v ruce "
+"by i Ašvíra jen těžko mohla popřít můj nárok na trůn."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:355
@@ -15090,6 +15093,10 @@ msgid ""
 "missed out helping because we had to come here instead. I hope it’ll be "
 "worth it in the end."
 msgstr ""
+"Přesto mě bolí vědomí, že zatímco se noříme hluboko pod tyto hory, doma trpí "
+"nespočet lidí. Elfové, lidé, trpaslíci – národy, kterým jsme nemohli pomoci, "
+"protože jsme místo toho museli přijít sem. Doufám, že to nakonec bude stát "
+"za to."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:366
@@ -15097,6 +15104,8 @@ msgid ""
 "Delfador... other than the prophecy about the Sceptre, you haven’t been "
 "keeping any other secrets from me “for my own good”, have you?"
 msgstr ""
+"Delfadore... kromě toho proroctví o žezlu jsi přede mnou „pro mé vlastní "
+"dobro“ netajil žádná další tajemství, že ne?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:370
@@ -15105,6 +15114,9 @@ msgid ""
 "to come to light. Here and now, we must focus on finding the Sceptre if you "
 "are ever to become king."
 msgstr ""
+"Jedno. Prosím tě však, abys svou zvědavost držel na uzdě, neboť doufám, že "
+"to nikdy nebude muset vyjít najevo. Tady a teď se musíme soustředit na "
+"nalezení žezla, máš-li se někdy stát králem."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:407
@@ -15112,6 +15124,7 @@ msgid ""
 "What a strange rock formation. Could this be the resting place of the "
 "Sceptre?"
 msgstr ""
+"To je ale podivný skalní útvar. Mohlo by to být místo, kde spočívá žezlo?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:411
@@ -15119,6 +15132,8 @@ msgid ""
 "There is some power about it, to be sure. But we must clear out the leader "
 "of the local fauna before we can investigate further."
 msgstr ""
+"Je v tom nepochybně jistá síla. Než však budeme moci pokračovat ve zkoumání, "
+"musíme se zbavit vůdkyně místního zvířectva."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:426
@@ -15126,6 +15141,7 @@ msgid ""
 "We’ve been wandering for so long, and we still haven’t cleared our way to "
 "the Sceptre."
 msgstr ""
+"Bloudíme už tak dlouho a stále jsme si ještě neproklestili cestu k žezlu."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:430
@@ -15133,6 +15149,8 @@ msgid ""
 "Even if it really is somewhere here, I fear it is beyond our power to "
 "obtain..."
 msgstr ""
+"I kdyby tu někde opravdu bylo, obávám se, že není v našich silách ho "
+"získat..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:454
