@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-24 23:09+0200\n"
+"PO-Revision-Date: 2026-07-25 10:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -15600,12 +15600,12 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:953
 msgid ""
 "I am making progress, Konrad! We are perhaps half of the way to the Sceptre."
-msgstr ""
+msgstr "Dělám pokroky, Konráde! Možná už jsme na půl cesty k žezlu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:960
 msgid "Almost done, Konrad. We shall soon hold the Sceptre in our hands!"
-msgstr ""
+msgstr "Už ho skoro máme, Konráde. Brzy budeme držet žezlo ve svých rukou!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:967
@@ -15613,6 +15613,8 @@ msgid ""
 "I see red and gold poking though the earth! We shall have the Sceptre in but "
 "another moment!"
 msgstr ""
+"Vidím, jak ze země vyčnívá něco červeného a zlatého! Ještě chvilku a budeme "
+"mít žezlo!"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:979
@@ -15622,51 +15624,51 @@ msgstr "To snad ne! Je silnější, než jsme si mysleli. Musím odtud pryč!"
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:989
 msgid "Decades of study and practice, only to die in a cave..."
-msgstr ""
+msgstr "Desítky let studia a cvičení, a nakonec zemřít v jeskyni..."
 
 #. [message]: speaker=leader7b
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1005
 msgid "Ack! I’m sorry, Your Highness, I couldn’t stop them..."
-msgstr ""
+msgstr "Ou! Omlouvám se, Vaše Výsosti, nedokázal jsem je zastavit..."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1024
 msgid "For the Aethenwood! For Wesnoth! For all the world!"
-msgstr ""
+msgstr "Za Aethenský les! Za Wesnoth! Za celý svět!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1026
 msgid "The wrath of the elves falls upon you, girl!"
-msgstr ""
+msgstr "Dopadá na tebe hněv elfů, děvče!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1027
 msgid "Your mother has much to answer for. We shall start with you."
-msgstr ""
+msgstr "Tvá matka má na svědomí hodně věcí. Začneme u tebe."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1028
 msgid ""
 "Ah’ll teach you and yer men to cage me up, ye obscene trunk of tallow-keech!"
-msgstr ""
+msgstr "Já tebe a tvé muže naučím, zavřít mě do klece, ty nechutná špekounko!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1029
 msgid ""
 "The blood of traitors runs in your veins, girl. In Garard’s name, I strike "
 "you down!"
-msgstr ""
+msgstr "V tvých žilách koluje krev zrádců, děvče. Ve jménu Gararda tě skolím!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1030
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1031
 msgid "Behold the flames of Alduin!"
-msgstr ""
+msgstr "Hle, plameny Alduinu!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1032
 msgid "By the Light we were made! Lo, and by the Light shall you be un-made!"
-msgstr ""
+msgstr "Byli jsme stvořeni Světlem! A hle, Světlem budeš také zničena!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1033
@@ -15676,12 +15678,12 @@ msgstr "Tohle je za Baldra!"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1034
 msgid "Sorry about this, but it has to be done!"
-msgstr ""
+msgstr "Omlouvám se, ale musí se to udělat!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1035
 msgid "You done made wrong enemy, softskin!"
-msgstr ""
+msgstr "To sis vybrala špatného nepřítele, ty měkká kůže!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1124
@@ -15689,6 +15691,8 @@ msgid ""
 "I have found an exit from the cavern! Quick, everyone, follow me and we may "
 "yet evade Li’sar within the twisting tunnels!"
 msgstr ""
+"Našel jsem východ z jeskyně! Rychle, všichni za mnou, možná se nám ještě "
+"podaří Lisar v těch klikatých tunelech uniknout!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1150
@@ -15696,6 +15700,8 @@ msgid ""
 "Did you hear that? An earthquake! What sorcery of yours is this, Delfador? "
 "Are you collapsing this whole cavern?"
 msgstr ""
+"Slyšeli jste to? Zemětřesení! Co je to za čarodějnictví, Delfadore? Chceš "
+"snad nechat zřítit celou tuhle jeskyni?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1155
@@ -15704,6 +15710,8 @@ msgid ""
 "think she is doing? The volcano is awakening! Is she trying to kill us and "
 "you both!?"
 msgstr ""
+"Já za ty otřesy nemůžu – co si ta vaše pošetilá čarodějka vlastně myslí, že "
+"dělá? Sopka se probouzí! Chce nás i vás zabít!?"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1159
@@ -15712,6 +15720,8 @@ msgid ""
 "Sorry, Your Highness, queen’s orders. Better that nobody leaves than Konrad "
 "does."
 msgstr ""
+"Je mi líto, Vaše Výsosti, to jsou rozkazy královny. Je lepší, aby se ven "
+"nedostal nikdo, než aby unikl Konrád."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1163
@@ -15720,6 +15730,8 @@ msgid ""
 "and it is a long way to the surface. We’ll have plenty of time to chase them "
 "down!"
 msgstr ""
+"Cože?! Miryo, to přece není nutné! Odešli bez žezla a na povrch je to ještě "
+"daleko. Budeme mít spoustu času je dohnat!"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1171
@@ -15729,6 +15741,8 @@ msgid ""
 "We are all in terrible danger! Konrad, stay close. You and I must flee with "
 "great haste — my spells shall speed our steps!"
 msgstr ""
+"Všichni jsme ve strašlivém nebezpečí! Konráde, drž se u mě. Musíme spolu co "
+"nejrychleji utéct – moje kouzla nám zrychlí kroky!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1197
@@ -15736,6 +15750,8 @@ msgid ""
 "It is here! We have found it! The Sceptre of Fire; the Ruby of the Wesfolk; "
 "the staff of kings. Konrad, you must come at once!"
 msgstr ""
+"Je tady! Našli jsme ho! Ohnivé žezlo. Rubín Wesanů. Hůl králů. Konráde, "
+"musíš sem hned přijít!"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1202
@@ -15745,6 +15761,9 @@ msgid ""
 "glow from its ruby’s inner fire. Dwarvish runes on the golden handle lit up "
 "in pulsating blue as Konrad’s fingers wrapped around the staff."
 msgstr ""
+"Žezlo, zpočátku matné, po staletích pokryté prachem a nečistotami, začalo "
+"zářit vnitřním ohněm svého rubínu. Trpasličí runy na zlaté rukojeti se "
+"rozzářily pulzující modří, když Konrád objal hůl prsty."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1209
@@ -15753,6 +15772,9 @@ msgid ""
 "to convince the people that I would truly belong as king. Now we finally "
 "have the upper hand against Asheviere."
 msgstr ""
+"Žezlo je naše! Není to jen mocná zbraň, ale také symbol. Způsob, jak "
+"přesvědčit lid, že jsem skutečně tím pravým králem. Nyní máme konečně nad "
+"Ašvírou převahu."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1219
@@ -15760,6 +15782,8 @@ msgid ""
 "An earthquake!? Delfador, is this your doing? Has removing the Sceptre "
 "somehow damaged the cavern?"
 msgstr ""
+"Zemětřesení!? Delfadore, to je tvoje dílo? Poškodilo snad odstranění žezla "
+"nějakým způsobem jeskyni?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1224
@@ -15768,13 +15792,15 @@ msgid ""
 "think she is doing? The volcano is awakening! Is she trying to kill us and "
 "the princess both!?"
 msgstr ""
+"Já za ty otřesy nemůžu – co si ta hloupá Lisařina čarodějka vůbec myslí, že "
+"dělá? Sopka se probouzí! Chce snad zabít nás i princeznu!?"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1228
 msgid ""
 "What?! Mirya, you’re supposed to be scouting the tunnels, not destroying "
 "them."
-msgstr ""
+msgstr "Cože?! Miryo, máš ty tunely prozkoumávat, ne je ničit."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1236
@@ -15783,17 +15809,19 @@ msgid ""
 "have them surrounded. Even if they escape to the surface we’ll have plenty "
 "of time to chase them down!"
 msgstr ""
+"Cože?! Miryo, to přece není nutné! Konrád sice má žezlo, ale my je máme "
+"obklíčené. I kdyby utekli na povrch, budeme mít dost času je dostihnout!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1248
 msgid "But we have only just taken hold of the Sceptre! What about—"
-msgstr ""
+msgstr "Vždyť jsme se zrovna chopili žezla! A co —"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1252
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1364
 msgid "There is no time! Run, Konrad, run!"
-msgstr ""
+msgstr "Není čas! Utíkej, Konráde, utíkej!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1272
@@ -15801,6 +15829,8 @@ msgid ""
 "You are beaten, villain! With your defeat, we have severed the right hand of "
 "Asheviere!"
 msgstr ""
+"Dostala jsi na frak, potvoro! Tvou porážkou jsme usekli Ašvíře její pravou "
+"ruku!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1276
@@ -15808,6 +15838,8 @@ msgid ""
 "I can’t believe it. Bested so far from home, and during my own ambush. "
 "Embarrassing... Make it quick, then."
 msgstr ""
+"To snad není možné. Dostali mě tak daleko od domova, a to ještě při mé "
+"vlastní léčce. Trapné... Tak ať je to rychlé."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1281
@@ -15816,6 +15848,9 @@ msgid ""
 "exchange for her abdication; a better and more merciful use of your head "
 "than petty vengeance. Delfador, do you have the Sceptre yet?"
 msgstr ""
+"Ne. Budeš mou zajatkyní a tvá matka tě dostane výměnou za své odstoupení. To "
+"bude lepší a milosrdnější využití tvé hlavy než malicherná pomsta. "
+"Delfadore, máš už to žezlo?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1292
@@ -15823,6 +15858,8 @@ msgid ""
 "I do! It is here — the Sceptre of Fire; the Ruby of the Wesfolk; the staff "
 "of kings. Konrad, I shall bring it to you at once."
 msgstr ""
+"Ano, mám! Je tady – Ohnivé žezlo. Rubín Wesanů. Hůl králů. Konráde, hned ti "
+"ho přinesu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1305
@@ -15831,6 +15868,9 @@ msgid ""
 "symbol; more proof of your kingship. And with Li’sar defeated, I wonder if "
 "we might add yet another symbol to your claim..."
 msgstr ""
+"Žezlo je naše. Není to jen mocná zbraň, Konráde, ale také symbol. Další "
+"důkaz tvého královského postavení. A teď, když je Lisar poražena, napadá mě, "
+"zda bychom k tvému nároku nemohli přidat ještě jeden symbol..."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1319
@@ -15839,6 +15879,9 @@ msgid ""
 "armor, finely crafted and inscribed with symbols of royalty, yet what I "
 "still wear is intact. How is this possible?"
 msgstr ""
+"Co jsi to udělal, starče? Držíš v ruce něco, co vypadá přesně jako moje "
+"brnění – je skvěle zpracované a zdobí ho královské symboly –, a přitom to, "
+"které mám pořád na sobě, je nedotčené. Jak je to možné?"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1323
@@ -15847,6 +15890,8 @@ msgid ""
 "will exist only for a year and a day, but that will be more than enough time "
 "to overthrow Asheviere."
 msgstr ""
+"Kouzelná kopie s několika vylepšeními a drobnostmi upravenými pro Konráda! "
+"Vydrží jen rok a den, ale to bude více než dost času na svržení Ašvíry."
 
 #. [message]: speaker=Konrad # no variation, so we can see him with both the sceptre and the chainmail
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1329
@@ -15854,6 +15899,8 @@ msgid ""
 "Thank you, Delfador. This is truly a great boon! Now, to bind our prisoner "
 "and once more ascend to the surface."
 msgstr ""
+"Děkuji, Delfadore. To je opravdu velká pomoc! Teď už jen svázat naši "
+"vězenkyni a znovu vystoupit na povrch."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1339
@@ -15861,6 +15908,8 @@ msgid ""
 "An earthquake!? Delfador, is this also your doing? Has removing the Sceptre "
 "somehow damaged the cavern?"
 msgstr ""
+"Zemětřesení!? Delfadore, to máš také na svědomí ty? Poškodilo snad "
+"odstranění žezla jeskyni?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1344
@@ -15869,6 +15918,8 @@ msgid ""
 "think she is doing? The volcano is awakening! Is she trying to kill us and "
 "her princess both!?"
 msgstr ""
+"Já za ty otřesy nemůžu – co si ta hloupá Lisařina čarodějka vlastně myslí? "
+"Sopka se probouzí! Chce snad zabít nás i svou princeznu!?"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1348
@@ -15876,11 +15927,13 @@ msgid ""
 "Sorry, Li’sar, queen’s orders. You had your chance and you failed. Now it’s "
 "time for the backup plan."
 msgstr ""
+"Promiň, Lisar, to jsou rozkazy královny. Měla jsi svou šanci a selhala jsi. "
+"Teď je čas na záložní plán."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:1360
 msgid "I have the princess tied up! But what about—"
-msgstr ""
+msgstr "Mám princeznu svázanou! Ale co —"
 
 #. [time]: id=underground
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:17
@@ -22047,6 +22100,9 @@ msgid ""
 "Continent. Among its many powers is the ability to hurl fireballs of great "
 "size."
 msgstr ""
+"Toto žezlo, které vykovali trpaslíci z Knalgy na příkaz krále Haldrika II., "
+"v sobě ukrývá magii sahající až do dob tajemného Starého kontinentu. Mezi "
+"jeho četnými schopnostmi je i vrhání ohnivých koulí obrovských rozměrů."
 
 #. [object]: id=sceptre_of_fire, type=fire, type=fire, type=fire, type=fire
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:202
@@ -22059,7 +22115,7 @@ msgstr "ohnivé žezlo"
 #. [object]: id=royal_chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:276
 msgid "Royal Chainmail"
-msgstr ""
+msgstr "Královská kroužková zbroj"
 
 #. [object]: id=royal_chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:277
@@ -22067,16 +22123,19 @@ msgid ""
 "Masterfully crafted by Weldyn smiths, then magically duplicated and enhanced "
 "by Delfador, this armor grants Konrad +40% resistance to all damage."
 msgstr ""
+"Tato zbroj, mistrovsky vyrobená kováři z Weldynu a poté kouzelně zdvojená "
+"a vylepšená Delfadorem, poskytuje Konrádovi +40 % odolnosti proti veškerému "
+"zranění."
 
 #. [dummy]: id=chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:282
 msgid "chainmail"
-msgstr ""
+msgstr "kroužková zbroj"
 
 #. [dummy]: id=chainmail
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:283
 msgid "This unit gains +40% resistance to all damage."
-msgstr ""
+msgstr "Tato jednotka získává +40 % odolnosti vůči veškerému zranění."
 
 #. [object]: id=moonbow
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:309
