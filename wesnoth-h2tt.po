@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-25 10:56+0200\n"
+"PO-Revision-Date: 2026-07-26 10:35+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -22481,7 +22481,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:790
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:791
 msgid "Fight on without me, friends! The Light shall always prevail!"
-msgstr ""
+msgstr "Bojujte dál beze mě, přátelé! Světlo vždy zvítězí!"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:792
 msgid "Ah’m not wounded! Jus’ need a moment... ta catch my breath..."
