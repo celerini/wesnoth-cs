@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-26 10:45+0200\n"
+"PO-Revision-Date: 2026-07-26 11:36+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4168,13 +4168,16 @@ msgstr "Skok do temnoty"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:383
 msgid "<b>Replacement Weapons</b> — Permanent Modifier"
-msgstr ""
+msgstr "<b>Náhradní zbraně</b> — trvalý modifikátor"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:384
 msgid ""
 "Your veteran recalls cost <span color='red'>twice as much</span>.\n"
 "Your level 0-1 recruits refund <span color='#00FF00'>half their cost</span>."
 msgstr ""
+"Povolání tvých veteránů stojí <span color='red'>dvakrát tolik</span>.\n"
+"Tví rekruti na úrovních 0 a 1 ti vrátí <span color='#00FF00'>polovinu své "
+"ceny</span>."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:386
 msgid ""
@@ -4182,6 +4185,9 @@ msgid ""
 "Troll excrement coats the walls while insects and vermin churn in the dirt, "
 "all with a horrifying buzz of flies and smell of rot."
 msgstr ""
+"Tato klenutá chodba ústí do staré trpasličí zbrojnice, která již dávno "
+"chátrá. Stěny pokrývá trollí trus, v hlíně se hemží hmyz a jiná havěť, a to "
+"vše za doprovodu děsivého bzučení much a zápachu hniloby."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:388
 msgid ""
@@ -4189,26 +4195,32 @@ msgid ""
 "but the specialized equipment wielded by our veteran soldiers will surely "
 "suffer from decay."
 msgstr ""
+"Pokud utečeme tímto směrem, můžeme nasbírat nespočet zbraní nízké jakosti, "
+"ale specializovaná výbava našich zkušených vojáků tím jistě utrpí."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:396
 msgid "No permanent modifier."
-msgstr ""
+msgstr "Žádný trvalý modifikátor."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:398
 msgid ""
 "This passageway is broad and even, with clear air and a gentle upwards "
 "slope. I even feel a slight breeze!"
 msgstr ""
+"Tato chodba je široká a rovná, mírně stoupá nahoru a vzduch je tu čistý. "
+"Dokonce cítím lehký vánek!"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:400
 msgid ""
 "This seems the perfect path for our escape — if we flee in this direction we "
 "shall gain no boon but suffer no penalty."
 msgstr ""
+"Zdá se, že to je cesta jako stvořená pro náš únik – pokud utečeme tímto "
+"směrem, nic tím nezískáme, ale ani nic neztratíme."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:408
 msgid "<b>Memory Magic</b> — Permanent Modifier"
-msgstr ""
+msgstr "<b>Kouzla s pamětí</b> — trvalý modifikátor"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:409
 msgid ""
@@ -4216,6 +4228,10 @@ msgid ""
 "advance.\n"
 "Your other units require <span color='red'>75% more XP</span> to advance."
 msgstr ""
+"Tvé jednotky na nejvyšší úrovni potřebují k postupu o <span "
+"color='#00FF00'>75 % méně zkušeností</span>.\n"
+"Tvé ostatní jednotky potřebují k postupu o <span color='red'>75 % více "
+"zkušeností</span>."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:411
 msgid ""
@@ -4223,18 +4239,23 @@ msgid ""
 "faint smell of lavender and cinnamon in the air. Is this magic? Some remnant "
 "of the Sceptre’s internment, perhaps?"
 msgstr ""
+"V tomto směru na stěnách tančí světelné jiskřičky a ve vzduchu se vznáší "
+"jemná vůně levandule a skořice. Je to kouzlo? Možná nějaký pozůstatek po "
+"uložení žezla?"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:413
 msgid ""
 "I am not sure what will happen if we flee this way, but already I can feel "
 "something moving within my mind... affecting my memories..."
 msgstr ""
+"Nejsem si jistý, co se stane, když utečeme tudy, ale už teď cítím, jak se mi "
+"v mysli něco mění... a ovlivňuje to mé vzpomínky..."
 
 #. [floating_text]
 #. $recruit_cost will be half of unit's value unit; likely between 10 and 25
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:486
 msgid "$recruit_cost gold refunded"
-msgstr ""
+msgstr "vráceno $recruit_cost zlatých"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:503
 msgid "The Swamp of Dread"
@@ -5430,7 +5451,7 @@ msgstr "Získej Ohnivé žezlo"
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:546
 msgid "Choose a path and escape the rising lava"
-msgstr ""
+msgstr "Vyber si cestu a unikni stoupající lávě"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:559
