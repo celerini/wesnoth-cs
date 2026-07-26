@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-26 10:38+0200\n"
+"PO-Revision-Date: 2026-07-26 10:45+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -22497,7 +22497,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:794
 msgid "Unngh... Sorry Baldras..."
-msgstr ""
+msgstr "Umpf... Promiň, Baldre..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:795
 msgid "Ack! I tried my best..."
