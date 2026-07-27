@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-26 11:36+0200\n"
+"PO-Revision-Date: 2026-07-27 19:44+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16044,6 +16044,9 @@ msgid ""
 "rise! Hurry, Konrad; we must keep ahead of the lava until it recedes! Is Her "
 "Highness secure?"
 msgstr ""
+"Rychleji, rychleji! Účinek mých kouzel na zrychlení začíná slábnout, ale "
+"oheň stále stoupá! Pospěš si, Konráde. Musíme udržet náskok před lávou, "
+"dokud nezačne klesat! Je Její Výsost v bezpečí?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:464
@@ -16051,6 +16054,8 @@ msgid ""
 "I have chained her wrist to mine, Delfador. But are our friends and allies "
 "all with us? We can’t leave anyone behind!"
 msgstr ""
+"Připoutal jsem její zápěstí k svému, Delfadore. Ale jsou všichni naši "
+"přátelé a spojenci s námi? Nemůžeme nikoho nechat pozadu!"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:468
@@ -16060,6 +16065,10 @@ msgid ""
 "doubt we will find a keep in which to rally. If we do not hurry we shall "
 "surely be caught by the lava, or else by some pursuing ally of Li’sar’s!"
 msgstr ""
+"Ano, všichni tu pořád jsou. Ale každý běží, kam se dá, a pochybuji, že "
+"najdeme nějakou pevnost, kde bychom se mohli shromáždit. Pokud si "
+"nepospíšíme, určitě nás dostihne láva, nebo nás dožene nějaký Lisařin "
+"spojenec, který nás pronásleduje!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:472
@@ -16067,6 +16076,8 @@ msgid ""
 "No! Surely those we did not defeat have burned to death. This has been a "
 "tight thing for us even with your magic to help!"
 msgstr ""
+"Ne! Ti, které se nám nepodařilo porazit, jistě uhořeli. Bylo to pro nás "
+"opravdu těsné, i když nám pomáhala tvoje kouzla!"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:476
@@ -16075,6 +16086,9 @@ msgid ""
 "has fared well — and the same fate will meet us too if you do not <i><b>stop "
 "talking and start running</b></i>!"
 msgstr ""
+"Možná ano, možná ne. V každém případě si nedokážu představit, že by se "
+"vojsku naší zajatkyně dařilo dobře – a stejný osud potká i nás, pokud "
+"<i><b>nepřestaneš mluvit a nezačneš utíkat!</b></i>"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:486
