@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-27 21:00+0200\n"
+"PO-Revision-Date: 2026-07-27 21:29+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16177,6 +16177,8 @@ msgid ""
 "Undead! What are such things doing down here? They will surely try to stop "
 "us — and with no regard for their own safety!"
 msgstr ""
+"Nemrtví! Co tady dole dělají? Určitě se nás pokusí zastavit – a to bez "
+"ohledu na vlastní bezpečnost!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:633
@@ -16184,6 +16186,8 @@ msgid ""
 "Then give me my sword and I will cut them down. Or are you too afraid to let "
 "me out of these chains?"
 msgstr ""
+"Tak mi dej můj meč a já je všechny pobiju. Nebo se snad příliš bojíš, než "
+"abys mě z těch pout osvobodil?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:637
@@ -16191,6 +16195,8 @@ msgid ""
 "Hmph. We cannot afford to become bogged down fighting. At least one good "
 "thing comes of all this flame: it is easy to summon fire elementals!"
 msgstr ""
+"Hm. Nemůžeme si dovolit, aby nás boje zdržovaly. Z toho všeho plamene vzešla "
+"alespoň jedna dobrá věc: je snadné přivolat ohnivé elementály!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:658
@@ -21322,7 +21328,7 @@ msgstr ""
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:86
 msgid "My hand tingles with power... Burn in the name of the kings of Wesnoth!"
-msgstr ""
+msgstr "V ruce mi pulzuje síla... Shoř ve jménu králů Wesnothu!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:102
