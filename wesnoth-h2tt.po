@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-27 20:34+0200\n"
+"PO-Revision-Date: 2026-07-27 20:43+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16186,7 +16186,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:658
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1290
 msgid "Aaaaah! I can’t believe it should end like this..."
-msgstr ""
+msgstr "Áááh! Nemůžu uvěřit, že by to mělo skončit zrovna takhle..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:664
@@ -16195,6 +16195,8 @@ msgid ""
 "Our prisoner has perished! She was an enemy, but I cannot shake the feeling "
 "that Her Highness yet had a role to play in all this..."
 msgstr ""
+"Naše vězeňkyně zahynula! Byla to nepřítelkyně, ale nemohu se zbavit pocitu, "
+"že Její Výsost v tom všem ještě měla sehrát nějakou roli..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:683
