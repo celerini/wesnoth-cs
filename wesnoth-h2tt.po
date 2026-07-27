@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-27 19:44+0200\n"
+"PO-Revision-Date: 2026-07-27 20:34+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -13800,7 +13800,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:200
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:539
 msgid "In this scenario, you can neither gain nor spend gold."
-msgstr ""
+msgstr "V tomto scénáři nemůžeš zlato ani získat, ani utratit."
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:203
@@ -16122,7 +16122,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:511
 msgid "Move Konrad or Delfador to the east edge of the map"
-msgstr ""
+msgstr "Přesuň Konráda nebo Delfadora na východní okraj mapy"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:516
@@ -16136,6 +16136,8 @@ msgid ""
 "Lava expands 1 hex in every direction each turn, and will kill Konrad if it "
 "reaches him."
 msgstr ""
+"Láva se každé kolo rozšíří o 1 políčko do všech směrů, a pokud se dostane ke "
+"Konrádovi, zabije ho."
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:529
@@ -16143,11 +16145,14 @@ msgid ""
 "Lava expands 2 hexes in every direction each turn, and will kill Konrad if "
 "it reaches him."
 msgstr ""
+"Láva se každé kolo rozšíří o 2 políčka do všech směrů, a pokud se dostane ke "
+"Konrádovi, zabije ho."
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:533
 msgid "Li’sar is chained to Konrad, and will follow one hex behind him."
 msgstr ""
+"Lisar je připoutána ke Konrádovi a bude se držet o jedno políčko za ním."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:586
