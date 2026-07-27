@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-27 21:29+0200\n"
+"PO-Revision-Date: 2026-07-27 21:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16221,6 +16221,9 @@ msgid ""
 "done it, Delfador; we have escaped — and with Li’sar as our prisoner! The "
 "gambit of that mage of Asheviere’s has failed."
 msgstr ""
+"Tady se jeskyně prudce zvedá a láva za námi zpomaluje! Zvládli jsme to, "
+"Delfadore. Unikli jsme – a navíc máme Lisar jako vězeňkyni! Ten tah Ašvířiny "
+"mágyně selhal."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:688
@@ -16229,6 +16232,8 @@ msgid ""
 "done it, Delfador; we have escaped! The gambit of that mage of Asheviere’s "
 "has failed."
 msgstr ""
+"Tady se jeskyně prudce zvedá a láva za námi zpomaluje! Zvládli jsme to, "
+"Delfadore. Podařilo se nám uniknout! Ten tah Ašvířiny mágyně selhal."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:699
@@ -16237,6 +16242,9 @@ msgid ""
 "during our escape, much of our veterans’ equipment suffered serious damage. "
 "Repairing them may prove costly."
 msgstr ""
+"Selhal částečně, ale ne úplně. I když jsme během útěku nasbírali spoustu "
+"zbraní nízké jakosti, velká část výstroje našich veteránů utrpěla vážné "
+"poškození. Jejich oprava by mohla být nákladná."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:706
@@ -16245,6 +16253,9 @@ msgid ""
 "trainees? I sense some magical malady upon them, sapping their intellect. "
 "Training more veterans may prove difficult."
 msgstr ""
+"Selhal částečně, ale ne úplně. Moje mysl je podivně bystrá, ale co naši "
+"rekruti? Cítím, že je postihla nějaká kouzelná choroba, která oslabuje "
+"jejich rozum. Výcvik dalších veteránů by se mohl ukázat jako obtížný."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:714
@@ -16253,6 +16264,9 @@ msgid ""
 "enough to evade the lava, we are still lost deep underground, with the bulk "
 "of our stores and rations lost to flame."
 msgstr ""
+"Selhal částečně, ale ne úplně. Ačkoli jsme zatím měli to štěstí, že se nám "
+"podařilo lávě uniknout, stále jsme ztraceni hluboko pod zemí a většina "
+"našich zásob a přídělů potravin shořela v plamenech."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:718
@@ -16260,6 +16274,8 @@ msgid ""
 "Indeed, hunger and weakness already gnaw at my stomach. We must find a way "
 "to the surface soon, or these caves may yet prove our doom..."
 msgstr ""
+"Hlad a slabost mi už skutečně svírají žaludek. Musíme co nejdříve najít "
+"cestu na povrch, jinak by se tyto jeskyně mohly stát naší zkázou..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:733
@@ -16268,6 +16284,9 @@ msgid ""
 "Hunger and weakness already gnaw at my stomach. We must find a way to the "
 "surface soon, or these caves may yet prove our doom..."
 msgstr ""
+"A co hůř, většina našich zásob a přídělů potravin padla za oběť lávě! Hlad "
+"a slabost mi už svírají žaludek. Musíme co nejdříve najít cestu na povrch, "
+"jinak by se tyto jeskyně mohly stát naší zkázou..."
 
 #. [scenario]: id=32_The_Swamp_of_Dread
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:7
