@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-27 21:58+0200\n"
+"PO-Revision-Date: 2026-07-28 22:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19201,6 +19201,8 @@ msgid ""
 "This is my home, Konrad, and Simyr’s too. Although we were barely men when "
 "we left, their Horsemen will still recognize us as kin."
 msgstr ""
+"Tohle je můj domov, Konráde, a taky Simyrův. Ačkoli nám nebylo mnoho let, "
+"když jsme odtud odcházeli, jejich jezdci nás i tak uznají za své příbuzné."
 
 #. [message]: id=Haldiel,Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:486
@@ -19208,6 +19210,8 @@ msgid ""
 "This is my home, Konrad. Although I was barely a man when I left, their "
 "Horsemen will still recognize me as kin."
 msgstr ""
+"Tohle je můj domov, Konráde. Ačkoli mi nebylo mnoho let, když jsem odtud "
+"odcházel, jejich jezdci mě i tak budou považovat za jednoho z nich."
 
 #. [message]: id=Haldiel,Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:492
@@ -19217,12 +19221,16 @@ msgid ""
 "combat, and I believe I can persuade them to follow their leaders and join "
 "you."
 msgstr ""
+"Teď, když se jejich velitelé nabídli, že se připojí k naší věci, mám za to, "
+"že dokážu přesvědčit i jejich bojovníky. Pomoz mi porazit kavaleristy "
+"a jezdce v boji, a věřím, že je dokážu přimět, aby následovali své velitele "
+"a přidali se k tobě."
 
 #. [message]: speaker=second_unit
 #. said by either Haldiel or Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:521
 msgid "I have persuaded this one to join us in the next battle, Konrad."
-msgstr ""
+msgstr "Přiměl jsem ho, Konráde, aby se k nám připojil v příští bitvě."
 
 #. [message]: speaker=second_unit
 #. said by either Haldiel or Simyr
@@ -19231,19 +19239,23 @@ msgid ""
 "This fighter is injured now, but he is willing to join us for our next "
 "battle."
 msgstr ""
+"Tento bojovník je sice nyní zraněný, ale je ochoten se k nám připojit v naší "
+"příští bitvě."
 
 #. [message]: speaker=second_unit
 #. said by either Haldiel or Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:537
 msgid "Konrad, I have convinced this fighter to join us in our next battle."
 msgstr ""
+"Konráde, přesvědčil jsem tohoto bojovníka, aby se k nám připojil v naší "
+"příští bitvě."
 
 #. [message]: speaker=second_unit
 #. said by either Haldiel or Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:545
 msgid ""
 "I have spoken with this one, Konrad. He will join us in the next battle."
-msgstr ""
+msgstr "S tímhle jsem promluvil, Konráde. V příští bitvě se k nám připojí."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:609
