@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-28 22:23+0200\n"
+"PO-Revision-Date: 2026-07-29 23:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19090,24 +19090,32 @@ msgstr ""
 msgid ""
 "Defeat 30 enemies to rout the Horse Clans ($clansmen_remaining remaining)"
 msgstr ""
+"Poraz 30 nepřátel, abys rozprášil klany jezdců (zbývá porazit "
+"$clansmen_remaining)"
 
 #. [objective]: description={ON_DIFFICULTY4, condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:349
 msgid ""
 "Defeat 40 enemies to rout the Horse Clans ($clansmen_remaining remaining)"
 msgstr ""
+"Poraz 40 nepřátel, abys rozprášil klany jezdců (zbývá porazit "
+"$clansmen_remaining)"
 
 #. [objective]: description={ON_DIFFICULTY4, condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:350
 msgid ""
 "Defeat 50 enemies to rout the Horse Clans ($clansmen_remaining remaining)"
 msgstr ""
+"Poraz 50 nepřátel, abys rozprášil klany jezdců (zbývá porazit "
+"$clansmen_remaining)"
 
 #. [objective]: description={ON_DIFFICULTY4, condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:351
 msgid ""
 "Defeat 60 enemies to rout the Horse Clans ($clansmen_remaining remaining)"
 msgstr ""
+"Poraz 60 nepřátel, abys rozprášil klany jezdců (zbývá porazit "
+"$clansmen_remaining)"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:357
@@ -19115,6 +19123,8 @@ msgid ""
 "Defeat one or more enemy leaders — defeated leaders will join your recall "
 "list after this scenario"
 msgstr ""
+"Poraz jednoho nebo více nepřátelských vůdců – poražení vůdci se po skončení "
+"tohoto scénáře zařadí do tvého povolávacího seznamu"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:365
@@ -19122,6 +19132,8 @@ msgid ""
 "Defeat mounted enemies with Haldiel or Simyr — defeated cavalry will join "
 "your recall list after this scenario"
 msgstr ""
+"Poraz nepřátele na koních pomocí Haldiela nebo Simyra – poražená jízda se po "
+"tomto scénáři přidá do tvého povolávacího seznamu"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:375
@@ -19129,6 +19141,8 @@ msgid ""
 "Defeat mounted enemies with Haldiel — defeated cavalry will join your recall "
 "list after this scenario"
 msgstr ""
+"Poraz nepřátele na koních pomocí Haldiela – poražená jízda se po tomto "
+"scénáři přidá do tvého povolávacího seznamu"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:385
@@ -19136,6 +19150,8 @@ msgid ""
 "Defeat mounted enemies with Simyr — defeated cavalry will join your recall "
 "list after this scenario"
 msgstr ""
+"Poraz nepřátele na koních pomocí Simyra – poražená jízda se po tomto scénáři "
+"přidá do tvého povolávacího seznamu"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:407
