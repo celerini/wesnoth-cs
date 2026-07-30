@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-30 19:18+0200\n"
+"PO-Revision-Date: 2026-07-30 19:28+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16195,6 +16195,8 @@ msgid ""
 "What are we doing? Li’sar is a prisoner of great value! I have no desire to "
 "execute an unarmed woman, enemy though she may be."
 msgstr ""
+"Co to děláme? Lisar je velmi cenná zajatkyně! Nemám nejmenší chuť popravit "
+"neozbrojenou ženu, i když je to nepřítelkyně."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:629
