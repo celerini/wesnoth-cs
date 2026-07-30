@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-29 23:39+0200\n"
+"PO-Revision-Date: 2026-07-30 19:18+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -15959,12 +15959,12 @@ msgstr "Mám princeznu svázanou! Ale co —"
 #. [time]: id=underground
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:17
 msgid "Underground"
-msgstr ""
+msgstr "Podzemí"
 
 #. [generator]: id=cavegen
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:97
 msgid "Plunging Into Darkness Caves"
-msgstr ""
+msgstr "Jeskyně Skoku do temnoty"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:327
@@ -15973,6 +15973,9 @@ msgid ""
 "into the corrosive water with supernatural haste, resurfacing moments later "
 "inside a larger chamber."
 msgstr ""
+"Z mágovy hole vylétaly modré jiskry, když se spolu se svým mladým svěřencem "
+"v nadpřirozeném spěchu vrhli do žíravé vody a o chvíli později se vynořili "
+"uvnitř rozsáhlejší komory."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:329
@@ -15985,6 +15988,8 @@ msgid ""
 "the distance, as meanwhile an uncomfortable heat pressed close at their "
 "backs."
 msgstr ""
+"Zvuky pukající země za nimi se zesilovaly a pak se ztratily v dálce, zatímco "
+"je do zad tlačilo nepříjemné horko."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:337
@@ -15994,6 +15999,10 @@ msgid ""
 "follow dashed madly through the cave, then passed alongside Konrad into a "
 "larger chamber."
 msgstr ""
+"Z mágovy hole vylétaly modré jiskry, když spolu se svým mladým svěřencem "
+"v nadpřirozeném spěchu prchali před stoupající lávou. Těch několik veteránů, "
+"kteří byli schopni je následovat, se zběsile hnalo jeskyní a poté spolu "
+"s Konrádem vběhlo do rozsáhlejší komory."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:347
@@ -16003,6 +16012,10 @@ msgid ""
 "volunteers and Li’sar’s distracted soldiers far behind as they passed into a "
 "larger chamber."
 msgstr ""
+"Z mágovy hole vylétaly modré jiskry, když spolu se svým mladým svěřencem "
+"v nadpřirozeném spěchu prchali před stoupající lávou, a zatímco vbíhali do "
+"rozsáhlejší komory, jejich stateční dobrovolníci i Lisařini vojáci, "
+"zaměstnaní sami sebou, zůstali daleko za nimi."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:349
@@ -16010,6 +16023,8 @@ msgid ""
 "The sounds of rupturing earth rose to a crescendo, then faded into the "
 "distance, as meanwhile an uncomfortable heat pressed close at their backs."
 msgstr ""
+"Zvuky pukající země se zesilovaly a pak se ztratily v dálce, zatímco je do "
+"zad tlačilo nepříjemné horko."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:357
@@ -16019,6 +16034,9 @@ msgid ""
 "deeper and deeper into the smothering darkness, further and further from the "
 "light of the sun."
 msgstr ""
+"Z mágovy hole vylétaly modré jiskry, když spolu se svým mladým svěřencem "
+"v nadpřirozeném spěchu prchali před stoupající lávou. Uštvaní vojáci se "
+"nořili stále hlouběji do dusivé tmy, dál a dál od slunečního světla."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:367
@@ -16028,6 +16046,10 @@ msgid ""
 "vomit as they beat a path through the horrifying squalor filling their "
 "tunnel, then passed thankfully into a larger chamber."
 msgstr ""
+"Z mágovy hole vylétaly modré jiskry, když spolu se svým mladým svěřencem "
+"v nadpřirozeném spěchu prchali před stoupající lávou. Uštvaní vojáci "
+"zadržovali zvracení, když si prosekávali cestu skrz děsivou špínu, která "
+"zaplňovala jejich tunel, a poté s úlevou vstoupili do rozsáhlejší komory."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:377
@@ -16036,6 +16058,9 @@ msgid ""
 "from the rising lava with supernatural haste. The harried soldiers rushed "
 "thankfully through the miraculously opened passage."
 msgstr ""
+"Z mágovy hole vylétaly modré jiskry, když spolu se svým mladým svěřencem "
+"v nadpřirozeném spěchu prchali před stoupající lávou. Uštvaní vojáci vděčně "
+"vběhli do zázračně otevřeného průchodu."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/31_Plunging_into_Darkness.cfg:460
