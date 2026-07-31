@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-30 19:28+0200\n"
+"PO-Revision-Date: 2026-07-31 23:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16329,6 +16329,11 @@ msgid ""
 "time Konrad saw signs of fatigue in the old wizard’s normally inscrutable "
 "face."
 msgstr ""
+"Konrád, Delfador a jejich vojsko bloudili celé dny, ztraceni v liduprázdných "
+"chodbách a opuštěných tunelech pod neprostupnými horami. To málo potravin, "
+"které se podařilo zachránit před lávou, se postupně tenčilo, až nakonec "
+"zmizelo úplně. Konrád si na obvykle nečitelném obličeji starého čaroděje "
+"poprvé všiml známek únavy."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:288
@@ -16336,6 +16341,8 @@ msgid ""
 "Finally, weakened and battered by their ordeal, the exhausted rebels emerged "
 "into an unknown valley..."
 msgstr ""
+"Nakonec se vyčerpaní povstalci, oslabení a zbití po svém utrpení, dostali do "
+"neznámého údolí..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:300
@@ -16344,6 +16351,9 @@ msgid ""
 "an empty stomach. We were most fortunate we have at last found our way to "
 "the surface."
 msgstr ""
+"Ach, ty moje staré kosti! Už je to dlouho, co jsem se tak namáhal, zvlášť na "
+"lačný žaludek. Měli jsme obrovské štěstí, že jsme se konečně dostali na "
+"povrch."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:306
@@ -16352,6 +16362,8 @@ msgid ""
 "caves and found daylight again. And with both Li’sar and the Sceptre in our "
 "hands!"
 msgstr ""
+"Ale důležité je, že jsi naživu, Konráde, a že jsme unikli z jeskyní a znovu "
+"se dostali na denní světlo. A navíc máme v rukou jak Lisar, tak i žezlo!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:311
@@ -16360,6 +16372,9 @@ msgid ""
 "caves and found daylight again. And although Li’sar has escaped us, at least "
 "we still have the Sceptre in our hands."
 msgstr ""
+"Důležité ale je, že jsi naživu, Konráde, a že jsme unikli z jeskyní a znovu "
+"se dostali na denní světlo. A i když nám Lisar unikla, alespoň máme stále "
+"v rukou žezlo."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:318
@@ -16368,6 +16383,9 @@ msgid ""
 "caves and found daylight again. And we have the Sceptre as well! Despite our "
 "difficulties, our quest has been a success."
 msgstr ""
+"Důležité ale je, že jsi naživu, Konráde, a že jsme unikli z jeskyní a znovu "
+"se dostali na denní světlo. A máme také žezlo! Navzdory všem obtížím se naše "
+"výprava vydařila."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:324
@@ -16376,11 +16394,16 @@ msgid ""
 "caves and found daylight again. If only we had the Sceptre with us... it is "
 "surely now buried beyond all hope of reclamation."
 msgstr ""
+"Důležité ale je, že jsi naživu, Konráde, a že jsme unikli z jeskyní a znovu "
+"se dostali na denní světlo. Kéž bychom jen měli to žezlo s sebou... teď je "
+"jistě pohřbeno tak hluboko, že už není žádná naděje na jeho získání zpět."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:329
 msgid "Yes, but look! We are not the only army to have escaped the caves!"
 msgstr ""
+"Ano, ale podívej! Nejsme jediné vojsko, kterému se podařilo uniknout "
+"z jeskyní!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:347
@@ -16388,6 +16411,8 @@ msgid ""
 "My expeditionary company! Or at least a small fragment of it, with a "
 "precious few survivors. And fighting many undead?!"
 msgstr ""
+"Moje expediční rota! Nebo alespoň její malá část s několika málo přeživšími. "
+"A bojuje proti spoustě nemrtvých?!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:352
@@ -16396,6 +16421,9 @@ msgid ""
 "rebels, Konrad, weakened and gold-deprived as you are from your long days "
 "underground."
 msgstr ""
+"To je neradostný pohled, ale i v této tíživé situaci jsou pro tvé povstalce "
+"více než rovnocenným soupeřem, Konráde, teď, když jsi oslabený a bez zlata "
+"po těch dlouhých dnech strávených pod zemí."
 
 #. [message]: speaker=Lisar # default portrait, so that if she has her Sceptre it's shown in her portrait
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:357
@@ -16403,6 +16431,8 @@ msgid ""
 "Keep moving. Don’t get pinned. I know this looks bad, but there is no choice "
 "but to fight! Fight, fight or die!"
 msgstr ""
+"Nezastavujte se. Nenechte se zahnat do kouta. Vím, že to vypadá špatně, ale "
+"nezbývá nám nic jiného než bojovat! Bojujte, bojujte, nebo zemřete!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:361
@@ -16410,6 +16440,8 @@ msgid ""
 "Even if others have escaped the lava elsewhere, we’ve no chance of finding "
 "them unless we can first evade these undead!"
 msgstr ""
+"I kdyby se ostatním podařilo uniknout lávě někde jinde, nemáme šanci je "
+"najít, pokud se nejprve nevyhneme těmto nemrtvým!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:375
@@ -16417,6 +16449,8 @@ msgid ""
 "I shouldn’t be surprised that some part of your army has survived, princess; "
 "you surely trained them well."
 msgstr ""
+"Nemělo by mě překvapovat, že část tvého vojska přežila, princezno. Jistě jsi "
+"je dobře vycvičila."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:377
@@ -16425,6 +16459,9 @@ msgid ""
 "keep our distance the soldiers may not notice us, and will surely perish at "
 "the hands of the zombies!"
 msgstr ""
+"Ale podle toho, co vidím, jsou v početní nevýhodě a navíc obklíčeni. Pokud "
+"se budeme držet stranou, vojáci si nás možná nevšimnou a určitě zahynou pod "
+"rukama zombie!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:381
@@ -16434,6 +16471,9 @@ msgid ""
 "the addition of the bodies of the royal soldiers — I see many fresh corpses "
 "among their numbers already."
 msgstr ""
+"Na druhou stranu... máš pravdu, že my sami jsme oslabeni dlouhými dny hladu "
+"a cestování, zatímco tito nemrtví budou díky tělům královských vojáků jen "
+"sílit – už teď mezi nimi vidím spoustu čerstvých mrtvol."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:385
@@ -16444,12 +16484,17 @@ msgid ""
 "think it best that we ensure their defeat first, and only afterwards give "
 "thought to our escape."
 msgstr ""
+"Na vlastní oči jsem viděl, jak nebezpeční jsou Ašvířini potomci, Konráde, "
+"a poznal, jaké škody přináší, když člověk naslouchá jejich lžím. Tohle může "
+"být naše jediná šance, jak tyto vojáky porazit a přitom si ponechat naši "
+"vězeňkyni! Myslím, že bude nejlepší, když se nejprve postaráme o jejich "
+"porážku a teprve poté budeme uvažovat o našem útěku."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:393
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:476
 msgid "Maybe... but no food, no shelter, little gold..."
-msgstr ""
+msgstr "Možná... ale žádné jídlo, žádné přístřeší, málo zlata..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:397
@@ -16460,6 +16505,11 @@ msgid ""
 "daughters. Did you yourself not tell me <i>“be forgiving, be wise, be kind”</"
 "i>?"
 msgstr ""
+"K padouchům, kteří se mi pokusili vzít život, necítím žádnou lásku, ale ani "
+"nejsem ochoten uvrhnout do záhuby své druhy, abych tamtěm udělal naschvál. "
+"Takhle bojuje Ašvíra. Více jí záleží na smrti nepřátel než na životě přátel "
+"– nebo dcer. Neřekl jsi mi snad sám <i>„buď shovívavý, buď moudrý, buď "
+"laskavý“</i>?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:401
@@ -16468,6 +16518,8 @@ msgid ""
 "end badly for us all — and from her palace safe in Weldyn, Asheviere will "
 "laugh."
 msgstr ""
+"Pokud se všichni živí nespojí proti mrtvým, obávám se, že to pro nás všechny "
+"dopadne špatně – a Ašvíra se bude smát ze svého bezpečného paláce ve Weldynu."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:405
@@ -16477,11 +16529,14 @@ msgid ""
 "against the undead. In return, once this place is cleansed, they will be "
 "free to leave."
 msgstr ""
+"Ne. Lisar, má sestřenko a vězeňkyně, navrhuji ti dohodu. Ukážeme se tvému "
+"vojsku a ty jim nařídíš, aby se s námi spojili v boji proti nemrtvým. Na "
+"oplátku, jakmile bude toto místo očištěno, budou moci odejít."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:409
 msgid "Perhaps. And I would be free to leave along with them?"
-msgstr ""
+msgstr "Možná. Mohla bych s nimi odejít i já?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:413
@@ -16489,6 +16544,8 @@ msgid ""
 "This is not a negotiation. You are my prisoner and at my mercy, and I still "
 "mean to ransom you back to your mother in exchange for her abdication."
 msgstr ""
+"Tohle není vyjednávání. Jsi moje vězeňkyně, vydána mi na milost a nemilost "
+"a stále mám v úmyslu vrátit tě matce výměnou za její odstoupení."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:417
