@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-08-01 13:05+0200\n"
+"PO-Revision-Date: 2026-08-01 21:30+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19444,6 +19444,8 @@ msgid ""
 "We have defeated many foes — the plainsmen’s resolve is shaken! Only a few "
 "more and they will surely break."
 msgstr ""
+"Porazili jsme mnoho nepřátel – odhodlání lidu plání je otřeseno! Ještě pár "
+"takových a určitě se zlomí."
 
 #. [message]: role=clanboss
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:665
