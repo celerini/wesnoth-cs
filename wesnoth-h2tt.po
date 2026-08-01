@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-07-31 23:32+0200\n"
+"PO-Revision-Date: 2026-08-01 09:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16488,7 +16488,7 @@ msgstr ""
 "a poznal, jaké škody přináší, když člověk naslouchá jejich lžím. Tohle může "
 "být naše jediná šance, jak tyto vojáky porazit a přitom si ponechat naši "
 "vězeňkyni! Myslím, že bude nejlepší, když se nejprve postaráme o jejich "
-"porážku a teprve poté budeme uvažovat o našem útěku."
+"porážku a teprve poté budeme uvažovat o našem vyváznutí."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:393
@@ -16506,10 +16506,10 @@ msgid ""
 "i>?"
 msgstr ""
 "K padouchům, kteří se mi pokusili vzít život, necítím žádnou lásku, ale ani "
-"nejsem ochoten uvrhnout do záhuby své druhy, abych tamtěm udělal naschvál. "
-"Takhle bojuje Ašvíra. Více jí záleží na smrti nepřátel než na životě přátel "
-"– nebo dcer. Neřekl jsi mi snad sám <i>„buď shovívavý, buď moudrý, buď "
-"laskavý“</i>?"
+"nejsem ochoten uvrhnout do záhuby své druhy jen proto, abych tamtěm udělal "
+"naschvál. Takhle bojuje Ašvíra. Více jí záleží na smrti nepřátel než na "
+"životě přátel – nebo dcer. Neřekl jsi mi snad sám <i>„buď shovívavý, buď "
+"moudrý, buď laskavý“</i>?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:401
@@ -16519,7 +16519,7 @@ msgid ""
 "laugh."
 msgstr ""
 "Pokud se všichni živí nespojí proti mrtvým, obávám se, že to pro nás všechny "
-"dopadne špatně – a Ašvíra se bude smát ze svého bezpečného paláce ve Weldynu."
+"dopadne špatně – a Ašvíra se bude z bezpečí svého paláce ve Weldynu jen smát."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:405
@@ -16555,6 +16555,10 @@ msgid ""
 "your allies to aid us, or are we all to fight and bleed and die until our "
 "bodies cold are buried under crimson snow?"
 msgstr ""
+"Nebuď nerozumná. Ani my, ani tvoji vojáci to sami nezvládneme. A pokud "
+"podlehneme nemrtvým, jistě zahyneš spolu s námi. Rozhodni se: přikážeš svým "
+"spojencům, aby nám přišli na pomoc, nebo budeme všichni bojovat, krvácet "
+"a umírat, dokud naše studená těla nebudou pohřbena pod rudým sněhem?"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:425
@@ -16563,6 +16567,10 @@ msgid ""
 "watch my friends and comrades lose a hopeless battle on two fronts. I agree "
 "to your deal. I’ll remain prisoner while my soldiers fight as your allies."
 msgstr ""
+"Ze spojení sil s nepřítelem nemám zrovna radost, ale ani nechci přihlížet "
+"tomu, jak moji přátelé a spolubojovníci prohrávají beznadějnou bitvu na dvou "
+"frontách. Souhlasím s tvou nabídkou. Zůstanu v zajetí, zatímco moji vojáci "
+"budou bojovat jako tvoji spojenci."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:429
@@ -16571,6 +16579,9 @@ msgid ""
 "Prisoner or not, this battlefield still has loyalists ready to fight for "
 "their queen — and you and I have a score to settle."
 msgstr ""
+"Ale jakmile s těmito nemrtvými skoncujeme, o klidném odchodu nemůže být řeč. "
+"Ať už jsem vězeňkyně, nebo ne, na tomto bojišti zůstávají věrní, kteří jsou "
+"připraveni bojovat za svou královnu – a my dva máme nevyřízené účty."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:443
@@ -16578,6 +16589,8 @@ msgid ""
 "So, the princess has survived — and she has the Sceptre of Fire! I shouldn’t "
 "be surprised; villains often seem hard to finish off, don’t they?"
 msgstr ""
+"Takže princezna to přežila – a má Ohnivé žezlo! Neměl bych se divit. Často "
+"se zdá, že padouchy je těžké úplně zneškodnit, že?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:445
@@ -16587,6 +16600,8 @@ msgid ""
 "distance she may not notice us, and will surely perish at the hands of the "
 "zombies!"
 msgstr ""
+"A navíc bojuje proti obrovské hordě nemrtvých! Pokud se budeme držet "
+"stranou, možná si nás nevšimne a určitě zahyne pod rukama zombie!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:450
@@ -16594,6 +16609,8 @@ msgid ""
 "So, the princess has survived after all. I shouldn’t be surprised; villains "
 "often seem hard to finish off, don’t they?"
 msgstr ""
+"Takže princezna to nakonec přece jen přežila. Neměl bych se divit. Často se "
+"zdá, že padouchy je těžké úplně zneškodnit, že?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:457
@@ -16603,6 +16620,9 @@ msgid ""
 "bodies of Li’sar’s men — I see many fresh corpses among their numbers "
 "already."
 msgstr ""
+"Na druhou stranu... my sami jsme oslabeni dlouhými dny hladu a cestování, "
+"zatímco tito nemrtví budou díky tělům Lisařiných mužů jen sílit – už teď "
+"mezi nimi vidím mnoho čerstvých mrtvol."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:462
@@ -16612,6 +16632,10 @@ msgid ""
 "escaped us once! I think it best that we ensure her defeat first, and only "
 "afterwards give thought to our escape."
 msgstr ""
+"Na vlastní oči jsem viděl, jak nebezpeční jsou Ašvířini potomci, Konráde, "
+"a pochopil, jak důležité je proti nim jednat rychle. Lisar nám už jednou "
+"unikla! Myslím, že bude nejlepší, když se nejprve postaráme o její porážku "
+"a teprve poté budeme uvažovat o našem vyváznutí."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:467
@@ -16621,6 +16645,10 @@ msgid ""
 "chance to vanquish Li’sar! I think it best that we ensure her defeat first, "
 "and only afterwards give thought to our escape."
 msgstr ""
+"Na vlastní oči jsem viděl, jak nebezpeční jsou Ašvířini potomci, Konráde, "
+"a pochopil, jak důležité je proti nim jednat rychle. Tohle může být naše "
+"jediná šance, jak přemoci Lisar! Myslím, že bude nejlepší nejprve zajistit "
+"její porážku a teprve poté přemýšlet o našem vyváznutí."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:480
@@ -16631,6 +16659,11 @@ msgid ""
 "daughters. Did you yourself not tell me <i>“be forgiving, be wise, be kind”</"
 "i>?"
 msgstr ""
+"K té potvoře, která se mi pokusila vzít život, necítím žádnou lásku, ale ani "
+"nejsem ochoten uvrhnout do záhuby své druhy jen proto, abych jí udělal "
+"naschvál. Takhle bojuje Ašvíra. Více jí záleží na smrti nepřátel než na "
+"životě přátel – nebo dcer. Neřekl jsi mi snad sám <i>„buď shovívavý, buď "
+"moudrý, buď laskavý“</i>?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:484
@@ -16640,6 +16673,10 @@ msgid ""
 "laugh. No, we should approach Li’sar and offer a brief alliance, at least "
 "until these undead are defeated."
 msgstr ""
+"Pokud se všichni živí nespojí proti mrtvým, obávám se, že to pro nás všechny "
+"dopadne špatně – a Ašvíra se bude z bezpečí svého paláce ve Weldynu jen "
+"smát. Ne, měli bychom oslovit Lisar a nabídnout jí krátkodobé spojenectví, "
+"alespoň dokud nebudou tito nemrtví poraženi."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:488
@@ -16648,6 +16685,9 @@ msgid ""
 "her word if she agrees not to harm us. I ask you to trust my judgement on "
 "this, my mentor."
 msgstr ""
+"Ačkoli je to naše nepřítelkyně, věřím, že je natolik důvěryhodná, aby "
+"dodržela své slovo, pokud se zaváže, že nám neublíží. Prosím tě, abys v této "
+"věci důvěřoval mému úsudku, můj učiteli."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:492
@@ -16656,6 +16696,9 @@ msgid ""
 "the both of us. Nevertheless, you are my lord, Konrad, and I know you to be "
 "growing wise beyond your years. Let us reach Li’sar and make your offer."
 msgstr ""
+"Když mě naposledy nějaký král požádal, abych mu věřil, dopadlo to pro nás "
+"oba dost špatně. Nicméně ty jsi můj pán, Konráde, a vím, že jsi na svůj věk "
+"mimořádně moudrý. Pojďme k Lisar a přednesme tvou nabídku."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:501
