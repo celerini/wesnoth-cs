@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-08-01 12:48+0200\n"
+"PO-Revision-Date: 2026-08-01 13:05+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16972,22 +16972,24 @@ msgstr "Nebloumej okolo mého stanu, Konráde. Čeká nás bitva."
 msgid ""
 "You have no tricks this time, Malal? Your magic is as weak as was your flesh!"
 msgstr ""
+"Tentokrát už žádné lsti, Malale? Tvoje magie je stejně slabá jako bylo tvé "
+"tělo!"
 
 #. [message]: speaker=Iliah-Malal
 #. the same thing he says when fighting Delfador in The Deceiver's Gambait
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:883
 msgid "Shadows consume you!"
-msgstr ""
+msgstr "Stíny tě pohltí!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:892
 msgid "Delfador killed you once! Now it’s my turn!"
-msgstr ""
+msgstr "Delfador už tě kdysi zabil! Teď jsem na řadě já!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:901
 msgid "Time to put you and your lies back in the ground!"
-msgstr ""
+msgstr "Je na čase vrátit tebe i tvé lži zpátky do země!"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:919
