@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-08-01 09:50+0200\n"
+"PO-Revision-Date: 2026-08-01 12:11+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19406,6 +19406,8 @@ msgid ""
 "How can this be?! You have bested me in combat! Impossible... but true. I "
 "will honor my pledge to join your army."
 msgstr ""
+"Jak k tomu mohlo dojít?! Vyhrál jsi nade mnou v boji! Nemožné... ale stalo "
+"se. Dodržím svůj slib a připojím se k tvému vojsku."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:610
@@ -19413,6 +19415,8 @@ msgid ""
 "I cannot believe this! You have defeated me, despite everything. I pledge my "
 "lance into your service, young ones."
 msgstr ""
+"Tomu nemůžu uvěřit! Navzdory všemu jste mě porazili. Mé kopí je vám "
+"k službám, mládeži."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:611
@@ -19420,6 +19424,8 @@ msgid ""
 "A heroic battle! Yet in the end I am bested — incredible. I will join you, "
 "Konrad and Li’sar."
 msgstr ""
+"Hrdinská bitva! Nakonec jsem však podlehl – neuvěřitelné. Připojím se k vám, "
+"Konráde a Lisar."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:612
@@ -19427,6 +19433,8 @@ msgid ""
 "Bah, a humiliating defeat! But a defeat nonetheless. Let it not be said that "
 "Sir Rugan is without honor — as agreed, I will join your army."
 msgstr ""
+"Pah, jaká potupná prohra! Ale nicméně prohra to je. Ať se neříká, že sir "
+"Rugan postrádá čest – připojím se k vašemu vojsku, jak jsme se dohodli."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:648
