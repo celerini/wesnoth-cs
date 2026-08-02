@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-08-02 10:23+0200\n"
+"PO-Revision-Date: 2026-08-02 11:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -17481,6 +17481,9 @@ msgid ""
 "your soldiers and I are to battle, know that even weakened from the caves "
 "they shall still find me a formidable foe."
 msgstr ""
+"Lich je poražen, Lisar, a naše dohodnuté příměří tak končí. Pokud má dojít "
+"k boji mezi tvými vojáky a mnou, měj na paměti, že i když jsem oslabený "
+"pobytem v jeskyních, budu pro ně i tak obávaným protivníkem."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1178
@@ -17489,6 +17492,9 @@ msgid ""
 "we are to battle, know that even weakened from the caves you shall still "
 "find me a formidable foe."
 msgstr ""
+"Lich je poražen, Lisar, a naše dohodnuté příměří tak končí. Pokud se máme "
+"utkat, měj na paměti, že i když jsem oslabený pobytem v jeskyních, stále pro "
+"tebe budu obávaným protivníkem."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1183
@@ -17498,6 +17504,10 @@ msgid ""
 "we do not stop her. If you are willing, I would welcome your aid in my fight "
 "to make Wesnoth a better place."
 msgstr ""
+"Ale slyšela jsi, co jsem řekl o Ašvíře – a co řekl Malal. Temná královna již "
+"ublížila nespočtu lidí a zničí vše, co milujeme, pokud ji nezastavíme. Pokud "
+"máš zájem, rád bych uvítal tvou pomoc v mém boji za to, aby se Wesnoth stal "
+"lepším místem."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1187
@@ -17506,6 +17516,9 @@ msgid ""
 "spent my entire childhood listening to my mother give orders and commanding "
 "armies around. I’d always given her the benefit of the doubt."
 msgstr ""
+"Moje matka má sice své mouchy, ale ty zločiny, z nichž ji obviňuješ... Po "
+"celé své dětství jsem poslouchala, jak matka rozdává rozkazy a velí vojskům. "
+"Vždycky jsem předpokládala, že má dobré úmysly."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1191
@@ -17515,6 +17528,11 @@ msgid ""
 "course they fought back. I was never told who most of these people were or "
 "why they fought my mother. Now the volcano, and now this lich..."
 msgstr ""
+"Nemohu však popřít, že se objevily určité náznaky. Stala jsem se "
+"nejdůvěryhodnější pobočnicí své matky. Byla jsem vyslána, abych potlačila ta "
+"nejhorší z různých povstání. Samozřejmě se bránili. Nikdy mi nebylo řečeno, "
+"kdo většina z těchto lidí byla, ani proč bojovali proti mé matce. Teď ta "
+"sopka a pak ten lich..."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1204
@@ -17523,6 +17541,9 @@ msgid ""
 "own flesh. Perhaps together we can save our country in a way that neither of "
 "us could alone."
 msgstr ""
+"Osvoboď mě z těchto pout a já se k tobě přidám, i kdyby to znamenalo "
+"postavit se proti vlastní krvi. Možná společně dokážeme zachránit naši zemi "
+"tak, jak by to ani jeden z nás sám nedokázal."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1210
@@ -17530,6 +17551,9 @@ msgid ""
 "I will join you, even if it means opposing my own flesh. Perhaps together we "
 "can save our country in a way that neither of us could alone."
 msgstr ""
+"Přidám se k tobě, i kdyby to znamenalo postavit se proti vlastní krvi. Možná "
+"společně dokážeme zachránit naši zemi tak, jak by to žádný z nás sám "
+"nedokázal."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1239
