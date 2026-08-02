@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-08-02 11:00+0200\n"
+"PO-Revision-Date: 2026-08-02 12:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16737,13 +16737,15 @@ msgid ""
 "the countless exits from the underground, we just so happened to come "
 "together here..."
 msgstr ""
+"To musí být ty tunely, ze kterých se vynořili Lisařini vojáci. Ze všech těch "
+"nesčetných východů z podzemí jsme se náhodou sešli právě tady..."
 
 #. [message]: speaker=Lisar
 #. [message]: role=leader7
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:581
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:593
 msgid "We’re in dire straits. Deploy the reserves."
-msgstr ""
+msgstr "Jsme v zoufalé situaci. Nasaďte zálohy."
 
 #. [message]: role=leader7
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:675
@@ -16828,6 +16830,9 @@ msgid ""
 "too, intact despite the volcano. I intend to have serious words with the "
 "queen if we somehow get out of this alive..."
 msgstr ""
+"Na obranné linii jsou živí vojáci! ... Konráde, ty jsi tady! A navíc s celým "
+"svým vojskem, které zůstalo nedotčené i přes výbuch sopky. Mám v úmyslu si "
+"s královnou vážně promluvit, pokud se z toho nějak dostaneme živí..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:732
@@ -16836,6 +16841,9 @@ msgid ""
 "vulnerable, but so are we, and if we war the only winner will be the undead. "
 "I propose a truce."
 msgstr ""
+"Nejsem tu proto, abych s tebou bojoval, Lisar – alespoň ne právě teď. Jsi "
+"zranitelná, ale to my také, a pokud se pustíme do války, jediným vítězem "
+"budou nemrtví. Navrhuji příměří."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:736
@@ -16843,6 +16851,9 @@ msgid ""
 "A truce? What ploy is this; are you so cruel that you would give my men hope "
 "before snuffing it out? If you are come to slay me, fight me to my face!"
 msgstr ""
+"Příměří? Co je to za úskok? Jsi snad tak krutý, že bys mým mužům dal naději "
+"a pak ji uhasil? Jestli jsi přišel, abys mě zabil, bojuj se mnou tváří "
+"v tvář!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:740
@@ -16851,6 +16862,8 @@ msgid ""
 "stand together, we shall die alone? It is in both of our interests to work "
 "together!"
 msgstr ""
+"Není to žádný úskok! Nebuď nerozumná. Určitě ti je jasné, že pokud nebudeme "
+"držet při sobě, každý sám zemřeme. Je v našem společném zájmu spolupracovat!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:742
@@ -16858,6 +16871,8 @@ msgid ""
 "Do you agree to my proposal, Your Highness? Or are we to fight and bleed and "
 "die until our bodies both are buried under crimson snow?"
 msgstr ""
+"Souhlasíte s mým návrhem, Vaše Výsosti? Nebo budeme bojovat, krvácet "
+"a umírat, dokud nebudou naše těla pohřbena pod rudým sněhem?"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:750
@@ -16865,6 +16880,8 @@ msgid ""
 "Very well, we shall work together for now. But do not forget that once these "
 "undead are defeated, you and I have a score to settle."
 msgstr ""
+"Dobře, prozatím budeme spolupracovat. Ale nezapomeň, že jakmile budou tito "
+"nemrtví poraženi, budeme si spolu muset vyřídit účty."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:778
@@ -17561,6 +17578,8 @@ msgid ""
 "We’ve come this far together. There is no reason for me to execute an "
 "unarmed woman, enemy though she may be!"
 msgstr ""
+"Dostali jsme se až sem společně. Nemám žádný důvod popravit neozbrojenou "
+"ženu, i kdyby to byla nepřítelkyně!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1258
@@ -17568,6 +17587,8 @@ msgid ""
 "I can’t believe it. Bested so far from home.... and in part by the actions "
 "of my own mother. Embarrassing..."
 msgstr ""
+"To snad není možné. Porazili mě tak daleko od domova... a částečně díky "
+"činům mé vlastní matky. To je trapné..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1263
@@ -17575,6 +17596,8 @@ msgid ""
 "We are beaten! Bested so far from home.... and in part by the actions of the "
 "queen..."
 msgstr ""
+"Jsme poraženi! Prohráli jsme tak daleko od domova... a částečně díky činům "
+"královny..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1274
@@ -17583,6 +17606,8 @@ msgid ""
 "undead! I would rejoice, if we were not surely about to follow them into "
 "undeath..."
 msgstr ""
+"Lisařini vojáci padli a jejich tábory zaplavili nemrtví! Radoval bych se, "
+"kdybychom je tak jistě nenásledovali do nemrtvého života..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1311
@@ -17590,6 +17615,9 @@ msgid ""
 "Ugh... I am faint with hunger and exhausted from our long days underground. "
 "We must finish these undead before we become too weak to fight!"
 msgstr ""
+"Uf... Jsem na omdlení hladem a vyčerpaný z těch dlouhých dnů strávených pod "
+"zemí. Musíme s těmi nemrtvými skoncovat, než budeme příliš slabí na to, "
+"abychom mohli bojovat!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/32_The_Swamp_of_Dread.cfg:1318
@@ -17599,6 +17627,10 @@ msgid ""
 "still able to vanquish these undead without our aid, she will surely do the "
 "same to us now that we have become so frail!"
 msgstr ""
+"Mé srdce... má hlava... naše dlouhé utrpení si vybralo svou daň na nás "
+"všech. Sotva se udržím na nohou, natož abych bojoval, a vojsko na tom není "
+"o nic lépe. I kdyby Lisar byla stále schopná bez naší pomoci porazit tyto "
+"nemrtvé, jistě by se pak obrátila i proti nám, teď, když jsme tak zeslábli!"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:10
