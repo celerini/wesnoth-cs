@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-08-02 12:23+0200\n"
+"PO-Revision-Date: 2026-08-03 20:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19506,12 +19506,12 @@ msgstr ""
 #. [message]: role=clanboss
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:665
 msgid "Stop! Stop! Our armies can bear this no longer."
-msgstr ""
+msgstr "Dost! Dost! Naše vojska to už déle nevydrží."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:669
 msgid "So you admit defeat! You assent to my claim and repudiate Asheviere?"
-msgstr ""
+msgstr "Takže uznáváš porážku! Souhlasíš s mým nárokem a zříkáš se Ašvíry?"
 
 #. [message]: role=clanboss
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:673
@@ -19520,6 +19520,8 @@ msgid ""
 "Highnesses fighting in tandem... perhaps you truly do have a chance at "
 "defeating the great queen."
 msgstr ""
+"Vskutku – pokořili jste nás, nositelé žezla. Jeho a Její královská Výsost "
+"bojující bok po boku... možná opravdu máte šanci porazit velkou královnu."
 
 #. [message]: role=clanboss
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:677
@@ -19527,6 +19529,9 @@ msgid ""
 "The Clans cannot risk all by joining you in your attack on Weldyn, but you "
 "have proven yourself — neither shall we join Asheviere in opposition."
 msgstr ""
+"Klany nemohou riskovat vše tím, že by se k vám připojily při útoku na "
+"Weldyn, ale vy jste se osvědčili – a proto se ani my nepřidáme k Ašvíře "
+"v boji proti vám."
 
 #. [message]: role=clanboss
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:679
@@ -19534,11 +19539,14 @@ msgid ""
 "And as a gesture of goodwill, I instead offer you our warchest; a vast "
 "reserve of supplies and coin to sustain you on your crusade."
 msgstr ""
+"A jako projev dobré vůle vám místo toho nabízím naši válečnou pokladnu – "
+"obrovskou zásobu potřeb a peněz, která vám poslouží jako podpora při vašem "
+"tažení."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:684
 msgid "Konrad and Li’sar have each gained 300 gold!"
-msgstr ""
+msgstr "Konrád i Lisar získali každý 300 zlatých!"
 
 #. [message]: role=clanboss
 #. "Her" refers to Asheviere
@@ -19547,6 +19555,8 @@ msgid ""
 "Now go from this place, and fight with courage. Fight Her as ferociously as "
 "you have fought us."
 msgstr ""
+"Teď odtud odejděte a bojujte statečně. Bojujte proti ní stejně zuřivě, jako "
+"jste bojovali proti nám."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:715
