@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-08-03 21:24+0200\n"
+"PO-Revision-Date: 2026-08-03 21:33+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5463,16 +5463,18 @@ msgid ""
 "Prepare to fight Asheviere ($( $bm_milestone_finale - $bm_turns ) battles "
 "remaining)"
 msgstr ""
+"Připrav se na boj s Ašvírou (počet zbývajících bitev: $"
+"( $bm_milestone_finale - $bm_turns ))"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:568
 msgid "Prepare to fight Asheviere (1 battle remaining)"
-msgstr ""
+msgstr "Připrav se na boj s Ašvírou (zbývá 1 bitva)"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:575
 msgid "Defeat the Dark Queen and reclaim your throne."
-msgstr ""
+msgstr "Poraz temnou královnu a získej zpět svůj trůn."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:592
