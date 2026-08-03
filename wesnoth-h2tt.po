@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-08-03 20:10+0200\n"
+"PO-Revision-Date: 2026-08-03 20:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5258,6 +5258,8 @@ msgid ""
 "Do not forget your pledge, lords of the clans. When Asheviere calls you for "
 "aid, let her pleas fall upon deaf ears."
 msgstr ""
+"Nezapomeňte na svůj slib, páni klanů. Až vás Ašvíra požádá o pomoc, buďte "
+"hluší k jejím prosbám."
 
 #. [message]: id=Alric,Daryn,Bayar,Ruga
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1196
@@ -5265,6 +5267,8 @@ msgid ""
 "You have proven yourselves worthy, Your Royal Highnesses, worthy even to "
 "claim the throne. I bow my head."
 msgstr ""
+"Osvědčili jste se, Vaše královské Výsosti, a to natolik, že si můžete činit "
+"nárok i na trůn. Skláním svou hlavu."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1263
