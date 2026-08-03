@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-08-03 20:31+0200\n"
+"PO-Revision-Date: 2026-08-03 21:24+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6294,6 +6294,9 @@ msgid ""
 "Weldyn, will your decision hold? You would do well to learn the lesson on "
 "loyalty that your mother did not."
 msgstr ""
+"Je dobře, že ses rozhodla nám pomoci, Lisar. Ale až se přiblížíme k Weldynu, "
+"vytrváš ve svém rozhodnutí? Bylo by dobré, kdyby sis vzala k srdci lekci "
+"věrnosti, na rozdíl od své matky."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1571
@@ -6301,11 +6304,13 @@ msgid ""
 "I am not a fool. I fought you because I believed it was best for Wesnoth. "
 "Now I fight my mother for the same reason."
 msgstr ""
+"Nejsem žádný hlupák. Bojovala jsem proti tobě, protože jsem věřila, že je to "
+"pro Wesnoth to nejlepší. Teď ze stejného důvodu bojuji proti své matce."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1575
 msgid "Indeed..."
-msgstr ""
+msgstr "Jistě..."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1579
@@ -6315,6 +6320,10 @@ msgid ""
 "truth and righteousness are but scrolls that can be rewritten when a queen "
 "grows tired of them?"
 msgstr ""
+"Poslyš, ty, jehož oči jsou jasné, ale skrývají prázdnotu, myslíš si snad, že "
+"nevím, co může moc udělat s duší člověka? Jakého zla je schopen, když pravda "
+"a spravedlnost nejsou nic jiného než svitky, které lze přepsat, jakmile se "
+"jich královna nabaží?"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1583
@@ -6324,6 +6333,10 @@ msgid ""
 "generals. I now know she was having people killed... entire towns of people "
 "killed!"
 msgstr ""
+"Celé dětství jsem strávila tím, že jsem poslouchala, jak má matka rozdává "
+"rozkazy a velí vojskům. Jako malá holčička jsem se schovávala v trůnním "
+"sále, když se scházela se svými generály. Teď už vím, že nechávala zabíjet "
+"lidi... celé vesnice!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1587
@@ -6331,6 +6344,8 @@ msgid ""
 "You are all lucky. You do not know what Wesnoth has been like these past "
 "many years. There is no peace. I have never known peace."
 msgstr ""
+"Všichni máte štěstí. Nevíte, jaký byl Wesnoth v mnoha posledních letech. "
+"Není žádný mír. Já ho nikdy nezažila."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1591
@@ -6340,6 +6355,10 @@ msgid ""
 "Undead can feel it. Large armies of men march across the plains hunting each "
 "other, and when no men remain, outsiders will claim Wesnoth as their home."
 msgstr ""
+"Vím, jaký kalich hořkosti vylila na Wesnoth tvá matka, dítě. Země byla "
+"rozervána na kusy. Elfové to vědí. Skřeti to vědí. Nemrtví to cítí. Obrovská "
+"vojska lidí pochodují po pláních a pronásledují se navzájem, a až nezůstane "
+"žádný člověk, cizinci si Wesnoth přivlastní jako svůj domov."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1595
@@ -6349,6 +6368,10 @@ msgid ""
 "and my brothers. Asheviere’s masterwork of treachery will end, and it will "
 "end by my blade!"
 msgstr ""
+"Stačí! Už to dál nedokážu poslouchat. Lisar, možná chceš skoncovat s vládou "
+"své matky, ale já skoncuji s jejím životem, stejně jako ona skoncovala "
+"s životem mého otce a mých bratrů. Ašvířino proradné veledílo skončí – "
+"a skončí mým mečem!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1613
