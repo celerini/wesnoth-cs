@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-08-02 10:20+0200\n"
+"PO-Revision-Date: 2026-08-04 22:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8063,7 +8063,7 @@ msgstr "Klan"
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/23_Test_of_the_Clans.cfg:121
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/24_Battle_for_Wesnoth.cfg:210
 msgid "Sir Alric"
-msgstr "Sir Alric"
+msgstr "Sir Alrik"
 
 #. [side]: type=Grand Knight, id=Sir Ruga
 #. [then]
@@ -8213,7 +8213,7 @@ msgid ""
 "If you reduce Lord Bayar, Sir Ruga, Sir Daryn, or Sir Alric to 0HP, you’ll "
 "receive a reward!"
 msgstr ""
-"Jestliže snížíš život lorda Bayara, sira Rugy, sira Daryna nebo sira Alrica "
+"Jestliže snížíš život lorda Bayara, sira Rugy, sira Daryna nebo sira Alrika "
 "na 0 bodů, tak dostaneš odměnu!"
 
 #. [message]: speaker=Bayar
