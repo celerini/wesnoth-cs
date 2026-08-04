@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-08-03 21:33+0200\n"
+"PO-Revision-Date: 2026-08-04 22:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5176,21 +5176,21 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1068
 msgid "The Horse Plains"
-msgstr ""
+msgstr "Nížina koní"
 
 #. [event]
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1071
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:105
 msgid "Sir Alric"
-msgstr ""
+msgstr "Sir Alrik"
 
 #. [event]
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1075
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:106
 msgid "Sir Daryn"
-msgstr ""
+msgstr "Sir Daryn"
 
 #. [event]
 #. [scenario]
@@ -5198,14 +5198,14 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:107
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2002
 msgid "Lord Bayar"
-msgstr ""
+msgstr "Lord Bayar"
 
 #. [event]
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1083
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:108
 msgid "Sir Ruga"
-msgstr ""
+msgstr "Sir Ruga"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1103
 msgid "Test of the Clans"
