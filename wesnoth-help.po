@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-06-22 22:15-0500\n"
+"POT-Creation-Date: 2026-08-02 22:45-0500\n"
 "PO-Revision-Date: 2026-07-12 12:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -324,7 +324,7 @@ msgstr "skrývání"
 
 #. [drains]: id=drains
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:23
-#: data/core/macros/weapon_specials.cfg:183
+#: data/core/macros/weapon_specials.cfg:184
 msgid "drains"
 msgstr "vysátí"
 
@@ -362,7 +362,7 @@ msgstr "noční lovec"
 
 #. [poison]: id=poison
 #: data/campaigns/World_Conquest/resources/strings/mainline.cfg:50
-#: data/core/macros/weapon_specials.cfg:205
+#: data/core/macros/weapon_specials.cfg:206
 msgid "poison"
 msgstr "otrava"
 
@@ -6316,7 +6316,7 @@ msgstr ""
 "pouze pokud je použit v boji."
 
 #. [drains]: id=drains
-#: data/core/macros/weapon_specials.cfg:184
+#: data/core/macros/weapon_specials.cfg:185
 msgid ""
 "This unit drains health from living units, healing itself for half the "
 "amount of damage it deals (rounded down)."
@@ -6325,18 +6325,18 @@ msgstr ""
 "polovinu poranění, jež útokem způsobila (zaokrouhleno dolů)."
 
 #. [firststrike]: id=firststrike
-#: data/core/macros/weapon_specials.cfg:194
+#: data/core/macros/weapon_specials.cfg:195
 msgid "first strike"
 msgstr "první úder"
 
 #. [firststrike]: id=firststrike
-#: data/core/macros/weapon_specials.cfg:195
+#: data/core/macros/weapon_specials.cfg:196
 msgid ""
 "This unit always strikes first with this attack, even if they are defending."
 msgstr "Tato jednotka v souboji vždy udeří první, i když se brání."
 
 #. [poison]: id=poison
-#: data/core/macros/weapon_specials.cfg:206
+#: data/core/macros/weapon_specials.cfg:207
 msgid ""
 "This attack poisons living targets. Poisoned units lose 8 HP every turn "
 "until they are cured or are reduced to 1 HP. Poison cannot, of itself, kill "
@@ -6347,12 +6347,12 @@ msgstr ""
 "jednotku zabít."
 
 #. [stun]: id=stun
-#: data/core/macros/weapon_specials.cfg:216
+#: data/core/macros/weapon_specials.cfg:217
 msgid "stun"
 msgstr "omráčení"
 
 #. [stun]: id=stun
-#: data/core/macros/weapon_specials.cfg:217
+#: data/core/macros/weapon_specials.cfg:218
 msgid ""
 "This attack hits so hard that the opponent is dazed and can no longer "
 "enforce a zone of control. The effect wears off on the opponent’s next turn."
@@ -6361,7 +6361,7 @@ msgstr ""
 "oblast kontroly. Účinek vyprší v dalším kole protivníka."
 
 #. [stun]: id=stun
-#: data/core/macros/weapon_specials.cfg:218
+#: data/core/macros/weapon_specials.cfg:219
 msgid ""
 "This unit is able to stun its enemies, disrupting their zones of control."
 msgstr ""
@@ -6369,12 +6369,12 @@ msgstr ""
 "kontroly."
 
 #. [damage_type]: id=arcane_damage
-#: data/core/macros/weapon_specials.cfg:227
+#: data/core/macros/weapon_specials.cfg:228
 msgid "arcane"
 msgstr "nezemský"
 
 #. [damage_type]: id=arcane_damage
-#: data/core/macros/weapon_specials.cfg:228
+#: data/core/macros/weapon_specials.cfg:229
 msgid ""
 "This attack combines the arcane type with the type of weapon used so that "
 "resistance to the arcane type does not penalize the user."
@@ -6383,7 +6383,7 @@ msgstr ""
 "takže odolnost proti nezemskému uživatele nepostihuje."
 
 #. [damage_type]: id=arcane_damage
-#: data/core/macros/weapon_specials.cfg:229
+#: data/core/macros/weapon_specials.cfg:230
 msgid ""
 "This unit can use the arcane type when the opponent is particularly "
 "sensitive to it in relation to the weapon on which it is applied."
