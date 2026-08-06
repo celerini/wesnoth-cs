@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-04 22:10+0200\n"
+"PO-Revision-Date: 2026-08-06 21:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -580,20 +580,15 @@ msgstr ""
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:335
-#, fuzzy
-#| msgid ""
-#| "Tip: The season of the year changes every time you finish a battle. "
-#| "Winter battles will have longer nights and shorter days, often with more "
-#| "snow and ice. Summer battles are the opposite."
 msgid ""
 "overworld_help^After completing any scenario, the season of the year will "
 "change. Winter battles will have longer nights and shorter days, often with "
 "more snow and ice, while summer battles are the opposite. It’s currently "
 "autumn."
 msgstr ""
-"Rada: Roční období se mění vždy, když dokončíš bitvu. Zimní bitvy budou mít "
-"delší noci a kratší dny, často s větším množstvím sněhu a ledu. Letní bitvy "
-"jsou pravým opakem."
+"Po dokončení každého scénáře se změní roční období. V zimních bitvách budou "
+"noci delší a dny kratší, často s větším množstvím sněhu a ledu, zatímco "
+"v letních bitvách to bude naopak. Nyní je podzim."
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:335
