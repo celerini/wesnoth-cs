@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-06 21:55+0200\n"
+"PO-Revision-Date: 2026-08-10 07:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4226,6 +4226,8 @@ msgid ""
 "Finally! Our journey under the mountains has been long and difficult, but at "
 "last we return to the open continent — and with a powerful new ally!"
 msgstr ""
+"Konečně! Naše cesta pod horami byla dlouhá a náročná, ale nakonec se vracíme "
+"na otevřený kontinent – a navíc s novým mocným spojencem!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:518
@@ -4233,6 +4235,8 @@ msgid ""
 "If you’re serious about overthrowing my mother, just my support won’t be "
 "enough. And she’s certainly not about to give up the throne just for my sake."
 msgstr ""
+"Pokud to se sesazením mé matky myslíš vážně, moje podpora sama o sobě nebude "
+"stačit. A ona se rozhodně nechystá vzdát trůnu jen kvůli mně."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:522
@@ -4241,6 +4245,9 @@ msgid ""
 "the orcish tribes — all these bolster Weldyn’s armies. The more we can "
 "defeat, the weaker Asheviere will become."
 msgstr ""
+"Ne, nejprve musíme oslabit její spojence. Dan’Tonk, klany jezdců, skřetí "
+"kmeny – to vše posiluje vojska Weldynu. Čím více jich porazíme, tím bude "
+"Ašvíra slabší."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:526
@@ -4249,6 +4256,9 @@ msgid ""
 "among the elves of the Lintanir — I have spent time there before. There are "
 "woses in the east as well, and drakes; who knows what else may await us!"
 msgstr ""
+"Nebo si musíme najít další spojence! Možná najdeme přátele mezi elfy "
+"z Lintaniru – už jsem tam kdysi pobýval. Na východě jsou také stromoví lidé "
+"a drakonidé. Kdo ví, co dalšího nás ještě čeká!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:539
@@ -4256,6 +4266,8 @@ msgid ""
 "This was a difficult battle, but without it we would never have become "
 "allied with Li’sar. We should count ourselves lucky to have fought it."
 msgstr ""
+"Byla to těžká bitva, ale bez ní bychom se nikdy nespojili s Lisar. Měli "
+"bychom být rádi, že jsme si tím prošli."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:13
 msgid "Snow Plains"
