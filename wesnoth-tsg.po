@@ -5059,7 +5059,7 @@ msgid ""
 msgstr ""
 "Bohové... ta lebka, ty oči. Skoro jsem doufal, že ta dáma měla pravdu, ale "
 "teď... ani ve Východním pohraničí by mě nikdy nenapadlo, že se dožiju toho, "
-"jak uvidím liche."
+"jak uvidím licha."
 
 #. [companion_message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:263
