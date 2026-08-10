@@ -5058,7 +5058,7 @@ msgid ""
 "now... even in the Estmarks I never thought I’d live to lay eyes on an lich."
 msgstr ""
 "Bohové... ta lebka, ty oči. Skoro jsem doufal, že ta dáma měla pravdu, ale "
-"teď... ani ve Východním pohraničí by mě nikdy nenapadlo, že se dožiju toho "
+"teď... ani ve Východním pohraničí by mě nikdy nenapadlo, že se dožiju toho, "
 "jak uvidím liche."
 
 #. [companion_message]: speaker=Deoran
