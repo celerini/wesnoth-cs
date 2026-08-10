@@ -6529,7 +6529,7 @@ msgstr ""
 "lesní lid už nebojuje.“\n"
 "\n"
 "Před zraky celé řady pěchoty si muž a elfka potřásli rukama. Ethiliel se "
-"důkladně, dlouho a slzami v očích omlouvala."
+"důkladně, dlouho a se slzami v očích omlouvala."
 
 #. [part]
 #. Epilogue text
