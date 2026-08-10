@@ -5252,7 +5252,7 @@ msgstr ""
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:528
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:589
 msgid "What the— it’s a cave-in!"
-msgstr "Co to sakra… to je zával!"
+msgstr "Co to sakra... to je zával!"
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:532
