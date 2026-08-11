@@ -5095,8 +5095,8 @@ msgid ""
 "Look out, a troll! Stay back everyone, it might leave us alone if we keep "
 "our distance."
 msgstr ""
-"Pozor, troll! Všichni se držte dál, možná nás nechá na pokoji, když si zachováme "
-"odstup."
+"Pozor, troll! Všichni se držte dál, možná nás nechá na pokoji, když si "
+"zachováme odstup."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_South_Guard/scenarios/05c_Into_the_Depths.cfg:282
