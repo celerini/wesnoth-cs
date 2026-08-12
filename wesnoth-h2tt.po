@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-10 07:50+0200\n"
+"PO-Revision-Date: 2026-08-12 22:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4278,17 +4278,17 @@ msgstr "Sněžné pláně"
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1106
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1213
 msgid "Defeated Faction:"
-msgstr ""
+msgstr "Poražená frakce:"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:27
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:75
 msgid "Urag Fell-Handed"
-msgstr ""
+msgstr "Urag Tvrdá ruka"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:47
 msgid "Look there, in the cage! Is that who she seems to be?"
-msgstr ""
+msgstr "Podívejte se tam, do té klece! Je to opravdu ta, na kterou to vypadá?"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:52
@@ -4296,6 +4296,8 @@ msgid ""
 "Then it’s agreed? You’ll release and repatriate me to my queen’s service, in "
 "return for a to-be-negotiated ransom from the royal treasury?"
 msgstr ""
+"Takže je to domluveno? Propustíte mě a pošlete zpět do služeb mé královny "
+"výměnou za výkupné z královské pokladny, jehož výši ještě vyjednáme?"
 
 #. [message]: speaker=urag_tifer
 #. "witch" is a derogatory term here. Mirya (a Silver Mage) would probably prefer to be called a mage, or maybe a wizard.
@@ -4305,6 +4307,9 @@ msgid ""
 "other chiefs feed like pigs in Wesnoth. Ha! Lucky for me that we happened to "
 "run into each other, witch."
 msgstr ""
+"Ár... domluveno. Už žádné blbnutí v těch mrazivých horách, zatímco ostatní "
+"náčelníci se ve Wesnothu cpou jako prasata. Ha! Mám štěstí, že jsme na sebe "
+"narazili, čarodějnice."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:63
@@ -4312,6 +4317,8 @@ msgid ""
 "The fates must have a sense of humor — here is imprisoned the very mage who "
 "tried to burn us alive back in the volcano."
 msgstr ""
+"Osud musí mít smysl pro humor – je tu uvězněna právě ta čarodějka, která se "
+"nás tam u sopky pokusila upálit zaživa."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:67
@@ -4319,6 +4326,8 @@ msgid ""
 "It sounds as though she stands on the verge of freedom. But if we strike "
 "now, we can prevent her from ever rejoining Asheviere."
 msgstr ""
+"Zní to, jako by stála na prahu svobody. Ale pokud udeříme teď, můžeme jí "
+"zabránit v tom, aby se kdy vrátila k Ašvíře."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:84
