@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-13 21:56+0200\n"
+"PO-Revision-Date: 2026-08-13 23:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4353,7 +4353,7 @@ msgstr "Vypadněte odsud, lidi. To, pro co jste přišli, už máte!"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:102
 msgid "Whitefang Mountains"
-msgstr ""
+msgstr "Bílé špičáky"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:110
 msgid "A Crisis of Leadership"
@@ -4365,7 +4365,7 @@ msgstr "Krize vedení"
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:270
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1927
 msgid "Fagh-mok the Flattered"
-msgstr ""
+msgstr "Fagh-mok Namyšlený"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:158
@@ -4374,6 +4374,8 @@ msgid ""
 "orcish clan of the same name. They are allies of Asheviere’s, and powerful "
 "enemies of ours."
 msgstr ""
+"Buď opatrný, Konráde. Blížíme se k Bílým špičákům, kde sídlí obrovský skřetí "
+"klan stejného jména. Jsou to spojenci Ašvíry a naši mocní nepřátelé."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:162
@@ -4381,6 +4383,9 @@ msgid ""
 "Even the great armies of yesteryear lacked the strength to defeat them in "
 "their home. We should do our best to slip quietly past."
 msgstr ""
+"Ani veliká vojska minulých časů neměla dost síly na to, aby je porazila na "
+"jejich vlastním území. Měli bychom se snažit proklouznout kolem nich "
+"nepozorovaně."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:166
@@ -4388,6 +4393,8 @@ msgid ""
 "Your warning comes too late, Delfador. One of their leaders has already "
 "spotted us!"
 msgstr ""
+"Tvé varování přichází příliš pozdě, Delfadore. Jeden z jejich velitelů nás "
+"už zahlédl!"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:172
@@ -4395,6 +4402,8 @@ msgid ""
 "Peace, pinkski— humans! Hah, don’t you look scared to see me. You must be "
 "the great Prince Konrad!"
 msgstr ""
+"Mír, bledé ků... lidi! Ha, vypadáš, že se mě vůbec nebojíš. Ty musíš být ten "
+"slavný princ Konrád!"
 
 #. [message]: speaker=Faghmok
 #. his real name is Fagh-mok the Flattered, but he's lying to make himself sound better.
@@ -4404,6 +4413,9 @@ msgid ""
 "queen Asheviere told us all sorts of things about you, prince. But I’m sure "
 "it’s all lies."
 msgstr ""
+"Jsem Fagh-mok Ctihodný, čestný válečník z náčelníkovy stráže. Ta odporná "
+"královna Ašvíra nám o tobě vyprávěla nejrůznější věci, princi. Ale jsem si "
+"jistý, že jsou to samé lži."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:181
@@ -4411,6 +4423,8 @@ msgid ""
 "You are no friend of the dark queen, then? Yet your clan fights alongside "
 "her as an ally."
 msgstr ""
+"Takže nejsi přítelem temné královny? Přitom tvůj klan bojuje po jejím boku "
+"jako spojenec."
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:185
@@ -4418,6 +4432,8 @@ msgid ""
 "They have been misled! Our foolish chief dares to oppose you, oh mighty "
 "Konrad! But if there were to be a new chief... myself, for example..."
 msgstr ""
+"Byli oklamáni! Náš pošetilý náčelník se odváží postavit se ti na odpor, ó "
+"mocný Konráde! Kdyby tu však byl nový náčelník... třeba já, například..."
 
 #. [message]: speaker=Faghmok
 #. [message]: role=weldyn3
@@ -4447,12 +4463,12 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:120
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:207
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:193
 msgid "If you’re interested, come meet me just outside our camp."
-msgstr ""
+msgstr "Pokud máš zájem, přijď za mnou. Budu u našeho tábora."
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:203
