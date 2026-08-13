@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-13 20:36+0200\n"
+"PO-Revision-Date: 2026-08-13 21:56+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4514,7 +4514,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:285
 msgid "Arkan-Thoria"
-msgstr ""
+msgstr "Arkan-Thoria"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:293
 msgid "Cliffs of Thoria"
@@ -4522,13 +4522,15 @@ msgstr "Srázy Thorie"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:296
 msgid "New Companion for Li’sar:"
-msgstr ""
+msgstr "Nový společník pro Lisar:"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:299
 msgid ""
 "Reinforcements: <span color='#EFBF04'><b>Li’sar will start future scenarios "
 "with double income and +50 gold.</b></span>"
 msgstr ""
+"Posily: <span color='#EFBF04'><b>Lisar bude v budoucích scénářích začínat "
+"s dvojnásobným příjmem a 50 zlatými navíc.</b></span>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:315
@@ -4536,6 +4538,8 @@ msgid ""
 "Look — winged shapes swooping on the horizon. And I hear the shouts and "
 "screams of men! A battle is being fought on the river!"
 msgstr ""
+"Podívejte – na obzoru se snášejí okřídlené stíny. A slyším výkřiky a řev "
+"mužů! Na řece zuří bitva!"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:322
@@ -4545,6 +4549,10 @@ msgid ""
 "evil creatures lurk along its banks, its waters are not fit to drink, and it "
 "runs over the Cliffs of Thoria."
 msgstr ""
+"To je řeka, kterou lidé znají pod jménem Longlier, avšak v prastarém jazyce "
+"mého lidu se jí říká Arkan-Thoria. Její jméno znamená „Řeka kostí“. Podél "
+"jejích břehů číhají obrovská a zlá stvoření, její voda není pitná a teče "
+"přes Srázy Thorie."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:326
@@ -4552,6 +4560,8 @@ msgid ""
 "It has been many centuries since any man or elf has passed over the Cliffs "
 "and survived. Be cautious, prince."
 msgstr ""
+"Je to již mnoho století, co naposledy nějaký člověk či elf překročil Srázy "
+"a přežil. Buď opatrný, princi."
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:347
@@ -4559,6 +4569,8 @@ msgid ""
 "I can’t thank you enough for saving me, Your Highness. I would have been "
 "dead a dozen times over."
 msgstr ""
+"Nemohu vám dostatečně poděkovat za to, že jste mě zachránil, Vaše Výsosti. "
+"Už bych byl mrtvý nejméně tucetkrát."
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:351
@@ -4567,16 +4579,21 @@ msgid ""
 "bad state right now, but give me a few animals and some supplies to go "
 "relieve them, and we’ll be ready to reinforce you for your next battles."
 msgstr ""
+"Zbytek přeživších je vzdálený týden pochodu proti proudu řeky. Právě teď "
+"jsou na tom dost špatně, ale dejte mi pár zvířat a nějaké zásoby, abych jim "
+"mohl jít pomoci, a budeme připraveni posílit vaše řady v dalších bitvách."
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:358
 msgid "Reinforcements"
-msgstr ""
+msgstr "Posily"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:359
 msgid "Li’sar will start future scenarios with double income and +50 gold."
 msgstr ""
+"Lisar bude v budoucích scénářích začínat s dvojnásobným příjmem a 50 zlatými "
+"navíc."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:365
@@ -4584,6 +4601,8 @@ msgid ""
 "There are still some drakes here, but there’s no longer any reason to fight. "
 "We did a good thing by rescuing Warven and his allies."
 msgstr ""
+"Je tu sice ještě pár drakonidů, ale už není důvod bojovat. Udělali jsme "
+"správnou věc, když jsme zachránili Warvena a jeho spojence."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:387
