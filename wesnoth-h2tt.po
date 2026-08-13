@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-12 22:14+0200\n"
+"PO-Revision-Date: 2026-08-13 20:36+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4332,7 +4332,7 @@ msgstr ""
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:84
 msgid "An ignominious end for a mage who’s caused us so much trouble."
-msgstr ""
+msgstr "Ostudný konec pro čarodějku, která nám způsobila tolik potíží."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:86
@@ -4341,11 +4341,14 @@ msgid ""
 "the past. It is good that we stopped her before she could bring this one "
 "into their fold too."
 msgstr ""
+"Podle toho, co mi řekla Lisar, Mirya v minulosti pro Ašvíru verbovala skřetí "
+"klany. Je dobře, že jsme ji zastavili, než stačila přivést i tento klan do "
+"jejich řad."
 
 #. [message]: speaker=urag_tifer
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:92
 msgid "Get out of here, humans. You already got what you came for!"
-msgstr ""
+msgstr "Vypadněte odsud, lidi. To, pro co jste přišli, už máte!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:102
