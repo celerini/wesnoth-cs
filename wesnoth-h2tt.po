@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-13 23:07+0200\n"
+"PO-Revision-Date: 2026-08-14 09:17+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4473,7 +4473,7 @@ msgstr "Pokud máš zájem, přijď za mnou. Budu u našeho tábora."
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:203
 msgid "Ha ha ha, I knew you’d come find me. Very good."
-msgstr ""
+msgstr "Ha ha ha, věděl jsem, že mě vyhledáš. Výborně."
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:207
@@ -4482,6 +4482,9 @@ msgid ""
 "our camp. Once you’re there, it’ll be up to you to kill the old chief — and "
 "then I can take over!"
 msgstr ""
+"Jsem připraven propašovat tebe a tři tvé nejlepší vojáky do samého středu "
+"našeho tábora. Až se tam ocitnete, bude na vás, abyste zabili starého "
+"náčelníka – a pak to můžu převzít já!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:211
@@ -4489,6 +4492,8 @@ msgid ""
 "Or, once we’re separated from our army you will capture us and turn us over "
 "to Asheviere. Why should I take such a great risk on the word of a stranger?"
 msgstr ""
+"Nebo, jakmile se oddělíme od našeho vojska, zajmeš nás a vydáš Ašvíře. Proč "
+"bych měl podstupovat tak velké riziko jen na základě slibu nějakého cizince?"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:215
@@ -4497,6 +4502,9 @@ msgid ""
 "have some guarantee... fine, I’ll stay prisoner with your army until you "
 "safely return. Now what do you say?"
 msgstr ""
+"Pah, náčelníkem se stanu jen tehdy, když zabijete toho starého! Ale jestli "
+"potřebuješ nutně nějakou záruku... dobře, zůstanu jako rukojmí u tvého "
+"vojska, dokud se bezpečně nevrátíte. Tak co na to říkáš?"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:220
@@ -4504,6 +4512,9 @@ msgid ""
 "When you’re ready, I can sneak you and three of your best soldiers into the "
 "center of our camp. And then you can kill the chief! What do you say?"
 msgstr ""
+"Až budeš připravený, můžu tě spolu se třemi tvými nejlepšími vojáky "
+"propašovat do samého středu našeho tábora. A pak můžete zabít náčelníka! Co "
+"ty na to?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:225
@@ -4512,6 +4523,9 @@ msgid ""
 "accuracy and power to quickly defeat enemies even within their own "
 "fortifications. Are we prepared?"
 msgstr ""
+"Hmm... Pokud jde o samotnou vraždu, budeme potřebovat ostřílené bojovníky "
+"s dostatečnou přesností a silou, aby dokázali rychle porazit nepřátele "
+"i uvnitř jejich vlastních opevnění. Jsme na to připraveni?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:269
@@ -4519,6 +4533,9 @@ msgid ""
 "With the Whitefangs embroiled in civil war, Asheviere is more vulnerable "
 "than ever! I wonder who the eventual victor will be..."
 msgstr ""
+"Vzhledem k tomu, že se Bílé špičáky zapletly do občanské války, je Ašvíra "
+"zranitelnější než kdy jindy! Zajímalo by mě, kdo z toho nakonec vyjde jako "
+"vítěz..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:275
@@ -4526,6 +4543,8 @@ msgid ""
 "With the Whitefangs embroiled in civil war, Asheviere is more vulnerable "
 "than ever."
 msgstr ""
+"Vzhledem k tomu, že se Bílé špičáky zapletly do občanské války, je Ašvíra "
+"zranitelnější než kdy jindy."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:285
