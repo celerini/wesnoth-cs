@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-14 09:17+0200\n"
+"PO-Revision-Date: 2026-08-14 10:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4647,6 +4647,10 @@ msgid ""
 "the woses are, I expect the elves of Lintanir will have much to speak with "
 "us about."
 msgstr ""
+"Blížíme se k okraji Lintanirského lesa. Delfador mi kdysi vyprávěl o zdejším "
+"háji, v němž žijí stromoví lidé, ale dnes jsou stromy tiché. Ať už jsou "
+"stromoví kdekoli, předpokládám, že elfové z Lintaniru nám k tomu budou mít "
+"co říct."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:402
 msgid "Underground Channels"
@@ -4693,17 +4697,17 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:463
 msgid "Lintanir Forest"
-msgstr ""
+msgstr "Lintanirský les"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:471
 msgid "Eloreis"
-msgstr ""
+msgstr "Eloreis"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:472
 msgid "Parandra"
-msgstr ""
+msgstr "Parandra"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:509
@@ -4712,6 +4716,9 @@ msgid ""
 "North Elves. I was born not far east of here... more years ago than I care "
 "to remember."
 msgstr ""
+"Konečně! Přátelé, nakonec jsme dorazili do Lintanirského lesa, domova "
+"severních elfů. Narodil jsem se nedaleko odtud na východ... před tolika "
+"lety, že si to ani nechci připomínat."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:513
@@ -4720,6 +4727,9 @@ msgid ""
 "Aethenwood. Lord Kalenz has told me much about his home in the Lintanir. I "
 "am honored to meet you."
 msgstr ""
+"Zdravím vás, elfové! Jmenuji se Konrád, jsem dědic wesnothského trůnu a syn "
+"Aethenského lesa. Lord Kalenz mi vyprávěl mnoho o svém domově v Lintaniru. "
+"Je mi ctí se s vámi setkat."
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:517
@@ -4727,6 +4737,8 @@ msgid ""
 "Greetings, Konrad. I have heard much about you as well. Welcome to the "
 "Lintanir Forest."
 msgstr ""
+"Zdravím, Konráde. Také jsem o tobě už hodně slyšel. Vítej v Lintanirském "
+"lese."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:526
@@ -4734,6 +4746,8 @@ msgid ""
 "Hail, elves! I am Konrad, heir to the throne of Wesnoth, son of the "
 "Aethenwood and friend of Lord Kalenz."
 msgstr ""
+"Zdravím vás, elfové! Jmenuji se Konrád, jsem dědic wesnothského trůnu, syn "
+"Aethenského lesa a přítel lorda Kalenze."
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:530
@@ -4741,6 +4755,8 @@ msgid ""
 "Greetings, Konrad. I have heard much about you. Welcome to the Lintanir "
 "Forest, home of the North Elves."
 msgstr ""
+"Zdravím, Konráde. Hodně jsem o tobě slyšel. Vítej v Lintanirském lese, "
+"domově severních elfů."
 
 #. [message]: speaker=Parandra
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:542
@@ -4749,11 +4765,16 @@ msgid ""
 "since I last laid eyes on you, Konrad, yet you are now a grown man. A proven "
 "warrior stands before me!"
 msgstr ""
+"Jak rychle lidé dospívají! Uplynulo teprve sedmnáct zim od chvíle, kdy jsem "
+"tě naposledy viděla, Konráde, a přesto jsi už dospělý muž. Mám před sebou "
+"ostříleného válečníka!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:546
 msgid "Forgive me, Elf, but I’m afraid I do not recall meeting you before. "
 msgstr ""
+"Promiň, elfko, ale obávám se, že si nevzpomínám, že bych tě někdy dříve "
+"potkal. "
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:550
@@ -4762,11 +4783,15 @@ msgid ""
 "rampaging across Wesnoth, Parandra helped me rescue you from the royal "
 "palace."
 msgstr ""
+"Konráde, to je Parandra. Když se Ašvíra poprvé chopila moci a její skřeti "
+"začali pustošit Wesnoth, Parandra mi pomohla zachránit tě z královského "
+"paláce."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:554
 msgid "I had no idea! Thank you, my lady. It is a pleasure to meet you again."
 msgstr ""
+"To jsem netušil! Děkuji ti, má paní. Je mi potěšením se s tebou opět setkat."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:558
@@ -4774,6 +4799,8 @@ msgid ""
 "Rescued him from my mother? Seventeen years ago Konrad would’ve been an "
 "infant. What is this you’re talking about?"
 msgstr ""
+"Zachráněn před mou matkou? Před sedmnácti lety by byl Konrad ještě nemluvně. "
+"O čem to vlastně mluvíte?"
 
 #. [message]: id=Kalenz,Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:562
