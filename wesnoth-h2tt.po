@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-14 10:00+0200\n"
+"PO-Revision-Date: 2026-08-15 09:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6806,7 +6806,7 @@ msgid ""
 "under my bedsheets?"
 msgstr ""
 "Jsem vzhůru, nespím. Co je to dnes za „útok“, Delfadore? Skřeti za dveřmi? "
-"Mágové pod mým povlečením?"
+"Mágové pod mou postelí?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:253
