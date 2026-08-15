@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-15 19:08+0200\n"
+"PO-Revision-Date: 2026-08-15 21:15+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -636,35 +636,35 @@ msgstr ""
 #. [lua]: wesnoth.wml_actions.select_lintanir_boon
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:476
 msgid "Select an item to learn more..."
-msgstr ""
+msgstr "Zvol si předmět a dozvíš se víc..."
 
 #. [lua]: wesnoth.wml_actions.select_lintanir_boon
 #. [event]: id=boon_wose_lore
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:499
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:800
 msgid "Wose Lore"
-msgstr ""
+msgstr "Moudra lesa"
 
 #. [lua]: wesnoth.wml_actions.select_lintanir_boon
 #. [event]: id=boon_flaming_sword # used in smalltalk.cfg, type=fire
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:503
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:846
 msgid "Flaming Sword"
-msgstr ""
+msgstr "Planoucí meč"
 
 #. [lua]: wesnoth.wml_actions.select_lintanir_boon
 #. [event]: id=boon_void_armor
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:507
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:871
 msgid "Void Armor"
-msgstr ""
+msgstr "Zbroj nicoty"
 
 #. [lua]: wesnoth.wml_actions.select_lintanir_boon
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:517
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:518
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:519
 msgid "Take"
-msgstr ""
+msgstr "Vzít"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:14
