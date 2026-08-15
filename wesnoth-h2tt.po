@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-15 09:47+0200\n"
+"PO-Revision-Date: 2026-08-15 19:08+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4809,6 +4809,9 @@ msgid ""
 "unjustly. When Konrad was an infant, she ordered all the princes put to "
 "death, so she could seize control."
 msgstr ""
+"Tvá matka má na rukou spoustu krve, dítě. Nechala nespravedlivě zabít mnoho "
+"lidí. Když byl Konrád ještě nemluvně, nařídila popravit všechny prince, aby "
+"se mohla chopit moci."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:566
@@ -4817,6 +4820,9 @@ msgid ""
 "have shown me many things of which I didn’t wish to believe regarding my "
 "mother. I trust that you speak the truth."
 msgstr ""
+"Ještě nedávno bych takovou zjevnou lež ostře odsoudila. Ale Konrád "
+"a Delfador mi ukázali mnoho věcí týkajících se mé matky, kterým jsem "
+"nechtěla uvěřit. Mám za to, že mluvíš pravdu."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:576
@@ -4824,6 +4830,8 @@ msgid ""
 "But now I hold the Sceptre — our symbol of rulership — and my mother’s time "
 "as queen draws short. I have a chance to do better!"
 msgstr ""
+"Teď však držím žezlo – náš symbol vlády – a čas mé matky jako královny se "
+"chýlí ke konci. Mám šanci zvládnout to lépe!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:580
@@ -4831,6 +4839,8 @@ msgid ""
 "Though you have the Sceptre, my lady, it is not your place to rule. Your "
 "line was tainted when Asheviere orchestrated her husband’s downfall."
 msgstr ""
+"Ačkoli držíš žezlo, má paní, není tvým úkolem vládnout. Tvůj rod byl "
+"poskvrněn, když Ašvíra zosnovala pád svého manžela."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:585
@@ -4839,6 +4849,9 @@ msgid ""
 "of rulership. My mother’s time as queen draws short. With the Sceptre, as "
 "queen, I have a chance to do better."
 msgstr ""
+"Právě proto ti však musím to žezlo vzít, Konráde – je to náš symbol vlády. "
+"Čas mé matky jako královny se chýlí ke konci. S tím žezlem mám jako královna "
+"šanci zvládnout to lépe."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:589
@@ -4846,6 +4859,8 @@ msgid ""
 "My lady, there is some good in you, but the throne is not yours to claim. "
 "Your line was tainted when Asheviere orchestrated her husband’s downfall."
 msgstr ""
+"Má paní, je v tobě i něco dobrého, ale na trůn nemáš nárok. Tvůj rod byl "
+"poskvrněn v okamžiku, kdy Ašvíra zosnovala pád svého manžela."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:594
@@ -4854,11 +4869,14 @@ msgid ""
 "raised him as my own, as penance for my part in Garard’s fall. Konrad shall "
 "be king."
 msgstr ""
+"Konrád je právoplatným dědicem. Je to syn Aranda a synovec Gararda. Vychoval "
+"jsem ho jako vlastního syna, jako pokání za svou roli v Garardově pádu. "
+"Konrád se stane králem."
 
 #. [message]: speaker=Parandra
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:604
 msgid "(gestures to Delfador)"
-msgstr ""
+msgstr "(dělá posunky na Delfadora)"
 
 #. [message]: speaker=Parandra
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:610
@@ -4867,6 +4885,9 @@ msgid ""
 "just. A warrior who has respect, and appreciates peace. Yet the throne is "
 "not the place for him. You know of what I speak, Delfador."
 msgstr ""
+"Delfadore, vychoval jsi Konráda tak, aby byl zručný a moudrý, čestný "
+"a spravedlivý. Je to válečník, který si zaslouží úctu a váží si míru. Přesto "
+"pro něj trůn není tím pravým místem. Víš, o čem mluvím, Delfadore."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:614
@@ -4875,6 +4896,9 @@ msgid ""
 "speak to no-one of what we know, I see no reason why Konrad would not best "
 "have the throne."
 msgstr ""
+"Parandro, to, co říkáš, se někomu může zdát správné, ale dokud ty a já "
+"nikomu neřekneme, co víme, nevidím žádný důvod, proč by Konrád neměl být tím "
+"nejvhodnějším uchazečem o trůn."
 
 #. [message]: speaker=Parandra
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:618
@@ -4883,16 +4907,19 @@ msgid ""
 "the world of men. But in this, you are mistaken. Li’sar is the heir. She "
 "should take the throne. Now that I have met her for myself, I am sure of it."
 msgstr ""
+"V mnoha věcech máš pravdu, Delfadore, a tvá moudrost nemá ve světě lidí "
+"obdoby. Ale v tomto se mýlíš. Lisar je dědičkou. To ona by měla usednout na "
+"trůn. Teď, když jsem ji osobně poznala, jsem si tím jistá."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:622
 msgid "Hmph. Perhaps you are right, perhaps not. We shall see."
-msgstr ""
+msgstr "Hm. Možná máš pravdu, možná ne. Uvidíme."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:632
 msgid "*Ahem*"
-msgstr ""
+msgstr "*Ehm*"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:640
@@ -4901,6 +4928,9 @@ msgid ""
 "Now we have. The Lintanir has magic to offer you and your companions; aid on "
 "your quest against the dark queen."
 msgstr ""
+"... Konráde, kdysi jsem ti slíbil pomoc z mého domova, pokud se tam někdy "
+"dostaneme. A teď jsme tu. Lintanir tobě a tvým společníkům nabízí něco "
+"kouzelného. Pomoc při vašem tažení proti temné královně."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:645
@@ -4909,6 +4939,9 @@ msgid ""
 "the elves. The Lintanir has magic to offer you and your companions; aid on "
 "your quest against the dark queen."
 msgstr ""
+"... Konráde, osvědčil ses jako nepřítel Ašvíry a přítel elfů. Lintanir tobě "
+"a tvým společníkům nabízí něco kouzelného. Pomoc při vašem tažení proti "
+"temné královně."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:650
@@ -4917,6 +4950,8 @@ msgid ""
 "chestplate of black steel, and a great sword of fire. Choose one, and it "
 "shall be yours."
 msgstr ""
+"Máme ve svém držení tři pověstné předměty: svazek vědění stromových, hrudní "
+"pancíř z černé oceli a velký ohnivý meč. Vyber si jeden z nich a bude tvůj."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:654
@@ -4924,6 +4959,8 @@ msgid ""
 "You are as generous as you are wise, Lord Kalenz. Please, tell us more about "
 "these artifacts you offer."
 msgstr ""
+"Jsi stejně velkorysý, jako moudrý, lorde Kalenzi. Prosím, pověz nám více "
+"o těch artefaktech, které nám nabízíte."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:659
