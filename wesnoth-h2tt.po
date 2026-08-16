@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-16 13:56+0200\n"
+"PO-Revision-Date: 2026-08-16 15:51+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4969,6 +4969,9 @@ msgid ""
 "go forth. Fortune has smiled upon us so far, despite great dangers. Perhaps "
 "she will continue to do so."
 msgstr ""
+"Teď ti přeji hodně štěstí, Konráde, a tobě také, Lisar. Odpočiňme si a pak "
+"se znovu vydejme na cestu. Štěstěna se na nás zatím usmívala, navzdory "
+"velkým nebezpečím. Možná nám bude přát i nadále."
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:668
@@ -4976,6 +4979,8 @@ msgid ""
 "But enough introductions. Konrad, is the Lord Kalenz with you? There is much "
 "that the three of us ought to speak about."
 msgstr ""
+"Ale dost těch úvodních zdvořilostí. Konráde, je s tebou lord Kalenz? Je toho "
+"hodně, o čem bychom si my tři měli promluvit."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:672
@@ -4984,6 +4989,9 @@ msgid ""
 "towards Lintanir Forest. He has not arrived safely? That is ill news, for he "
 "seemed a wise elf and a staunch ally."
 msgstr ""
+"Ten dobrý pán byl před nějakou dobou zraněn v bitvě a ustoupil na východ "
+"směrem k Lintanirskému lesu. Nedostal se v pořádku sem? To je špatná zpráva, "
+"neboť působil jako moudrý elf a věrný spojenec."
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:676
@@ -4992,6 +5000,9 @@ msgid ""
 "represents the best of us, and has survived many trials in times past. But I "
 "fear he has been waylaid by some mischief."
 msgstr ""
+"To opravdu nevěstí nic dobrého. Nevěřím, že by zahynul, neboť Kalenz "
+"představuje to nejlepší z nás a v minulosti již překonal mnoho zkoušek. "
+"Obávám se však, že se stal obětí nějakého nekalého činu."
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:680
@@ -5000,6 +5011,9 @@ msgid ""
 "forth. Fortune has smiled upon you so far, despite great dangers. Perhaps "
 "she will continue to do so."
 msgstr ""
+"Nemohu dělat nic jiného, než ti popřát hodně štěstí, Konráde, a tobě také, "
+"Lisar. Odpočiňte si a pak vyrazte na cestu. Štěstěna se na vás dosud "
+"usmívala, navzdory velkým nebezpečím. Možná vám bude přát i nadále."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:703
