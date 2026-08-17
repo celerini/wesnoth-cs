@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-17 09:52+0200\n"
+"PO-Revision-Date: 2026-08-17 10:37+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3204,6 +3204,7 @@ msgid ""
 "I would like to agree to your offer, but I don’t have enough gold! Perhaps "
 "another time, lizard."
 msgstr ""
+"Rád bych tvou nabídku přijal, ale nemám dost zlata! Snad jindy, ještěrko."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:700
@@ -3211,11 +3212,13 @@ msgid ""
 "Whew! This has been grueling, but I feel as light on my feet as a fencer. I "
 "am grateful for your tutelage, Tirix."
 msgstr ""
+"Uf! Bylo to vyčerpávající, ale cítím se lehký jako šermíř. Jsem ti vděčný za "
+"tvé vedení, Tirix."
 
 #. [object]: id=saurian_training, description={DESC}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:706
 msgid "Saurian Footwork"
-msgstr ""
+msgstr "Ještěrácká kličkovaná"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:720
@@ -3270,7 +3273,7 @@ msgstr ""
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:778
 msgid "50 gold; physical training: <b>Konrad gains +1MP</b>"
-msgstr ""
+msgstr "50 zlatých – tělesný výcvik: <b>Konrád získá +1 krok</b>"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:781
@@ -3278,11 +3281,13 @@ msgid ""
 "After rigorous physical training with the saurians of the Swamp of Dread, "
 "Konrad has gained <b>+1MP</b>."
 msgstr ""
+"Po náročném tělesném výcviku u ještěráků v Močálech děsu získal Konrád "
+"<b>+1 krok</b>."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:787
 msgid "100 gold; magical training: <b>Konrad gains +2MP</b>"
-msgstr ""
+msgstr "100 zlatých – kouzelný výcvik: <b>Konrád získá +2 kroky</b>"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:790
@@ -3290,12 +3295,16 @@ msgid ""
 "After rigorous physical and magical training with the saurians of the Swamp "
 "of Dread, Konrad has gained <b>+2MP</b>."
 msgstr ""
+"Po náročném tělesném a kouzelném výcviku u ještěráků v Močálech děsu získal "
+"Konrád <b>+2 kroky</b>."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:797
 msgid ""
 "150 gold; legendary training: <b>Konrad gains +2MP and <i>skirmisher</i></b>"
 msgstr ""
+"150 zlatých – legendární výcvik: <b>Konrád získá +2 kroky a <i>průbojnost</"
+"i></b>"
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:800
@@ -3304,6 +3313,8 @@ msgid ""
 "of Dread, Konrad has gained <b>+2MP</b> and the <b><i>skirmisher</i></b> "
 "ability."
 msgstr ""
+"Po náročném tělesném a kouzelném výcviku u ještěráků v Močálech děsu získal "
+"Konrád <b>+2 kroky</b> a <b><i>průbojnost</i></b>."
 
 #. [message]: speaker=Tirix
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:823
@@ -3311,6 +3322,8 @@ msgid ""
 "Good, good, much better. Not so ssslow any more! I have no time or "
 "interessst in more training."
 msgstr ""
+"Dobrá, dobrá, to je mnohem lepššší. Už to není tak pomalé! Nemám časss ani "
+"chuť na dalššší výcvik."
 
 #. [message]: speaker={KONRAD_OR_NOBODY}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:840
