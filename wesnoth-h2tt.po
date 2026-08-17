@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-16 15:51+0200\n"
+"PO-Revision-Date: 2026-08-17 09:46+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4658,7 +4658,7 @@ msgstr "Podzemní kanály"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:406
 msgid "New Recruit for Delfador:"
-msgstr ""
+msgstr "Nový rekrut pro Delfadora:"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:427
@@ -4666,6 +4666,8 @@ msgid ""
 "The river travels underground here, and there is an awful stench of rot and "
 "decay. Has some undead creature taken up residence inside?"
 msgstr ""
+"Řeka zde teče pod zemí a ve vzduchu visí příšerný zápach hniloby a rozkladu. "
+"Usídlila se tam snad nějaká nemrtvá bytost?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:431
@@ -4673,6 +4675,8 @@ msgid ""
 "I am not sure what benefit we could gain from fighting in such a place, but "
 "it is always our duty to destroy evil."
 msgstr ""
+"Nejsem si jistý, jaký prospěch bychom mohli mít z boje na takovém místě, ale "
+"vždy je naší povinností zničit zlo."
 
 #. [side]: id=Haralamdum, type=Ancient Wose
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:439
