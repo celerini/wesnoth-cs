@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-17 11:45+0200\n"
+"PO-Revision-Date: 2026-08-17 12:07+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5294,6 +5294,8 @@ msgid ""
 "Halt! Your Highness Li’sar, by order of Her Majesty The Queen you are "
 "branded a traitor and an enemy of the state. Prepare to be apprehended."
 msgstr ""
+"Stůjte! Vaše Výsosti Lisar, na rozkaz Jejího Veličenstva královny jste "
+"označena za zrádkyni a nepřítelkyni státu. Připravte se na zatčení."
 
 #. [message]: speaker=Lisar # no variation; use her default portrait (which now includes the Sceptre)
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:998
@@ -5301,6 +5303,8 @@ msgid ""
 "A traitor? This is the Sceptre of Fire, symbol of the kings of Wesnoth, and "
 "I return after claiming it at great cost from the caverns of the north."
 msgstr ""
+"Zrádkyně? Toto je Ohnivé žezlo, symbol králů Wesnothu, a já se vracím poté, "
+"co jsem ho za velkou cenu získala z jeskyní na severu."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1002
@@ -5309,6 +5313,9 @@ msgid ""
 "just general. And now I hold the Sceptre, not my mother. Stand aside or die, "
 "soldier."
 msgstr ""
+"Víš, že se Ašvíra ukázala jako špatná vládkyně. Víš, že jsem byla "
+"spravedlivou vojevůdkyní. A nyní já držím žezlo, ne moje matka. Ustup "
+"stranou, nebo zemřeš, vojáku."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1012
@@ -5316,6 +5323,7 @@ msgid ""
 "Leave my cousin out of this. You know who I am. And now you see I hold the "
 "Sceptre."
 msgstr ""
+"Netahej do toho mou sestřenku. Víš, kdo jsem. A teď vidíš, že držím žezlo."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1016
@@ -5324,6 +5332,9 @@ msgid ""
 "land is suffering. I know it, you know it, even Li’sar knows it; Asheviere’s "
 "own daughter driven to revolt."
 msgstr ""
+"Od Ašvíry jste slyšeli lži o mé válce – teď si poslechněte pravdu. Tato země "
+"trpí. Já to vím, vy to víte, dokonce i Lisar to ví. Ašvířinu vlastní dceru "
+"to dohnalo k tomu, aby se vzepřela."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1026
@@ -5333,22 +5344,27 @@ msgid ""
 "mine, it shall save you and I both from the terror that is Asheviere. You "
 "will let us pass."
 msgstr ""
+"S princeznou jsme společně získali Ohnivé žezlo, hůl králů. V Haldrikových "
+"rukou nám bylo spásou před lordy lichy. V mých rukou zachrání nás oba před "
+"hrůzou jménem Ašvíra. Necháš nás projít."
 
 #. [message]: role=soradoc_guard
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1036
 msgid "(whispering back and forth)"
-msgstr ""
+msgstr "(vzájemné šuškání)"
 
 #. [message]: role=soradoc_guard
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1043
 msgid "Go. You were never here."
-msgstr ""
+msgstr "Jděte. Nikdy jste tu nebyli."
 
 #. [message]: role=soradoc_guard
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1048
 msgid ""
 "... and if you do win against Asheviere, please remember our actions today."
 msgstr ""
+"... a pokud nad Ašvírou skutečně zvítězíte, nezapomeňte prosím na to, co "
+"jsme dnes udělali."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1068
