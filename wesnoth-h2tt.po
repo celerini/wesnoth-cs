@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-17 09:46+0200\n"
+"PO-Revision-Date: 2026-08-17 09:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5232,12 +5232,12 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:903
 msgid "Fort Garard"
-msgstr ""
+msgstr "pevnost Garard"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:918
 msgid "The ruins of Fort Garard. This is where my father died."
-msgstr ""
+msgstr "Zříceniny pevnosti Garard. Právě tady zemřel můj otec."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:922
@@ -5246,6 +5246,9 @@ msgid ""
 "my haste and my arrogance. Had I been but a breath wiser that night, all "
 "might have been different..."
 msgstr ""
+"Ano. Ten příběh znáš. Nejtemnější hodina mého nejtemnějšího dne. Zločin, "
+"který vzešel z mé ukvapenosti a namyšlenosti. Kdybych byl té noci jen "
+"o trochu rozumnější, všechno mohlo být jinak..."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:934
