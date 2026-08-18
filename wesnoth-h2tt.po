@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-18 20:26+0200\n"
+"PO-Revision-Date: 2026-08-18 20:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -22903,17 +22903,20 @@ msgid ""
 "learn to work together. If you believe we’ll fight better by your taking "
 "direct command of my army, I’m willing to allow it."
 msgstr ""
+"Teď jsme spojenci, bratranče, a i když se mi to nelíbí, musíme se naučit "
+"spolupracovat. Pokud si myslíš, že budeme bojovat lépe, když převezmeš přímé "
+"velení nad mým vojskem, jsem ochotna to dovolit."
 
 #. [option]
 #. $stored_side.base_income  will be between 4 and 32
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:312
 msgid "Leave Li’sar under AI control ($stored_side.base_income bonus income)"
-msgstr ""
+msgstr "Nechat Lisar pod kontrolou UI (příjem navíc: $stored_side.base_income)"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:323
 msgid "Take manual control of Li’sar’s army (no bonus income)"
-msgstr ""
+msgstr "Převzít ruční ovládání Lisařina vojska (bez zvláštních příjmů)"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:501
