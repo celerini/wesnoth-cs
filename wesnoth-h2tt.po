@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-18 19:44+0200\n"
+"PO-Revision-Date: 2026-08-18 20:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19418,17 +19418,19 @@ msgid ""
 "overflowing with stockpiled supplies. We’ll make better use of it than they "
 "would."
 msgstr ""
+"Tyto klany jsou bohaté a mocné, a to i za vlády mé matky, a jejich zem "
+"překypuje nashromážděnými zásobami. Využijeme je lépe, než by to udělali oni."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:258
 msgid "Hail, men of the plains! I greet you with a proposal."
-msgstr ""
+msgstr "Buďte zdrávi, muži z plání! Přicházím k vám s návrhem."
 
 #. [message]: speaker=Daryn
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:262
 msgid ""
 "What do these intruders want? We did not invite them here, that is certain."
-msgstr ""
+msgstr "Co ti vetřelci chtějí? My jsme je sem rozhodně nepozvali, to je jisté."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:266
@@ -19438,6 +19440,10 @@ msgid ""
 "What prestige do you plainsmen hold under Asheviere, queen of the cities and "
 "employer of orcs?"
 msgstr ""
+"Víte, že můj zesnulý strýc, král Garard II., byl přítelem klanů. Vaši rytíři "
+"tvořili výkvět jeho armády a byli za své služby ctěni. Jak významné "
+"postavení máte vy, obyvatelé plání, pod vládou Ašvíry, královny měst "
+"a zaměstnavatelky skřetů?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:270
@@ -19446,6 +19452,9 @@ msgid ""
 "prominence within the courts of Weldyn. Oppose us, and I will strip you of "
 "your power once the throne is rightfully reclaimed."
 msgstr ""
+"Připojte se k nám, abychom svrhli zlou královnu, a já se postarám, aby klany "
+"znovu získaly u dvora ve Weldynu význačnost. Postavíte-li se proti nám, "
+"zbavím vás moci, jakmile bude trůn právoplatně navrácen."
 
 #. [message]: speaker=Alric
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:276
@@ -19453,6 +19462,8 @@ msgid ""
 "Hah! You think you can seize the throne? You who are led by these youths and "
 "this old man?"
 msgstr ""
+"Ha! Myslíte si, že se zmocníte trůnu? Vy, kteří se necháváte vést tou "
+"mládeží a tím starým mužem?"
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:280
@@ -19460,6 +19471,8 @@ msgid ""
 "He will confront Asheviere, as he claims. Then he will die. And if we have "
 "lent our support it will be all the worse for us."
 msgstr ""
+"Jak sám tvrdí, postaví se proti Ašvíře. Potom zemře. A pokud jsme mu "
+"poskytli podporu, bude to pro nás o to horší."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:284
@@ -19467,6 +19480,8 @@ msgid ""
 "“These youths”, you dare call us? Don’t think me so weak that I cannot prove "
 "my worth in pitched battle."
 msgstr ""
+"Ty si troufáš nazývat nás „tou mládeží“? Nemysli si, že jsem tak slabá, že "
+"nedokážu prokázat svou hodnotu v otevřeném boji."
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:288
@@ -19474,6 +19489,8 @@ msgid ""
 "Hah! You would challenge us? I accept. Rout our clansmen and we will "
 "repudiate the queen. Or otherwise leave now and never return!"
 msgstr ""
+"Ha! Chceš nás vyzvat? Přijímám. Porazte na hlavu naše příslušníky klanů a my "
+"se zřekneme královny. Jinak odejděte hned a už se nikdy nevracejte!"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:292
@@ -19481,16 +19498,17 @@ msgid ""
 "If you will not listen to reason, then so be it. Ready your lances, men of "
 "the plains!"
 msgstr ""
+"Pokud nechcete naslouchat rozumu, tak ať. Připravte svá kopí, muži z plání!"
 
 #. [message]: speaker=Ruga
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:298
 msgid "Fools! We will run you down like dogs!"
-msgstr ""
+msgstr "Blázni! Rozdrtíme vás jako psy!"
 
 #. [message]: speaker=Daryn
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:302
 msgid "There is no turning back for you now. You will not break us!"
-msgstr ""
+msgstr "Teď už pro vás není cesty zpět. Nás nezlomíte!"
 
 #. [objective]: description={ON_DIFFICULTY4, condition=win
 #. $clansmen_remaining will be between 1 and 60
