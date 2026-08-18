@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-03 03:45 UTC\n"
-"PO-Revision-Date: 2026-08-18 20:49+0200\n"
+"PO-Revision-Date: 2026-08-18 20:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -22927,7 +22927,7 @@ msgstr "Nechat Lisar pod kontrolou UI (příjem navíc: $stored_side.base_income
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:323
 msgid "Take manual control of Li’sar’s army (no bonus income)"
-msgstr "Převzít ruční ovládání Lisařina vojska (bez zvláštních příjmů)"
+msgstr "Ovládat Lisařino vojsko (bez zvláštních příjmů)"
 
 #. [trait]: id=loyal_dummy
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:501
