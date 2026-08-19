@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-08-02 22:45-0500\n"
+"POT-Creation-Date: 2026-08-18 10:19-0500\n"
 "PO-Revision-Date: 2026-06-24 23:17+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
@@ -546,152 +546,152 @@ msgid "Hebrew Translation"
 msgstr "Hebrejský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1015
+#: data/core/about_i18n.cfg:1018
 msgid "Hungarian Translation"
 msgstr "Maďarský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1076
+#: data/core/about_i18n.cfg:1079
 msgid "Icelandic Translation"
 msgstr "Islandský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1086
+#: data/core/about_i18n.cfg:1089
 msgid "Indonesian Translation"
 msgstr "Estonský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1114
+#: data/core/about_i18n.cfg:1117
 msgid "Irish Translation"
 msgstr "Irský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1121
+#: data/core/about_i18n.cfg:1124
 msgid "Italian Translation"
 msgstr "Italský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1168
+#: data/core/about_i18n.cfg:1171
 msgid "Japanese Translation"
 msgstr "Japonský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1261
+#: data/core/about_i18n.cfg:1264
 msgid "Korean Translation"
 msgstr "Korejský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1269
+#: data/core/about_i18n.cfg:1272
 msgid "Latin Translation"
 msgstr "Latinský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1295
+#: data/core/about_i18n.cfg:1298
 msgid "Latvian Translation"
 msgstr "Litevský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1310
+#: data/core/about_i18n.cfg:1313
 msgid "Lithuanian Translation"
 msgstr "Litevský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1335
+#: data/core/about_i18n.cfg:1338
 msgid "Macedonian Translation"
 msgstr "Makedonský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1342
+#: data/core/about_i18n.cfg:1345
 msgid "Marathi Translation"
 msgstr "Překlad do Maráthštiny"
 
 #. [about]
-#: data/core/about_i18n.cfg:1351
+#: data/core/about_i18n.cfg:1354
 msgid "Norwegian Translation"
 msgstr "Norský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1380
+#: data/core/about_i18n.cfg:1383
 msgid "Old English Translation"
 msgstr "Překlad do staré angličtiny"
 
 #. [about]
-#: data/core/about_i18n.cfg:1398
+#: data/core/about_i18n.cfg:1401
 msgid "Polish Translation"
 msgstr "Polský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1473
+#: data/core/about_i18n.cfg:1476
 msgid "Portuguese Translation"
 msgstr "Portugalský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1487
+#: data/core/about_i18n.cfg:1490
 msgid "Portuguese (Brazil) Translation"
 msgstr "Portugalský (brazilský) překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1548
+#: data/core/about_i18n.cfg:1551
 msgid "Romanian Translation"
 msgstr "Rumunský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1556
+#: data/core/about_i18n.cfg:1559
 msgid "Russian Translation"
 msgstr "Ruský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1663
+#: data/core/about_i18n.cfg:1666
 msgid "Scottish Gaelic Translation"
 msgstr "Skotský Galicijský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1672
+#: data/core/about_i18n.cfg:1675
 msgid "Serbian Translation"
 msgstr "Srbský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1696
+#: data/core/about_i18n.cfg:1699
 msgid "Slovak Translation"
 msgstr "Slovenský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1731
+#: data/core/about_i18n.cfg:1734
 msgid "Slovenian Translation"
 msgstr "Slovinský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1747
+#: data/core/about_i18n.cfg:1750
 msgid "Spanish Translation"
 msgstr "Španělský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1841
+#: data/core/about_i18n.cfg:1844
 msgid "Swedish Translation"
 msgstr "Švédský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1886
+#: data/core/about_i18n.cfg:1889
 msgid "Turkish Translation"
 msgstr "Turecký překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1911
+#: data/core/about_i18n.cfg:1914
 msgid "Ukrainian Translation"
 msgstr "Ukrajinský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1945
+#: data/core/about_i18n.cfg:1948
 msgid "Valencian (southern Catalan) Translation"
 msgstr "Valencijský překlad (jižní Katalánie)"
 
 #. [about]
-#: data/core/about_i18n.cfg:1958
+#: data/core/about_i18n.cfg:1961
 msgid "Vietnamese Translation"
 msgstr "Vietnamský překlad"
 
 #. [about]
-#: data/core/about_i18n.cfg:1977
+#: data/core/about_i18n.cfg:1980
 msgid "Welsh Translation"
 msgstr "Velšský překlad"
 
@@ -699,7 +699,7 @@ msgstr "Velšský překlad"
 # Každopádně RACV představuje zkratku instituce, proto tato forma.
 #. [about]
 #. Real Acadèmia de Cultura Valenciana
-#: data/core/about_i18n.cfg:1986
+#: data/core/about_i18n.cfg:1989
 msgid "RACV’s Translation"
 msgstr "Překlad RACV"
 
@@ -3086,7 +3086,7 @@ msgstr "Traveling Minstrels"
 
 #. [music]
 #. [time]: id=underground_noweather
-#: data/core/macros/sound-utils.cfg:336 data/internal/Weather/_main.cfg:230
+#: data/core/macros/sound-utils.cfg:336 data/internal/Weather/_main.cfg:300
 msgid "Underground"
 msgstr "Underground"
 
@@ -3727,42 +3727,42 @@ msgid "WesScript"
 msgstr "WesScript"
 
 #. [time]: id=dawn_noweather
-#: data/internal/Weather/_main.cfg:151
+#: data/internal/Weather/_main.cfg:221
 msgid "Dawn"
 msgstr "Svítání"
 
 #. [time]: id=morning_noweather
-#: data/internal/Weather/_main.cfg:162
+#: data/internal/Weather/_main.cfg:232
 msgid "Morning"
 msgstr "Dopoledne"
 
 #. [time]: id=midday_noweather
-#: data/internal/Weather/_main.cfg:170
+#: data/internal/Weather/_main.cfg:240
 msgid "Midday"
 msgstr "Poledne"
 
 #. [time]: id=afternoon_noweather
-#: data/internal/Weather/_main.cfg:178
+#: data/internal/Weather/_main.cfg:248
 msgid "Afternoon"
 msgstr "Odpoledne"
 
 #. [time]: id=dusk_noweather
-#: data/internal/Weather/_main.cfg:186
+#: data/internal/Weather/_main.cfg:256
 msgid "Dusk"
 msgstr "Soumrak"
 
 #. [time]: id=first_watch_noweather
-#: data/internal/Weather/_main.cfg:197
+#: data/internal/Weather/_main.cfg:267
 msgid "First Watch"
 msgstr "První hlídka"
 
 #. [time]: id=midnight_noweather
-#: data/internal/Weather/_main.cfg:208
+#: data/internal/Weather/_main.cfg:278
 msgid "Midnight"
 msgstr "Půlnoc"
 
 #. [time]: id=second_watch_noweather
-#: data/internal/Weather/_main.cfg:219
+#: data/internal/Weather/_main.cfg:289
 msgid "Second Watch"
 msgstr "Druhá hlídka"
 
@@ -6056,32 +6056,38 @@ msgid "The Battle for Wesnoth"
 msgstr "Bitva o Wesnoth"
 
 #. TRANSLATORS: 12-hour time, eg '1:59 PM'
-#: src/format_time_summary.cpp:42 src/format_time_summary.cpp:95
+#: src/format_time_summary.cpp:43 src/format_time_summary.cpp:103
+#, no-c-format
 msgid "%I:%M %p"
 msgstr "%I:%M"
 
 #. TRANSLATORS: 24-hour time, eg '13:59'
-#: src/format_time_summary.cpp:44 src/format_time_summary.cpp:91
+#: src/format_time_summary.cpp:46 src/format_time_summary.cpp:98
+#, no-c-format
 msgid "%H:%M"
 msgstr "%H:%M"
 
 #. TRANSLATORS: Day of week + 12-hour time, eg 'Sunday, 1:59 PM'
-#: src/format_time_summary.cpp:50 src/format_time_summary.cpp:105
+#: src/format_time_summary.cpp:53 src/format_time_summary.cpp:115
+#, no-c-format
 msgid "%A, %I:%M %p"
 msgstr "%A, %I:%M"
 
 #. TRANSLATORS: Day of week + 24-hour time, eg 'Sunday, 13:59'
-#: src/format_time_summary.cpp:52 src/format_time_summary.cpp:101
+#: src/format_time_summary.cpp:56 src/format_time_summary.cpp:110
+#, no-c-format
 msgid "%A, %H:%M"
 msgstr "%A, %H:%M"
 
 #. TRANSLATORS: Month + day of month, eg 'Nov 02'. Format for your locale.
-#: src/format_time_summary.cpp:57 src/format_time_summary.cpp:110
+#: src/format_time_summary.cpp:62 src/format_time_summary.cpp:121
+#, no-c-format
 msgid "%b %d"
 msgstr "%d %b"
 
 #. TRANSLATORS: Month + day of month + year, eg 'Nov 02 2021'. Format for your locale.
-#: src/format_time_summary.cpp:62 src/format_time_summary.cpp:115
+#: src/format_time_summary.cpp:68 src/format_time_summary.cpp:127
+#, no-c-format
 msgid "%b %d %Y"
 msgstr "%d %b %Y"
 
@@ -6255,7 +6261,7 @@ msgstr[0] "Nahlas to prosím autorovi nebo správci tohoto rozšíření."
 msgstr[1] "Nahlas to prosím příslušným autorům nebo správcům těchto rozšíření."
 msgstr[2] "Nahlas to prosím příslušným autorům nebo správcům těchto rozšíření."
 
-#: src/game_events/pump.cpp:389 src/game_launcher.cpp:950
+#: src/game_events/pump.cpp:389 src/game_launcher.cpp:948
 msgid "Error: "
 msgstr "Chyba: "
 
@@ -6591,20 +6597,20 @@ msgstr "Bylo provedeno příliš mnoho pokusů o přihášení."
 msgid "Password hashing failed."
 msgstr "Hašování hesla se nepodařilo."
 
-#: src/game_initialization/playcampaign.cpp:150 src/game_launcher.cpp:903
+#: src/game_initialization/playcampaign.cpp:150 src/game_launcher.cpp:901
 msgid "The game could not be loaded: "
 msgstr "Hru se nepodařilo nahrát: "
 
-#: src/game_initialization/playcampaign.cpp:156 src/game_launcher.cpp:905
+#: src/game_initialization/playcampaign.cpp:156 src/game_launcher.cpp:903
 msgid "Error while playing the game: "
 msgstr "Během hraní hry se vyskytla chyba: "
 
-#: src/game_initialization/playcampaign.cpp:159 src/game_launcher.cpp:942
+#: src/game_initialization/playcampaign.cpp:159 src/game_launcher.cpp:940
 msgid "The game map could not be loaded: "
 msgstr "Nepodařilo se nahrát herní mapu: "
 
-#: src/game_initialization/playcampaign.cpp:162 src/game_launcher.cpp:907
-#: src/game_launcher.cpp:1028
+#: src/game_initialization/playcampaign.cpp:162 src/game_launcher.cpp:905
+#: src/game_launcher.cpp:1026
 msgid "Map generator error: "
 msgstr "Chyba v generátoru map: "
 
@@ -6629,28 +6635,28 @@ msgstr "Neznámý scénář: „$scenario|“"
 msgid "No campaigns are available."
 msgstr "K dispozici nejsou žádná tažení."
 
-#: src/game_launcher.cpp:685 src/game_launcher.cpp:704
+#: src/game_launcher.cpp:683 src/game_launcher.cpp:702
 #: src/hotkey/hotkey_handler_sp.cpp:324 src/replay.cpp:664 src/savegame.cpp:167
 msgid "The file you have tried to load is corrupt"
 msgstr "Soubor, který se snažíš načíst, je poškozený"
 
-#: src/game_launcher.cpp:687 src/game_launcher.cpp:706
+#: src/game_launcher.cpp:685 src/game_launcher.cpp:704
 msgid "The file you have tried to load is corrupt: '"
 msgstr "Soubor, který ses snažil načíst, je poškozený: '"
 
-#: src/game_launcher.cpp:696
+#: src/game_launcher.cpp:694
 msgid "File I/O Error while reading the game"
 msgstr "Vstupně výstupní chyba souboru při načítání hry"
 
-#: src/game_launcher.cpp:698
+#: src/game_launcher.cpp:696
 msgid "File I/O Error while reading the game: '"
 msgstr "Vstupně výstupní chyba souboru při načítání hry: '"
 
-#: src/game_launcher.cpp:901
+#: src/game_launcher.cpp:899
 msgid "Error while starting server: "
 msgstr "Při spouštění serveru se vyskytla chyba: "
 
-#: src/game_launcher.cpp:923
+#: src/game_launcher.cpp:921
 msgid "Connection failed: "
 msgstr "Připojení selhalo: "
 
