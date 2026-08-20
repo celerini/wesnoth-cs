@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-04 21:56+0200\n"
+"PO-Revision-Date: 2026-08-20 23:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -14357,9 +14357,6 @@ msgstr ""
 
 #~ msgid "blast wave"
 #~ msgstr "tlaková vlna"
-
-#~ msgid "female^Shadow Mage"
-#~ msgstr "Stínová mágyně"
 
 #~ msgid ""
 #~ "Obsessive study over the forces of light and dark have turned the shadow "

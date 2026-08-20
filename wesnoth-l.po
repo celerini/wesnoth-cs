@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-20 23:45+0200\n"
+"PO-Revision-Date: 2026-08-20 23:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3507,9 +3507,6 @@ msgstr "Jak se to mohlo stát?"
 
 #~ msgid "shadow blast"
 #~ msgstr "stínová střela"
-
-#~ msgid "Shadow Mage"
-#~ msgstr "Stínový mág"
 
 #~ msgid ""
 #~ "Years of violence and brutality to support the study of forbidden magical "

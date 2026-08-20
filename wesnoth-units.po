@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-20 23:46+0200\n"
+"PO-Revision-Date: 2026-08-20 23:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10050,10 +10050,8 @@ msgstr "Stínová dáma"
 
 #. [unit_type]: id=Shadow Mage, race=human, gender=male,female
 #: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:5
-#, fuzzy
-#| msgid "shadow wave"
 msgid "Shadow Mage"
-msgstr "vlna tmy"
+msgstr "Stínový mág"
 
 #. [unit_type]: id=Shadow Mage, race=human, gender=male,female
 #: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:18
@@ -10069,10 +10067,8 @@ msgstr ""
 
 #. [female]: gender=female
 #: data/internal/Rogue_Mage/units/Bandit_Shadow_Mage.cfg:100
-#, fuzzy
-#| msgid "female^Red Mage"
 msgid "female^Shadow Mage"
-msgstr "Červená mágyně"
+msgstr "Stínová mágyně"
 
 #~ msgid ""
 #~ "Small but deadly in large numbers, fire ants possess fierce fangs and an "
