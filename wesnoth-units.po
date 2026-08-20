@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-07-17 20:55+0200\n"
+"PO-Revision-Date: 2026-08-20 23:46+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9952,10 +9952,8 @@ msgstr "Drakonidka vykonavatelka"
 
 #. [unit_type]: id=Rogue Mage, race=human, gender=male,female
 #: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:5
-#, fuzzy
-#| msgid "Red Mage"
 msgid "Rogue Mage"
-msgstr "Červený mág"
+msgstr "Potulný mág"
 
 #. [unit_type]: id=Rogue Mage, race=human, gender=male,female
 #: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:19
@@ -9976,10 +9974,8 @@ msgstr ""
 
 #. [female]: gender=female
 #: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:80
-#, fuzzy
-#| msgid "female^Red Mage"
 msgid "female^Rogue Mage"
-msgstr "Červená mágyně"
+msgstr "Potulná mágyně"
 
 #. [unit_type]: id=Shadow Lord, race=human, gender=male,female
 #: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:5
