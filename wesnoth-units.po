@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-20 23:57+0200\n"
+"PO-Revision-Date: 2026-08-21 20:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9926,10 +9926,8 @@ msgstr ""
 #. [unit_type]: id=Arcane Enforcer, race=human, gender=male,female
 #. "enforcer" as in "gang enforcer"
 #: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:6
-#, fuzzy
-#| msgid "Drake Enforcer"
 msgid "Arcane Enforcer"
-msgstr "Drakonid vykonavatel"
+msgstr "Tajemný vymahač"
 
 #. [unit_type]: id=Arcane Enforcer, race=human, gender=male,female
 #: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:21
@@ -9945,10 +9943,8 @@ msgstr ""
 
 #. [female]: gender=female
 #: data/internal/Rogue_Mage/units/Bandit_Arcane_Enforcer.cfg:122
-#, fuzzy
-#| msgid "female^Drake Enforcer"
 msgid "female^Arcane Enforcer"
-msgstr "Drakonidka vykonavatelka"
+msgstr "Tajemná vymahačka"
 
 #. [unit_type]: id=Rogue Mage, race=human, gender=male,female
 #: data/internal/Rogue_Mage/units/Bandit_Rogue_Mage.cfg:5
@@ -9985,16 +9981,6 @@ msgstr "Stínový pán"
 #. [unit_type]: id=Shadow Lord, race=human, gender=male,female
 #. I think of regular mages as modern-day professors, or perhaps ancient greek philosophers. In comparison, a Shadow Lord is more like an unemployed, obsessive savant who hasn't showered in three months but somehow discovered the secret to cold fusion while working alone in his dingy apartment.
 #: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:20
-#, fuzzy
-#| msgid ""
-#| "The fruits of the paths of either light or darkness are well known to "
-#| "magi: the brilliance of a white mage or the deep gloom of a necromancer. "
-#| "Much less well known is the art of the Shadow Lord, those few who master "
-#| "a union of both white and black magic. Though decades of zealous study "
-#| "and self-neglect have left them drained of strength, these savants have "
-#| "transcended the need for crude physical weapons, instead channeling their "
-#| "energies into devastating magical attacks that undercut their enemies’ "
-#| "resistances."
 msgid ""
 "The fruits of the paths of either light or darkness are well known to magi: "
 "the brilliance of a white mage or the deep gloom of a necromancer. Much less "
@@ -10006,11 +9992,11 @@ msgid ""
 msgstr ""
 "Plody následování cest světla nebo temnoty jsou mágům dobře známé, ať už je "
 "to lesk bílého mága či hluboké šero nekromanta. Mnohem méně známá jsou umění "
-"stínového panstva, co patří mezi těch pár, kteří ovládají propojení bílé a "
-"černé magie. Přestože desetiletí horlivého studia a opomíjení sebe sama "
-"z nich vyčerpala síly, překonali tito učení muži a ženy potřebu hrubých "
-"fyzických zbraní a místo toho nasměrovali svou energii do zničujících "
-"magických útoků, podlamujících odpor jejich nepřátel."
+"stínového panstva, co patří mezi těch pár, kteří ovládají propojení bílé "
+"a černé magie. Přestože desetiletí horlivého studia a opomíjení sebe sama "
+"z nich vyčerpala síly, překonali tito učení muži a ženy potřebu hrubých "
+"fyzických zbraní a místo toho nasměrovali svou energii do ničivě přesných "
+"magických útoků, podlamujících obranu jejich nepřátel."
 
 #. [attack]: type=blade
 #: data/internal/Rogue_Mage/units/Bandit_Shadow_Lord.cfg:47
