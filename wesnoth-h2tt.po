@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-22 11:58+0200\n"
+"PO-Revision-Date: 2026-08-22 13:19+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19818,7 +19818,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:715
 msgid ""
 "Bah, the Sceptre is but a magic staff. Steel is the true test of a ruler."
-msgstr ""
+msgstr "Pah, žezlo je jen kouzelná hůl. Ocel je tou pravou zkouškou vládce."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:10
