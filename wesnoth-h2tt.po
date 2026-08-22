@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-22 13:19+0200\n"
+"PO-Revision-Date: 2026-08-22 13:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -22012,7 +22012,7 @@ msgstr ""
 #. [message]: id=Haldiel,Simyr
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:317
 msgid "Sir Kaylan sends his regards, Lords of the Clans."
-msgstr ""
+msgstr "Pozdravuje vás sir Kaylan, páni klanů."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:321
@@ -22020,6 +22020,8 @@ msgid ""
 "We do not send ours. Kaylan defies the will of the Horse Clans by supporting "
 "the upstart prince. What of his duty to his kin?"
 msgstr ""
+"My jeho ne. Kaylan se vzpírá vůli klanů jezdců tím, že podporuje toho "
+"povýšeneckého prince. A co jeho povinnost vůči svým příbuzným?"
 
 #. [message]: id=Haldiel,Simyr
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:325
@@ -22027,11 +22029,13 @@ msgid ""
 "What of justice for Garard? What of our honor? Once, the Clans stood for "
 "those ideals. How far you have fallen."
 msgstr ""
+"A co spravedlnost pro Gararda? A co naše čest? Kdysi klany tyto ideály "
+"hájily. Jak hluboko jste klesli."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:329
 msgid "Bah! Impudence! We have nothing more to speak about."
-msgstr ""
+msgstr "Pah! To je ale drzost! Už nemáme o čem mluvit."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:349
@@ -22120,6 +22124,8 @@ msgid ""
 "Moremirmu, I’ve met White Mages before, but never someone quite like you. "
 "Where do you hail from?"
 msgstr ""
+"Moremirmu, už jsem potkal bílé mágy, ale nikoho takového jako ty. Odkud "
+"pocházíš?"
 
 #. [message]: speaker=Moremirmu
 #. this is a hint that there's a special event for bringing Moremirmu to the monastery in the Gryphon Mountains
@@ -22129,6 +22135,9 @@ msgid ""
 "Light that I was rescued and raised there, high in the Gryphon Mountains. We "
 "ought to visit there someday."
 msgstr ""
+"Z velkého kláštera pečeti, dobrý Konráde! Díky milosti Světla jsem byl "
+"zachráněn a vychován právě tam, vysoko v Horách gryfů. Měli bychom se tam "
+"někdy podívat."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:443
@@ -22137,6 +22146,9 @@ msgid ""
 "smite. And lo! You and I united, and lo! Now we quest together against the "
 "evils of Asheviere."
 msgstr ""
+"Nyní jsem vzal do ruky meč a vydal se na cestu, abych vyhledal zlo a porazil "
+"ho. A hle! Spojili jsme se, ty a já, a hle! Nyní společně bojujeme proti "
+"Ašvířiným zlům."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:456
