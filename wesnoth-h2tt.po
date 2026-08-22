@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-18 20:53+0200\n"
+"PO-Revision-Date: 2026-08-22 11:58+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19592,22 +19592,24 @@ msgid ""
 "This is sheer madness. We cannot afford to wage war against these clansmen "
 "when we should be marching against the Queen..."
 msgstr ""
+"To je naprosté šílenství. Nemůžeme si dovolit vést válku proti těmto klanům, "
+"když máme táhnout proti královně..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:412
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2049
 msgid "Lord Bayar, halt this folly! I challenge you to a personal combat."
-msgstr ""
+msgstr "Lorde Bayare, přestaňte s tou pošetilostí! Vyzývám vás na souboj."
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:416
 msgid "Ho! You have amused me, young heir. Ho, ho, challenge indeed."
-msgstr ""
+msgstr "Ho! To mě pobavilo, mladý dědici. Ho, ho, to je tedy výzva."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:420
 msgid "Young heir? Then you assent to my claim?"
-msgstr ""
+msgstr "Mladý dědic? To znamená, že schvaluješ můj nárok?"
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:424
@@ -19615,6 +19617,8 @@ msgid ""
 "Impudence. Bah! Do you see orcs on our plains? Did we not grant you a test "
 "of your strength?"
 msgstr ""
+"Taková opovážlivost. Pah! Vidíš snad na našich pláních nějaké skřety? Copak "
+"jsme ti nedali příležitost vyzkoušet svou sílu?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:428
@@ -19622,11 +19626,13 @@ msgid ""
 "This is hardly a test. Our battle serves only to spill needless blood and "
 "weaken us both."
 msgstr ""
+"Tohle se dá stěží nazvat zkouškou. Náš boj vede jen ke zbytečnému prolévání "
+"krve a oslabuje nás oba."
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:432
 msgid "No, whelp. You may be weakened, but the horse clans are eternal."
-msgstr ""
+msgstr "Ne, štěně. Ty jsi možná oslabený, ale klany jezdců jsou věčné."
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:434
@@ -19634,6 +19640,8 @@ msgid ""
 "I will promise you this, however. If your forces can defeat me personally, I "
 "myself will join your cause."
 msgstr ""
+"Jedno ti však slibuji. Pokud se tvým jednotkám podaří porazit mě osobně, "
+"připojím se k vaší věci."
 
 #. [message]: speaker=Ruga
 #. [message]: speaker=Daryn
@@ -19642,7 +19650,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:444
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:450
 msgid "Aye."
-msgstr ""
+msgstr "I já."
 
 #. [message]: id=Haldiel,Simyr
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:480
