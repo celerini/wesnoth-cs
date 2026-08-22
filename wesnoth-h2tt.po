@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-22 14:09+0200\n"
+"PO-Revision-Date: 2026-08-22 14:18+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -23041,7 +23041,7 @@ msgstr "Jsme poraženi, protože jsem byl přemožen!"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:846
 msgid "This is the end! Without me, who will guide the prince?"
-msgstr ""
+msgstr "To je konec! Kdo beze mne povede prince?"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:847
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:848
