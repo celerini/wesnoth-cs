@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-22 14:18+0200\n"
+"PO-Revision-Date: 2026-08-22 14:29+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5515,6 +5515,9 @@ msgid ""
 "Dan’Tonk’s footmen to flank us. If we strike now, we can do enough damage to "
 "prevent them from marching against us later."
 msgstr ""
+"Až jednoho dne oblehneme Weldyn, Ašvíra jistě povolá pěšáky z Dan’Tonku, aby "
+"nás obklíčili na křídlech. Pokud zaútočíme hned teď, můžeme jim způsobit "
+"natolik velké škody, že později nebudou moci proti nám vytáhnout."
 
 #. [message]: role=dantonk_contain_guard
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1324
