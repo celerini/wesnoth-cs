@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-23 21:23+0200\n"
+"PO-Revision-Date: 2026-08-23 22:18+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19902,21 +19902,24 @@ msgid ""
 "aren’t your allies, but will prefer to attack Isolde’s soldiers when given "
 "the choice."
 msgstr ""
+"V severozápadním rohu mapy se budou pravidelně objevovat gryfové. Nejsou to "
+"tví spojenci, ale pokud budou mít na výběr, raději zaútočí na Isoldiny "
+"vojáky."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:368
 msgid "Kraww!!"
-msgstr ""
+msgstr "Krááu!!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:372
 msgid "Look, gryphons are attacking soldiers inside the city walls!"
-msgstr ""
+msgstr "Podívejte, gryfové útočí na vojáky uvnitř městských hradeb!"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:376
 msgid "These vermin again. What did that dwarf do to rile them up so badly?!"
-msgstr ""
+msgstr "Zase ta havěť. Co ten trpaslík udělal, že je tak rozzuřil?!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:380
@@ -19925,6 +19928,8 @@ msgid ""
 "but we should still do our best to stay out of their way — they remain wild "
 "animals."
 msgstr ""
+"Mám podezření, že chovají zvláštní zášť vůči vojákům z Dan’Tonku, ale i tak "
+"bychom se měli snažit jim co nejvíc vyhýbat – pořád to jsou divoká zvířata."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:420
@@ -19933,6 +19938,9 @@ msgid ""
 "defenses. Do you have any insight into its weaknesses? Is there anything we "
 "can use against the general?"
 msgstr ""
+"Lisar, jako generálka Wesnothu ses jistě dobře obeznámila s obranou "
+"Dan’Tonku. Víš něco o jejích slabých místech? Je tu něco, co bychom mohli "
+"proti této generálce využít?"
 
 #. [message]: speaker=Lisar
 #. reference to Asheviere's Dogs
@@ -19941,11 +19949,12 @@ msgid ""
 "There was a hidden tunnel, once, but I had it collapsed some years ago. "
 "Sorry."
 msgstr ""
+"Kdysi tu byl skrytý tunel, ale před pár lety jsem ho nechala zavalit. Promiň."
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:453
 msgid "Argh! This is going terribly. Retreat! Retreat!"
-msgstr ""
+msgstr "Do háje! Tohle jde strašně špatně. Ústup! Ústup!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:478
