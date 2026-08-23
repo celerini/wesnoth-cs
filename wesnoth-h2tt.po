@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-22 14:29+0200\n"
+"PO-Revision-Date: 2026-08-23 08:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5554,6 +5554,9 @@ msgid ""
 "farms suffer under Mother’s exorbitant taxes, those surrounding Weldyn — the "
 "core of her power base — have grown rich and fat."
 msgstr ""
+"Konráde, teď jsme hluboko v srdci Wesnothu. Zatímco farmy na západě trpí pod "
+"tíhou matčiných přemrštěných daní, ty v okolí Weldynu – jádro její mocenské "
+"základny – zbohatly a vzkvétají."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1405
@@ -5561,6 +5564,8 @@ msgid ""
 "It’s an unsavory proposal, but I believe our best strategy is to burn the "
 "locals’ farms to deprive my mother of their resources."
 msgstr ""
+"Je to odporný návrh, ale domnívám se, že nejlepší strategií je vypálit farmy "
+"místních obyvatel, abychom mou matku připravili o její zdroje."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1407
@@ -5569,6 +5574,9 @@ msgid ""
 "wealthy farmer can survive losing a few herds or a single year’s harvest. We "
 "won’t, if Asheviere defeats us in the end."
 msgstr ""
+"Nechci tím říct, že bychom měli někoho odvést k vojsku nebo zabíjet – jsou "
+"to nevinní lidé. Ale bohatý farmář dokáže přežít ztrátu několika stád nebo "
+"úrody z jednoho roku. My to ale nezvládneme, pokud nás Ašvíra nakonec porazí."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1418
@@ -5577,21 +5585,25 @@ msgid ""
 "strategy, but I am not enthused about the prospect. Of course, Weldyn will "
 "surely pose a frighteningly difficult challenge if we do not..."
 msgstr ""
+"To je skutečně odporná představa. Zničení farem v této oblasti by sice mohlo "
+"být rozumnou vojenskou strategií, ale z té vyhlídky nejsem nijak nadšený. "
+"Samozřejmě, pokud to neuděláme, bude Weldyn jistě představovat děsivě "
+"náročnou výzvu..."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1420
 msgid "Burn the farms (default difficulty)"
-msgstr ""
+msgstr "Vypálit farmy (výchozí obtížnost)"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1438
 msgid "Don’t (extra difficulty)"
-msgstr ""
+msgstr "Nedělat to (zvýšená obtížnost)"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1451
 msgid "★Weldyn"
-msgstr ""
+msgstr "Weldyn★"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1459
 msgid "The Battle for Wesnoth"
