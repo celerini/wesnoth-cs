@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-23 08:26+0200\n"
+"PO-Revision-Date: 2026-08-23 21:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19847,6 +19847,9 @@ msgid ""
 "congratulations. We were comrades, once. I’m sorry we now find ourselves on "
 "opposing sides."
 msgstr ""
+"Ahoj, Isoldo. Vidím, že tě má matka jmenovala správkyní v Dan’Tonku – "
+"blahopřeji. Kdysi jsme byly spolubojovnice. Je mi líto, že nyní stojíme "
+"proti sobě."
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:293
@@ -19854,6 +19857,8 @@ msgid ""
 "Hello, Li’sar. I’m sorry too. I never saw you as one to turn against your "
 "sovereign; your own kin. ...I suppose it runs in the family."
 msgstr ""
+"Ahoj, Lisar. Mně je to také líto. Nikdy bych neřekla, že se obrátíš proti "
+"své panovnici, své vlastní příbuzné. ... Asi to máte v rodině."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:297
@@ -19861,6 +19866,8 @@ msgid ""
 "You are bold to march out from behind your walls and meet us on the open "
 "plain. Are you not worried we will defeat you?"
 msgstr ""
+"Je od vás odvážné, že jste vyrazili ze svých hradeb a přišli se s námi utkat "
+"na otevřené pláni. Nebojíte se snad, že vás porazíme?"
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:301
@@ -19869,6 +19876,9 @@ msgid ""
 "someone causing problems. First it was Garard, then the baron. Outlaws on "
 "the isles, elves in the Aethenwood. Always one more thing."
 msgstr ""
+"Chm. Celý život jsem toužila po klidném životě. Ale vždycky se najde někdo, "
+"kdo dělá potíže. Nejdřív to byl Garard, pak ten baron. Psanci na ostrovech, "
+"elfové v Aethenském lese. Vždycky se objeví něco dalšího."
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:305
@@ -19877,11 +19887,13 @@ msgid ""
 "your queen’s city — in person. I can vanquish you and your armies all at "
 "once."
 msgstr ""
+"A teď jste to vy tři. Alespoň jste měli tu slušnost přijít do mého města – "
+"města vaší královny – osobně. Mohu vás i vaše armády porazit najednou."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:335
 msgid "Defeat Isolde"
-msgstr ""
+msgstr "Poraz Isoldu"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:349
