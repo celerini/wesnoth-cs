@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-24 07:57+0200\n"
+"PO-Revision-Date: 2026-08-24 08:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20024,57 +20024,57 @@ msgstr "Bitva o Wesnoth"
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:144
 msgid "Orcish Auxiliaries"
-msgstr ""
+msgstr "Skřetí pomocníci"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:149
 msgid "Shnog"
-msgstr ""
+msgstr "Šnog"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:150
 msgid "Agnarz"
-msgstr ""
+msgstr "Agnarz"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:151
 msgid "Arob"
-msgstr ""
+msgstr "Arob"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:212
 msgid "Royal Guard"
-msgstr ""
+msgstr "Královská garda"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:217
 msgid "Asheviere"
-msgstr ""
+msgstr "Ašvíra"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:218
 msgid "Sir Aeollet"
-msgstr ""
+msgstr "Sir Aeollet"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:219
 msgid "Sir Gunter"
-msgstr ""
+msgstr "Sir Gunter"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:220
 msgid "Sir Aebaud"
-msgstr ""
+msgstr "Sir Aebaud"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:234
 msgid "Beastmaster Burlin"
-msgstr ""
+msgstr "Burlin, pán zvířat"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:427
 msgid "Raag!"
-msgstr ""
+msgstr "Rág!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:434
@@ -20083,6 +20083,9 @@ msgid ""
 "city, Konrad. I’ll move forward and recruit from there once it’s clear. "
 "You’re welcome to share, of course."
 msgstr ""
+"Ta skřetí pevnost bude dokonalým výchozím bodem pro náš útok na město, "
+"Konráde. Jakmile bude vyčištěná, přesunu se tam a budu verbovat nové "
+"bojovníky. Samozřejmě se můžeš přidat."
 
 #. [event]: id=sapper_ability_object
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1164
@@ -20092,12 +20095,12 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1168
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1169
 msgid "Bridge Guard"
-msgstr ""
+msgstr "Stráž mostu"
 
 #. [dummy]: id=sapper
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1247
 msgid "sapper"
-msgstr ""
+msgstr "ženista"
 
 #. [dummy]: id=sapper
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1248
@@ -20105,6 +20108,8 @@ msgid ""
 "This unit is carrying explosives. When defeated, it will destroy whatever "
 "terrain it is standing on."
 msgstr ""
+"Tato jednotka přenáší výbušniny. Když je poražena, zničí jakýkoli terén, na "
+"kterém stojí."
 
 #. [dummy]: id=sapper
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1250
