@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-23 22:18+0200\n"
+"PO-Revision-Date: 2026-08-24 07:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19963,6 +19963,9 @@ msgid ""
 "walls. Her army is defeated, but not broken. We lack the supplies or time to "
 "besiege the city proper."
 msgstr ""
+"Vítězství je naše. Jak jsme očekávali, Isolda se uchýlila za městské hradby. "
+"Její vojsko je poraženo, ale není rozdrceno. Nemáme dostatek zásob ani času "
+"na to, abychom obléhali samotné město."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:482
@@ -19972,6 +19975,10 @@ msgid ""
 "queen is not so unbeatable as she once seemed. I do not think Isolde will be "
 "able to leave Dan’Tonk again without risking its revolt."
 msgstr ""
+"Možná to ani není nutné, Delfadore. Moc je křehká věc a my jsme celému "
+"tomuto městu – městu, které kdysi bojovalo proti Ašvíře – ukázali, že "
+"královna není tak neporazitelná, jak se kdysi zdálo. Nemyslím si, že by "
+"Isolda mohla znovu opustit Dan’Tonk, aniž by riskovala jeho vzpouru."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:486
@@ -19979,6 +19986,8 @@ msgid ""
 "That, and also I’ll leave a few of my men behind to destroy the roads and "
 "harass any sorties. Dan’Tonk won’t pose any problem when we attack Weldyn."
 msgstr ""
+"Kromě toho tu nechám pár svých mužů, aby zničili silnice a ztěžovali "
+"případné výpady. Dan’Tonk nám při útoku na Weldyn nebude dělat žádné potíže."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:502
@@ -19986,6 +19995,8 @@ msgid ""
 "We’re doing well. If we can keep up the fight for a little longer, I suspect "
 "Isolde will be forced to give up the fight."
 msgstr ""
+"Vedeme si dobře. Pokud vydržíme bojovat ještě chvíli, domnívám se, že Isolda "
+"bude nucena boj vzdát."
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:509
@@ -19993,6 +20004,8 @@ msgid ""
 "You are a more skilled fighter than you look, Konrad. I don’t believe I can "
 "defeat you today. It’s time to cut our losses and retreat."
 msgstr ""
+"Jsi mnohem zdatnější bojovník, než by se na první pohled zdálo, Konráde. "
+"Nemyslím si, že tě dnes dokážu porazit. Je na čase omezit ztráty a ustoupit."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/48_Dan_Tonk.cfg:514
@@ -20000,6 +20013,8 @@ msgid ""
 "That’s a poor choice, soldiers. I hope you weren’t planning on ever seeing "
 "retirement."
 msgstr ""
+"Špatná volba, vojáci. Doufám, že jste nepočítali s tím, že se někdy dožijete "
+"výslužby."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:11
