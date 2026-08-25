@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-24 08:25+0200\n"
+"PO-Revision-Date: 2026-08-25 22:45+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -21216,7 +21216,7 @@ msgstr ""
 #. [unit_type]: id=Elvish Civilian, race=elf, gender=male,female
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:4
 msgid "Elvish Civilian"
-msgstr ""
+msgstr "Elfí civilista"
 
 #. [unit_type]: id=Elvish Civilian, race=elf, gender=male,female
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:19
@@ -21225,6 +21225,9 @@ msgid ""
 "even untrained they have talent for swords and bows. However, if you are "
 "hurling civilians at your foes, you’re clearly out of superior forces."
 msgstr ""
+"Ačkoli elfové nejsou od přírody bojechtiví, díky své přirozené ladnosti mají "
+"i bez výcviku vlohy pro zacházení s mečem a lukem. Pokud však na své "
+"nepřátele vrháš civilisty, zjevně ti docházejí silnější jednotky."
 
 #. [attack]: type=blade
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:22
@@ -21236,17 +21239,17 @@ msgstr "meč"
 #. [attack]: type=pierce
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:31
 msgid "bow"
-msgstr ""
+msgstr "luk"
 
 #. [male]: gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:42
 msgid "male^Elvish Civilian"
-msgstr ""
+msgstr "Elfí civilista"
 
 #. [female]: gender=female
 #: data/campaigns/Heir_To_The_Throne/units/Elvish_Civilian.cfg:90
 msgid "female^Elvish Civilian"
-msgstr ""
+msgstr "Elfí civilistka"
 
 #. [unit_type]: id=Dark Queen, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:4
