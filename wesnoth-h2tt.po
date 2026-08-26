@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-25 22:45+0200\n"
+"PO-Revision-Date: 2026-08-26 21:02+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -22215,6 +22215,8 @@ msgid ""
 "What strange magic you wield, Kalenz. It is light, yet it is not of the "
 "Light! What manner of unhallowed spells do you weave?"
 msgstr ""
+"Jakou podivnou magií vládneš, Kalenzi. Je to světlo, a přece nepochází ze "
+"Světla! Jaká nesvatá kouzla tu vlastně spřádáš?"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:460
@@ -22223,6 +22225,9 @@ msgid ""
 "it is natural to the elves. Few are the male elves permitted to learn it. "
 "And no outsiders, for it is an art inherited only by my kind."
 msgstr ""
+"To je magie víl. V některých ohledech se podobá vašemu Světlu, ale pro elfy "
+"je přirozená. Jen málokterým mužským elfům je dovoleno se ji naučit. "
+"A žádným cizincům, neboť jde o umění, které se dědí pouze v mém rodu."
 
 #. [message]: speaker=Kalenz
 #. this is a reference to the events of LoW, where Kalenz gained his magic after drinking an invisibility potion brewed by Crelanu
@@ -22231,6 +22236,8 @@ msgid ""
 "Although I gained my magic in a different manner than do most of my kind, it "
 "is now as much a part of me as is my blood."
 msgstr ""
+"Ačkoli jsem svou magii získal jiným způsobem než většina mých soukmenovců, "
+"je nyní mou součástí stejně jako moje krev."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:478
