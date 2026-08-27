@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-26 21:02+0200\n"
+"PO-Revision-Date: 2026-08-27 21:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -21624,7 +21624,7 @@ msgstr "Spoutaná mágyně"
 #. [unit_type]: id=Warrior of Light, race=human, gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_Warrior_of_Light.cfg:4
 msgid "Warrior of Light"
-msgstr ""
+msgstr "Válečník světla"
 
 #. [unit_type]: id=Warrior of Light, race=human, gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_Warrior_of_Light.cfg:21
@@ -21633,6 +21633,9 @@ msgid ""
 "spiritual powers. By strict devotion to the path of the light, they can call "
 "upon its aid to chase away the shadows of the night."
 msgstr ""
+"Po letech zkušeností si ti nejoddanější válečníci osvojí obrovské duchovní "
+"síly. Díky přísné věrnosti cestě světla mohou požádat o jeho pomoc, aby "
+"zahnali stíny noci."
 
 #. [unit_type]: id=Warrior of Light, race=human, gender=male
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_Warrior_of_Light.cfg:23
@@ -21641,6 +21644,9 @@ msgid ""
 "find these champions of light working tirelessly to cleanse evil from the "
 "troubled world in which they live."
 msgstr ""
+"Ať už je ta propast, z níž se plazí temnota, jakkoli odporná, i tam najdeš "
+"tyto zastánce světla, jak neúnavně pracují na tom, aby tento nepokojný svět, "
+"v němž žijí, zbavili zla."
 
 #. [attack]: type=arcane
 #: data/campaigns/Heir_To_The_Throne/units/Human_Moremirmu_Warrior_of_Light.cfg:44
