@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-27 21:09+0200\n"
+"PO-Revision-Date: 2026-08-28 23:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20117,11 +20117,14 @@ msgid ""
 "This unit will not detonate if overkilled by 25 hitpoints or more, as long "
 "as the vanquishing damage type is not fire."
 msgstr ""
+"Tato jednotka nevybuchne, pokud je zabita úderem silnějším, než je třeba, "
+"o 25 bodů nebo více, za předpokladu, že typ poškození, které ji zničí, není "
+"oheň."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1305
 msgid "Ack!"
-msgstr ""
+msgstr "Ááá!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1311
@@ -20129,6 +20132,8 @@ msgid ""
 "That guard was carrying some kind of strange device! Whatever it was, we "
 "slew him with such a mighty blow that he had not the chance to use it."
 msgstr ""
+"Ta stráž měla u sebe nějaké podivné zařízení! Ať už to bylo cokoli, zabili "
+"jsme ji tak mocným úderem, že neměla šanci ho použít."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1316
@@ -20136,26 +20141,28 @@ msgid ""
 "Well done! We slew this guard with such a mighty blow that he had not a "
 "chance to destroy his bridge."
 msgstr ""
+"Skvělá práce! Zabili jsme tu stráž tak mocným úderem, že neměla šanci zničit "
+"svůj most."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1335
 msgid "The fire is getting to the explosive powder! Your Majesty—"
-msgstr ""
+msgstr "Oheň se šíří k výbušnému prachu! Vaše Veličenstvo —"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1344
 msgid "Argh! Your Majesty... it doesn’t even need to walk..."
-msgstr ""
+msgstr "Argh! Vaše Veličenstvo... ono to nemusí ani chodit..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1349
 msgid "Argh! Your Majesty... the plan..."
-msgstr ""
+msgstr "Argh! Vaše Veličenstvo... ten plán..."
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1354
 msgid "Carry out your orders. Do not disappoint me."
-msgstr ""
+msgstr "Splň své rozkazy. Nezklam mě."
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1435
