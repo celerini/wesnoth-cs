@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-29 10:51+0200\n"
+"PO-Revision-Date: 2026-08-29 11:01+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20555,7 +20555,7 @@ msgstr "Arrrgh! To je ale škoda..."
 msgid ""
 "There is a thunder of approaching hooves in the south! The Horse Clans have "
 "come."
-msgstr ""
+msgstr "Z jihu se ozývá dunění blížících se kopyt! Přijely klany jezdců."
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2011
@@ -20563,6 +20563,8 @@ msgid ""
 "Hail, good Asheviere! We have taken the long road and come around by the "
 "south to surprise the rebels!"
 msgstr ""
+"Buď zdráva, dobrá Ašvíro! Vybrali jsme si dlouhou cestu a objeli to z jihu, "
+"abychom povstalce překvapili!"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2015
@@ -20570,16 +20572,18 @@ msgid ""
 "More likely you took the long road hoping to miss the worst of the fighting. "
 "I expected better, Bayar. We will discuss this after the battle."
 msgstr ""
+"Spíš jste si zvolili delší cestu v naději, že se vyhnete nejhorším bojům. "
+"Čekala jsem víc, Bayare. Probereme to po bitvě."
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2053
 msgid "Ignore him. Run them down like dogs."
-msgstr ""
+msgstr "Nevšímej si ho. Rozneste je na kopytech jako psy."
 
 #. [message]: speaker=Bayar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2061
 msgid "No! I am beaten! Perhaps the dark queen truly can be bested..."
-msgstr ""
+msgstr "Ne! Jsem poražen! Možná se na temnou královnu skutečně dá vyzrát..."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2100
