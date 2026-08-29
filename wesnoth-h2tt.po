@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-29 09:12+0200\n"
+"PO-Revision-Date: 2026-08-29 09:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20210,6 +20210,9 @@ msgid ""
 "the north now swollen even further with your mage Mirya’s new recruits. We "
 "know, and we are prepared."
 msgstr ""
+"Rytíři z klanů jezdců, pěšáci z Dan’Tonku a hordy skřetů ze severu, jejichž "
+"řady se nyní ještě více rozrostly o nové rekruty vaší čarodějky Miryi. Víme "
+"o tom a jsme připraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1475
@@ -20217,6 +20220,8 @@ msgid ""
 "Knights from the Horse Clans, footmen from Dan’Tonk, and orcish hordes from "
 "the north. We know, and we are prepared."
 msgstr ""
+"Rytíři z klanů jezdců, pěšáci z Dan’Tonku a hordy skřetů ze severu. Víme "
+"o tom a jsme připraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1476
@@ -20224,6 +20229,8 @@ msgid ""
 "Knights from the Horse Clans, footmen from Dan’Tonk, and your mage Mirya "
 "with her newly-recruited grunts. We know, and we are prepared."
 msgstr ""
+"Rytíři z koňských klanů, pěšáci z Dan’Tonk a vaše čarodějka Mirya se svými "
+"nově naverbovanými skřetími vojáky. Víme o tom a jsme připraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1477
@@ -20231,6 +20238,8 @@ msgid ""
 "Footmen from Dan’Tonk, orcish hordes from the north, and your mage Mirya "
 "with her newly-recruited grunts. We know, and we are prepared."
 msgstr ""
+"Pěšáci z Dan’Tonku, hordy skřetů ze severu a vaše čarodějka Mirya se svými "
+"čerstvě naverbovanými skřetími vojáky. Víme o tom a jsme připraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1478
@@ -20239,6 +20248,9 @@ msgid ""
 "even further with your mage Mirya’s new recruits. We know, and we are "
 "prepared."
 msgstr ""
+"Rytíři z klanů jezdců a hordy skřetů ze severu, které se nyní ještě více "
+"rozrostly díky novým rekrutům vaší čarodějky Miryi. Víme o tom a jsme "
+"připraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1480
@@ -20246,6 +20258,7 @@ msgid ""
 "Knights from the Horse Clans and footmen from Dan’Tonk. We know, and we are "
 "prepared."
 msgstr ""
+"Rytíři z klanů jezdců a pěšáci z Dan’Tonku. Víme o tom a jsme připraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1481
@@ -20253,6 +20266,7 @@ msgid ""
 "Footmen from Dan’Tonk and orcish hordes from the north. We know, and we are "
 "prepared."
 msgstr ""
+"Pěšáci z Dan’Tonku a hordy skřetů ze severu. Víme o tom a jsme připraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1482
@@ -20260,6 +20274,7 @@ msgid ""
 "Knights from Horse Clans and orcish hordes from the north. We know, and we "
 "are prepared."
 msgstr ""
+"Rytíři z klanů jezdců a hordy skřetů ze severu. Víme o tom a jsme připraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1483
@@ -20267,6 +20282,8 @@ msgid ""
 "Footmen from Dan’Tonk and your mage Mirya with her newly-recruited orcs. We "
 "know, and we are prepared."
 msgstr ""
+"Pěšáci z Dan’Tonku a vaše čarodějka Mirya se svými nově naverbovanými "
+"skřety. Víme o tom a jsme připraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1484
@@ -20274,6 +20291,8 @@ msgid ""
 "Knights from the Horse Clans and your mage Mirya with her newly-recruited "
 "orcs. We know, and we are prepared."
 msgstr ""
+"Rytíři z klanů jezdců a vaše čarodějka Mirya se svými nově naverbovanými "
+"skřety. Víme o tom a jsme připraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1485
@@ -20281,6 +20300,8 @@ msgid ""
 "Orcish hordes from the north, now swollen even further with your mage "
 "Mirya’s new recruits. We know, and we are prepared."
 msgstr ""
+"Hordy skřetů ze severu, jejichž řady se nyní ještě více rozrostly o nové "
+"rekruty vaší čarodějky Miryi. Víme o tom a jsme připraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1487
@@ -20289,6 +20310,9 @@ msgid ""
 "and her newly-recruited orcs are still ready to aid you. We did not come "
 "here unprepared."
 msgstr ""
+"Méně, než by mohlo být. Ze všech vašich spojenců jsou vám stále připraveni "
+"pomoci už jen vaše čarodějka Mirya a její nově naverbovaní skřeti. Nepřišli "
+"jsme sem nepřipraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1488
@@ -20296,6 +20320,8 @@ msgid ""
 "Fewer than there might have been. Of all your allies, only the orcish hordes "
 "of the north still stand ready to aid you. We did not come here unprepared."
 msgstr ""
+"Méně, než by mohlo být. Ze všech vašich spojenců jsou připraveni vám pomoci "
+"už jen hordy skřetů ze severu. Nepřišli jsme sem nepřipraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1489
@@ -20303,6 +20329,8 @@ msgid ""
 "Fewer than there might have been. Of all your allies, only the Horse Clans "
 "still stand ready to aid you. We did not come here unprepared."
 msgstr ""
+"Méně, než by mohlo být. Ze všech vašich spojenců jsou připraveni vám pomoci "
+"už jen klany jezdců. Nepřišli jsme sem nepřipraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1490
@@ -20310,6 +20338,8 @@ msgid ""
 "Fewer than there might have been. Of all your allies, only the footmen of "
 "Dan’Tonk still stand ready to aid you. We did not come here unprepared."
 msgstr ""
+"Méně, než by mohlo být. Ze všech vašich spojenců jsou připraveni vám pomoci "
+"už jen pěšáci z Dan’Tonku. Nepřišli jsme sem nepřipraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1492
@@ -20318,6 +20348,10 @@ msgid ""
 "is barricaded; the orcish clans are embroiled in civil war. Even your mage "
 "Mirya is gone. You have nothing more than the forces arrayed before us here."
 msgstr ""
+"Jaké spojence, Vaše Milosti? Klany jezdců se k nám obrátily zády; Dan’Tonk "
+"je zabarikádován; skřetí klany se zapletly do občanské války. Dokonce i vaše "
+"čarodějka Mirya je pryč. Nemáte nic jiného než ty síly, které tu před námi "
+"stojí."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1499
