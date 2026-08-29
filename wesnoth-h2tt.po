@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-29 10:31+0200\n"
+"PO-Revision-Date: 2026-08-29 10:51+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20519,6 +20519,8 @@ msgid ""
 "approaching from the northeast, behind us! They must have come a long way to "
 "make war."
 msgstr ""
+"Slyším rytmické údery válečných bubnů. Ze severovýchodu, přímo za námi, se "
+"blíží obrovské skřetí vojsko! Museli urazit dlouhou cestu, aby si zaválčili."
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1932
@@ -20526,6 +20528,8 @@ msgid ""
 "Should’ve taken me up on my offer when you had the chance, Konrad. If I "
 "can’t kill the chief, maybe I can still win his favor by killing you!"
 msgstr ""
+"Měl jsi přijmout mou nabídku, když jsi měl příležitost, Konráde. Když už "
+"nemůžu zabít náčelníka, možná si jeho přízeň získám tím, že zabiju tebe!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1962
@@ -20533,16 +20537,18 @@ msgid ""
 "Coming here was a poor decision, orc. The dark queen’s reign is at an end. "
 "You lash yourself to a sinking ship."
 msgstr ""
+"To, že jsi sem přišel, bylo špatné rozhodnutí, skřete. Vláda temné královny "
+"se chýlí ke konci. Připoutáváš se k potápějící se lodi."
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1966
 msgid "Yeah yeah. Let’s get on with the fighting!"
-msgstr ""
+msgstr "Jo, jo. Tak se pusťme do boje!"
 
 #. [message]: speaker=Faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1974
 msgid "Arrrgh! What a waste..."
-msgstr ""
+msgstr "Arrrgh! To je ale škoda..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1993
