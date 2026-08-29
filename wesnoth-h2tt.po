@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-29 09:48+0200\n"
+"PO-Revision-Date: 2026-08-29 09:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20359,6 +20359,8 @@ msgid ""
 "How long must the people endure your rule, woman? Give the throne to your "
 "daughter. She is the rightful heir. We even hold the Sceptre to prove it!"
 msgstr ""
+"Jak dlouho ještě musí lid snášet tvou vládu, ženo? Předej trůn své dceři. "
+"Ona je právoplatnou dědičkou. Máme dokonce i žezlo, které to dokazuje!"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1503
@@ -20366,11 +20368,13 @@ msgid ""
 "Delfador! My old tormentor! Treason! Men! Seize them! Kill them! Kill them "
 "all!"
 msgstr ""
+"Delfador! Můj dávný trýznitel! Zrada! Muži! Chyťte je! Zabijte je! Zabijte "
+"je všechny!"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1511
 msgid "Defeat Asheviere"
-msgstr ""
+msgstr "Poraz Ašvíru"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1530
