@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-29 10:26+0200\n"
+"PO-Revision-Date: 2026-08-29 10:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20477,6 +20477,7 @@ msgid ""
 "Look, to the west! There is a great plume of dust visible just over the "
 "horizon."
 msgstr ""
+"Podívejte se na západ! Těsně nad obzorem je vidět obrovský oblak prachu."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1838
@@ -20484,6 +20485,8 @@ msgid ""
 "That road leads to Dan’Tonk — there must be a column of soldiers marching to "
 "my mother’s aid. They’ll be here any moment."
 msgstr ""
+"Ta silnice vede do Dan’Tonku – určitě tam pochoduje zástup vojáků, kteří "
+"spěchají na pomoc mé matce. Budou tu každou chvíli."
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1852
@@ -20491,21 +20494,23 @@ msgid ""
 "Your Majesty! So Konrad has come, just as you said he would. My army will "
 "make short work of him."
 msgstr ""
+"Vaše Veličenstvo! Tak Konrád přišel, přesně jak jste předpovídala. Moje "
+"vojsko si s ním rychle poradí."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1885
 msgid "I’m sorry it had to come to this, Isolde. I respected you."
-msgstr ""
+msgstr "Je mi líto, že to muselo dojít až sem, Isoldo. Vážila jsem si tě."
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1889
 msgid "You picked the wrong side, princess. I’ll try to capture you alive."
-msgstr ""
+msgstr "Vybrala sis špatnou stranu, princezno. Pokusím se tě zajmout živou."
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1897
 msgid "Don’t surrender, my queen! Do not let my death be in vain!"
-msgstr ""
+msgstr "Nevzdávejte se, má královno! Ať moje smrt není zbytečná!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1916
