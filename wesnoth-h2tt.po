@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-29 10:12+0200\n"
+"PO-Revision-Date: 2026-08-29 10:24+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20428,11 +20428,14 @@ msgid ""
 "suspect we will soon encounter that teleporting mage of Asheviere’s, along "
 "with her orcish allies and mage followers."
 msgstr ""
+"Konráde, cítím, jak se po severní cestě blíží proud magie. Mám podezření, že "
+"se brzy střetneme s tou Ašvířinou teleportující se čarodějkou spolu s jejími "
+"skřetími spojenci a čarodějnickými stoupenci."
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1748
 msgid "Ah, we’ve arrived at the perfect time."
-msgstr ""
+msgstr "Ach, dorazili jsme v ten nejvhodnější okamžik."
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1775
@@ -20440,29 +20443,34 @@ msgid ""
 "Congratulations on your entry into the queen’s service, orcs. To earn your "
 "first payment, bring me the heads of the rebel leaders."
 msgstr ""
+"Blahopřeji vám, skřeti, k nástupu do služeb královny. Abyste si zasloužili "
+"svou první odměnu, přineste mi hlavy vůdců povstalců."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1784
 msgid "You’re a good mage, Mirya. It’s a shame you’re a bad person."
-msgstr ""
+msgstr "Jsi dobrá čarodějka, Miryo. Škoda, že jsi špatný člověk."
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1792
+#, fuzzy
 msgid ""
 "Ow! I think it’s time to take my leave. No point dying for the cause when I "
 "could live for it instead."
 msgstr ""
+"Au! Myslím, že je čas, abych se rozloučila. Nemá smysl umírat za věc, když "
+"místo toho můžu pro ni žít."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #. "Morium libre vintis" doesn't mean anything. It's just some gibberish that sounds like a magic spell.
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1798
 msgid "You will not leave. Morium libre vintis!"
-msgstr ""
+msgstr "Neodejdeš. Morium libre vintis!"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1806
 msgid "My spell is broken!"
-msgstr ""
+msgstr "Kouzlo pominulo!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1833
