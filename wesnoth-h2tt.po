@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-28 23:16+0200\n"
+"PO-Revision-Date: 2026-08-29 09:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20168,11 +20168,13 @@ msgstr "Splň své rozkazy. Nezklam mě."
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1435
 msgid "So. After burning half my fields, these rebels come at last to face me."
 msgstr ""
+"Takže. Poté, co mi tihle povstalci vypálili polovinu polí, se mi konečně "
+"odvážili postavit."
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1440
 msgid "So, these rebels come at last to face me."
-msgstr ""
+msgstr "Tak se tedy tito povstalci konečně odhodlali postavit se mně."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1445
@@ -20180,6 +20182,8 @@ msgid ""
 "Surrender, Mother. The land’s blood is spent. I have come to take my "
 "rightful place."
 msgstr ""
+"Vzdej se, matko. Krev této země je vyčerpána. Přišla jsem, abych zaujala "
+"místo, které mi právem náleží."
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1449
@@ -20187,6 +20191,8 @@ msgid ""
 "Ahh. My own daughter, a turncoat. Such treason my reign must endure! But "
 "endure it will."
 msgstr ""
+"Ach. Moje vlastní dcera, přeběhlice. Jakou zradu musí moje panování snášet! "
+"Ale přestojí to."
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1453
@@ -20194,6 +20200,8 @@ msgid ""
 "The walls of Weldyn are strong. And her allies are many. They will arrive in "
 "days — and then you will die."
 msgstr ""
+"Hradby Weldynu jsou pevné. A má mnoho spojenců. Dorazí už za pár dní – a pak "
+"zemřeš."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1473
