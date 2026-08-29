@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-29 10:04+0200\n"
+"PO-Revision-Date: 2026-08-29 10:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20396,6 +20396,8 @@ msgid ""
 "Their initial attack will be especially powerful, but they will continue "
 "reinforcing Asheviere every day or two until she is defeated — or we are."
 msgstr ""
+"Jejich úvodní útok bude obzvláště silný, ale budou Ašvíru posilovat každý "
+"den či dva, dokud nebude poražena – nebo dokud nebudeme poraženi my."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1573
@@ -20404,6 +20406,9 @@ msgid ""
 "arrive, so we should be careful not to leave our soldiers exposed near the "
 "attackers’ entry points."
 msgstr ""
+"Každá vlna útočníků bude připravena k přesunu a boji hned jak dorazí, proto "
+"bychom měli dbát na to, abychom nenechávali naše vojáky nechráněné "
+"v blízkosti přístupových bodů útočníků."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1581
@@ -20412,6 +20417,9 @@ msgid ""
 "not especially powerful, but I suspect that each subsequent follow-up will "
 "be more deadly than the last."
 msgstr ""
+"Konráde, Ašvířini spojenci připravili další útok! Tahle vlna sice není nijak "
+"zvlášť silná, ale mám podezření, že každá další bude smrtelnější než ta "
+"předchozí."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1731
