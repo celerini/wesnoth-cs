@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-29 09:57+0200\n"
+"PO-Revision-Date: 2026-08-29 10:04+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20382,11 +20382,13 @@ msgid ""
 "It’s you! The dwarf from Gryphon Mountain! I thought you were merely "
 "delivering eggs to Asheviere, not fighting for her."
 msgstr ""
+"To jsi ty! Ten trpaslík z Hory gryfů! Myslel jsem, že Ašvíře jen dodáváš "
+"vejce, ne že za ni bojuješ."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1534
 msgid "Well, you know what they say: money talks. It’s nothing personal."
-msgstr ""
+msgstr "No, víš, jak se říká: kdo maže, ten jede. Není to nic osobního."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1569
