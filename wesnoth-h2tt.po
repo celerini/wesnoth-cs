@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-29 11:01+0200\n"
+"PO-Revision-Date: 2026-08-29 22:10+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5525,6 +5525,8 @@ msgid ""
 "We’re all set up, my lady, and we’ve blocked the roads with rubble. They "
 "won’t get through easily."
 msgstr ""
+"Všichni jsme připraveni, má paní, a silnice jsme zahradili sutinami. Tak "
+"snadno neprojdou."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1328
@@ -5532,6 +5534,8 @@ msgid ""
 "Well done, everyone — our flank is secure. Asheviere’s position in Weldyn "
 "grows weaker each day."
 msgstr ""
+"Skvělá práce, všichni – naše křídlo je zajištěno. Ašvířino postavení ve "
+"Weldynu každým dnem slábne."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1334
@@ -5541,6 +5545,9 @@ msgid ""
 "blocked the road and have left behind enough guards to make any sortie "
 "difficult."
 msgstr ""
+"Ačkoli Dan’Tonk zůstává v rukou nepřítele, jeho síla je značně omezena. "
+"Nemáme ani čas, ani zásoby na zdlouhavé obléhání, a tak jsme zahradili "
+"silnici a nechali tam dostatek stráží, aby byl jakýkoli výpad ztížen."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1375
