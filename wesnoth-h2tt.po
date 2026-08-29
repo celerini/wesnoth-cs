@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-29 10:24+0200\n"
+"PO-Revision-Date: 2026-08-29 10:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20453,7 +20453,6 @@ msgstr "Jsi dobrá čarodějka, Miryo. Škoda, že jsi špatný člověk."
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1792
-#, fuzzy
 msgid ""
 "Ow! I think it’s time to take my leave. No point dying for the cause when I "
 "could live for it instead."
