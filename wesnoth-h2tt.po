@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-29 22:10+0200\n"
+"PO-Revision-Date: 2026-08-30 21:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5534,8 +5534,8 @@ msgid ""
 "Well done, everyone — our flank is secure. Asheviere’s position in Weldyn "
 "grows weaker each day."
 msgstr ""
-"Skvělá práce, všichni – naše křídlo je zajištěno. Ašvířino postavení ve "
-"Weldynu každým dnem slábne."
+"Skvělá práce, to platí pro každého – naše křídlo je zajištěno. Ašvířino "
+"postavení ve Weldynu každým dnem slábne."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1334
@@ -6614,7 +6614,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1617
 msgid "Crier"
-msgstr ""
+msgstr "Posel"
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1621
@@ -6622,6 +6622,8 @@ msgid ""
 "Hear ye, hear ye! I bring tidings to the Lord Konrad from Her Majesty the "
 "Queen!"
 msgstr ""
+"Slyšte, slyšte! Přináším zprávu pro lorda Konráda od Jejího Veličenstva "
+"královny!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1627
@@ -6629,46 +6631,48 @@ msgid ""
 "A message from Asheviere? I wonder what new trickery this is. Speak what you "
 "have come to say, courier."
 msgstr ""
+"Zpráva od Ašvíry? Zajímalo by mě, o jakou novou lest se tentokrát jedná. "
+"Řekni, co jsi přijel sdělit, posle."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1648
 msgid "Kalenz, Lord of the Lintanir."
-msgstr ""
+msgstr "Kalenz, pán Lintaniru."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1649
 msgid "Ethiliel, Lady of the Aethenwood."
-msgstr ""
+msgstr "Ethiliel, paní Aethenského lesa."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1650
 msgid "Kaylan, Lord of Blackwater."
-msgstr ""
+msgstr "Kaylan, pán Temné Vody."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1651
 msgid "Maddock, Lord of Elensefar."
-msgstr ""
+msgstr "Maddok, pán z Elensefaru."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1652
 msgid "Galdrad, Champion of the Aethenwood."
-msgstr ""
+msgstr "Galdrad, rytíř z Aethenského lesa."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1653
 msgid "Delurin, Three Sisters outlaw."
-msgstr ""
+msgstr "Delurin, zbojník ze „Tří sester“."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1654
 msgid "Reglok, Elensefar thieves’ guildmaster."
-msgstr ""
+msgstr "Reglok, představený cechu zlodějů v Elensefaru."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1655
 msgid "Harper, Three Sisters outlaw."
-msgstr ""
+msgstr "Harper, uprchlice ze „Tří sester“."
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1661
@@ -6678,6 +6682,10 @@ msgid ""
 "righteous execution of the following condemned criminals and rebel "
 "sympathizers:"
 msgstr ""
+"Poslyšte! Lordu Konrádovi a jeho stoupencům se na vědomí dává, že se ve "
+"Weldynu po uplynutí tří týdnů přikročí k výkonu spravedlnosti, totiž že "
+"budou zaslouženě popraveni následující odsouzení zločinci a přivrženci "
+"rebelů:"
 
 #. [message]: speaker=crier
 #. $message is a list of names and titles, generated depending on Konrad's actions. For example: "Maddock, Lord of Elensefar. Ethiliel, Lady of the Aethenwood. Delurin, Three Sisters outlaw. "
@@ -6686,6 +6694,8 @@ msgid ""
 "$message|And one thousand twenty-eight other rebel partisans from the "
 "western and northern reaches."
 msgstr ""
+"$message|A dalších tisíc dvacet osm přívrženců rebelů ze západních "
+"a severních končin."
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1670
@@ -6695,6 +6705,10 @@ msgid ""
 "righteous execution of one thousand twenty-eight condemned partisans and "
 "rebel sympathizers from the western and northern reaches."
 msgstr ""
+"Poslyšte! Lordu Konrádovi a jeho stoupencům se na vědomí dává, že se ve "
+"Weldynu po uplynutí tří týdnů přikročí k výkonu spravedlnosti, totiž že bude "
+"zaslouženě popraveno tisíc dvacet osm přívrženců rebelů ze západních "
+"a severních končin."
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1676
@@ -6702,6 +6716,9 @@ msgid ""
 "The Queen laments such a loss of life as regrettable, but necessary in Her "
 "Judgement to ensure the continued safety and stability of Her Kingdom."
 msgstr ""
+"Královna želí takové politováníhodné ztráty na životech, avšak ta je podle "
+"jejího úsudku nezbytná k zajištění trvalé bezpečnosti a stability jejího "
+"království."
 
 #. [message]: speaker=crier
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1678
@@ -6709,11 +6726,13 @@ msgid ""
 "The Lord Konrad is warned to discontinue his campaign of terror and keep "
 "well away from Weldyn, lest the same tragic fate befall him as well."
 msgstr ""
+"Lord Konrád je varován, aby ukončil své hrůzné tažení a držel se co nejdál "
+"od Weldynu, jinak ho potká stejně tragický osud."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1689
 msgid "A mass execution!? Sweet Haldric, all those people. We have to act!"
-msgstr ""
+msgstr "Hromadná poprava!? Dobrý Haldriku, tolik lidí. Musíme něco udělat!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1693
@@ -6721,11 +6740,13 @@ msgid ""
 "... but what did Asheviere hope to gain by telling us? Could she mean to "
 "catch us in some trap?"
 msgstr ""
+"... ale co doufala Ašvíra získat tím, že nám to řekla? Chtěla nás snad "
+"nalákat do nějaké pasti?"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1697
 msgid "How naïve can you be? Of course it's a trap!"
-msgstr ""
+msgstr "Jak můžeš být tak bláhový? Samozřejmě, že je to past!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1701
@@ -6734,6 +6755,9 @@ msgid ""
 "where she and all her allies will be ready to catch us and crush us. We "
 "don’t even know if these people really have been captured."
 msgstr ""
+"Moje matka ví, jak uvažuješ. Očekává, že se pohrneš rovnou do Weldynu, kde "
+"budou ona a všichni její spojenci připraveni nás chytit a zničit. Ani "
+"nevíme, jestli byli ti lidé opravdu zajati."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1705
@@ -6742,6 +6766,9 @@ msgid ""
 "she says and stay well away, while we continue whittling down her base of "
 "power."
 msgstr ""
+"Měli bychom její provokaci ignorovat. Nejrozumnější by bylo udělat to, co "
+"říká, a držet se od ní co nejdál, zatímco budeme dál oslabovat její "
+"mocenskou základnu."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1709
@@ -6750,6 +6777,9 @@ msgid ""
 "oppose the dark queen. Even ignoring our morals, what message would such an "
 "act send? Who would still support us after such a display?"
 msgstr ""
+"Odsouzení jsou moji přátelé a spojenci. Povstalci, kteří riskovali vše, aby "
+"se postavili temné královně. I kdybychom pominuli naše morální zásady, jaký "
+"signál by takový skutek vyslal? Kdo by nás po takovém činu ještě podporoval?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1713
@@ -6757,6 +6787,8 @@ msgid ""
 "If we are to rule Wesnoth, we must prove ourselves better than Asheviere, "
 "not equal. We must defeat her before she can carry out her executions."
 msgstr ""
+"Máme-li vládnout Wesnothu, musíme dokázat, že jsme lepší než Ašvíra, a ne "
+"jen rovnocenní. Musíme ji porazit, než stihne provést své popravy."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1717
@@ -6764,11 +6796,13 @@ msgid ""
 "Konrad speaks wisdom. Risky though it may be, we should march at once to "
 "Weldyn. There is no time to spare."
 msgstr ""
+"Konrád mluví moudře. Ať už je to jakkoli riskantní, měli bychom se ihned "
+"vydat do Weldynu. Není času nazbyt."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1721
 msgid "Very well. This is it, then."
-msgstr ""
+msgstr "Výborně. Tak a je to tady."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1745
