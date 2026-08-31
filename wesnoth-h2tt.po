@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-31 20:51+0200\n"
+"PO-Revision-Date: 2026-08-31 21:04+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5619,7 +5619,7 @@ msgstr "Bitva o Wesnoth"
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1503
 msgid "No turning back now."
-msgstr ""
+msgstr "Teď už není cesty zpět."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1531
@@ -5628,6 +5628,9 @@ msgid ""
 "we choose, but it may be wiser to first fight elsewhere and cut off her "
 "allies."
 msgstr ""
+"Hlavní město Wesnothu leží přímo před námi. Pokud chceme, můžeme Ašvíru "
+"vyzvat už teď, ale možná by bylo moudřejší nejprve bojovat jinde a odříznout "
+"její spojence."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1535
@@ -5635,6 +5638,8 @@ msgid ""
 "I suspect that no matter what we do, we will be forced into a final "
 "confrontation eventually."
 msgstr ""
+"Mám podezření, že ať už uděláme cokoli, nakonec budeme donuceni "
+"k závěrečnému střetu."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:4
