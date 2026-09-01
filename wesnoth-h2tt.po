@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-31 21:04+0200\n"
+"PO-Revision-Date: 2026-09-01 20:43+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -21056,7 +21056,7 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:5
 msgid "Overlook"
-msgstr ""
+msgstr "Výhled"
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:19
@@ -21065,6 +21065,9 @@ msgid ""
 "prince strode among the ranks, visiting and encouraging soldiers: both his "
 "and Li’sar’s."
 msgstr ""
+"Konrádova kdysi ošuntělá skupina uprchlíků se rozrostla v mohutné vojsko. "
+"Mladý princ kráčel mezi řadami, navštěvoval vojáky a dodával jim odvahu – "
+"jak svým, tak Lisařiným."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:22
@@ -21073,6 +21076,9 @@ msgid ""
 "war. The weight of that thought bore on him. Much had changed since the "
 "flight from the Aethenwood."
 msgstr ""
+"Mnozí opustili bezpečí a klid svých domovů, aby šli bojovat – do jeho války. "
+"Tíha této myšlenky na něj doléhala. Od útěku z Aethenského lesa se toho "
+"hodně změnilo."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:26
@@ -21082,6 +21088,10 @@ msgid ""
 "remained. Li’sar held the Sceptre, but Konrad’s claim was strong. The matter "
 "could not lie unresolved; not so near to the throne."
 msgstr ""
+"Ačkoli byli princ a princezna kdysi smrtelnými nepřáteli, uzavřeli mezi "
+"sebou křehké spojenectví; možná dokonce i přátelství. Avšak pořád tu byla "
+"otázka nástupnictví. Lisar držela žezlo, ale Konrádův nárok byl silný. Tato "
+"záležitost nemohla zůstat nevyřešena. Ne tak blízko trůnu."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:30
@@ -21091,6 +21101,10 @@ msgid ""
 "remained. Konrad held the Sceptre, but Li’sar’s claim was strong. The matter "
 "could not lie unresolved; not so near to the throne."
 msgstr ""
+"Ačkoli byli princ a princezna kdysi smrtelnými nepřáteli, uzavřeli mezi "
+"sebou křehké spojenectví; možná dokonce i přátelství. Avšak pořád tu byla "
+"otázka nástupnictví. Konrád držel žezlo, ale Lisařin nárok byl silný. Tato "
+"záležitost nemohla zůstat nevyřešena. Ne tak blízko trůnu."
 
 #. [part]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:34
@@ -21099,6 +21113,8 @@ msgid ""
 "and paused there. To look at the city. To make plans for the battle, and to "
 "talk."
 msgstr ""
+"Nakonec se povstalecké vojsko dostalo k severnímu břehu řeky Weldyn a tam se "
+"zastavilo. Pohlédnout na město. Naplánovat bitvu a poradit se."
 
 #. [message]: speaker=Lisar
 #. this is a lead-in to the main conversation, but also explains to the player why we start the battle next to the river, even though we approached from a different direction on the overworld.
