@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-01 20:43+0200\n"
+"PO-Revision-Date: 2026-09-02 21:46+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -21124,6 +21124,9 @@ msgid ""
 "the river, to make use of our merfolk and to cover our flank. She’ll cut off "
 "our supply chain if we give her the chance."
 msgstr ""
+"... a předměstí je vzdálené sotva jeden den pochodu. Měli bychom se "
+"přiblížit podél řeky, abychom mohli využít naše mořské lidi a zajistit si "
+"krytí křídla. Pokud jí dáme příležitost, přeruší nám zásobovací trasu."
 
 #. [message]: speaker=Lisar
 #. this is a lead-in to the main conversation, but also explains to the player why we start the battle next to the river, even though we approached from a different direction on the overworld.
@@ -21134,6 +21137,9 @@ msgid ""
 "the northeast, using the river to cover our flank. She’ll cut off our supply "
 "chain if we give her the chance."
 msgstr ""
+"... a předměstí je vzdálené sotva jeden den pochodu. Měli bychom se ní "
+"přiblížit ze severovýchodu a využít řeku, abychom si kryli křídlo. Pokud jí "
+"dáme příležitost, přeruší nám zásobovací trasu."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:100
@@ -21142,11 +21148,14 @@ msgid ""
 "surrender. But I don’t think it will come to that. She knows we’re not so "
 "foolish as to give in."
 msgstr ""
+"Vězni by mohli představovat problém, pokud by jim vyhrožovala, aby nás "
+"donutila kapitulovat. Ale nemyslím si, že k tomu dojde. Ví, že nejsme tak "
+"hloupí, abychom se vzdali."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:112
 msgid "Delfador, what do you think? You’ve been very quiet recently."
-msgstr ""
+msgstr "Delfadore, co si o tom myslíš? Poslední dobou jsi nějak moc potichu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:116
@@ -21154,6 +21163,7 @@ msgid ""
 "Weldyn. The great city. The ancient city. The city of evil. The city of "
 "good. The city of men."
 msgstr ""
+"Weldyn. Velké město. Starobylé město. Město zla. Město dobra. Město lidí."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:124
@@ -21162,6 +21172,9 @@ msgid ""
 "years ago, when I should have been at the height of my power. But my "
 "strength failed me. I failed, and I cannot atone for it."
 msgstr ""
+"To město jsem neviděl už sedmnáct let, Konráde. Před sedmnácti lety, kdy "
+"jsem měl být na vrcholu své moci. Ale síly mi došly. Selhal jsem a nemohu to "
+"odčinit."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:129
@@ -21169,11 +21182,13 @@ msgid ""
 "You could not defeat Asheviere, I know. But you rescued me. That was no "
 "failure."
 msgstr ""
+"Vím, že jsi Ašvíru nedokázal porazit. Ale zachránil jsi mě. To nebylo "
+"selhání."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:133
 msgid "You do not understand."
-msgstr ""
+msgstr "Nerozumíš tomu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:145
@@ -21182,6 +21197,8 @@ msgid ""
 "but I knew that Asheviere’s wrath would be great. That many innocents would "
 "be slain."
 msgstr ""
+"Bitva byla dlouhá a tvrdá. Byli jsme poraženi. Eldred padl, ale já jsem "
+"věděl, že Ašvířin hněv bude obrovský. Že bude zabito mnoho nevinných lidí."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:147
@@ -21190,6 +21207,9 @@ msgid ""
 "Weldyn, before the guards of Asheviere could get there, to carry out their "
 "evil orders."
 msgstr ""
+"Musel jsem zachránit monarchii. Musel jsem zachránit prince. Spěchal jsem do "
+"Weldynu, abych tam byl dřív než Ašvířiny stráže, které přišly provést své "
+"zlé rozkazy."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:151
@@ -21197,6 +21217,8 @@ msgid ""
 "But I failed. I was too late. I entered the chambers of the youngest prince, "
 "Prince Konrad, just as one of the evil ones ran him through."
 msgstr ""
+"Ale selhal jsem a dorazil příliš pozdě. Vstoupil jsem do komnat nejmladšího "
+"prince, prince Konráda, právě ve chvíli, kdy ho jeden z těch zlých probodl."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:153
@@ -21204,11 +21226,13 @@ msgid ""
 "All was lost. The heirs were slain. Only Asheviere and her daughter had any "
 "claim to the throne."
 msgstr ""
+"Všechno bylo ztraceno. Dědicové byli zavražděni. Pouze Ašvíra a její dcera "
+"měly nárok na trůn."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:157
 msgid "I am not dead, Delfador. What is this you’re saying!?"
-msgstr ""
+msgstr "Nejsem mrtvý, Delfadore. O čem to mluvíš!?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:161
@@ -21218,6 +21242,9 @@ msgid ""
 "little prince’s broken body, and away I rode. Far away, to the land of the "
 "elves."
 msgstr ""
+"Samozřejmě tě to překvapuje, ale je to pravda. Ve spěchu jsem porazil ty "
+"zlé, kteří spáchali ten ohavný čin. Pak jsem vzal probodené tělo malého "
+"prince a odjel pryč. Daleko pryč, do země elfů."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:165
@@ -21226,6 +21253,9 @@ msgid ""
 "human child. She knew not where he had come from, only that the orcs would "
 "have eaten him if it weren’t for her intervention."
 msgstr ""
+"Zvláštní a záhadnou náhodou narazila elfí paní Parandra na lidské dítě. "
+"Nevěděla, odkud se vzalo, věděla jen to, že kdyby nezasáhla, sežrali by ho "
+"skřeti."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:167
@@ -21233,6 +21263,8 @@ msgid ""
 "The elves felt that great fortune smiled upon this nameless child. Perhaps "
 "that is why this most truthful of peoples agreed to my plan."
 msgstr ""
+"Elfové měli pocit, že se na toto bezejmenné dítě usmálo velké štěstí. Možná "
+"právě proto tento nejupřímnější ze všech národů souhlasil s mým plánem."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:171
@@ -21241,6 +21273,9 @@ msgid ""
 "Instead, this orphan child we would call Konrad, and he would be brought up "
 "to be king."
 msgstr ""
+"Po pohřbení malého prince jsme se dohodli, že o něm už nikdy nebudeme "
+"mluvit. Místo toho jsme tomuto sirotkovi dali jméno Konrád a vychovali ho, "
+"aby se stal králem."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:173
@@ -21249,6 +21284,9 @@ msgid ""
 "evil deed, instead of after. No one would ever have to know. And no one did "
 "know for certain, until now."
 msgstr ""
+"Řekl bych, že jsem ty stráže zabil ještě předtím, než stihli spáchat svůj "
+"zlý čin, a ne až poté. Nikdo by se o tom nikdy nemusel dozvědět. A nikdo to "
+"s jistotou nevěděl – až dosud."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:183
@@ -21257,6 +21295,9 @@ msgid ""
 "that fate has made a different choice. That despite all of Asheviere’s evil, "
 "this Li’sar is fit for the throne."
 msgstr ""
+"Myslel jsem si, že tě jednoho dne budeme moci korunovat za krále, Konráde. "
+"Teď však vidím, že osud rozhodl jinak. Že navzdory veškeré Ašvířině "
+"zlovolnosti je právě tato Lisar hodna trůnu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:188
@@ -21264,6 +21305,8 @@ msgid ""
 "Parandra was right. Li’sar... Li’sar is the rightful queen. From a long line "
 "of kings, stretching all the way back to the seafarers of old from the west."
 msgstr ""
+"Parandra měla pravdu. Lisar... Lisar je právoplatná královna. Pochází "
+"z dlouhé řady králů, jejíž kořeny sahají až k dávným mořeplavcům ze západu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:193
@@ -21271,11 +21314,13 @@ msgid ""
 "Li’sar... Li’sar is the rightful queen. From a long line of kings, "
 "stretching all the way back to the seafarers of old from the west."
 msgstr ""
+"Lisar... Lisar je právoplatná královna. Pochází z dlouhé řady králů, jejíž "
+"kořeny sahají až k dávným mořeplavcům ze západu."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:199
 msgid "Li’sar... The rightful queen..."
-msgstr ""
+msgstr "Lisar... Právoplatná královna..."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:203
@@ -21284,6 +21329,9 @@ msgid ""
 "revelation as are you. In truth, you’d nearly had me convinced we were of "
 "one blood. I can’t call you my cousin any more, now."
 msgstr ""
+"Delfadore, je mi ctí. A Konráde... Jsem tím odhalením stejně překvapená jako "
+"ty. Popravdě řečeno, málem jsi mě přesvědčil, že jsme pokrevní příbuzní. Teď "
+"už tě nemůžu nazývat svým bratrancem."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:211
@@ -21291,11 +21339,14 @@ msgid ""
 "Then call me a friend. I was ready to be king. But in our time together I "
 "have come to agree with Delfador — you will make a good queen."
 msgstr ""
+"Tak mě tedy považuj za přítele. Byl jsem připravený stát se králem. Ale "
+"během společně stráveného času jsem dospěl k závěru, že Delfador má pravdu – "
+"budeš dobrou královnou."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:215
 msgid "It is decided."
-msgstr ""
+msgstr "Je rozhodnuto."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:220
@@ -21303,6 +21354,7 @@ msgid ""
 "Now, let us not tarry here any longer! The dawn breaks! The time has come "
 "for the heir to the throne to claim it!"
 msgstr ""
+"Tak už tady déle nemeškejme! Svítá! Nastal čas, aby dědic získal svůj trůn!"
 
 #. [terrain_type]: id=impassable_fence
 #: data/campaigns/Heir_To_The_Throne/terrain.cfg:7
