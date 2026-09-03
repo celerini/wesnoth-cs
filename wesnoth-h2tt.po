@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-02 21:46+0200\n"
+"PO-Revision-Date: 2026-09-03 21:24+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -21453,7 +21453,7 @@ msgstr "Elfí civilistka"
 #. [unit_type]: id=Dark Queen, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:4
 msgid "female^Dark Queen"
-msgstr ""
+msgstr "Temná královna"
 
 #. [unit_type]: id=Dark Queen, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:27
@@ -21462,26 +21462,29 @@ msgid ""
 "knowledge of magic makes her a worthy foe in combat, although her power is "
 "mostly derived from those she commands."
 msgstr ""
+"Zlá královna Ašvíra už mnoho let udržuje Wesnoth ve strachu. Díky svým "
+"znalostem magie je v boji obávaným protivníkem, ačkoli její síla pramení "
+"především z těch, kterým velí."
 
 #. [attack]: type=impact
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:32
 msgid "scepter"
-msgstr ""
+msgstr "žezlo"
 
 #. [attack]: type=blade
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:43
 msgid "stiletto"
-msgstr ""
+msgstr "stilet"
 
 #. [attack]: type=cold
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:58
 msgid "raging blizzard"
-msgstr ""
+msgstr "zuřivá vánice"
 
 #. [variation]
 #: data/campaigns/Heir_To_The_Throne/units/Human_Dark_Queen.cfg:141
 msgid "defeated"
-msgstr ""
+msgstr "poražená"
 
 #. [unit_type]: id=Delfador, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Delfador_Elder_Mage.cfg:8
