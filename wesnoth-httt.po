@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-08-13 21:10+0200\n"
+"PO-Revision-Date: 2026-09-04 20:29+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8847,7 +8847,7 @@ msgstr "žezlo"
 #. [attack]: type=cold
 #: data/campaigns/Heir_To_The_Throne_Classic/units/Dark_Queen.cfg:33
 msgid "raging blizzard"
-msgstr "běsnící blizard"
+msgstr "zuřivá vánice"
 
 #. [variation]
 #: data/campaigns/Heir_To_The_Throne_Classic/units/Dark_Queen.cfg:94
