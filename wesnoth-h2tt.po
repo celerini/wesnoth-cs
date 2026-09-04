@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-04 21:22+0200\n"
+"PO-Revision-Date: 2026-09-04 21:30+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -21730,7 +21730,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L4.cfg:4
 msgid "Warrior Prince"
-msgstr ""
+msgstr "Princ válečník"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L4.cfg:22
 msgid ""
@@ -21740,6 +21740,11 @@ msgid ""
 "commanders have survived many trials by fire, proving both their tactical "
 "wit and their considerable mettle at personal combat."
 msgstr ""
+"Princové nesou jeden z nejváženějších titulů v lidské společnosti. Princ, "
+"který i v časech míru prochází náročným výcvikem v bojových uměních, "
+"představuje v době války na bojišti úctyhodný pohled. Tito královští "
+"velitelé prošli mnoha zkouškami ohněm, při nichž prokázali jak svou "
+"taktickou prozíravost, tak i značnou statečnost v přímém boji."
 
 #. [variation]: race=human
 #. [unit_type]: id=Princess, gender=female, race=human
