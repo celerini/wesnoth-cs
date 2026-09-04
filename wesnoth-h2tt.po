@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-03 21:24+0200\n"
+"PO-Revision-Date: 2026-09-04 20:40+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20356,7 +20356,7 @@ msgid ""
 "and her newly-recruited orcs are still ready to aid you. We did not come "
 "here unprepared."
 msgstr ""
-"Méně, než by mohlo být. Ze všech vašich spojenců jsou vám stále připraveni "
+"Méně, než by mohlo být. Ze všech vašich spojenců jsou vám stále ochotni "
 "pomoci už jen vaše čarodějka Mirya a její nově naverbovaní skřeti. Nepřišli "
 "jsme sem nepřipraveni."
 
@@ -20366,8 +20366,8 @@ msgid ""
 "Fewer than there might have been. Of all your allies, only the orcish hordes "
 "of the north still stand ready to aid you. We did not come here unprepared."
 msgstr ""
-"Méně, než by mohlo být. Ze všech vašich spojenců jsou připraveni vám pomoci "
-"už jen hordy skřetů ze severu. Nepřišli jsme sem nepřipraveni."
+"Méně, než by mohlo být. Ze všech vašich spojenců jsou ochotni vám pomoci už "
+"jen hordy skřetů ze severu. Nepřišli jsme sem nepřipraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1489
@@ -20375,8 +20375,8 @@ msgid ""
 "Fewer than there might have been. Of all your allies, only the Horse Clans "
 "still stand ready to aid you. We did not come here unprepared."
 msgstr ""
-"Méně, než by mohlo být. Ze všech vašich spojenců jsou připraveni vám pomoci "
-"už jen klany jezdců. Nepřišli jsme sem nepřipraveni."
+"Méně, než by mohlo být. Ze všech vašich spojenců jsou ochotni vám pomoci už "
+"jen klany jezdců. Nepřišli jsme sem nepřipraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1490
@@ -20384,8 +20384,8 @@ msgid ""
 "Fewer than there might have been. Of all your allies, only the footmen of "
 "Dan’Tonk still stand ready to aid you. We did not come here unprepared."
 msgstr ""
-"Méně, než by mohlo být. Ze všech vašich spojenců jsou připraveni vám pomoci "
-"už jen pěšáci z Dan’Tonku. Nepřišli jsme sem nepřipraveni."
+"Méně, než by mohlo být. Ze všech vašich spojenců jsou ochotni vám pomoci už "
+"jen pěšáci z Dan’Tonku. Nepřišli jsme sem nepřipraveni."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:1492
