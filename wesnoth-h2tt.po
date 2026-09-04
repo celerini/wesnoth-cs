@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-04 21:21+0200\n"
+"PO-Revision-Date: 2026-09-04 21:22+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -710,7 +710,7 @@ msgstr ""
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:42
 msgid "Hey, look! There’s a loose board in the fence here."
-msgstr "Hej, podívej! Tady v plotě je uvolněné prkno."
+msgstr "Hele, to se podívejme! Tady v plotě je uvolněné prkno."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:86
