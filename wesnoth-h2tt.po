@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-05 09:21+0200\n"
+"PO-Revision-Date: 2026-09-05 10:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12138,26 +12138,26 @@ msgstr ""
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:14
 msgid "scenario name^Crossroads"
-msgstr ""
+msgstr "Křižovatka"
 
 #. [side]: type=Knight, id=knight
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:58
 msgid "Raery"
-msgstr ""
+msgstr "Raery"
 
 #. [message]: speaker=Lisar
 #. Lisar has prisoners, and is trying to lure Konrad into an ambush. The player has just decided to play this scenario.
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:206
 msgid ""
 "He’s taken the bait. Quick, get down into the mines and alert the others."
-msgstr ""
+msgstr "Skočil na to. Rychle, sestup do dolů a varuj ostatní."
 
 #. [message]: speaker=knight
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:215
 msgid ""
 "What about the prisoners, m’lady? Shall we execute them before the imposter "
 "arrives?"
-msgstr ""
+msgstr "A co vězňové, má paní? Máme je popravit, než ten podvodník dorazí?"
 
 #. [message]: speaker=Ulfdain
 #. Ulfdain throws lots of hard-to-understand old-fashioned insults at Li'sar. This is his usual way of speaking.
@@ -12167,6 +12167,9 @@ msgid ""
 "Jus’ gimme the chance an’ I’ll rip that head right off yer ninnyhammerin’ "
 "neck, ye white-livered gasser!"
 msgstr ""
+"Pocem a zkus to, ty roztřesená, šmatlavá trubko z princezny! Jen mi dej "
+"šanci a já ti tu hlavu utrhnu rovnou z toho tvého telecího krku, ty "
+"ustrašená slečinko!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:224
@@ -12175,11 +12178,15 @@ msgid ""
 "cold blood. But we do need to get the dwarves out of here — both for their "
 "own safety and to keep them out of the rebels’ hands."
 msgstr ""
+"Ať už je ta myšlenka jakkoli lákavá, Raery, nemám v úmyslu chladnokrevně "
+"zabíjet nevinné lidi. Musíme ale ty trpaslíky odtud dostat – jednak pro "
+"jejich vlastní bezpečnost, a jednak proto, aby se nedostali do rukou rebelů."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:234
 msgid "Too late, Konrad has come! Forget the prisoners and prepare for battle."
 msgstr ""
+"Už je pozdě, Konrád dorazil! Zapomeňte na vězně a připravte se na bitvu."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:260
@@ -12187,6 +12194,8 @@ msgid ""
 "I’ve come to face you, princess! Only a true villain would threaten "
 "innocents to force someone into a fight."
 msgstr ""
+"Přišel jsem se ti postavit, princezno! Jen opravdová potvora by vyhrožovala "
+"nevinným lidem, aby někoho donutila k boji."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:264
@@ -12195,6 +12204,9 @@ msgid ""
 "“prince” — I will not allow you to sow any more discord and chaos among my "
 "people. Your rebellion ends here."
 msgstr ""
+"Ale prosím tě, trpaslíci nikdy nebyli v žádném nebezpečí. Ty však, „princi“ "
+"– nedovolím ti, abys mezi mým lidem dál šířil svár a zmatek. Tvá vzpoura zde "
+"končí."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:272
@@ -12207,13 +12219,13 @@ msgstr "Poraz Lisar"
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:279
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:469
 msgid "Defeat Yrogin"
-msgstr ""
+msgstr "Poraz Yrogina"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:287
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:477
 msgid "Rescue Ulfdain"
-msgstr ""
+msgstr "Vysvoboď Ulfdaina"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:312
