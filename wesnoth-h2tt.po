@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-04 21:30+0200\n"
+"PO-Revision-Date: 2026-09-05 09:21+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -21364,7 +21364,7 @@ msgstr ""
 #. [terrain_type]: id=web
 #: data/campaigns/Heir_To_The_Throne/terrain.cfg:16
 msgid "Spiderweb"
-msgstr "pavučina"
+msgstr "Pavučina"
 
 #. [terrain_type]: id=dummy_obstacle
 #: data/campaigns/Heir_To_The_Throne/terrain.cfg:27
@@ -21751,7 +21751,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess.cfg:4
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess.cfg:64
 msgid "female^Princess"
-msgstr "princezna"
+msgstr "Princezna"
 
 #. [variation]: race=human
 #. [unit_type]: id=Princess, gender=female, race=human
@@ -21771,7 +21771,7 @@ msgstr ""
 #. [unit_type]: id=Bound Princess, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess_Bound.cfg:4
 msgid "female^Bound Princess"
-msgstr "spoutaná princezna"
+msgstr "Spoutaná princezna"
 
 #. [unit_type]: id=Bound Princess, gender=female, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess_Bound.cfg:30
@@ -21787,7 +21787,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Warrior_Princess.cfg:4
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Warrior_Princess.cfg:103
 msgid "female^Warrior Princess"
-msgstr "princezna válečnice"
+msgstr "Princezna válečnice"
 
 #. [variation]: race=human
 #. [unit_type]: id=Warrior Princess, gender=female, race=human
