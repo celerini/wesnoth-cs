@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-06 08:10+0200\n"
+"PO-Revision-Date: 2026-09-06 08:59+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12266,7 +12266,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:436
 msgid "For Her Highness! Kill the imposter!"
-msgstr ""
+msgstr "Za Její Výsost! Zabijte toho podvodníka!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:439
@@ -12274,6 +12274,9 @@ msgid ""
 "Caution, Konrad! These hills are full of old mineshafts, their entrances "
 "overgrown with grass and weeds. Li’sar must be using them to ambush us."
 msgstr ""
+"Pozor, Konráde! Tyhle kopce jsou plné starých důlních šachet, jejichž vchody "
+"jsou zarostlé trávou a plevelem. Lisar je určitě využívá k tomu, aby nás "
+"mohla přepadnou ze zálohy."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:440
@@ -12281,6 +12284,8 @@ msgid ""
 "Look out, Your Highness! Your cousin has stationed ambushers across the "
 "hills, lurking in old mineshafts."
 msgstr ""
+"Pozor, Vaše Výsosti! Vaše sestřenice rozmístila po kopcích zálohy, které "
+"číhají ve starých důlních šachtách."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:441
@@ -12289,6 +12294,8 @@ msgid ""
 "Where did you come from?! Careful, Konrad, I think there are ambushers "
 "hiding in old mineshafts all across these hills."
 msgstr ""
+"Odkud jste se tu vzali?! Dávej si pozor, Konráde, myslím, že se v těch "
+"starých šachtách po celých kopcích skrývají útočníci, aby nás přepadávali."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:443
@@ -12296,6 +12303,8 @@ msgid ""
 "Lo! The forces of evil ambush us at every turn — even the very ground itself "
 "succors our foes within its old mines."
 msgstr ""
+"Hle! Síly zla na nás číhají na každém kroku — dokonce i samotná země pomáhá "
+"ukrývat naše nepřátele ve svých starých dolech."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:446
@@ -12303,37 +12312,43 @@ msgid ""
 "Those ambushers burst right out of the ground! There must be old mineshafts "
 "everywhere in these hills, overgrown with grass and weeds."
 msgstr ""
+"Ti útočníci se vynořili přímo ze země! V těchto kopcích musí být všude staré "
+"důlní šachty, zarostlé trávou a plevelem."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:450
 msgid "Wait, stop! I’m not an imposter, I’m the real Konrad!"
-msgstr ""
+msgstr "Počkat, přestaňte! Já nejsem podvodník, já jsem skutečný Konrád!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:454
 msgid "... there’s nothing I can say to save these woodsmen, is there?"
-msgstr ""
+msgstr "... asi nemůžu nic říct, abych ty dřevorubce zachránil, nebo ano?"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:490
 msgid "Invisible ambushers hide throughout the hills."
-msgstr ""
+msgstr "Po celých kopcích se skrývají neviditelní útočníci."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:513
 msgid ""
 "He’s slain nearly the last of our ambushers, Your Highness! What do we do?"
 msgstr ""
+"Zabil téměř všechny zbývající útočníky číhající v záloze, Vaše Výsosti! Co "
+"teď uděláme?"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:518
 msgid "He’s slain nearly the last of our ambushers, lieutenant! What do we do?"
 msgstr ""
+"Zabil téměř všechny zbývající útočníky číhající v záloze, poručíku! Co teď "
+"uděláme?"
 
 #. [message]: speaker=Lisar,Yrogin
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:523
 msgid "This isn’t over. Keep up the fight!"
-msgstr ""
+msgstr "Ještě není konec. Bojujte dál!"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:539
