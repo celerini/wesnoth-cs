@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-06 08:59+0200\n"
+"PO-Revision-Date: 2026-09-06 10:16+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -23414,7 +23414,7 @@ msgstr "Au!"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:861
 msgid "Jotha regrets nothing..."
-msgstr ""
+msgstr "Jotha ničeho nelituje..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:862
 msgid "Bury me back home in the Dulatus..."
