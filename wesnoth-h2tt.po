@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-07 03:49+0200\n"
+"PO-Revision-Date: 2026-09-07 04:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12353,12 +12353,12 @@ msgstr "Ještě není konec. Bojujte dál!"
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:539
 msgid "Free the prisoners"
-msgstr ""
+msgstr "Vysvobodit vězně"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:545
 msgid "Wait"
-msgstr ""
+msgstr "Počkat"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:555
@@ -12366,6 +12366,8 @@ msgid ""
 "Here are the prisoners! We can set them free, but if they join our side they "
 "will certainly come under attack."
 msgstr ""
+"Tady jsou ti vězni! Můžeme je vysvobodit, ale pokud se přidají na naši "
+"stranu, určitě se stanou terčem útoku."
 
 #. [message]: speaker=Ulfdain
 #. Ulfdain is still locked up, and challenges Konrad's unit who's come nearby
@@ -12374,11 +12376,13 @@ msgid ""
 "Come an’ git some, ye nigmenog bolting-hutch of beastliness! Ah dare ye to "
 "square up an’ fight me, dwarf-to-dwarf!"
 msgstr ""
+"Pojď a zkus to, ty hloupá bečko sádla! Vyzývám tě, abys ses postavil čelem "
+"a bojoval se mnou, trpaslík proti trpaslíkovi!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:564
 msgid "Wait a minute! I don’t want to fight you. I’m here to rescue you!"
-msgstr ""
+msgstr "Počkej chvilku! Nechci se s tebou prát. Přišel jsem tě zachránit!"
 
 #. [message]: speaker=Ulfdain
 #. Ulfdain asks Konrad to let him and his dwarf miner allies out of their cages so they can help fight Li'sar
@@ -12387,11 +12391,14 @@ msgid ""
 "Oh, what’s that? Seems ah misjudged ye, son. Hurry up then, ye spoony cub, "
 "lemme an’ my boys out o’ these here cages so we can get to th’ fight!"
 msgstr ""
+"Ach, cože? Zdá se, že jsem tě špatně odhadl, chlapče. Tak si pospěš, ty "
+"nedomrlé mládě, pusť mě a moje kluky z těchhle klecí, ať se můžeme dostat "
+"k boji!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:580
 msgid "You’re free now! How did you come to be imprisoned?"
-msgstr ""
+msgstr "Teď jsi na svobodě! Za co tě vlastně zavřeli?"
 
 #. [message]: speaker=Ulfdain
 #. Much better, thank you for freeing us. That's the last time I dig a mine for your human queen, let me tell you.
@@ -12401,6 +12408,9 @@ msgid ""
 "yer human queen, lemme tell you. “Clean up the old crossroads mines”, she "
 "says. “The princess needs ’em for somethin’!”"
 msgstr ""
+"To je mnohem lepší, díky, že jste nás vysvobodili! To je naposledy, co jsem "
+"pro vaši lidskou královnu kopal v dolech, to vám povím. „Vyčistěte ty staré "
+"doly u křižovatky,“ řekla. „Princezna je k něčemu potřebuje!“"
 
 #. [message]: speaker=Ulfdain
 #. All we do is insult the queen a few times, in a friendly manner, and she gibbeted us. You humans just don't appreciate a good insult.
@@ -12410,6 +12420,8 @@ msgid ""
 "it was straight to the gibbet! You beanpoles jus’ dinnae appreciate a good "
 "insult!"
 msgstr ""
+"Stačilo jen párkrát urazit královnu, tak nějak v žertu, a vedlo to rovnou na "
+"šibenici! Vy čahouni prostě nedokážete ocenit dobrou urážku!"
 
 #. [message]: speaker=Ulfdain
 #. And now my job is gone; guess I have nothing left for me now but revenge. So if you're out to beat the queen, me and my boys are with you. (after this line, the player gains dwarvish miners as a recruit
@@ -12418,11 +12430,13 @@ msgid ""
 "An’ now tha’s my job gone; guess I got naught left fer me now but revenge. "
 "So if yer out to beat the queen, me an’ my boys are with ye!"
 msgstr ""
+"A teď, když jsem přišel o práci, už mi asi nezbývá nic jinýho než pomsta. "
+"Takže esli se chystáš porazit královnu, já a moji kluci jsme s tebou!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:597
 msgid "Konrad can now recruit Dwarvish Miners!"
-msgstr ""
+msgstr "Konrád nyní může verbovat trpasličí horníky!"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:606
