@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-06-23 03:16 UTC\n"
-"PO-Revision-Date: 2026-09-04 20:29+0200\n"
+"PO-Revision-Date: 2026-09-08 18:42+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8635,7 +8635,7 @@ msgstr "Jak se opovažuji? Jsem Delfador, nejvyšší představený rady arcimá
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/24_Battle_for_Wesnoth.cfg:401
 msgid ""
 "... bearer of the staff of An-Usrukhar, guardian of the Book of Crelanu ..."
-msgstr "... nositel An-Ušrukarovi hole, strážce Krelanovy knihy..."
+msgstr "... nositel An-Ušrukarovy hole, strážce Krelanovy knihy..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne_Classic/scenarios/24_Battle_for_Wesnoth.cfg:405
