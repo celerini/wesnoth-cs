@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-08 17:54+0200\n"
+"PO-Revision-Date: 2026-09-08 18:36+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20792,19 +20792,19 @@ msgstr "Jsem Delfador Veliký a DNES PŘICHÁZÍ TVÉ POKÁNÍ!"
 #. [message]: speaker=Asheviere {ASHEVIERE_VARIATION defeated}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2207
 msgid "Treason! The evil ones have slain me!"
-msgstr ""
+msgstr "Zrada! Ti zlí mě zabili!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2212
 msgid ""
 "For too long has your darkness troubled the world, Asheviere. Your time has "
 "come!"
-msgstr ""
+msgstr "Tvá temnota už příliš dlouho sužuje svět, Ašvíro. Tvá hodina nadešla!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2213
 msgid "Vengeance for the fallen! Vengeance for Deoran!"
-msgstr ""
+msgstr "Pomsta za padlé! Pomsta za Deorana!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2214
@@ -20813,6 +20813,8 @@ msgid ""
 "The hand of the Clans strikes you down, witch! Vengeance for my king! "
 "Vengeance for Garard!"
 msgstr ""
+"Ruka klanů tě sráží k zemi, čarodějnice! Pomsta za mého krále! Pomsta za "
+"Gararda!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2216
@@ -20820,11 +20822,12 @@ msgid ""
 "Dark queen, your evil ends this day. In the name of the Light, I purge you "
 "from this world!"
 msgstr ""
+"Temná královno, dnes končí tvé zlo. Ve jménu Světla tě vyženu z tohoto světa!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2217
 msgid "Here’s for Baldras! Here’s for Delwyn and Dallben!"
-msgstr ""
+msgstr "Tumáš za Baldra! Tumáš za Delwyn a za Dalben!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2218
@@ -20832,43 +20835,45 @@ msgid ""
 "Dinnae recognize me, do ye? You sent me to the gibbet, ye milksop, ye "
 "coward! Ah’ll cut that lubberworting head right off yer steamin’ corpse!"
 msgstr ""
+"Ty mě nepoznáváš, co? To ty jsi mě poslala na šibenici, ty vycmrndlino, ty "
+"pápěro! Uříznu ti tu tvou nablblou hlavu přímo z tvý ještě teplý mrtvoly!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2219
 msgid "Sorry about this! Oh, how did I get caught up in all this?"
-msgstr ""
+msgstr "Tohle mě mrzí! Ach jo, jak jsem se do toho všeho vůbec zapletla?"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2220
 msgid "For Alduin! For my friends, my apprentices, and my home! Now burn!"
-msgstr ""
+msgstr "Za Alduin! Za mé přátele, mé učedníky a můj domov! Teď shoř!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2221
 msgid "For Alduin! For my friends, my family, and my home! Now burn!"
-msgstr ""
+msgstr "Za Alduin! Za mé přátele, mou rodinu a můj domov! Teď shoř!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2222
 msgid "Dis not personal, queen. But Dosh gonna squash you like frog."
-msgstr ""
+msgstr "Neber to osobně, královno. Ale Doš tě rozmáčkne jako žábu."
 
 #. [message]: speaker=Asheviere {ASHEVIERE_VARIATION defeated}
 #. "struck by some lowborn grunt" hints to the player that there's messages if Konrad/Lisar/Delfador get the kill
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2227
 msgid ""
 "Oh, such indignity to have the final blow struck by some lowborn grunt..."
-msgstr ""
+msgstr "Ach, jaká potupa – dostat poslední ránu od nějakého prostého pěšáka..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2235
 msgid "And so passes Asheviere, queen of Wesnoth."
-msgstr ""
+msgstr "A tak odchází Ašvíra, královna Wesnothu."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2239
 msgid "We have won at last! Li’sar! You will be queen!"
-msgstr ""
+msgstr "Konečně jsme zvítězili! Lisar! Budeš královnou!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2243
@@ -20876,11 +20881,13 @@ msgid ""
 "Yes, but I won’t ever forget what you have done for me, Konrad. And you, "
 "Delfador."
 msgstr ""
+"Ano, ale nikdy nezapomenu, co jsi pro mě udělal, Konráde. A ty také, "
+"Delfadore."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2248
 msgid "So much blood. So much death. For what? A title?"
-msgstr ""
+msgstr "Tolik krve. Tolik smrti. A kvůli čemu? Kvůli titulu?"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2252
@@ -20889,6 +20896,10 @@ msgid ""
 "But, I implore you to let the dead have their rest. We have taken victory. "
 "Tomorrow is a new day, friends... let us build this kingdom anew."
 msgstr ""
+"Pro spravedlnost, pane elfů. Bojujeme, protože kdybychom to neudělali, "
+"zvítězilo by zlo. Ale snažně tě prosím, nech mrtvé odpočívat v pokoji. "
+"Dosáhli jsme vítězství. Zítra je nový den, přátelé... pojďme toto království "
+"vybudovat znovu."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2257
@@ -20896,6 +20907,8 @@ msgid ""
 "We have taken victory. Tomorrow is a new day, friends... let us build this "
 "kingdom anew."
 msgstr ""
+"Zvítězili jsme. Zítra je nový den, přátelé... pojďme toto království "
+"vybudovat znovu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2351
