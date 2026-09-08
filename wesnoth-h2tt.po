@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-07 04:42+0200\n"
+"PO-Revision-Date: 2026-09-08 17:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20679,12 +20679,13 @@ msgstr "Ne! Jsem poražen! Možná se na temnou královnu skutečně dá vyzrát
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2100
 msgid "Mother, I swore to end your reign of evil, and now I shall."
-msgstr ""
+msgstr "Matko, přísahala jsem, že ukončím tvou vládu zla, a teď to udělám."
 
 #. [message]: speaker=Asheviere {ASHEVIERE_VARIATION defeated}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2104
 msgid "Daughter, I built this kingdom for you. It has all been for you!"
 msgstr ""
+"Dcero, toto království jsem vybudovala pro tebe. Vše bylo jen pro tebe!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2108
@@ -20693,6 +20694,9 @@ msgid ""
 "You are a monster! A murderess! It pains me to kill you, Mother, but you "
 "have chosen your own fate. For Wesnoth!"
 msgstr ""
+"Copak ani teď nedokážeš říct pravdu? Tvá chamtivost ti zkazila duši. Jsi "
+"netvor! Vražedkyně! Bolí mě, že tě musím zabít, matko, ale svůj osud sis "
+"zvolila sama. Za Wesnoth!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2126
@@ -20700,6 +20704,8 @@ msgid ""
 "You have hunted me across the countryside, indeed across the years. Here I "
 "am, Dark Queen."
 msgstr ""
+"Pronásledovala jsi mě po celé zemi, ba dokonce po celá ta léta. Tady jsem, "
+"temná královno."
 
 #. [message]: speaker=Asheviere {ASHEVIERE_VARIATION defeated}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2130
@@ -20707,6 +20713,8 @@ msgid ""
 "I was sure I had killed you, yet you haunt me still. Be gone, demon! I "
 "banish you, ghost!"
 msgstr ""
+"Byla jsem si jistá, že jsem tě zabila, a přesto mě stále pronásleduješ. "
+"Ztrať se, démone! Vyháním tě, duchu!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2134
@@ -20715,11 +20723,14 @@ msgid ""
 "ambition. You will now be held to account for your misdeeds. For the young "
 "Prince Konrad! For WESNOTH!"
 msgstr ""
+"Ach, ubohá paní, já jsem velmi skutečný. Tato země trpěla kvůli tvé "
+"chamtivosti a ctižádosti. Nyní budeš muset nést odpovědnost za své zločiny. "
+"Za mladého prince Konráda! Za WESNOTH!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2152
 msgid "As I destroyed your son, I now destroy you."
-msgstr ""
+msgstr "Stejně jako jsem zničil tvého syna, tak nyní zničím i tebe."
 
 #. [message]: speaker=Asheviere {ASHEVIERE_VARIATION defeated}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2156
@@ -20727,12 +20738,14 @@ msgid ""
 "You were always defiant, wizard, and no one has thwarted my plans as "
 "determinedly as you."
 msgstr ""
+"Vždy jsi byl vzpurný, čaroději, a nikdo mi nemařil plány tak vytrvale jako "
+"ty."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2160
 msgid ""
 "I have always been a humble servant of the Crown, and remain such even now."
-msgstr ""
+msgstr "Vždy jsem byl pokorným služebníkem koruny a zůstávám jím i nyní."
 
 #. [message]: speaker=Asheviere {ASHEVIERE_VARIATION defeated}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2164
@@ -20740,17 +20753,19 @@ msgid ""
 "Delfador! You utterly disgust me, you sniveling worm. How dare you confront "
 "me, your queen?"
 msgstr ""
+"Delfadore! Jsi mi naprosto odporný, ty ufňukaný červe. Jak se opovažuješ "
+"postavit se mi, své královně?"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2168
 msgid "How dare I? I, High Provost of the Council of Archmagi..."
-msgstr ""
+msgstr "Jak se opovažuji? Já, vrchní představený Rady arcimágů..."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2170
 msgid ""
 "... bearer of the staff of An-Usrukhar, guardian of the book of Crelanu ..."
-msgstr ""
+msgstr "... nositel An-Ušrukarovy hole, strážce Krelanovy knihy..."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2172
@@ -20758,6 +20773,7 @@ msgid ""
 "... Mage Protector of The Kingdom Of The Peoples Of The West-North, Chief "
 "Advisor to the Crown..."
 msgstr ""
+"... čaroděj ochránce království národů severozápadu, hlavní poradce koruny..."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2174
@@ -20765,11 +20781,13 @@ msgid ""
 "... and personal counselor to my King and my friend, Garard the Second, whom "
 "you most foully betrayed..."
 msgstr ""
+"... a osobní rádce mého krále a mého přítele, Gararda Druhého, kterého jsi "
+"tak hanebně zradila..."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2176
 msgid "I am Delfador the Great and TODAY YOU MEET YOUR ATONEMENT!"
-msgstr ""
+msgstr "Jsem Delfador Veliký a DNES PŘICHÁZÍ TVÉ POKÁNÍ!"
 
 #. [message]: speaker=Asheviere {ASHEVIERE_VARIATION defeated}
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2207
