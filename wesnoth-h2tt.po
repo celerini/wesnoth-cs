@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-08 18:36+0200\n"
+"PO-Revision-Date: 2026-09-09 21:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8881,6 +8881,8 @@ msgid ""
 "You’ll recall that I was a troublemaker once. How many atrocities will "
 "happen because good men like you stay silent?"
 msgstr ""
+"Určitě si vzpomeneš, že jsem byl kdysi také potížista. Kolik zvěrstev se "
+"stane jen proto, že dobří lidé jako ty mlčí?"
 
 #. [message]: speaker=leader2lieutenant
 #: data/campaigns/Heir_To_The_Throne/scenarios/06_The_Isle_of_Alduin.cfg:357
