@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-10 19:53+0200\n"
+"PO-Revision-Date: 2026-09-10 19:59+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -21197,6 +21197,8 @@ msgid ""
 "How unfortunate, for both you and your loved ones. I shall have to make an "
 "example of you."
 msgstr ""
+"To je velká škoda, jak pro tebe, tak pro tvé blízké. Budu z tebe muset "
+"udělat odstrašující příklad."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50x_Overlook.cfg:5
