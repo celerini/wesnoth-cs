@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-09 21:09+0200\n"
+"PO-Revision-Date: 2026-09-10 19:53+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20915,7 +20915,7 @@ msgstr ""
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2351
 msgid "And so the Dark Queen’s reign was ended."
-msgstr ""
+msgstr "A tak skončila vláda temné královny."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2355
@@ -20925,6 +20925,9 @@ msgid ""
 "successors. Her reign was long, and she undid much of the evil deeds of her "
 "mother."
 msgstr ""
+"Lisar, dcera Gararda II. a dědička wesnothského trůnu, byla korunována "
+"královnou a nositelkou Ohnivého žezla, které měla předat všem svým "
+"nástupcům. Její panování bylo dlouhé a napravila mnoho zlých činů své matky."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2357
@@ -20933,6 +20936,9 @@ msgid ""
 "matters of state. He lived until a ripe old age and was granted a royal "
 "funeral, after which he was buried in the Royal Crypt in Weldyn."
 msgstr ""
+"Delfador se stal Lisařiným vrchním rádcem a radil jí v nejdůležitějších "
+"státních záležitostech. Dožil se vysokého věku a byl mu vypraven královský "
+"pohřeb, po kterém byl uložen v královské kryptě ve Weldynu."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2362
@@ -20941,6 +20947,9 @@ msgid ""
 "grandfather Kalenz among many other prisoners. Together they returned to "
 "their home in the north and never again came to the lands of men."
 msgstr ""
+"Chantal se vydala do palácových žalářů, kde mezi mnoha dalšími vězni našla "
+"svého pradědečka Kalenze. Společně odešli do svého domova na severu a už "
+"nikdy se do zemí lidí nevrátili."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2363
@@ -20948,6 +20957,8 @@ msgid ""
 "Kalenz and Chantal returned to their homes in the north, and never again "
 "came to the lands of men."
 msgstr ""
+"Kalenz a Chantal odešli do svých domovů na severu a už nikdy se do zemí lidí "
+"nevrátili."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2364
@@ -20955,6 +20966,7 @@ msgid ""
 "Kalenz returned to his home in the north and never again came to the lands "
 "of men."
 msgstr ""
+"Kalenz odešel do svého domova na severu a už nikdy se do zemí lidí nevrátil."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2365
@@ -20963,6 +20975,9 @@ msgid ""
 "and her supporters among the the Horse Lords disgraced, the returnees gained "
 "much clout within the Horse Clans, and enacted reform."
 msgstr ""
+"Haldiel – a Kaylan – se vrátili do Nížiny koní. Poté, co byla královna "
+"poražena a její stoupenci z řad pánů koní upadli v nemilost, získali "
+"navrátilci v klanech jezdců značný vliv a prosadili reformy."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2366
@@ -20971,6 +20986,9 @@ msgid ""
 "embarrassed by her defeat, but Kaylan’s death left Konrad’s allies with no "
 "one to rally behind. Change would be slow."
 msgstr ""
+"Haldiel se vrátil do Nížiny koní. Porážka královny způsobila jejím "
+"stoupencům nesnáze, avšak Kaylanova smrt znamenala, že Konrádovi spojenci "
+"neměli nikoho, za kým by mohli stát. Změna bude pomalá."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2367
@@ -20979,6 +20997,9 @@ msgid ""
 "and hope wherever he went. When at last he fell, he was buried with honors "
 "and laid to rest among the other heroes of his order."
 msgstr ""
+"Moremirmu prožil zbytek svého života jako potulný válečník a kamkoli přišel, "
+"přinášel světlo a naději. Když nakonec padl, byl s poctami pohřben "
+"a spočinul mezi ostatními hrdiny svého řádu."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2368
@@ -20987,6 +21008,9 @@ msgid ""
 "mainland, to reclaim their ruined hometowns. Delwyn and Dallben were "
 "rebuilt, and prospered."
 msgstr ""
+"Harper se vrátila na Tři sestry, odkud vedla svůj lid zpět na pevninu, aby "
+"znovu získali svá zničená rodná města. Delwyn a Dalben byly znovu vybudovány "
+"a vzkvétaly."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2369
@@ -20994,6 +21018,8 @@ msgid ""
 "With Konrad’s blessing, Ulfdain rallied a company of soldiers — dwarves and "
 "men both — and set out to fight for Knalga. They were never heard from again."
 msgstr ""
+"S Konrádovým požehnáním shromáždil Ulfdain oddíl vojáků – trpaslíků i lidí – "
+"a vydal se bojovat za Knalgu. Od té doby o nich už nikdo neslyšel."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2370
@@ -21002,6 +21028,9 @@ msgid ""
 "she was awarded a professorship, and would go on to contribute greatly to "
 "the advancement of alchemy and the training of young minds."
 msgstr ""
+"Jeniver potlačila svou hrdost a vydala se na Alduin. Na naléhání Delfadora "
+"jí bylo uděleno profesorské místo a ona se následně významně zasloužila "
+"o pokrok v alchymii a o vzdělávání mladých lidí."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2371
@@ -21010,11 +21039,14 @@ msgid ""
 "reviled by a few). He presided over the academy for many years, where he was "
 "often visited by his friend Delfador."
 msgstr ""
+"Seimus se vrátil na Alduin, kde ho mnozí oslavovali jako hrdinu (a někteří "
+"ho naopak hanili). Po mnoho let stál v čele akademie, kde ho často "
+"navštěvoval jeho přítel Delfador."
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2375
 msgid "His grandparents’ loan was repaid in full, plus interest."
-msgstr ""
+msgstr "Půjčka jeho prarodičů byla splacena v plné výši včetně úroků."
 
 #. [then]
 #. [else]
@@ -21025,6 +21057,9 @@ msgid ""
 "instead devoted himself to the study of strategy. In time, he would become "
 "one of the Crown’s top generals."
 msgstr ""
+"Povzbuzen Konrádovým vůdčím uměním se Elrian vzdal studia magie a místo toho "
+"se věnoval studiu strategie. Časem se z něj stal jeden z nejlepších generálů "
+"koruny."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2381
@@ -21034,6 +21069,10 @@ msgid ""
 "time he accrued enough followers to start his own clan, which he ruled "
 "wisely as chief."
 msgstr ""
+"Doš se vrátil na sever, kde se díky pověstem o jeho válečných činech "
+"a výjimečné inteligenci (na trolla) stal poměrně známou osobností. Časem si "
+"získal dostatek stoupenců, aby mohl založit vlastní klan, jemuž jako "
+"náčelník moudře vládl."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2382
@@ -21041,6 +21080,9 @@ msgid ""
 "Konrad kept his promise to Merle, channeling gold and attention towards the "
 "Dulatus hills. That place became known as a home of great craftsmen."
 msgstr ""
+"Konrád dodržel slib, který dal Merlovi, a nasměroval do Dulatských vrchů "
+"zlato i pozornost. Toto místo se proslavilo jako domov vynikajících "
+"řemeslníků."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2383
@@ -21050,6 +21092,10 @@ msgid ""
 "prosperous settlement; a rare jewel of civilization in the northern "
 "wildlands."
 msgstr ""
+"Jota se nakonec vrátil do svého domova na severu, tentokrát spolu s mnoha "
+"dalšími mořskými lidmi. Jotův záliv (jak se mu začalo říkat) se postupně "
+"proměnil v prosperující osadu – vzácný klenot civilizace uprostřed severní "
+"divočiny."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2384
@@ -21058,6 +21104,9 @@ msgid ""
 "many years. He would one day be crippled in battle, and would retire to "
 "teach at Weldyn’s military academy."
 msgstr ""
+"Warven, který byl mezitím povýšen na velkého maršála, nadále po mnoho let "
+"věrně sloužil Lisar. Jednoho dne byl v bitvě zmrzačen a odešel do výslužby, "
+"aby učil na weldynské vojenské akademii."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2385
@@ -21066,6 +21115,9 @@ msgid ""
 "Asheviere’s demise. He was laid to rest at the Royal Library, in a glass "
 "ossuary ornamented with all manner of trinkets and baubles."
 msgstr ""
+"Krkavec Černák, který byl již v pokročilém věku, zemřel krátce po Ašvířině "
+"skonu. Byl uložen k odpočinku v královské knihovně, ve skleněné schránce "
+"zdobené nejrůznějšími drobnostmi a cetkami."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2398
@@ -21074,6 +21126,9 @@ msgid ""
 "for their ordeal. Most returned to their homes, singing the new Queen’s "
 "praises."
 msgstr ""
+"Vězni, kterým Ašvíra vyhrožovala, byli nalezeni a osvobozeni a z celého toho "
+"utrpení vyvázli bez úhony. Většina z nich se vrátila domů a opěvovala novou "
+"královnu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2404
@@ -21082,6 +21137,8 @@ msgid ""
 "buried in the Royal Crypt in Weldyn, which our Konrad visited to pay homage "
 "every week."
 msgstr ""
+"Kosti malého prince Konráda byly získány zpět od elfů a pohřbeny v královské "
+"kryptě ve Weldynu, kam náš Konrád každý týden chodil vzdávat hold."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2406
@@ -21089,6 +21146,8 @@ msgid ""
 "And as for our Konrad himself... the foundling prince became a noble in "
 "Li’sar’s court."
 msgstr ""
+"A co se týče samotného Konráda... nalezený princ se stal šlechticem na "
+"Lisařině dvoře."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2413
@@ -21097,6 +21156,8 @@ msgid ""
 "eventually something more. They were married, and together they had two sons "
 "and a daughter."
 msgstr ""
+"Vzájemná úcta mezi princem a královnou přerostla v přátelství, důvěru "
+"a nakonec i v něco víc. Vzali se a měli spolu dva syny a jednu dceru."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2417
@@ -21105,11 +21166,14 @@ msgid ""
 "surrounding Weldyn would never entirely recover from their razing. The "
 "people there grew hard and bitter; that land spawned many outlaws."
 msgstr ""
+"Vládli moudře, ale některé rány se hojí pomalu. Orná půda v okolí Weldynu se "
+"z toho zničení nikdy úplně nevzpamatovala. Lidé tam ztvrdli a zahořkli. Ta "
+"země zplodila mnoho psanců."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2421
 msgid "But such was the cost of victory, wasn’t it?"
-msgstr ""
+msgstr "Ale taková byla cena vítězství, že ano?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2429
@@ -21118,11 +21182,14 @@ msgid ""
 "eventually something more. They were married, and together they had two sons "
 "and a daughter. The kingdom once more prospered under their rule."
 msgstr ""
+"Vzájemná úcta mezi princem a královnou přerostla v přátelství, důvěru "
+"a nakonec i v něco víc. Vzali se a měli spolu dva syny a jednu dceru. Pod "
+"jejich vládou království opět vzkvétalo."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2433
 msgid "All was well."
-msgstr ""
+msgstr "Všechno bylo v pořádku."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/50_The_Battle_for_Wesnoth.cfg:2442
@@ -23465,7 +23532,7 @@ msgstr "Au!"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:861
 msgid "Jotha regrets nothing..."
-msgstr "Jotha ničeho nelituje..."
+msgstr "Jota ničeho nelituje..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:862
 msgid "Bury me back home in the Dulatus..."
