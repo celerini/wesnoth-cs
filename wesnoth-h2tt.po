@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-11 19:14+0200\n"
+"PO-Revision-Date: 2026-09-11 19:18+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1676,6 +1676,8 @@ msgid ""
 "Item for Konrad: <span color='#EFBF04'><b>full movement and 40% defense on "
 "water, swamp, & snow</b></span>"
 msgstr ""
+"Předmět pro Konráda: <span color='#EFBF04'><b>plný pohyb a 40 % obrany ve "
+"vodě, v bažinách a na sněhu</b></span>"
 
 #. [message]: role=elensefar_orc_leader2
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1770
