@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-11 21:00+0200\n"
+"PO-Revision-Date: 2026-09-11 21:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2575,6 +2575,8 @@ msgid ""
 "A fog has rolled in and several weapon shipments are approaching Dan’Tonk. "
 "Everyone, are we ready?"
 msgstr ""
+"Padla mlha a k Dan’Tonku se blíží několik zásilek se zbraněmi. Tak co, "
+"všichni, jsme připraveni?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1136
@@ -2584,10 +2586,14 @@ msgid ""
 "collection of sabers, spears, and bows — everything we need to outfit new "
 "Fencers, Spearmen, and Bowmen!"
 msgstr ""
+"Odvážili jsme se do samého srdce Wesnothu, uloupili královniny zbraně "
+"a přežili, abychom o tom mohli vyprávět! Z vozů jsme nasbírali velkou sbírku "
+"šavlí, kopí a luků – vše, co potřebujeme k vybavení nových šermířů, kopiníků "
+"a lučištníků!"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1138
 msgid "Konrad can now recruit Fencers, Spearmen, and Bowmen!"
-msgstr ""
+msgstr "Konrád nyní může verbovat šermíře, kopiníky a lučištníky!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1144
@@ -2597,10 +2603,14 @@ msgid ""
 "promote Bowmen, we’ve pillaged a large collection of sabers and spears for "
 "our Fencers and Spearmen!"
 msgstr ""
+"Odvážili jsme se do samého srdce Wesnothu a podařilo se nám odtud uniknout – "
+"a to s větším množstvím zbraní, než jsme měli předtím! I když nám chybí "
+"zásoby na vybavení a povýšení lukostřelců, uloupili jsme pro naše šermíře "
+"a kopiníky velkou sbírku šavlí a kopí!"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1146
 msgid "Konrad can now recruit Spearmen and Fencers!"
-msgstr ""
+msgstr "Konrád nyní může verbovat kopiníky a šermíře!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1152
@@ -2610,10 +2620,14 @@ msgid ""
 "but we’ve at least obtained a large collection of sabers — perfect for "
 "training Fencers."
 msgstr ""
+"Odvážili jsme se do samého srdce Wesnothu a podařilo se nám odtud uniknout – "
+"a navíc s větším množstvím zbraní, než jsme měli předtím! Škoda, že se nám "
+"nepodařilo vyrabovat více karavan, ale alespoň jsme získali velkou sbírku "
+"šavlí – jako stvořených pro výcvik šermířů."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1154
 msgid "Konrad can now recruit Fencers!"
-msgstr ""
+msgstr "Konrád nyní může verbovat šermíře!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1160
@@ -2622,6 +2636,9 @@ msgid ""
 "pillage to train even a single new soldier type! We shall have to make-do "
 "with the weapons and fighters we already have."
 msgstr ""
+"Odvážili jsme se do samého srdce Wesnothu a podařilo se nám uniknout – ale "
+"nenaloupili jsme dost, takže nemůžeme vycvičit ani jediný nový typ vojáka! "
+"Budeme si muset vystačit se zbraněmi a bojovníky, které už máme."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1168
@@ -2629,6 +2646,8 @@ msgid ""
 "No point going back — the city surroundings are better-fortified now than "
 "ever, and we can’t expect the same trick to work twice."
 msgstr ""
+"Nemá smysl se vracet – okolí města je teď opevněné lépe než kdykoli předtím "
+"a nemůžeme očekávat, že ten samý trik vyjde dvakrát."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1177
