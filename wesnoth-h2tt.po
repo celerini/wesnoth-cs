@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-11 19:18+0200\n"
+"PO-Revision-Date: 2026-09-11 19:52+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1997,12 +1997,14 @@ msgid ""
 "I’ve heard stories about the fabled Gryphon Mountain! I would much like a "
 "chance to gaze upon the majestic creatures."
 msgstr ""
+"O bájné Hoře gryfů jsem slyšel příběhů! Moc rád bych měl příležitost spatřit "
+"tato majestátní stvoření."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:361
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:169
 msgid "Burlin"
-msgstr ""
+msgstr "Burlin"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:364
@@ -2010,6 +2012,8 @@ msgid ""
 "Ah’m glad we could work together on this, kid. You collected the eggs, an’ "
 "now I’ll collect my profits!"
 msgstr ""
+"Jsem rád, že jsme na tom mohli spolupracovat, kluku. Ty jsi nasbíral vejce "
+"a teď já shrábnu svůj zisk!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:369
@@ -2019,6 +2023,9 @@ msgid ""
 "nobles, the army, the orcs... and it’s why peasants starve to death, their "
 "harvest all taken for taxes."
 msgstr ""
+"Ašvířino zlato zaslepilo tolik lidí. Právě jím ovládá šlechtu, vojsko, "
+"skřety... a právě proto rolníci umírají hlady, protože jim celou úrodu "
+"zabavili jako daň."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:373
@@ -2026,6 +2033,8 @@ msgid ""
 "That’s why we have to fight her. Not for my sake, but for the sake of all "
 "the peoples suffering under the dark queen’s lash."
 msgstr ""
+"A to je důvod, proč s ní musíme bojovat. Ne kvůli mně, ale v zájmu všech "
+"národů, které trpí pod knutou temné královny."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:385
@@ -2033,6 +2042,8 @@ msgid ""
 "Gryphon Mountain is at peace once again. I’m glad to see that the matriarch "
 "survived, and that her flock is recovering from the fighting..."
 msgstr ""
+"Na Hoře gryfů opět zavládl mír. Jsem rád, že hlava rodu přežila a že se její "
+"hejno zotavuje z bojů..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:390
@@ -2040,11 +2051,13 @@ msgid ""
 "Gryphon Mountain is at peace once again. If only our fighting hadn’t killed "
 "the matriarch and driven away her flock..."
 msgstr ""
+"Na Hoře gryfů opět zavládl mír. Kéž by naše boje nezabily hlavu rodu "
+"a nerozehnaly její hejno..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:399
 msgid "Gryphon Mountain stands silent and empty. We got what we needed."
-msgstr ""
+msgstr "Hora gryfů tu stojí tichá a prázdná. Máme, co jsme potřebovali."
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:416
 msgid "Valley of Death"
