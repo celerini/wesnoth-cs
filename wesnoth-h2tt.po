@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-10 19:59+0200\n"
+"PO-Revision-Date: 2026-09-11 19:03+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -577,6 +577,10 @@ msgid ""
 "combat, so explore at your leisure. To leave the overworld and preview or "
 "play a battle scenario, move Konrad to one of the marked hexes."
 msgstr ""
+"<b>Toto je nadhled (overworld).</b> Pohyb tu nic nestojí a nejsou tu ani "
+"žádné boje, takže ho můžeš prozkoumávat podle libosti. Chceš-li nadhled "
+"opustit a ukázat nebo spustit bojový scénář, přesuň Konráda na jedno "
+"z označených políček."
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:335
@@ -596,6 +600,8 @@ msgid ""
 "overworld_help^Each scenario provides unique rewards, as shown in its "
 "preview, and most will open new areas of the map to explore."
 msgstr ""
+"Každý scénář nabízí jedinečné odměny, jak je uvedeno v jeho náhledu, "
+"a většina z nich odemkne nové oblasti mapy, které můžeš prozkoumat."
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #: data/campaigns/Heir_To_The_Throne/lua/popups.lua:354
@@ -604,6 +610,9 @@ msgid ""
 "before the finale. And Delfador and his elementals will only be around to "
 "help during your first battle, so choose wisely!"
 msgstr ""
+"Konrád má před finále čas pouze na omezený počet bitev. A Delfador se svými "
+"elementály ti budou k dispozici pouze během tvé první bitvy, takže si dobře "
+"rozmysli, kterou si vybereš!"
 
 #. [lua]: wesnoth.wml_actions.display_overworld_tutorial
 #. [lua]: wesnoth.wml_actions.display_lisar_tutorial
