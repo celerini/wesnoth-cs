@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-11 19:03+0200\n"
+"PO-Revision-Date: 2026-09-11 19:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1644,6 +1644,8 @@ msgid ""
 "Delfador, I’ve come to Elensefar to help! Together we can fight off the "
 "besieging armies!"
 msgstr ""
+"Delfadore, přišel jsem do Elensefaru, abych ti pomohl! Společně můžeme "
+"odrazit obléhající vojska!"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1666
@@ -1651,6 +1653,8 @@ msgid ""
 "Don’t be daft, Konrad. You must be kept safe! This battle is too dangerous "
 "for you — keep your distance and do your good elsewhere."
 msgstr ""
+"Nebuď hloupý, Konráde. Musíš se chránit! Tahle bitva je pro tebe příliš "
+"nebezpečná – drž se stranou a buď užitečný jinde."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1672
@@ -1658,6 +1662,8 @@ msgid ""
 "Fighting here is a poor decision, Master Konrad. But if you insist on "
 "joining the battle, Maddock and I can certainly use your help."
 msgstr ""
+"Bojovat tady není moudré rozhodnutí, mistře Konráde. Pokud však trváš na "
+"tom, že se zapojíš do bitvy, Maddokovi i mně se tvá pomoc určitě bude hodit."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/overworld/00a_western_wesnoth.cfg:1709
