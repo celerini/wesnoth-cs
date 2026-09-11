@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-11 20:01+0200\n"
+"PO-Revision-Date: 2026-09-11 21:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2487,6 +2487,8 @@ msgid ""
 "Delfador says that there was once a tunnel connecting Tath and Dan’Tonk. "
 "During the war it was used to great effect against the city defenders."
 msgstr ""
+"Delfador říká, že kdysi existoval tunel spojující Tath a Dan’Tonk. Během "
+"války byl s velkým úspěchem využit proti obráncům města."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1005
@@ -2494,6 +2496,8 @@ msgid ""
 "But even if the tunnel still exists, and has not been deliberately collapsed "
 "by Asheviere, it is surely too well-guarded for us to attempt to use it."
 msgstr ""
+"Ale i kdyby tam ten tunel stále byl a Ašvíra ho nedala zavalit, je jistě "
+"příliš dobře střežený na to, abychom se pokusili jím projít."
 
 #. [message]: speaker=Konrad
 #. referencing the "discipline" scenario of Asheviere's Dogs
@@ -2503,6 +2507,9 @@ msgid ""
 "fighting over. It never fully recovered from the damage it took during "
 "Asheviere’s rise to power."
 msgstr ""
+"Tath je pěkné město, ale strategicky není natolik významné, aby se o něj "
+"vyplatilo bojovat. Nikdy se úplně nevzpamatovalo ze škod, které utrpělo "
+"během Ašvířina nástupu k moci."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00b_central_wesnoth.cfg:1065
