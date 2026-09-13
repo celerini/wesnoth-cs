@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-12 06:35+0200\n"
+"PO-Revision-Date: 2026-09-13 21:35+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -22301,6 +22301,8 @@ msgid ""
 "I hope Delfador is well. We could have used his help in this battle, but I "
 "know what he’s doing is important."
 msgstr ""
+"Doufám, že se Delfadorovi daří dobře. V této bitvě by se nám jeho pomoc "
+"hodila, ale vím, že to, co dělá, je důležité."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:54
@@ -22308,6 +22310,8 @@ msgid ""
 "The attack on the Aethenwood was bad enough. Elensefar must surely be even "
 "more fierce..."
 msgstr ""
+"Útok na Aethenský les byl už tak dost zlý. Elensefar bude jistě ještě "
+"krutější..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:71
