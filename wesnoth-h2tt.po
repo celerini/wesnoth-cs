@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-13 21:40+0200\n"
+"PO-Revision-Date: 2026-09-14 21:38+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12548,7 +12548,7 @@ msgstr ""
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:636
 msgid "Com’ere you chicken-faced by-blow! Fight me like a dwarf!"
-msgstr ""
+msgstr "Pocem, ty přihlouplý levobočku! Bojuj se mnou jako trpaslík!"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:655
@@ -23560,7 +23560,7 @@ msgstr "Bojujte dál beze mě, přátelé! Světlo vždy zvítězí!"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:849
 msgid "Ah’m not wounded! Jus’ need a moment... ta catch my breath..."
-msgstr ""
+msgstr "Nejsem zraněný! Jen si potřebuju chvilku... vydechnout..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:850
 msgid "Well, this is a new experience..."
