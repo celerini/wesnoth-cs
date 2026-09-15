@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-14 21:38+0200\n"
+"PO-Revision-Date: 2026-09-15 22:05+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12313,12 +12313,12 @@ msgstr "Vysvoboď Ulfdaina"
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:312
 msgid "Look! Someone approaches from the eastern road."
-msgstr ""
+msgstr "Podívejte! Někdo se blíží po východní silnici."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:314
 msgid "Yrogin"
-msgstr ""
+msgstr "Yrogin"
 
 #. [message]: speaker=Yrogin
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:319
@@ -12326,11 +12326,13 @@ msgid ""
 "Message from the queen, Your Highness! The boats are ready, but there is "
 "only a short window in which to act before Elensefar recovers."
 msgstr ""
+"Zpráva od královny, Vaše Výsosti! Lodě jsou připraveny, ale máme jen krátkou "
+"chvíli na to, abychom jednali, než se Elensefar vzpamatuje."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:323
 msgid "Poor timing; I’m a little busy at the moment..."
-msgstr ""
+msgstr "Špatné načasování. Zrovna teď mám trochu napilno..."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:327
@@ -12338,6 +12340,9 @@ msgid ""
 "Still, Elensefar is too important a prize to let slip. I cannot risk Maddock "
 "regaining his footing before we have a chance to deal the finishing blow."
 msgstr ""
+"Elensefar je však příliš důležitá kořist na to, abychom si ji nechali ujít. "
+"Nemohu riskovat, že by se Maddok vzpamatoval, než budeme mít šanci zasadit "
+"mu rozhodující ránu."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:331
@@ -12345,6 +12350,8 @@ msgid ""
 "I’ll depart immediately. Yrogin, you assume command here. It shouldn’t take "
 "much to defeat this con-man now that we’ve lured him into battle."
 msgstr ""
+"Hned vyrazím. Yrogine, převezmi tady velení. Porazit toho podvodníka by "
+"nemělo být nijak těžké, když už jsme ho vylákali do boje."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:436
