@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-16 22:52+0200\n"
+"PO-Revision-Date: 2026-09-16 22:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12573,11 +12573,13 @@ msgid ""
 "Konrad cannot defeat us soon he shall surely be trapped once my "
 "reinforcements arrive."
 msgstr ""
+"Kde je Isolda? Tato bitva není tak jednostranná, jak jsem doufala, ale pokud "
+"nás Konrád brzy neporazí, bude jistě obklíčen, jakmile dorazí moje posily."
 
 #. [message]: speaker=Isolde
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:681
 msgid "We're finally here, Your Highness! Apologies for the delay."
-msgstr ""
+msgstr "Konečně jsme tady, Vaše Výsosti! Omlouvám se za zpoždění."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:697
@@ -12585,6 +12587,8 @@ msgid ""
 "More of them have come from behind! Even if we manage to defeat Li’sar, we "
 "have no hope of escaping this battle alive..."
 msgstr ""
+"Zezadu jich přichází stále víc! I kdyby se nám podařilo porazit Lisar, "
+"nemáme žádnou naději, že z této bitvy vyvázneme živí..."
 
 #. [message]: speaker=knight
 #. [message]: speaker=leader7
