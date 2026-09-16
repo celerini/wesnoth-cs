@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-16 22:57+0200\n"
+"PO-Revision-Date: 2026-09-16 23:13+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12595,23 +12595,23 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:713
 #: data/campaigns/Heir_To_The_Throne/scenarios/30_The_Sceptre_of_Fire.cfg:997
 msgid "Fight on without me, Your Highness!"
-msgstr ""
+msgstr "Bojujte dál beze mě, Vaše Výsosti!"
 
 #. [message]: speaker=knight
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:718
 msgid "Fight on without me, friends!"
-msgstr ""
+msgstr "Bojujte dál beze mě, přátelé!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #. Lisar might not exist here, in which case nothing is said.
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:726
 msgid "You’ll pay for that, cousin!"
-msgstr ""
+msgstr "Za to zaplatíš, bratránku!"
 
 #. [message]: speaker=Yrogin
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:739
 msgid "Aaargh! They said you were just a pretender... a puppet..."
-msgstr ""
+msgstr "Aaargh! Říkali, že jsi jen podvodník... loutka..."
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:771
@@ -12619,6 +12619,8 @@ msgid ""
 "Not so tough now, are ye princess? Got any las’ words b’fer I bury m’ axe in "
 "tha’ hollow skull, ye grubby wisenheimerin’ blockhead?"
 msgstr ""
+"Teď už nejsi tak drsná, co, princezno? Máš ještě nějaký poslední slova, než "
+"ti zabořím sekeru do tý dutý lebky, ty špinavá přechytřelá tupanko?"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:775
@@ -12627,6 +12629,9 @@ msgid ""
 "forced to flee the field today, “cousin”, but I will not rest until you face "
 "justice for all the chaos you have caused."
 msgstr ""
+"Nech mě být, trpaslíku! Tady nemůžu padnout. Ještě je toho moc, co musím "
+"udělat. Dnes můžu být donucena uprchnout z bojiště, „bratranče“, ale nedám "
+"si pokoj, dokud nebudeš potrestán za všechen ten zmatek, který jsi způsobil."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:783
@@ -12636,6 +12641,10 @@ msgid ""
 "field today, but I will not rest until you and your puppet face justice for "
 "all the chaos you have caused."
 msgstr ""
+"Tak tedy Delfador „Veliký“ opět prolévá krev těch, kteří jsou mu nadřazeni. "
+"Nečekej, že zopakuji chyby svého bratra, starče – dnes sice z bojiště "
+"uprchnu, ale nedám si pokoj, dokud ty a tvá loutka nebudete potrestáni za "
+"všechen ten zmatek, který jste způsobili."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:790
@@ -12645,6 +12654,10 @@ msgid ""
 "until you and your puppetmaster face justice for all the chaos you have "
 "caused."
 msgstr ""
+"Takže, „bratranče“, zdá se, že jsi víc než jen dobrý herec a hezká tvář. To "
+"ale nevadí – dnes můžu být nucena uprchnout z bojiště, ale nedám si pokoj, "
+"dokud ty a tvůj loutkář nebudete potrestáni za všechen ten zmatek, který "
+"jste způsobili."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:807
@@ -12652,6 +12665,8 @@ msgid ""
 "We carried the field, but the princess escaped! I doubt this is the last "
 "we’ve seen of her..."
 msgstr ""
+"Ovládli jsme bitevní pole, ale princezna nám unikla! Pochybuji, že jsme ji "
+"viděli naposledy..."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:19
