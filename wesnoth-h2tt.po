@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-16 23:13+0200\n"
+"PO-Revision-Date: 2026-09-17 22:47+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10587,6 +10587,8 @@ msgid ""
 "Hahaha, this town is great! Top-quality slaves, houses made with real "
 "shingles, and all the gold and silver in the world!"
 msgstr ""
+"Hahaha, tohle město je úžasný! Prvotřídní votroci, domy s vopravdovejma "
+"šindelema a všecko zlato a stříbro na světě!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:323
@@ -10594,6 +10596,8 @@ msgid ""
 "If Asheviere has truly given Elensefar to the orcs like they claim, it can "
 "only be because she expects them to ravage it."
 msgstr ""
+"Pokud Ašvíra skutečně vydala Elensefar skřetům, jak oni tvrdí, může to být "
+"jen proto, že očekává, že ho zpustoší."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:327
@@ -10601,26 +10605,28 @@ msgid ""
 "She must believe the people will never submit to her rule, and would rather "
 "ruin them entirely than risk another revolt. How awful."
 msgstr ""
+"Musí být přesvědčena, že se lidé její vládě nikdy nepodřídí, a raději by je "
+"úplně zničila, než aby riskovala další povstání. To je strašné."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:331
 msgid "We can’t let that happen. To arms, warriors!"
-msgstr ""
+msgstr "To nemůžeme dopustit. Do zbraně, válečníci!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:337
 msgid "Five"
-msgstr ""
+msgstr "pět"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:337
 msgid "Four"
-msgstr ""
+msgstr "čtyři"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:337
 msgid "Three"
-msgstr ""
+msgstr "tři"
 
 #. [note]
 #. $thief_count will be the word "Three" "Four" or "Five"
@@ -10629,6 +10635,8 @@ msgid ""
 "$thief_count thieves/rogues will join your attack once you capture any "
 "village on one of Elensefar’s islands."
 msgstr ""
+"Jakmile obsadíš jakoukoli vesnici na jednom z ostrovů Elensefaru, připojí se "
+"k tvému útoku $thief_count ze zlodějů nebo ničemů."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:368
