@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-17 22:47+0200\n"
+"PO-Revision-Date: 2026-09-18 21:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10644,6 +10644,7 @@ msgid ""
 "Look, Konrad! I see a human fording the river, sneaking out of the city "
 "towards us."
 msgstr ""
+"Podívej, Konráde! Vidím člověka, jak brodí řeku a plíží se z města k nám."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:369
@@ -10652,7 +10653,7 @@ msgstr ""
 msgid ""
 "Look, Konrad! A man is fording the river, sneaking out of the city towards "
 "us."
-msgstr ""
+msgstr "Podívej, Konráde! Nějaký muž brodí řeku a plíží se z města k nám."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:372
@@ -10660,6 +10661,8 @@ msgid ""
 "Look there, boy! One o’ ’em city-folk’s gone yellow. I think he’s sneakin’ "
 "out to see us."
 msgstr ""
+"Podívej se támhle, chlapče! Jednomu z těch měšťáků spadlo srdce do kalhot. "
+"Myslím, že se k nám plíží."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:373
@@ -10667,12 +10670,14 @@ msgid ""
 "Look, Konrad! Someone’s fording the river, sneakin’ out to see us. How is he "
 "movin’ across the deep water?!"
 msgstr ""
+"Hele, Konráde! Někdo brodí řeku a plíží se k nám. Jak může přecházet tu "
+"hlubokou vodu?!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:374
 msgid ""
 "Hark, Konrad! One of the cityfolk steals across the river towards our shore!"
-msgstr ""
+msgstr "Poslyš, Konráde! Jeden z měšťanů se plíží přes řeku k našemu břehu!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:375
@@ -10680,6 +10685,8 @@ msgid ""
 "Oh, hello? Err... I think I see — yes, Konrad, someone’s sneaking across the "
 "river towards us."
 msgstr ""
+"Ehm, haló? Tedy... Myslím, že něco vidím – ano, Konráde, někdo se plíží přes "
+"řeku k nám."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:376
@@ -10687,18 +10694,20 @@ msgid ""
 "Look there, Konrad. Dosh is seein’ a softskin sneakin’ across dis river "
 "towards us."
 msgstr ""
+"Podívej se támhle, Konráde. Doš vidí nějakou měkkou kůži, jak se plíží přes "
+"tu řeku k nám."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:377
 msgid ""
 "Look, someone’s fording the river! I think he’s sneaking out of the city "
 "towards us."
-msgstr ""
+msgstr "Hele, někdo brodí řeku! Myslím, že se plíží z města k nám."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:388
 msgid "Halt! Who goes there, friend or foe?"
-msgstr ""
+msgstr "Stát! Kdo tam je, přítel, nebo nepřítel?"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:392
@@ -10706,6 +10715,8 @@ msgid ""
 "Greetings, friend. I am Reglok, guildmaster of the Elensefar thieves. We "
 "would like to help you against the orcs."
 msgstr ""
+"Zdravím, příteli. Jsem Reglok, představený cechu zlodějů z Elensefaru. Rádi "
+"bychom ti pomohli v boji proti skřetům."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:396
@@ -10713,6 +10724,7 @@ msgid ""
 "I know the sort of aid offered by a thief, Reglok. We do not trust you and "
 "we do not need you."
 msgstr ""
+"Vím, jakou pomoc nabízí zloději, Regloku. Nedůvěřujeme ti a nepotřebujeme tě."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:397
@@ -10720,6 +10732,7 @@ msgid ""
 "Is that so? What honor is there among thieves? We do not trust you and we do "
 "not need you."
 msgstr ""
+"Opravdu? Jak mohou zloději něco dodržet? Nevěříme ti a nepotřebujeme tě."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:398
@@ -10728,6 +10741,8 @@ msgid ""
 "I don’t like the idea of working with thieves. Who says we can trust you? We "
 "should send him on his way, Konrad."
 msgstr ""
+"Nelíbí se mi představa, že bychom měli spolupracovat se zloději. Kdo říká, "
+"že ti můžeme věřit? Měli bychom ho poslat pryč, Konráde."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:400
@@ -10736,11 +10751,14 @@ msgid ""
 "down our purses an’ yer knives stickin’ out o’ our spleens! What sort o’ "
 "chucklehead do ye take me for?"
 msgstr ""
+"Jo, jasně, že jo. A jak se otočíme zády, zjistíme, že nám strkáš prsty do "
+"kapes a nože nám trčí ze slezin! Za jakýho hňupa mě máš?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:401
 msgid "Uh huh. I’ve dealt with thieves before. What’s in it for you, Reglok?"
 msgstr ""
+"Aha. Se zloději už jsem měla co do činění. Co z toho budeš mít ty, Regloku?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:402
@@ -10748,6 +10766,8 @@ msgid ""
 "There is no Light within you, thief. You lie and you steal and you kill. Who "
 "says we can trust such as you?"
 msgstr ""
+"V tobě není žádné Světlo, zloději. Lžeš, kradeš a zabíjíš. Kdo říká, že "
+"můžeme věřit někomu, jako jsi ty?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:403
@@ -10755,6 +10775,8 @@ msgid ""
 "That’s very kind of you to offer! But, well, you’re a thief? The lying and "
 "stealing and... killing kind of thief?"
 msgstr ""
+"To je od tebe moc milé, že nám to nabízíš! Ale, no, ty jsi zloděj? Ten typ "
+"zloděje, co lže, krade a... zabíjí?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:404
@@ -10762,11 +10784,12 @@ msgid ""
 "Dosh not be trustin’ any thief. Dosh know what thieves do. Lie and steal and "
 "kill."
 msgstr ""
+"Doš nevěří žádnému zloději. Doš ví, co zloději dělají. Lžou, kradou a zabíjí."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:405
 msgid "Thieves, hmmm? Who says we can trust such as you?"
-msgstr ""
+msgstr "Zloději, hmmm? Kdo říká, že můžeme lidem, jako jste vy, věřit?"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:409
@@ -10776,6 +10799,10 @@ msgid ""
 "off in chains, our new overlords have done nothing but riot and steal. That "
 "infringes on our monopoly."
 msgstr ""
+"Samozřejmě bychom pochopili, kdybyste nám nevěřili, ale je v našem společném "
+"zájmu zbavit město skřetů. Od té doby, co byl lord Maddok odveden v okovech, "
+"naši noví vládci nedělají nic jiného než vyvolávají nepokoje a kradou. To "
+"narušuje náš monopol."
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:413
@@ -10783,11 +10810,13 @@ msgid ""
 "You shall find that there is honor, even among thieves. We served Maddock "
 "well, and if you can liberate Elensefar we shall do the same for you."
 msgstr ""
+"Zjistíte, že i mezi zloději existuje čest. Maddokovi jsme dobře posloužili, "
+"a pokud se vám podaří osvobodit Elensefar, uděláme totéž i pro vás."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:417
 msgid "Yes, but where is your fighting force? How can you help us?"
-msgstr ""
+msgstr "Ano, ale kde jsou vaše bojové jednotky? Jak nám můžete pomoci?"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:423
