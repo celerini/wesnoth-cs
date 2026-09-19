@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-18 21:12+0200\n"
+"PO-Revision-Date: 2026-09-19 22:03+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10821,17 +10821,17 @@ msgstr "Ano, ale kde jsou vaše bojové jednotky? Jak nám můžete pomoci?"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:423
 msgid "five"
-msgstr ""
+msgstr "pět"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:423
 msgid "four"
-msgstr ""
+msgstr "čtyři"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:423
 msgid "three"
-msgstr ""
+msgstr "tři"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:429
@@ -10840,6 +10840,9 @@ msgid ""
 "the north that shall be of little use. Instead, we shall lay in wait until "
 "you give us a signal then ambush the orcs’ rear."
 msgstr ""
+"Na jihozápadní straně města se nachází skrytý brod, ale od severu se nedá "
+"použít. Místo toho budeme číhat, dokud nám nedáte znamení, a pak zaútočíme "
+"na skřety zezadu."
 
 #. [message]: speaker=Reglok
 #. $thief_count will be the word "three" "four" or "five"
@@ -10849,12 +10852,15 @@ msgid ""
 "see the sign and attack from the city’s center. Expect $thief_count of us to "
 "join the attack."
 msgstr ""
+"Jakmile vztyčíte svou modrou vlajku nad jakoukoli vesnicí ve městě, uvidíme "
+"toto znamení a zaútočíme z jeho středu. Počítejte s tím, že se k útoku "
+"připojí $thief_count z nás."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:438
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:523
 msgid "Agreed. But, will you be able to see our flag if it’s dark?"
-msgstr ""
+msgstr "Platí. Ale uvidíte naši vlajku, když bude tma?"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:442
@@ -10863,6 +10869,8 @@ msgid ""
 "Yes, we will see it. In fact, we prefer to fight at night. I pray you do not "
 "lead us into slaughter."
 msgstr ""
+"Ano, uvidíme. Vlastně raději bojujeme v noci. Modlím se, abys nás nevedl na "
+"porážku."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:446
@@ -10871,6 +10879,7 @@ msgid ""
 "Do not fear, friends. There will be a slaughter here, but it will be orcish "
 "blood staining the streets."
 msgstr ""
+"Nebojte se, přátelé. K zabíjení tu dojde, ale ulice zbarví skřetí krev."
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:458
