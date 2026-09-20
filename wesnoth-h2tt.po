@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-20 12:29+0200\n"
+"PO-Revision-Date: 2026-09-20 12:40+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3602,6 +3602,8 @@ msgid ""
 "Weapon for Konrad: <span color='#EFBF04'><b>+3 melee damage, <i>drains</i> "
 "special on melee attacks</b></span>"
 msgstr ""
+"Zbraň pro Konráda: <span color='#EFBF04'><b>+3 k poškození v boji zblízka, "
+"<i>odstraní</i> zvláštnosti při útocích zblízka</b></span>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1102
@@ -3609,6 +3611,8 @@ msgid ""
 "These old halls were ruined long ago, but there may still be something of "
 "value inside."
 msgstr ""
+"Tyto staré sály jsou už dávno zchátralé, ale uvnitř by ještě mohlo být něco "
+"cenného."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1117
@@ -3627,6 +3631,8 @@ msgid ""
 "I’m glad to be out into the sun and fresh air again. I may not despise caves "
 "so much as an elf, but I’m no dwarf either."
 msgstr ""
+"Jsem rád zase venku na slunci a na čerstvém vzduchu. Možná jeskyněmi "
+"nepohrdám tak moc jako elf, ale trpaslík ze mě taky není."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1137
@@ -3634,6 +3640,8 @@ msgid ""
 "There’s nothing more of value here — at least nothing that we have the time "
 "or skill to unearth."
 msgstr ""
+"Tady už není nic cenného – alespoň nic, co bychom měli čas nebo schopnosti "
+"odhalit."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1156
