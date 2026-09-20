@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-20 12:01+0200\n"
+"PO-Revision-Date: 2026-09-20 12:29+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3520,6 +3520,9 @@ msgid ""
 "orcish masters. We can fight our way south to exit the caves of Knalga, "
 "while freeing as many slaves as possible on our way!"
 msgstr ""
+"Kdysi vzkvétající svobodné město Trpasličí Dveře je nyní plné otroků "
+"a jejich skřetích pánů. Můžeme se probojovat na jih, abychom opustili "
+"jeskyně Knalgy, a po cestě osvobodit co nejvíce otroků!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:982
@@ -3528,6 +3531,9 @@ msgid ""
 "orcish masters. We can fight our way north to reach the caves of Knalga, "
 "while freeing as many slaves as possible on our way!"
 msgstr ""
+"Kdysi vzkvétající svobodné město Trpasličí Dveře je dnes plné otroků "
+"a jejich skřetích pánů. Můžeme se probojovat na sever, abychom se dostali "
+"k jeskyním v Knalze, a po cestě osvobodit co nejvíce otroků!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1014
@@ -3535,6 +3541,8 @@ msgid ""
 "We have cleared the Doors of orcs! It sounds as though they mean to return "
 "in the future, but at least for now we will be able to pass unmolested."
 msgstr ""
+"Vyčistili jsme Dveře od skřetů! Vypadá to, že se v budoucnu hodlají vrátit, "
+"ale alespoň prozatím budeme moci projít bez obtěžování."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1019
@@ -3544,6 +3552,10 @@ msgid ""
 "slaves while they are on alert. At least we will henceforth be able to pass "
 "unmolested."
 msgstr ""
+"Probojovali jsme se skrz Dveře! Skřeti už vědí, že se s námi v budoucnu "
+"nemají pokoušet znovu bojovat, ale dokud budou v pohotovosti, nemůžeme "
+"zachránit žádné další z jejich otroků. Alespoň od nynějška budeme moci "
+"procházet bez obtěžování."
 
 #. [message]: role=doors_orc
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1044
