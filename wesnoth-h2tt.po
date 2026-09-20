@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-20 14:37+0200\n"
+"PO-Revision-Date: 2026-09-20 14:51+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5852,7 +5852,7 @@ msgstr "Vybuduj si vojsko (zbývá 1 bitva)"
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:524
 msgid "Reunite with Delfador"
-msgstr ""
+msgstr "Setkej se znovu s Delfadorem"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:533
@@ -5901,7 +5901,7 @@ msgstr "Až budeš připraven, najdi Delfadora a získej Ohnivé žezlo"
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:612
 msgid "When you’re ready, defeat the Dark Queen and reclaim your throne"
-msgstr ""
+msgstr "Až budeš připraven, poraz temnou královnu a získej zpět svůj trůn"
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:636
@@ -6321,7 +6321,7 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1123
 msgid "Well done, Konrad. We must now consider how to proceed."
-msgstr ""
+msgstr "Skvělá práce, Konráde. Teď musíme zvážit, jak postupovat dál."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1127
@@ -6331,11 +6331,15 @@ msgid ""
 "strength to challenge her in her domain. Even if we did, such a war would "
 "kill untold numbers."
 msgstr ""
+"Naše vítězství u Elensefaru znamenalo pro Ašvíru velkou ránu, avšak stále má "
+"pevně pod palcem klíčová města ve středním Wesnothu. Nemáme sílu postavit se "
+"jí na jejím území. A i kdybychom ji měli, taková válka by si vyžádala "
+"nespočet obětí."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1131
 msgid "This is a crucial moment. We must be sure to act rightly..."
-msgstr ""
+msgstr "Toto je rozhodující okamžik. Musíme se ujistit, že jednáme správně..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1145
@@ -6542,13 +6546,13 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1315
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:216
 msgid "Messenger"
-msgstr ""
+msgstr "Posel"
 
 #. [message]: speaker=familiar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1319
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:222
 msgid "Fsss... crackle crackle hiss!"
-msgstr ""
+msgstr "Fsss... prask, prask, sss!"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1343
@@ -6986,6 +6990,8 @@ msgid ""
 "Asheviere has left us no time to stop and fight. We must reach Weldyn before "
 "she can carry out her executions."
 msgstr ""
+"Ašvíra nám nedala čas, abychom se zastavili a bojovali. Musíme se dostat "
+"k Weldynu, než stihne provést své popravy."
 
 #. [scenario]: id=01_The_Elves_Besieged
 #: data/campaigns/Heir_To_The_Throne/scenarios/01_The_Elves_Besieged.cfg:14
