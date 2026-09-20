@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-19 22:03+0200\n"
+"PO-Revision-Date: 2026-09-20 11:35+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10852,9 +10852,9 @@ msgid ""
 "see the sign and attack from the city’s center. Expect $thief_count of us to "
 "join the attack."
 msgstr ""
-"Jakmile vztyčíte svou modrou vlajku nad jakoukoli vesnicí ve městě, uvidíme "
-"toto znamení a zaútočíme z jeho středu. Počítejte s tím, že se k útoku "
-"připojí $thief_count z nás."
+"Jakmile vztyčíte svou modrou vlajku nad jakoukoli vesnicí v samotném městě, "
+"uvidíme toto znamení a zaútočíme z jeho středu. Počítejte s tím, že se "
+"k útoku připojí $thief_count z nás."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:438
@@ -10888,6 +10888,9 @@ msgid ""
 "city. Very few people know about it, least of all the orcs. I can show you "
 "how to cross."
 msgstr ""
+"Poslouchej, dítě. Na jihozápadní straně města je skrytý brod. Ví o něm jen "
+"velmi málo lidí, a už vůbec ne skřeti. Můžu vám ukázat, jak se přes něj "
+"dostat."
 
 #. [message]: speaker=Reglok
 #. $thief_count will be the word "three" "four" or "five"
@@ -10896,16 +10899,18 @@ msgid ""
 "Alternatively, we can lay in wait until you give us a signal then ambush the "
 "orcs’ rear. Expect $thief_count of us to join the attack."
 msgstr ""
+"Nebo můžeme vyčkávat, dokud nám nedáte znamení, a pak zaútočit na skřety "
+"z týlu. Počítej s tím, že se k útoku připojí $thief_count z nás."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:472
 msgid "Help us infiltrate the city. We can do the rest."
-msgstr ""
+msgstr "Pomozte nám proniknout do města. O zbytek se postaráme my."
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:476
 msgid "Very well. Watch exactly where I step."
-msgstr ""
+msgstr "Dobře. Dávejte pozor, kam přesně šlapu."
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:505
@@ -10914,16 +10919,19 @@ msgid ""
 "wide enough for two soldiers to march shoulder-to-shoulder. The orcs know "
 "not where to step. Now you do."
 msgstr ""
+"Vidíte? Když je odliv na nejnižší úrovni, proudící vody odhalí brod tak "
+"široký, že jím mohou kráčet dva vojáci bok po boku. Skřeti netuší, kam "
+"stoupnout. Vy to teď víte."
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:509
 msgid "Good luck. You shall see me again if you succeed."
-msgstr ""
+msgstr "Hodně štěstí. Jestli uspějete, ještě mě uvidíte."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:515
 msgid "I want you to reinforce us once we break through their line."
-msgstr ""
+msgstr "Chci, abyste nám poskytli posily, jakmile prorazíme jejich linii."
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:519
@@ -10931,18 +10939,20 @@ msgid ""
 "Very well. When you raise your blue banner over any village in the city "
 "proper, we will see the sign and attack from the city’s center."
 msgstr ""
+"Dobře. Jakmile vyvěsíte svou modrou vlajku nad jakoukoli vesnicí v samotném "
+"městě, uvidíme to znamení a zaútočíme ze středu města."
 
 #. [message]: speaker=foxtail1
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:551
 msgid "What!? How are you walking on water?"
-msgstr ""
+msgstr "Cože!? Jak to, že chodíš po vodě?"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:571
 msgid ""
 "That’s their banner! Let’s expel these invaders. Today, the city is ours "
 "again!"
-msgstr ""
+msgstr "To je jejich vlajka! Vyžeňme ty vetřelce. Dnes je město zase naše!"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:614
@@ -10950,17 +10960,21 @@ msgid ""
 "We tried t’ tell Maddock this would happen. We had a real chance after "
 "Halstead fell, back when his son helped us fight."
 msgstr ""
+"Snažili jsme se Maddokovi říct, že k tomu dojde. Byla tu skutečná šance, "
+"když Halstead padl, tehdy, když nám jeho syn pomáhal v boji."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:618
 msgid ""
 "I suppose he kept his city safe for a while. But were it worth it in the end?"
 msgstr ""
+"Myslím, že svému městu zajistil na nějakou dobu bezpečí. Ale stálo to "
+"nakonec za to?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:640
 msgid "Arrgh! Lousy humans..."
-msgstr ""
+msgstr "Argh! Mizerný lidi..."
 
 #. [message]: speaker=Konrad
 #. I say that the orc wasn't actually wearing the sandals, because otherwise we'd have to change his behavior in-game
@@ -10970,11 +10984,14 @@ msgid ""
 "likely looted from some wealthy merchant or ship captain. They seem oddly "
 "dry, despite the water all around."
 msgstr ""
+"Podívej – ten skřet měl v brašně nějaké podivné, kouzelně vypadající "
+"sandály, které nejspíš uloupil nějakému bohatému obchodníkovi nebo "
+"kapitánovi lodi. Přestože je všude kolem voda, vypadají zvláštně suché."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:659
 msgid "Seafarer’s Sandals"
-msgstr ""
+msgstr "Námořníkovy sandály"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:660
@@ -10982,6 +10999,8 @@ msgid ""
 "This enchanted footwear repels nearby water, allowing\n"
 "its wearer to walk on water, swamp, or snow as if standing on solid ground."
 msgstr ""
+"Tato kouzelná obuv odpuzuje vodu v okolí, což umožňuje jejímu nositeli\n"
+"chodit ve vodě, bažinách nebo sněhu, jako by stál na pevné zemi."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:666
@@ -10990,17 +11009,22 @@ msgid ""
 "myself, and be grateful for the boon. Now, to finish off the remaining "
 "orcish leader."
 msgstr ""
+"Kouzlo takových kvalit je velmi vzácné a těžko k sehnání! Budu je nosit sám "
+"a budu vděčný za tento dar. A teď se musím vypořádat se zbývajícím skřetím "
+"vůdcem."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:680
 msgid "I’m not dying! Orcs never die! I just... need a moment..."
-msgstr ""
+msgstr "Já neumírám! Skřeti nikdy neumírají! Jen... potřebuju chvilku..."
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:688
 msgid ""
 "Well done, well done! Elensefar is finally rid of those loathsome beasts."
 msgstr ""
+"Skvělá práce, skvělá práce! Elensefar byl konečně zbaven těch odporných "
+"surovců."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:692
@@ -11008,6 +11032,8 @@ msgid ""
 "You walk free once more! But for how long? Once we leave, who will remain to "
 "defend the bridges?"
 msgstr ""
+"Zase jste svobodní! Ale na jak dlouho? Až odejdeme, kdo tu zůstane, aby "
+"bránil mosty?"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:696
@@ -11016,17 +11042,22 @@ msgid ""
 "Elensefar in your service, your exaltedness, ready to take the fight to the "
 "dark queen."
 msgstr ""
+"Říká se, že nejlepší obranou je dobrý útok, že? Dávám zloděje z Elensefaru "
+"k vašim službám, Vaše Výsosti, připravené vyrazit do boje proti temné "
+"královně."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:698
 msgid "Konrad can now recruit Thieves!"
-msgstr ""
+msgstr "Konrád nyní může verbovat zloděje!"
 
 #. [message]: speaker=Reglok
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:701
 msgid ""
 "I myself must of course remain behind to oversee the city. You understand."
 msgstr ""
+"Já sám samozřejmě musím zůstat tady, abych dohlížel na město. To jistě "
+"chápeš."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:705
@@ -11035,6 +11066,9 @@ msgid ""
 "once Asheviere is defeated and I am king. Prove yourself a better lord than "
 "the orcs."
 msgstr ""
+"Až příliš dobře. Vládni moudře, ctižádostivý Regloku, neboť jakmile bude "
+"Ašvíra poražena a já se stanu králem, vrátím se do Elensefaru. Dokaž, že jsi "
+"lepší vládce než skřeti."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:724
@@ -11042,6 +11076,8 @@ msgid ""
 "Between the siege and our attack, Elensefar has been badly damaged. "
 "Countless townsfolk will die if we cannot finish things off soon!"
 msgstr ""
+"Během obléhání a našeho útoku utrpěl Elensefar značné škody. Pokud to brzy "
+"nedotáhneme do konce, zemře nespočet obyvatel města!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:731
@@ -11050,6 +11086,8 @@ msgid ""
 "we defeat these orcs, the city will never-again return to its former "
 "splendor..."
 msgstr ""
+"Náš boj se už příliš protáhl. Elensefar je téměř úplně zničen. I kdybychom "
+"tyto skřety porazili, město se už nikdy nevrátí ke své dřívější slávě..."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/13_Fort_Tahn.cfg:18
