@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-20 14:00+0200\n"
+"PO-Revision-Date: 2026-09-20 14:04+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3996,6 +3996,8 @@ msgid ""
 "miles on end. There’s no reason to wander any deeper this way, at least not "
 "right now."
 msgstr ""
+"Jsou tu nespočetné jeskyně a lávové tunely, které se klikatí a vinou na míle "
+"daleko. Není důvod se touto cestou pouštět hlouběji, alespoň ne právě teď."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:36
