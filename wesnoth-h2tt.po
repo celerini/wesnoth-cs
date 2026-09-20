@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-20 14:04+0200\n"
+"PO-Revision-Date: 2026-09-20 14:37+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4866,7 +4866,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:439
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:158
 msgid "Haralamdum"
-msgstr ""
+msgstr "Haralamdum"
 
 #. [message]: speaker=Haralamdum
 #. Goodbye young Master Delfador, and Prince Konrad. Good luck. I hope my gift will be useful to you.
@@ -4875,12 +4875,14 @@ msgid ""
 "Goodbye ... young Master Delfador ... Prince Konrad ... hum dum da dum ... "
 "and good luck. I hope my gift will be useful to you."
 msgstr ""
+"Sbohem... mladý pane Delfadore... princi Konráde... hum dum da dum... "
+"a hodně štěstí. Doufám, že se vám můj dárek bude hodit."
 
 #. [message]: speaker=Haralamdum
 #. Hello again.
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:453
 msgid "Hello ... again. Har alam dum ..."
-msgstr ""
+msgstr "Ahoj ... ještě jednou. Har alam dum ..."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:463
@@ -5651,6 +5653,9 @@ msgid ""
 "conquest of my mother’s early days. Its conscripts have made up the bulk of "
 "her footmen ever since."
 msgstr ""
+"Zastavte! Blížíme se k opevněnému městu Dan’Tonk. Bylo to nejlepší dobyté "
+"území v počátcích vlády mé matky. Jeho branci od té doby tvoří většinu "
+"jejích pěšáků."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1268
@@ -5659,6 +5664,9 @@ msgid ""
 "tried again to seize their eggs, but thanks to our help the gryphons have "
 "become strong enough to fight back!"
 msgstr ""
+"Jsou to... gryfové, kteří se vrhají na městské hradby? Ašvíra se zřejmě "
+"znovu pokusila ukrást jejich vejce, ale díky naší pomoci jsou gryfové už "
+"dost silní na to, aby se bránili!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1273
@@ -5667,6 +5675,9 @@ msgid ""
 "the end we chose to stand and fight — and it cost him his life. So many "
 "regrets..."
 msgstr ""
+"To byl temný den... Dobře si to pamatuji. Naléhal jsem na barona, aby "
+"uprchl, ale nakonec jsme se rozhodli zůstat a bojovat – a to ho stálo život. "
+"Tolik žalu..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00e_eastern_wesnoth.cfg:1282
