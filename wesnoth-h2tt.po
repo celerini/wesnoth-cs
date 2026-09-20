@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-20 14:51+0200\n"
+"PO-Revision-Date: 2026-09-20 17:15+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10251,35 +10251,37 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:83
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:54
 msgid "Agadla"
-msgstr ""
+msgstr "Agadla"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:84
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:55
 msgid "Drodrish"
-msgstr ""
+msgstr "Drodriš"
 
 #. [event]
 #. "Daneth" is the name of Lord Maddock's late son, as referenced in Liberty. This ship also appears in Liberty's S04, with the same name.
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:444
 msgid "The Daneth"
-msgstr ""
+msgstr "Danet"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:445
 msgid "Elyn's Folly"
-msgstr ""
+msgstr "Elynina šaráda"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:446
 msgid "Charlock"
-msgstr ""
+msgstr "Charlock"
 
 #. [message]: speaker=wesnoth4
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:529
 msgid ""
 "Push, you blaggards! We take the isle or it’s back to the gallows for us all!"
 msgstr ""
+"Do toho, vy darebáci! Buď ten ostrov dobudem, nebo se všichni vrátíme na "
+"šibenici!"
 
 #. [message]: speaker=wesnoth4
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:550
@@ -10287,6 +10289,8 @@ msgid ""
 "Damnations, still no progress! The defenders can’t keep this up forever — "
 "prepare another assault."
 msgstr ""
+"Sakra, pořád žádný pokrok! Obránci to nemohou vydržet věčně – připravte "
+"další útok."
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:610
@@ -10295,6 +10299,9 @@ msgid ""
 "you over the years! If you truly possess the potential that he claims, now "
 "is the time to start living up to it."
 msgstr ""
+"Vítej v Elensefaru, mladý pane. Delfador mi o tobě za ta léta vyprávěl "
+"spoustu věcí! Pokud skutečně máš ten potenciál, o kterém mluví, teď je ten "
+"správný čas, abys ho začal naplňovat."
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:616
@@ -10304,6 +10311,10 @@ msgid ""
 "repelled, but that lieutenant of theirs is right about one thing — we can’t "
 "keep it up forever."
 msgstr ""
+"Jak vidíte, jsme v tísni, protože Ašvířini stoupenci obléhají jižní most, "
+"zatímco skřeti postupují ze severu. Každý útok se nám sice podařilo odrazit, "
+"ale ten jejich poručík má v jedné věci pravdu – nemůžeme to vydržet "
+"donekonečna."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:620
@@ -10311,6 +10322,8 @@ msgid ""
 "Sir Kaylan sends his regards, Lord Maddock. Konrad has brought the knights "
 "of Blackwater Port to stand with you."
 msgstr ""
+"Sir Kaylan vás zdraví, lorde Maddoku. Konrád přivedl rytíře z přístavu Temná "
+"Voda, aby vám stáli po boku."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:621
@@ -10318,6 +10331,8 @@ msgid ""
 "Got yourself into trouble again, Maddock? Ain’t no cursed soldiers this "
 "time, but we’re still here to help."
 msgstr ""
+"Zase ses dostal do potíží, Maddoku? Tentokrát sice nejde o žádné prokleté "
+"vojáky, ale i tak jsme tu, abychom ti pomohli."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:622
@@ -10325,6 +10340,8 @@ msgid ""
 "Ah’m not afraid! Jus’ give the word an’ I’ll see them chicken-hearted pox "
 "wrinklers clear back to Weldyn!"
 msgstr ""
+"Já se nebojím! Stačí říct a já ty zbabělce s důlkama vod neštovic pošlu "
+"zpátky až do Weldynu!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:623
@@ -10332,6 +10349,8 @@ msgid ""
 "The dark queen’s shadow spreads, but the Light shall burn her back! We shall "
 "stand together against the darkness!"
 msgstr ""
+"Stín temné královny se šíří, ale Světlo ji spálí na popel! Společně se "
+"postavíme temnotě!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:624
@@ -10339,6 +10358,8 @@ msgid ""
 "We’re here to help, Lord Maddock. Elensefar has long been a bastion of "
 "freedom against Asheviere’s tyranny. We can’t let it fall!"
 msgstr ""
+"Jsme tu, abychom vám pomohli, lorde Maddoku. Elensefar je již dlouho baštou "
+"svobody proti Ašvířině krutovládě. Nesmíme dopustit, aby padl!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:628
@@ -10346,6 +10367,8 @@ msgid ""
 "Exposing yourself here is a great risk, Master Konrad. But your position "
 "behind enemy lines does afford us opportunity for a counterattack."
 msgstr ""
+"Vystavit se zde nebezpečí je velké riziko, mistře Konráde. Vaše pozice za "
+"nepřátelskými liniemi nám však skýtá příležitost k protiútoku."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:632
@@ -10353,39 +10376,44 @@ msgid ""
 "If you can defeat enough of their leaders to break the siege, the remainder "
 "will most certainly be forced to withdraw."
 msgstr ""
+"Pokud se vám podaří porazit dostatečný počet jejich velitelů, abyste "
+"prolomili obklíčení, zbývající jednotky budou s největší pravděpodobností "
+"nuceny ustoupit."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:636
 msgid "I won’t let you down, Delfador. Prepare for battle!"
-msgstr ""
+msgstr "Nezklamu tě, Delfadore. Připravte se na bitvu!"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:647
 msgid "Defeat any $leaders_to_kill enemy leaders"
-msgstr ""
+msgstr "Poraz $leaders_to_kill z nepřátelských vůdců"
 
 #. [objective]: condition=win
 #. $leaders_to_kill is always 3. $leaders_killed will be either 1 or 2.
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:655
 msgid "Defeat any $leaders_to_kill enemy leaders ($leaders_killed defeated)"
 msgstr ""
+"Poraz $leaders_to_kill z nepřátelských vůdců (počet poražených: "
+"$leaders_killed)"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:667
 msgid "Death of Lord Maddock"
-msgstr ""
+msgstr "Lord Maddok zemře"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:686
 msgid "It’s good to see you again, Delfador. I’m glad you’re still okay!"
-msgstr ""
+msgstr "Rád tě zase vidím, Delfadore. Jsem rád, že jsi stále v pořádku!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:690
 msgid ""
 "Alive and kicking indeed, young master. But there is no time for idle "
 "chatter."
-msgstr ""
+msgstr "Vskutku živý a čilý, mladý pane. Ale na zbytečné tlachání není čas."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:704
@@ -10393,6 +10421,8 @@ msgid ""
 "Tried t’ tell you this would happen, Maddock. You shoulda fought with us "
 "back when the going was better."
 msgstr ""
+"Snažila jsem se ti říct, že k tomu dojde, Maddoku. Měl jsi bojovat s námi, "
+"když to ještě šlo líp."
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:708
@@ -10401,6 +10431,9 @@ msgid ""
 "Elensefar has been kept free thus far, and nor is it by chance that it will "
 "stay that way today."
 msgstr ""
+"Jistě si vzpomínáš, že jsem to udělal, prostřednictvím svého syna. Není "
+"pouhou náhodou, že Elensefar zůstal dosud svobodný, a není ani náhodou, že "
+"tomu tak bude i dnes."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:742
@@ -10409,6 +10442,9 @@ msgid ""
 "down the river! An ill tiding indeed, for they carry fresh fighters from "
 "Weldyn."
 msgstr ""
+"Co to je? Lorde Maddoku, mistře Konráde, zřím mnoho malých lodí, jak plují "
+"po řece! To je skutečně neblahá zpráva, neboť vezou další bojovníky "
+"z Weldynu."
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:746
@@ -10416,6 +10452,8 @@ msgid ""
 "Impossible! What remains of the royal fleet already withdrew to the "
 "blockade; they don’t have the numbers for another amphibious attack."
 msgstr ""
+"To není možné! To, co zbylo z královského loďstva, se již stáhlo k blokádě. "
+"Na další vyloďovací útok nemají dostatek sil."
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:787
@@ -10423,6 +10461,8 @@ msgid ""
 "Damn... converted smallcraft. I shouldn’t have committed so many warships to "
 "the bridge defense."
 msgstr ""
+"Proklatě... přestavěná malá loď. Neměl jsem nasadit tolik válečných lodí na "
+"obranu mostu."
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:789
@@ -10430,6 +10470,8 @@ msgid ""
 "Charlock, move to intercept! Those transports must not be allowed to land on "
 "the isle!"
 msgstr ""
+"Charlock k nim vyrazí, aby je zadržel! Nesmíme dovolit, aby ty dopravní lodě "
+"přistály na ostrově!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:826
@@ -10437,6 +10479,8 @@ msgid ""
 "Elensefar Isle. Good work everyone — they weren’t ready for us to press the "
 "Carcyn fishers into service. But our fight’s not done yet."
 msgstr ""
+"Ostrov Elensefar. Dobrá práce, všichni – nečekali, že donutíme rybáře "
+"z Carcynu, aby nám pomohli. Ale náš boj ještě neskončil."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:835
@@ -10444,6 +10488,8 @@ msgid ""
 "Secure a beachhead and prepare to receive the rest of the boats. We must act "
 "swiftly, before they can pivot their defenses."
 msgstr ""
+"Zajistěte předmostí a připravte se na příjezd zbývajících člunů. Musíme "
+"jednat rychle, než stihnou přeskupit své obranné síly."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:845
@@ -10451,6 +10497,8 @@ msgid ""
 "We meet again, princess! I’ve beaten you before, and I’ll do so again. "
 "Elensefar deserves a better ruler than you."
 msgstr ""
+"Zase se potkáváme, princezno! Už jsem tě jednou porazil a udělám to znovu. "
+"Elensefar si zaslouží lepšího vládce než jsi ty."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:849
@@ -10458,6 +10506,8 @@ msgid ""
 "Konrad. I underestimated you once before — never again. You should have "
 "picked a different battle, princeling."
 msgstr ""
+"Konráde. Jednou jsem tě podcenila – už se to nikdy nebude opakovat. Měl sis "
+"vybrat jinou bitvu, princátko."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:854
@@ -10465,6 +10515,8 @@ msgid ""
 "Your Highness, we meet at last! I’ve heard stories about the battles you’ve "
 "won in your mother’s name. I won’t let Elensefar be one of them!"
 msgstr ""
+"Vaše Výsosti, konečně se setkáváme! Slyšel jsem příběhy o bitvách, které "
+"jste vyhrála ve jménu své matky. Nedopustím, aby tohle stalo v Elensefaru!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:858
@@ -10472,6 +10524,8 @@ msgid ""
 "Hello, “Konrad.” I think you’re a little out of your depth, pretender — the "
 "battlefield is no place for a con man."
 msgstr ""
+"Nazdar, „Konráde“. Myslím, že sis tak trochu ukousl příliš velké sousto tím, "
+"co si nárokuješ – bojiště není místo pro podvodníka."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:862
@@ -10479,6 +10533,8 @@ msgid ""
 "Your lies have sown enough discord and chaos among my people. How convenient "
 "that you’re here; I can capture both you and Maddock at the same time."
 msgstr ""
+"Tvé lži už mezi mým lidem zasely dost rozbrojů a zmatku. Jak příhodné, že "
+"jsi tady. Můžu tebe i Maddoka zajmout najednou."
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:874
@@ -10486,6 +10542,8 @@ msgid ""
 "Elensefar has weathered countless storms, Your Highness. Your queen will be "
 "neither the first nor the last that breaks upon our shores."
 msgstr ""
+"Elensefar už přečkal nespočet bouří, Vaše Výsosti. Vaše královna nebude ani "
+"první, ani poslední, která ztroskotá na našich březích."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:878
@@ -10494,23 +10552,30 @@ msgid ""
 "about your city. If it’s any consolation, when all’s said and done I intend "
 "to make sure you stand a fair trial."
 msgstr ""
+"Byl jsi schopný pán, Maddoku, a podle toho, co vím, ti na tvém městě opravdu "
+"záleží. Jestli tě to alespoň trochu utěší, až bude po všem, postarám se "
+"o to, abys měl spravedlivý soud."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:882
 msgid ""
 "As for you, Delfador... you’re going to regret what you did to my brother."
 msgstr ""
+"A co se týče tebe, Delfadore... budeš litovat toho, co jsi udělal mému "
+"bratrovi."
 
 #. [floating_text]
 #. $gold will be between 10 and 40.
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:914
 msgid "$gold gold"
-msgstr ""
+msgstr "$gold zlatých"
 
 #. [message]: role=lisar_skiff
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:960
 msgid "—how did you know?! It seems I’m not half so clever as I thought."
 msgstr ""
+"— jak jsi to věděl?! Zdá se, že nejsem ani z poloviny tak chytrá, jak jsem "
+"si myslela."
 
 #. [message]: role=lisar_skiff
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:966
@@ -10518,6 +10583,8 @@ msgid ""
 "You win this round, Konrad. I need to get out of here before this boat takes "
 "any more damage."
 msgstr ""
+"Tohle kolo jsi vyhrál, Konráde. Musím odtud vypadnout, než ta loď utrpí "
+"další škody."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:985
@@ -10525,6 +10592,8 @@ msgid ""
 "My last landed boat is badly damaged! I hate to retreat, but I can’t risk "
 "being trapped here and captured."
 msgstr ""
+"Moje poslední loď, která přistála, je těžce poškozená! Nerada se stahuji, "
+"ale nemůžu riskovat, že tu uvíznu a budu zajata."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1002
@@ -10532,6 +10601,8 @@ msgid ""
 "You prove your skills once again, cousin. A worthy foe indeed... Elensefar "
 "survives another day."
 msgstr ""
+"Zase jsi dokázal, co v tobě je, bratranče. Opravdu důstojný soupeř... "
+"Elensefar přežil další den."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1007
@@ -10540,12 +10611,14 @@ msgid ""
 "and a pretty face. I may be forced to flee the field today, but this isn’t "
 "over."
 msgstr ""
+"Podcenila jsem tě, „bratranče“ — zdá se, že jsi víc než jen dobrý herec "
+"a hezká tvář. Možná dnes budu nucena ustoupit, ale tím to nekončí."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1043
 msgid ""
 "That’s the first of the besieging leaders defeated! Keep pressing the attack!"
-msgstr ""
+msgstr "To je první poražený vůdce obléhajících vojsk! Pokračujte v útoku!"
 
 #. [message]: race=orc
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1074
@@ -10553,6 +10626,8 @@ msgid ""
 "Forget this! I was promised an easy fight full of plunder, not a flank and a "
 "rout! Deal with your problems yourselves, pink-skins."
 msgstr ""
+"Zapomeňte na to! Slíbili mi snadný boj plný kořisti, ne obchvat a drtivou "
+"porážku! Vyřešte si své problémy sami, bledé kůže."
 
 #. [message]: id=(self.hitpoints>0)
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1080
@@ -10560,6 +10635,8 @@ msgid ""
 "They’ve gone. I hate to retreat, but without support I can’t risk being "
 "trapped here and captured. We came so, so close to taking the city!"
 msgstr ""
+"Jsou pryč. Nenávidím ústup, ale bez podpory nemůžu riskovat, že tu uvíznu "
+"a nechám se zajmout. Byli jsme tak, tak blízko k dobytí města!"
 
 #. [message]: id=(self.hitpoints>0)
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1085
@@ -10568,11 +10645,14 @@ msgid ""
 "trapped here and captured. We already pushed dangerously hard just to get "
 "this far."
 msgstr ""
+"Jsou pryč. Nenávidím ústup, ale bez podpory nemůžu riskovat, že tu uvíznu "
+"a nechám se zajmout. Už jen to, že jsme se dostali až sem, nás stálo "
+"nebezpečně velké úsilí."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1097
 msgid "Useless orcs! You were hired for a siege, not a rout!"
-msgstr ""
+msgstr "Jste k ničemu, skřeti! Najali vás na obléhání, ne na úprk!"
 
 #. [message]: id=Lisar {OR( side=2,3,4 {AND canrecruit=yes} )}
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1102
@@ -10581,6 +10661,9 @@ msgid ""
 "city. With the north shore fallen, I can’t risk the whole army any further. "
 "We came so, so close to taking the city!"
 msgstr ""
+"Nenávidím ústup, ale už nám to přerostlo přes hlavu, když jsme postoupili "
+"tak daleko do města. Po pádu severního břehu nemohu riskovat a vést celou "
+"armádu ještě dál. Byli jsme tak, tak blízko k dobytí města!"
 
 #. [message]: id=Lisar {OR( side=2,3,4 {AND canrecruit=yes} )}
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1107
@@ -10589,11 +10672,14 @@ msgid ""
 "taking the city. We already pushed dangerously hard just to get this far — I "
 "can’t risk things any further."
 msgstr ""
+"Nenávidím ústup, ale po ztrátě severního břehu máme jen malou naději na "
+"dobytí města. Už to, že jsme se dostali až sem, nás stálo nebezpečně mnoho "
+"sil – nemůžu už dál riskovat."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1126
 msgid "We’ve driven them back! The siege of Elensefar is over!"
-msgstr ""
+msgstr "Zahnali jsme je! Obléhání Elensefaru skončilo!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1130
@@ -10602,6 +10688,9 @@ msgid ""
 "Maddock and I could not have carried the day without your help. Together we "
 "have won a great victory over tyranny."
 msgstr ""
+"Skvělá práce, Konráde. Měl jsem obavy, když ses rozhodl zapojit se do boje, "
+"ale Maddok a já bychom to bez tvé pomoci nezvládli. Společně jsme dosáhli "
+"velkého vítězství nad tyranií."
 
 #. [message]: speaker=Maddock
 #. "pigs will fly" is an expression indicating that something is very unlikely toh appen
@@ -10610,6 +10699,8 @@ msgid ""
 "Pigs will fly before the silver city bows to any queen. After the thrashing "
 "we gave them, they won’t return anytime soon."
 msgstr ""
+"Dříve budou prasata létat, než se Stříbrné město skloní před jakoukoli "
+"královnou. Po tom, jak jsme jim to nandali, se v dohledné době nevrátí."
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1139
@@ -10618,16 +10709,19 @@ msgid ""
 "yours to command — as well as many of the Elensefar thieves’ guild’s more "
 "enterprising young robbers."
 msgstr ""
+"Konráde, Elensefar ti dnes vděčí za mnoho. Všichni vojáci, které mohu "
+"uvolnit, jsou nyní pod tvým velením – stejně jako řada těch podnikavějších "
+"mladých chmatáků z elensefarského cechu zlodějů."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1141
 msgid "Konrad can now recruit Swordsmen, Pikemen, and Thieves!"
-msgstr ""
+msgstr "Konrád nyní může verbovat bojovníky s mečem, pikenýry a zloděje!"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1144
 msgid "May they serve you well. Keep up the good fight, my lord."
-msgstr ""
+msgstr "Ať ti dobře poslouží. Pokračuj v dobrém boji, můj pane."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1166
@@ -10635,6 +10729,8 @@ msgid ""
 "Sirs, we’re running low on supplies. We have only a few more chances to take "
 "Elensefar castle’s storerooms before we’ll be forced to retreat!"
 msgstr ""
+"Pánové, docházejí nám zásoby. Máme už jen několik posledních šancí na "
+"obsazení skladů hradu Elensefar, než budeme nuceni ustoupit!"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1170
@@ -10642,6 +10738,8 @@ msgid ""
 "Bah, this is starting to get ridiculous. I’m not sticking around forever, no "
 "matter what your queen promises me!"
 msgstr ""
+"Pah, tohle už začíná být směšné. Nebudu tu čekat věčně, ať už mi vaše "
+"královna slibuje cokoli!"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1181
@@ -10649,6 +10747,8 @@ msgid ""
 "Forget this! I was promised an easy fight full of plunder, not this siege "
 "that never ends! Deal with your problems yourselves, pink-skins."
 msgstr ""
+"Na to kašlu! Slíbili mi snadnej boj plnej kořisti, ne tohle nekonečný "
+"obléhání! Vyřešte si svoje problémy sami, bledý kůže."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1185
@@ -10656,26 +10756,30 @@ msgid ""
 "I hate to retreat, but we’re already overextended pushing just this far. We "
 "already exerted ourselves dangerously hard — I can’t risk things any further."
 msgstr ""
+"Nerada ustupuji, ale už nám to přerostlo přes hlavu, když jsme postoupili až "
+"tak daleko. Již jsme se namáhali nebezpečně moc – nemůžu ještě více riskovat."
 
 #. [message]: speaker=Maddock
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1199
 msgid "I surrender! I am beaten!"
-msgstr ""
+msgstr "Vzdávám se! Jsem poražen!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/10_Elensefar_Before.cfg:1203
 msgid "Alas, Maddock has capitulated. Elensefar is lost!"
-msgstr ""
+msgstr "Běda, Maddok se vzdal. Elensefar je ztracen!"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:230
 msgid "Fine, you idiots can keep the north shore! Orcs, retreat to the city."
 msgstr ""
+"Dobrá, vy pitomci si můžete nechat severní břeh! Skřeti, ustupte do města."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:236
 msgid "Fine, you idiots can keep the south shore! Orcs, retreat to the city."
 msgstr ""
+"Dobrá, vy pitomci si můžete nechat jižní břeh! Skřeti, ustupte do města."
 
 #. [message]: speaker=foxtail1
 #: data/campaigns/Heir_To_The_Throne/scenarios/11_Elensefar_After.cfg:291
