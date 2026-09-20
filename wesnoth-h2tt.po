@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-20 12:40+0200\n"
+"PO-Revision-Date: 2026-09-20 13:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3681,6 +3681,8 @@ msgid ""
 "New Recruits\n"
 "<i><b>Choose Two</b></i>:"
 msgstr ""
+"Noví rekruti\n"
+"<i><b>Vyber si dva:</b></i>"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1222
@@ -3816,6 +3818,7 @@ msgid ""
 "What brings you to th’ East Gate o’ Knalga, friends? You be wantin’ "
 "somethin’ from us, don’t you?"
 msgstr ""
+"Co vás přivádí k Východní bráně Knalgy, přátelé? Něco od nás chcete, že ano?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1376
@@ -3824,6 +3827,9 @@ msgid ""
 "instead. I help with a problem someone is having, and then they send some "
 "spare fighters to join my army. Can you and I arrange anything like that?"
 msgstr ""
+"No, abych byl upřímný, lidi obvykle chtějí něco ode <i><b>mne</b></i>. "
+"Pomůžu někomu vyřešit problém a on mi pak pošle pár záložních bojovníků, aby "
+"se přidali k mému vojsku. Mohl bych něco takového domluvit i s vámi?"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1380
@@ -3833,6 +3839,10 @@ msgid ""
 "ruin, an’ ye got the gall to ask if we have extra axe-arms to send out with "
 "ye?"
 msgstr ""
+"Záložní bojovníci? Tak dobrý vtip jsem neslyšel od té doby, co trollové "
+"obsadili Durrasil! Procházíš se po troskách naší říše, která upadla do zmaru "
+"a zkázy, a máš tu drzost se ptát, jestli nemáme nějaké sekery navíc, které "
+"bychom s tebou mohli poslat?"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1384
@@ -3840,11 +3850,13 @@ msgid ""
 "I’m afraid Geldar’s right. But problems — now problems we’ve got plenty of. "
 "Orc attacks, troll attacks, undead attacks. ’an now down in th’ mines—"
 msgstr ""
+"Obávám se, že Geldar má pravdu. Ale problémů – těch máme teď spoustu. Útoky "
+"skřetů, útoky trollů, útoky nemrtvých. A teď ještě pod námi v dolech —"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1388
 msgid "Relgorn, hush. That ain’t somethin’ fer outsiders to hear about."
-msgstr ""
+msgstr "Relgorne, mlč. O tom by se cizinci neměli dozvědět."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1392
@@ -3852,6 +3864,8 @@ msgid ""
 "Do ye got a better idea? We already tried t’ split ourselves up an’ help, "
 "an’ tha’s when trolls took the gatehouse!"
 msgstr ""
+"Máš snad lepší nápad? Už jsme zkusili se rozdělit a pomáhat si, a právě "
+"tehdy trollové obsadili strážnici!"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1397
@@ -3861,6 +3875,9 @@ msgid ""
 "cave-in down in th’ old mines. You get ’em out, we’ll make it worth yer "
 "while."
 msgstr ""
+"Poslouchej, člověče... Věřím ti jen proto, že se za tebe někdo zaručil, "
+"chápeš? Stačí, když víš, že někteří z našich lidí uvízli v těch starých "
+"dolech pod závalem. Dostanete je ven a my se vám za to řádně odvděčíme."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1409
@@ -3868,6 +3885,9 @@ msgid ""
 "Some o’ our people’re trapped in a cave-in down in th’ old mines. Tha’s all "
 "ye need to know. You get ’em out, an’ we’ll make it worth yer while."
 msgstr ""
+"Někteří z našich lidí uvízli v těch starých dolech pod závalem. To je "
+"všechno, co potřebuješ vědět. Dostanete je ven a my se vám za to řádně "
+"odvděčíme."
 
 #. [message]: speaker=Ragaril
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1427
@@ -3875,6 +3895,8 @@ msgid ""
 "Thank ye again, Konrad. May ye have better luck saving your home than we’ve "
 "had for ours."
 msgstr ""
+"Ještě jednou ti děkuji, Konráde. Ať máš při záchraně svého domova větší "
+"štěstí než jsme měli my při ochraně toho našeho."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1461
@@ -3883,6 +3905,9 @@ msgid ""
 "trolls an’ undead squattin’ in our halls, and e’en trustworthily helped us "
 "in the heart o’ Knalga itself."
 msgstr ""
+"Co to má znamenat? Konráde, vyhnali jste skřety ze Dveří, vyhladili trolly "
+"a nemrtvé, kteří se usadili v našich sálech, a dokonce jste nám věrně "
+"pomohli přímo v samém srdci Knalgy."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1465
@@ -3891,6 +3916,9 @@ msgid ""
 "many o’ the Doors-folk are still with ’em, enslaved. But ye’ve given us "
 "dwarves more breathin’ room than we’ve had in many a year."
 msgstr ""
+"Vím, že se trollové vrátí. Vím, že se vrátí i skřeti a že spousta lidí "
+"z Dveří je stále s nimi, v otroctví. Ale vy jste nám trpaslíkům poskytli víc "
+"prostoru k dýchání, než jsme po mnoho let měli."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1470
@@ -3899,6 +3927,9 @@ msgid ""
 "anyway. I’m sendin’ the best lads in Knalga to help you fight that queen o’ "
 "yers."
 msgstr ""
+"Vím, že jsi říkal, že za pomoc nechceš žádnou odměnu, ale stejně ji "
+"dostaneš. Posílám ty nejlepší chlapy z Knalgy, aby vám pomohli v boji proti "
+"té vaší královně."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1474
@@ -3906,6 +3937,8 @@ msgid ""
 "Konrad can now recruit Dwarvish Steelclads, Stalwarts, Thunderguards, and "
 "Berserkers!"
 msgstr ""
+"Konrád nyní může verbovat trpasličí těžkooděnce, siláky, hromové stráže "
+"a berserky!"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1499
 msgid "???"
