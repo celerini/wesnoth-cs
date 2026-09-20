@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-20 11:35+0200\n"
+"PO-Revision-Date: 2026-09-20 12:01+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3423,6 +3423,8 @@ msgid ""
 "What happened here was such a tragedy... do you know anything more than I "
 "do, Ulfdain?"
 msgstr ""
+"To, co se tu stalo, bylo taková neštěstí... Víš o tom něco víc než já, "
+"Ulfdaine?"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:844
@@ -3431,6 +3433,9 @@ msgid ""
 "slaughter. My father an’ his father alike perished defendin’ th’ West Gate, "
 "an’ soon after fell the Doors, an’ our King Thunedain with them."
 msgstr ""
+"Ano... Byla to doba zkázy i velkých činů, ohnivá a krvavá, plná masakrů. Můj "
+"otec i jeho otec zahynuli při obraně Západní brány a brzy nato padly Dveře "
+"a náš král Thunedain spolu s nimi."
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:848
@@ -3440,6 +3445,10 @@ msgid ""
 "once-proud people. Or betrayin’ their kin to start anew in human lands, like "
 "me..."
 msgstr ""
+"V těch letech zemřela ta lepší část naší duše. Od té doby jsme my trpaslíci "
+"národem v úpadku, fňukáme ve svých tunelech jako umírající zbytky kdysi "
+"hrdého národa. Nebo zrazujeme své příbuzné, abychom mohli začít nanovo "
+"v zemích lidí, jako já..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:852
@@ -3447,6 +3456,9 @@ msgid ""
 "I’ve never-before heard you speak so grimly, Ulfdain. I’m sorry for your "
 "loss. Is there nothing we can do to restore Knalga to its former glory?"
 msgstr ""
+"Ještě nikdy jsem tě neslyšel mluvit tak ponuře, Ulfdaine. Je mi líto tvé "
+"ztráty. Opravdu se nedá nic udělat, abychom Knalze vrátili její dřívější "
+"slávu?"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:856
@@ -3455,6 +3467,9 @@ msgid ""
 "besides. No, there ain’t no use cryin’ over it. Ah’ve given up hope; it’s "
 "only death in battle tha’ I wish fer now..."
 msgstr ""
+"Můžeš zkusit porazit všechny skřety ze severu, a k tomu ještě trolly "
+"a nemrtvé. Ne, nemá smysl nad tím naříkat. Já už jsem ztratil naději. Teď si "
+"přeju už jen smrt v boji..."
 
 #. [message]: speaker={KONRAD_OR_NOBODY}
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:871
@@ -3463,6 +3478,9 @@ msgid ""
 "restore Knalga to its former glory? Do you know anything more than I do, my "
 "dwarvish friend?"
 msgstr ""
+"To, co se tady stalo, bylo takové neštěstí... Opravdu se nedá nic udělat, "
+"abychom Knalze vrátili její dřívější slávu? Víš o tom něco víc než já, můj "
+"trpasličí příteli?"
 
 #. [message]: speaker=$dwarf_id
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:875
@@ -3470,6 +3488,8 @@ msgid ""
 "Aye, but ’tis not a time we dwarves like to talk about. The West Gate "
 "fallen, the Dwarven Doors sacked..."
 msgstr ""
+"Ba, ale o té době my trpaslíci neradi mluvíme. Západní brána padla, "
+"Trpasličí Dveře byly vypleněny..."
 
 #. [message]: speaker=$dwarf_id
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:879
@@ -3479,6 +3499,10 @@ msgid ""
 "people in decline, sniveling in our tunnels, th’ dyin’ dregs of a once-proud "
 "people..."
 msgstr ""
+"Ne, s tím nic nenaděláš, ledaže bys dokázal porazit všechny skřety ze "
+"severu, a k tomu ještě trolly a nemrtvé. My trpaslíci jsme odsouzeni "
+"k úpadku, k fňukání v našich tunelech, jako umírající zbytky kdysi hrdého "
+"národa..."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:924
