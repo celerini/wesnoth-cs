@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-20 13:54+0200\n"
+"PO-Revision-Date: 2026-09-20 14:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3942,7 +3942,7 @@ msgstr ""
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1499
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1500
 msgid ""
@@ -3987,7 +3987,7 @@ msgstr "Ach... moje hlava! Co se to právě stalo?"
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/overworld/00c_northlands.cfg:1553
 msgid "There is nothing here of note. Was there ever?"
-msgstr ""
+msgstr "Není tu nic, co by stálo za zmínku. Bylo tu vůbec někdy něco?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/overworld/00d_sceptre_scenarios.cfg:25
