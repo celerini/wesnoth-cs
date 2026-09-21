@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-09-20 17:15+0200\n"
+"PO-Revision-Date: 2026-09-21 20:03+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -11557,7 +11557,7 @@ msgstr "Hora gryfů"
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:37
 msgid "Burlin’s Crew"
-msgstr ""
+msgstr "Burlinova parta"
 
 #. [side]: type=Gryphon, id=Mother Gryphon
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:65
@@ -11579,11 +11579,14 @@ msgid ""
 "beautiful gryphons who come here to nest. It’s nice to take a break from all "
 "our fighting and experience nature."
 msgstr ""
+"Proslulá Hora gryfů! Není to nejvyšší hora ve Wesnothu, ani nejširší, ale "
+"básníci i učenci ji oslavují díky nádherným gryfům, kteří sem přilétají "
+"hnízdit. Je příjemné si od všech těch bojů odpočinout a užít si přírodu."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:172
 msgid "Hey! Hey, kid!"
-msgstr ""
+msgstr "Hej! Hej, kluku!"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:177
@@ -11591,11 +11594,13 @@ msgid ""
 "You look like a strapping young lad! What do you say about doin’ a bit o’ "
 "work for old uncle Burlin?"
 msgstr ""
+"Vypadáš jako statný mladík! Co bys řekl na to, pomoct trochu starému "
+"strýčkovi Burlinovi?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:181
 msgid "I might be interested. What kind of work?"
-msgstr ""
+msgstr "Možná by mě to zajímalo. O jakou práci jde?"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:185
@@ -11604,6 +11609,9 @@ msgid ""
 "collect fifty gryphon eggs, see? But I ain’t excited to risk my crew’s lives "
 "on the job."
 msgstr ""
+"O tu <b><i>nejlepší</i></b> práci: dobře se za ni platí! Mám totiž zakázku "
+"na sběr padesáti vajec gryfů, chápeš? Ale moc se mi nechce riskovat životy "
+"lidí z mé party při tomhle úkolu."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:189
@@ -11611,6 +11619,8 @@ msgid ""
 "So, I say you an’ I make a deal. You kill off the gryphons for me, an’ when "
 "I make my sale t’ the queen I’ll split the profit with ye’, 70-30."
 msgstr ""
+"Tak co, myslím, že se domluvíme. Ty pro mě ty gryfy vyřídíš a až to prodám "
+"královně, rozdělím se s tebou o zisk v poměru 70 ku 30."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:193
@@ -11618,6 +11628,8 @@ msgid ""
 "The queen? You’re working for Asheviere?! I’d never ally myself with such a "
 "villain!"
 msgstr ""
+"Královna? Ty pracuješ pro Ašvíru?! S takovým padouchem bych se nikdy "
+"nespojil!"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:197
@@ -11626,6 +11638,9 @@ msgid ""
 "Wesnoth? Who else would be in charge, that good-for-nothin’ rebel Konrad? Hey"
 "— did I say 70-30? I meant 50-50!"
 msgstr ""
+"... no jasně, že pro ni pracuju! Copak nejsme uprostřed Wesnothu? Kdo jiný "
+"by tu měl velet, ten rebel a budižkničemu Konrád? Hele – říkal jsem 70 ku "
+"30? Myslel jsem 50 ku 50!"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:202
@@ -11634,6 +11649,9 @@ msgid ""
 "traitor slackjaw gives up ’is own kind? An’ this IS Prince Konrad, you "
 "numbskull! Show some respect!"
 msgstr ""
+"To je ale pořádná hromada nesmyslů, jestli jsem někdy nějakou slyšel! Co je "
+"to za trpasličího zrádce s otevřenou hubou, že zradí vlastní druh? A tohle "
+"JE princ Konrád, ty tupče! Projev trochu úcty!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:207
@@ -11642,6 +11660,9 @@ msgid ""
 "of Asheviere’s! No amount of money will turn my blade. Raise your axe and "
 "make ready for battle, villain!"
 msgstr ""
+"Já <b><i>jsem</i></b> Konrád, následník trůnu Wesnothu a zapřisáhlý nepřítel "
+"Ašvíry! Žádné peníze mě nedonutí odložit meč. Pozvedni sekeru a připrav se "
+"na boj, darebáku!"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:212
@@ -11649,6 +11670,8 @@ msgid ""
 "Err... look, Your Highness, this is just business. I’ve got nothin’ ’gainst "
 "neither you nor Asheviere, but I do want to keep my word an’ do my job."
 msgstr ""
+"Ehm... podívejte, Vaše Výsosti, jde tu jen o obchod. Nemám nic proti vám ani "
+"proti Ašvíře, ale chci dodržet své slovo a udělat svou práci."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:216
@@ -11657,6 +11680,8 @@ msgid ""
 "have your pick of the eggs. Gryphons’re worth somethin’ fierce in a scrap, "
 "ye ken?"
 msgstr ""
+"Teď se mnou spolupracujte, a až vyprázdním hnízda, nechám vás, abyste si "
+"vybrali, která vejce chcete. Gryfové mají v bitvě sakra velkou cenu, víte?"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:218
@@ -11664,6 +11689,8 @@ msgid ""
 "I’ll even send some o’ my crew with you, to help you train your gryphons "
 "once they hatch!"
 msgstr ""
+"Dokonce s vámi pošlu pár členů z mé party, aby vám pomohli s výcvikem gryfů, "
+"až se vylíhnou!"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:222
@@ -11671,6 +11698,8 @@ msgid ""
 "You get yer rebel army, an’ I get my big sack o’ gold from the queen. "
 "Everyone wins, an’ nobody has to die."
 msgstr ""
+"Ty si necháš svou povstaleckou armádu a já si vezmu svůj velký pytel zlata "
+"od královny. Všichni na tom vydělají a nikdo nemusí zemřít."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:228
@@ -11678,6 +11707,8 @@ msgid ""
 "Agree to Burlin’s deal: Konrad learns to recruit Gryphon Riders and Dwarvish "
 "Scouts"
 msgstr ""
+"Souhlasit s Burlinovou dohodou: Konrád se naučí verbovat jezdce na gryfech "
+"a trpasličí hlídky"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:235
@@ -11685,11 +11716,13 @@ msgid ""
 "Fight Burlin: Asheviere loses $s50_burlin_income_penalty income and cannot "
 "recruit Gryphon Riders in the final scenario"
 msgstr ""
+"Bojovat s Burlinem: Ašvíra v posledním scénáři přichází o příjem ve výši "
+"$s50_burlin_income_penalty a nemůže verbovat jezdce na gryfech"
 
 #. [message]: type=Young Ogre
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:263
 msgid "Uhh... who you? You squishy! Me squish you!"
-msgstr ""
+msgstr "Uhu... kdo ty? Ty měkkouš! Já rozmáčknu tě!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:298
@@ -11698,6 +11731,8 @@ msgid ""
 "you make a valid point. I’ll need gryphons and dwarves if I want my army to "
 "be victorious."
 msgstr ""
+"Dobře. Nerad se jakkoli spojuji s temnou královnou, ale máš pravdu. Budu "
+"potřebovat gryfy a trpaslíky, pokud chci, aby moje vojsko zvítězilo."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:302
@@ -11705,38 +11740,40 @@ msgid ""
 "Great! I knew ye’d come round. Tha’ big gryphon in the middle is the "
 "matriarch — kill her off an’ we’ll have no trouble gettin’ the eggs we need."
 msgstr ""
+"Skvělé! Věděl jsem, že si to rozmyslíš. Ten velký gryf uprostřed je hlava "
+"rodu – zabij ji a nebudeme mít žádný problém sehnat vejce, která potřebujeme."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:314
 msgid "Defeat the gryphon leader"
-msgstr ""
+msgstr "Poraz vůdkyni gryfů"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:320
 msgid "Death of Burlin"
-msgstr ""
+msgstr "Burlin zemře"
 
 #. [message]: speaker=Mother Gryphon
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:337
 msgid "Krawww! Krawww..."
-msgstr ""
+msgstr "Krááu! Krááu..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:348
 msgid ""
 "With the matriarch dead, the rest of them have fled! The mountain is silent "
 "once again."
-msgstr ""
+msgstr "Hlava rodu je mrtvá a ostatní uprchli! Hora opět ztichla."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:353
 msgid "Twenty..."
-msgstr ""
+msgstr "Dvacet..."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:358
 msgid "Forty..."
-msgstr ""
+msgstr "Čtyřicet..."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:363
@@ -11744,16 +11781,19 @@ msgid ""
 "Fifty! That’s all I need. As promised, the rest of the eggs are yours. And "
 "here’s some o’ my crew to help you ride ’em once they hatch. Great work, kid."
 msgstr ""
+"Padesát! To je přesně to, co potřebuju. Jak jsem slíbil, zbylá vejce jsou "
+"tvá. A tady máš pár mých lidí, kteří ti pomůžou s nimi létat, až se "
+"vylíhnou. Skvělá práce, kluku."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:365
 msgid "Konrad can now recruit Gryphon Riders and Dwarvish Scouts!"
-msgstr ""
+msgstr "Konrád nyní může verbovat jezdce na gryfech a trpasličí hlídky!"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:381
 msgid "Ack! So much fer my gold..."
-msgstr ""
+msgstr "Ach jo! Tak to mám po svém zlatě..."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:395
@@ -11761,6 +11801,8 @@ msgid ""
 "Oy, can ye hurry it up? Time is money, an’ I ain’t makin’ any standin’ "
 "around!"
 msgstr ""
+"No tak, můžete trochu pohnout? Čas jsou prachy a já se tu nebudu jen tak "
+"poflakovat!"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:402
@@ -11768,17 +11810,21 @@ msgid ""
 "Ah, forget it, yer takin’ too long. I’ll deal with this meself — an’ keep "
 "all the reward for meself too!"
 msgstr ""
+"Eh, kašlu na to, trvá vám to moc dlouho. Vyřídím to sám – a odměnu si taky "
+"nechám celou pro sebe!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:425
 msgid ""
 "I said raise your axe, villain! Any friend of Asheviere’s is a foe of mine!"
 msgstr ""
+"Řekl jsem pozvedni sekeru, darebáku! Každý, kdo je přítelem Ašvíry, je mým "
+"nepřítelem!“"
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:429
 msgid "Well, I tried. It’s yer funeral, kid."
-msgstr ""
+msgstr "No, zkusil jsem to. Tvoje škoda, mladej."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:436
@@ -11786,11 +11832,13 @@ msgid ""
 "Hey boys, wake up an’ set up camp! Looks like we’re gonna need to fight fer "
 "it after all!"
 msgstr ""
+"Hej, kluci, vzbuďte se a rozbijte tábor! Vypadá to, že o to nakonec budeme "
+"muset bojovat!"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:451
 msgid "Defeat Burlin"
-msgstr ""
+msgstr "Poraz Burlina"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:471
@@ -11798,6 +11846,8 @@ msgid ""
 "You’d think these gryphons would show a little more gratitude, instead of "
 "trying to kill us..."
 msgstr ""
+"Člověk by si myslel, že by ti gryfové mohli projevit trochu víc vděčnosti, "
+"místo aby se nás snažili zabít..."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:483
@@ -11805,11 +11855,13 @@ msgid ""
 "Ah, humbug. Now the queen’ll ne’er get her gryphons... an’ I’ll ne’er get my "
 "gold..."
 msgstr ""
+"Ale, nešť. Teď už královna ty svý gryfy nikdy nedostane... a já neuvidím ani "
+"floka..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:490
 msgid "Even on his deathbed, money is all he cares about."
-msgstr ""
+msgstr "I na smrtelné posteli mu jde jen o peníze."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:498
@@ -11817,6 +11869,8 @@ msgid ""
 "That’s why we have to fight her. Not for my sake, but for all the people "
 "suffering under Asheviere’s lash."
 msgstr ""
+"Proto s ní musíme bojovat. Ne kvůli mně, ale kvůli všem lidem, kteří trpí "
+"pod Ašvířiným bičem."
 
 #. [message]: speaker=Burlin
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:517
@@ -11824,6 +11878,8 @@ msgid ""
 "Argh, this is takin’ too long. I’d better send a messenger to Dan’Tonk an’ "
 "call for help."
 msgstr ""
+"Argh, tohle trvá moc dlouho. Radši pošlu posla do Dan’Tonku a zavolám "
+"o pomoc."
 
 #. [message]: role=messenger
 #: data/campaigns/Heir_To_The_Throne/scenarios/14_Gryphon_Mountain.cfg:533
@@ -11831,6 +11887,8 @@ msgid ""
 "Ah’m back, Burlin! An’ I’ve brought a whole army with me — th’ queen’s "
 "pretty excited to finally capture the rebel prince!"
 msgstr ""
+"Jsem zpátky, Burline! A přivedl jsem s sebou celou armádu – královna se už "
+"moc těší, až konečně zajme toho vzpurného prince!"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:7
