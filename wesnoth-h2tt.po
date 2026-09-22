@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-21 20:03+0200\n"
+"PO-Revision-Date: 2026-09-22 20:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -11900,7 +11900,7 @@ msgstr "Údolí smrti"
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:37
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:100
 msgid "Warrior Monks"
-msgstr ""
+msgstr "Bojovní mniši"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:233
@@ -11909,6 +11909,9 @@ msgid ""
 "find aid. You must return with us to help our home, else all may soon be "
 "lost!"
 msgstr ""
+"Zdravím vás, cizinci! Pečeti selhávají a starší sestra nás poslala hledat "
+"pomoc. Musíte se s námi vrátit a pomoci našemu domovu, jinak může být brzy "
+"vše ztraceno!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:237
@@ -11916,6 +11919,8 @@ msgid ""
 "Don’t worry, warrior, we’ve already been to your home and fought to restore "
 "the seals! Your people are safe."
 msgstr ""
+"Neboj se, válečníku, už jsme u tebe doma byli a bojovali za obnovení pečetí! "
+"Tvůj lid je v bezpečí."
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:241
@@ -11924,12 +11929,15 @@ msgid ""
 "us in battle against these undead stragglers, and my warriors and I shall be "
 "glad to join you."
 msgstr ""
+"Je to možné? To je skvělá zpráva! Máš mou nehynoucí vděčnost, mladíku. Pomoz "
+"nám v boji proti těmto zbývajícím nemrtvým a moji válečníci i já se k tobě "
+"rádi připojíme."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:247
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:281
 msgid "Hail, strangers! How have these undead come to trouble you?"
-msgstr ""
+msgstr "Zdravím vás, cizinci! Jak to, že vás ti nemrtví přišli obtěžovat?"
 
 #. [message]: speaker=Moremirmu
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy infantry) of Moremirmu's order
@@ -11939,6 +11947,8 @@ msgid ""
 "again lay eyes upon a fellow brother of the faith. But what are undead doing "
 "so near to our hallowed home?"
 msgstr ""
+"Cizinci? Ne, Konráde, to jsou moji bratři! Kaelore, je dobré opět spatřit "
+"bratra ve víře. Ale co dělají nemrtví tak blízko našeho posvátného domova?"
 
 #. [message]: speaker=Kaelor
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy infantry) of Kaleor's order
@@ -11947,6 +11957,9 @@ msgid ""
 "Grim tidings, brother Moremirmu! The seals are failing, and the sister "
 "senior sent us to cut through these restless dead and find aid for our home!"
 msgstr ""
+"Smutné zprávy, bratře Moremirmu! Pečeti selhávají a starší sestra nás "
+"poslala, abychom se probojovali skrz tyto neklidné mrtvé a sehnali pomoc pro "
+"náš domov!"
 
 #. [message]: speaker=Moremirmu
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy infantry) of Moremirmu's order
@@ -11956,11 +11969,14 @@ msgid ""
 "brother. Yet now have I returned — and with me comes a lost prince and his "
 "warriors most righteous, ready to aid you!"
 msgstr ""
+"Ty pečeti? U Světla! Byl jsem pryč z domova až příliš dlouho, bratře. Teď "
+"jsem se však vrátil – a s sebou přivádím ztraceného prince a jeho nejlepší "
+"válečníky, kteří jsou připraveni vám pomoci!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:267
 msgid "I don’t understand. Moremirmu, what’s going on?"
-msgstr ""
+msgstr "Tomu nerozumím. Moremirmu, co se to děje?"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:271
@@ -11970,6 +11986,9 @@ msgid ""
 "my home, yet Kaelor reports that it is weakening. Undead have begun to slip "
 "through."
 msgstr ""
+"Jsou to spoluslužebníci světla, Konráde. Muži z mého domova – kláštera, "
+"který leží několik dní cesty na sever. Můj domov chrání mocné kouzlo, ale "
+"Kaelor hlásí, že slábne. Nemrtví se začínají dostávat ven."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:275
@@ -11977,6 +11996,8 @@ msgid ""
 "We must fight through these undead and go at once to their aid, for without "
 "our help they may soon lose all!"
 msgstr ""
+"Musíme se probojovat skrz tyto nemrtvé a okamžitě jim přijít na pomoc, neboť "
+"bez naší pomoci by mohli brzy přijít o všechno!"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:285
@@ -11985,6 +12006,10 @@ msgid ""
 "sister senior sent us to cut through these restless dead and find aid for "
 "our home! But who are you to ask, stranger of the south?"
 msgstr ""
+"Naopak, to my jsme přišli, abychom jim způsobili potíže! Pečeti selhávají "
+"a nejstarší sestra nás poslala, abychom se prosekali skrz tyto neklidné "
+"mrtvé a sehnali pomoc pro náš domov! Ale kdo jsi ty, že se ptáš, cizinče "
+"z jihu?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:289
@@ -11992,6 +12017,8 @@ msgid ""
 "Well met. I am Konrad. But I don’t understand — you said you’re looking for "
 "help?"
 msgstr ""
+"Rád vás poznávám. Jmenuji se Konrád. Ale nerozumím tomu – říkal jsi, že "
+"hledáte pomoc?"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:293
@@ -11999,6 +12026,9 @@ msgid ""
 "Indeed. I come from a monastery, some days travel northwards. A powerful "
 "magic that once protected my home has weakened, and I was sent to seek aid."
 msgstr ""
+"To je pravda. Přicházím z kláštera, který leží několik dní cesty na sever. "
+"Mocné kouzlo, které kdysi chránilo můj domov, zesláblo, a tak mě vyslali, "
+"abych vyhledal pomoc."
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:297
@@ -12007,6 +12037,9 @@ msgid ""
 "alongside me to vanquish these undead now, then return with us north and "
 "help our home. Otherwise, all shall soon be lost!"
 msgstr ""
+"Pokud však sloužíš světlu a ne temnotě, pak jsi tou pomocí ty sám! Bojuj po "
+"mém boku, abychom nyní porazili tyto nemrtvé, a pak se s námi vrať na sever "
+"a pomoz našemu domovu. Jinak bude brzy vše ztraceno!"
 
 #. [objective]: condition=win
 #. [objective]: description=<span strikethrough='true' color='#A9A9A9'>, condition=win
@@ -12014,12 +12047,12 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:313
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:321
 msgid "Protect Kaelor: recruit Heavy Infantrymen"
-msgstr ""
+msgstr "Ochraň Kaelora: verbuješ těžkooděnce"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:349
 msgid "Kaelor, who are you people? How did all these undead come to be here?"
-msgstr ""
+msgstr "Kaelore, kdo jste vy? Jak se sem dostali všichni ti nemrtví?"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:353
@@ -12027,6 +12060,8 @@ msgid ""
 "The hills to the north — now the home of my order — were once a wholly "
 "accursed place, blighted by necromancy and consumed by darkness."
 msgstr ""
+"Kopce na severu – kde nyní sídlí můj řád – byly kdysi zcela prokletým "
+"místem, zničeným nekromancií a pohlceným temnotou."
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:357
@@ -12036,6 +12071,10 @@ msgid ""
 "are stragglers of Ras-Tabahn’s. We only know that centuries ago, the crown "
 "used the ruby to seal them underground with powerful magic."
 msgstr ""
+"Nevíme, odkud se to zlo vzalo. Někteří se domnívají, že nekromanti jsou "
+"vládci lichů, kteří přežili invazi ze západu. Jiní věří, že jde o zbytky Ras-"
+"Tabahnových vojsk. Víme jen to, že před staletími je královská koruna pomocí "
+"rubínu a mocného kouzla uvěznila pod zemí."
 
 #. [message]: speaker=$speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:361
@@ -12044,6 +12083,9 @@ msgid ""
 "to cleanse this place of evil. We built our monastery here to ensure that "
 "the darkness never escapes."
 msgstr ""
+"Muži a ženy našeho řádu, služebníci světla, si dali za úkol očistit toto "
+"místo od zla. Postavili jsme zde náš klášter, abychom zajistili, že temnota "
+"odtud nikdy neunikne."
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:365
@@ -12051,11 +12093,13 @@ msgid ""
 "But it has been decades since the Crown sent to us men or supplies, and the "
 "power of our order has waned. Now the seals are beginning to fail..."
 msgstr ""
+"Už jsou to však desítky let, co nám Koruna poslala posily nebo zásoby, a moc "
+"našeho řádu upadá. Nyní začínají selhávat i pečetě..."
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:380
 msgid "My light fades..."
-msgstr ""
+msgstr "Moje světlo slábne..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:384
@@ -12063,6 +12107,8 @@ msgid ""
 "Those armored warriors would surely have been of great help in our fight for "
 "the crown. If only we could have protected them..."
 msgstr ""
+"Ti obrnění válečníci by nám jistě byli velkou oporou v boji o korunu. "
+"Kdybychom je jen mohli ochránit..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:408
@@ -12070,6 +12116,8 @@ msgid ""
 "This ruined skeleton bears a curious amulet. Magical, perhaps? There is an "
 "inscription explaining its function..."
 msgstr ""
+"Tato zničené kostra má u sebe podivný amulet. Možná je kouzelný? Je na něm "
+"nápis, který objasňuje jeho funkci..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:420
@@ -12078,6 +12126,9 @@ msgid ""
 "have been a craftsman of legendary skill. Fortune has smiled upon us today — "
 "I will take this artifact for myself."
 msgstr ""
+"Jak podivné. Po smrti byla tato kostra loutkou. Ale za života to musel být "
+"řemeslník s legendární zručností. Štěstí se na nás dnes usmálo – tento "
+"artefakt si vezmu pro sebe."
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:439
@@ -12086,6 +12137,9 @@ msgid ""
 "already rescued, there is nothing to prevent my brothers and I from joining "
 "you on your quest, Konrad."
 msgstr ""
+"Hle, zvítězili jsme! A jelikož byla pečeť již obnovena a náš domov "
+"zachráněn, nic nám s bratry nebrání, abychom se k tobě připojili na tvé "
+"výpravě, Konráde."
 
 #. [message]: speaker=Kaelor
 #. "brother" is not literal, instead referring to fellow warrior monks (heavy infantry) of Kaleor's order
@@ -12095,6 +12149,8 @@ msgid ""
 "good warrior. My brothers and I would be honored to continue fighting by "
 "your side."
 msgstr ""
+"Hle! Dosáhli jsme zářivého vítězství nad silami temnoty, statečný bojovníku. "
+"Pro mě i mé bratry by bylo ctí pokračovat v boji po tvém boku."
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:449
@@ -12103,11 +12159,14 @@ msgid ""
 "stems from what lies to the north! I implore you, brave Konrad, travel north "
 "and rescue my home!"
 msgstr ""
+"Těchto několik ohavností však bylo pouhými můrami, které přilákal temný "
+"plamen vycházející z toho, co se skrývá na severu! Prosím tě, statečný "
+"Konráde, vydej se na sever a zachraň můj domov!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:454
 msgid "Konrad can now recruit Heavy Infantrymen!"
-msgstr ""
+msgstr "Konrád nyní může verbovat těžkooděnce!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:461
@@ -12116,6 +12175,9 @@ msgid ""
 "slain, we have lost the opportunity to gain a new ally in our fight for the "
 "crown."
 msgstr ""
+"Nemrtví byli poraženi! Avšak vzhledem k tomu, že byl zabit vůdce bojovných "
+"mnichů, přišli jsme o příležitost získat nového spojence v našem boji "
+"o korunu."
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:484
@@ -12123,6 +12185,8 @@ msgid ""
 "Make haste, Konrad! Should we tarry too long, the seals shall surely break "
 "and our home shall surely be destroyed!"
 msgstr ""
+"Pospěš si, Konráde! Jestli se budeme zdržovat příliš dlouho, pečetě se "
+"určitě rozbijí a náš domov bude zcela jistě zničen!"
 
 #. [message]: speaker=Kaelor
 #: data/campaigns/Heir_To_The_Throne/scenarios/15a_Valley_of_Death_part1.cfg:495
@@ -12130,6 +12194,8 @@ msgid ""
 "Alas, we have tarried too long. Even should we yet win the battle today, "
 "surely the seals have already broken, destroying our home...."
 msgstr ""
+"Bohužel jsme se zdrželi příliš dlouho. I kdybychom ještě dnes bitvu vyhráli, "
+"pečetě se jistě již rozbily a zničily náš domov..."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:20
