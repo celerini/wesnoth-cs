@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-20 19:25-0500\n"
-"PO-Revision-Date: 2026-09-06 10:04+0200\n"
+"PO-Revision-Date: 2026-09-22 18:11+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6323,10 +6323,8 @@ msgid "multiplayer^MP"
 msgstr "HVH"
 
 #: src/game_initialization/create_engine.cpp:661
-#, fuzzy
-#| msgid "Variable not found"
 msgid "Era not found: "
-msgstr "Proměnná nenalezena"
+msgstr "Éra nebyla nalezena: "
 
 #: src/game_initialization/depcheck.cpp:495
 msgid "Failed to resolve dependencies"
