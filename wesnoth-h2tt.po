@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-22 20:20+0200\n"
+"PO-Revision-Date: 2026-09-23 20:57+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12205,27 +12205,27 @@ msgstr "Údolí smrti II"
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:67
 msgid "Aimucasur"
-msgstr ""
+msgstr "Aimucasur"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:77
 msgid "Selda-Mana"
-msgstr ""
+msgstr "Selda-Mana"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:129
 msgid "Sister Kenara"
-msgstr ""
+msgstr "sestra Kenara"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:131
 msgid "Brother Vinrar"
-msgstr ""
+msgstr "bratr Vinrar"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:132
 msgid "Sister Miryan"
-msgstr ""
+msgstr "sestra Miryan"
 
 #. [message]: speaker=$speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:176
@@ -12233,18 +12233,20 @@ msgid ""
 "Lo and behold, Konrad: my home! At last I return... but we are too late! "
 "Undead! The seal has already broken!"
 msgstr ""
+"Hle, Konráde: můj domov! Konečně jsem se vrátil... ale přišli jsme příliš "
+"pozdě! Nemrtví! Pečeť už byla prolomena!"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:182
 msgid ""
 "Lo and behold, Konrad! Fate has brought us to my home; the monastery of my "
 "order."
-msgstr ""
+msgstr "Hle, Konráde! Osud nás přivedl do mého domova – do kláštera mého řádu."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:186
 msgid "... but what calamity is this? Undead! The sacred seal has broken!"
-msgstr ""
+msgstr "... ale co je to za pohromu? Nemrtví! Posvátná pečeť byla prolomena!"
 
 #. [message]: speaker=Myrilell
 #. "Brother" is not literal. Rather, the speaker and the "brother" are both members of a monastic society
@@ -12253,6 +12255,9 @@ msgid ""
 "Brother, you return to us! And with aid from the outside! Yet your arrival "
 "is but a silver lining, too little too late, for our strength has failed."
 msgstr ""
+"Bratře, ty ses k nám vrátil! A to s pomocí zvenčí! Tvůj příchod je však jen "
+"paprsek naděje, příliš malý a příliš pozdní, neboť naše síly se již "
+"vyčerpaly."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:210
@@ -12261,6 +12266,9 @@ msgid ""
 "outside... Yet your arrival is but a silver lining, too little too late, for "
 "our strength has failed."
 msgstr ""
+"Cizinče, vítáme tě v našem domě! Dlouho jsme čekali na pomoc zvenčí... Tvůj "
+"příchod je však jen paprsek naděje, příliš malý a příliš pozdní, neboť naše "
+"síly se již vyčerpaly."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:215
@@ -12269,6 +12277,10 @@ msgid ""
 "things sprung from the deepest nightmares of humanity. With the spell broken "
 "that once sealed them below, the undead emerge to destroy us all!"
 msgstr ""
+"Z podzemních úrovní se valí temná magie, která propůjčuje strašlivý neživot "
+"bytostem zrozeným z nejhlubších nočních můr lidstva. Kouzlo, které je kdysi "
+"uvěznilo v podzemí, bylo zlomeno, a nemrtví se vynořují, aby nás všechny "
+"zničili!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:227
@@ -12277,6 +12289,9 @@ msgid ""
 "heir to the throne of Wesnoth. If there are undead here then it is my duty "
 "to help you stop them."
 msgstr ""
+"Neztrácejte naději! Poslali jste Kaelora, aby sehnal pomoc, a on našel mě – "
+"Konráda, dědice trůnu Wesnothu. Pokud se tu vyskytují nemrtví, je mou "
+"povinností vám pomoci je zastavit."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:231
@@ -12284,6 +12299,8 @@ msgid ""
 "You say there was once a spell that sealed these dead underground. Can you "
 "cast it again?"
 msgstr ""
+"Říkáš, že kdysi existovalo kouzlo, které tyto mrtvé uvěznilo pod zemí. Můžeš "
+"ho znovu seslat?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:236
@@ -12291,6 +12308,8 @@ msgid ""
 "Don’t give up hope! I am Konrad, heir to the throne of Wesnoth, and if there "
 "are undead here then it is my duty to help you stop them."
 msgstr ""
+"Neztrácejte naději! Jmenuji se Konrád, jsem dědic trůnu Wesnothu, a pokud se "
+"tu vyskytují nemrtví, je mou povinností vám pomoci je zastavit."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:240
@@ -12298,6 +12317,8 @@ msgid ""
 "But what is this place? You say there was once a spell that sealed these "
 "dead underground. Can you cast it again?"
 msgstr ""
+"Ale co je to za místo? Říkáš, že kdysi existovalo kouzlo, které uvěznilo ty "
+"mrtvé pod zemí. Můžeš ho znovu seslat?"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:245
@@ -12305,6 +12326,8 @@ msgid ""
 "Without the ruby? No. There are none alive today, save perhaps the great "
 "Delfador, with the might to again from-naught weave such a seal."
 msgstr ""
+"Bez rubínu? Ne. Dnes už nežije nikdo, snad kromě velkého Delfadora, kdo by "
+"měl sílu znovu z ničeho utvořit takovou pečeť."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:247
@@ -12312,6 +12335,8 @@ msgid ""
 "But the pieces of our shattered spell still linger. With time, it could be "
 "repaired."
 msgstr ""
+"Zbytky našeho rozbitého kouzla však stále přetrvávají. Časem by se dalo "
+"opravit."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:251
@@ -12320,6 +12345,9 @@ msgid ""
 "horrors of the undead crashing down upon our humble home, and many perished. "
 "Light save them."
 msgstr ""
+"Už jsme to jednou zkusili, a málem nás to stálo život. Tento pokus přivolal "
+"na náš skromný domov celou hrůzu nemrtvých a mnozí zahynuli. Ať je Světlo "
+"ochraňuje."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:255
@@ -12327,11 +12355,12 @@ msgid ""
 "I understand — alone, you could not defend yourself. But now I am here. I "
 "will help you."
 msgstr ""
+"Chápu – sami byste se nedokázali bránit. Ale teď jsem tady já. Pomůžu vám."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:263
 msgid "You are a blessing, Konrad. With your help, perhaps it is possible."
-msgstr ""
+msgstr "Jsi pro nás požehnáním, Konráde. S tvou pomocí by to snad mohlo vyjít."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:294
@@ -12339,6 +12368,8 @@ msgid ""
 "There are only four of us left who have the power to repair the seal. The "
 "rest of us — the novices — I entrust into your command."
 msgstr ""
+"Zůstali jsme už jen čtyři, kteří mají moc pečeť opravit. Zbytek z nás – "
+"nováčky – svěřuji pod tvé velení."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:298
@@ -12347,26 +12378,30 @@ msgid ""
 "time our ritual shall complete, and the seal shall be repaired, trapping the "
 "undead back underground."
 msgstr ""
+"Braňte náš klášter, zatímco my, starší, budeme pracovat. Za čtyřicet osm "
+"hodin bude náš obřad dokončen a pečeť bude opravena, čímž budou nemrtví opět "
+"uvězněni pod zemí."
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:314
 msgid "You can now advance Mages to White Mages!"
-msgstr ""
+msgstr "Nyní můžeš povyšovat mágy na bílé mágy!"
 
 #. [else]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:317
 msgid "Konrad can now recruit Mages, and advance them to (only) White Mages!"
-msgstr ""
+msgstr "Konrád nyní může verbovat mágy a povyšovat je (pouze) na bílé mágy!"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:356
 msgid "Death of Myrilell or Kenara"
-msgstr ""
+msgstr "Myrilell nebo Kenara zemře"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:365
 msgid "Your allies will not move, but can attack adjacent enemies."
 msgstr ""
+"Tvoji spojenci se nebudou pohybovat, ale mohou útočit na sousední nepřátele."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:379
@@ -12375,6 +12410,9 @@ msgid ""
 "mentor? What of Brother Percy, keeper of the ancient texts? They should have "
 "stopped this."
 msgstr ""
+"Myrilell, jak je možné, že naše kouzlo tak zesláblo? Kde je sestra Tristia, "
+"moje učitelka? A co bratr Percy, strážce starodávných textů? Měli tomu "
+"zabránit."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:383
@@ -12382,11 +12420,14 @@ msgid ""
 "Dead, both. Fallen to the swelling tide of undead. You have been sorely "
 "missed, Moremirmu, away on your quest to spread light across the wider world."
 msgstr ""
+"Oba jsou mrtví. Padli pod náporem rostoucí vlny nemrtvých. Velmi jsi nám "
+"chyběl, Moremirmu, když jsi byl pryč na své výpravě za šířením světla do "
+"širého světa."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:387
 msgid "Dead!? So many dead."
-msgstr ""
+msgstr "Mrtví!? Tolik mrtvých."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:393
@@ -12394,6 +12435,8 @@ msgid ""
 "The seal shattered, my home imperiled, my friends slain. This is the work of "
 "a dozen lifetimes undone."
 msgstr ""
+"Pečeť se rozpadla, můj domov je v ohrožení, moji přátelé byli zabiti. Tím se "
+"zmařilo úsilí tuctu životů."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:397
@@ -12401,6 +12444,8 @@ msgid ""
 "Konrad, I am overcome by grief. I am brought to tears. The very foundation "
 "of my faith is shaken."
 msgstr ""
+"Konráde, jsem zdrcen smutkem. Dojímá mě to k slzám. Samotný základ mé víry "
+"je otřesen."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:405
@@ -12408,6 +12453,8 @@ msgid ""
 "I am sorry. I cannot battle today. I must meditate, and ponder on my "
 "emotions."
 msgstr ""
+"Je mi líto. Dnes nemohu bojovat. Musím meditovat a rozjímat o svém citovém "
+"hnutí."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:409
@@ -12415,6 +12462,8 @@ msgid ""
 "Ponder your emotions? Moremirmu, I know it’s a shock to see your home in "
 "crisis, but we’re about to fight a battle!"
 msgstr ""
+"Rozjímat o svých pocitech? Moremirmu, vím, že je to šok vidět svůj domov v "
+"krizi, ale čeká nás bitva!"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:413
@@ -12422,17 +12471,21 @@ msgid ""
 "I am a warrior of the Light, Konrad. My Light cannot shine while there "
 "within me beats a heart touched by the Dark."
 msgstr ""
+"Jsem bojovník Světla, Konráde. Mé Světlo nemůže zářit, dokud ve mně bije "
+"srdce dotčené Temnotou."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:424
 msgid "He’s gone!"
-msgstr ""
+msgstr "Je pryč!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:439
 msgid ""
 "Myrilell, what is this place we now defend? How did you all come to be here?"
 msgstr ""
+"Myrilell, co je to za místo, které teď bráníme? Jak jste se sem všichni "
+"dostali?"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:443
@@ -12440,6 +12493,8 @@ msgid ""
 "These hills — now our home — were once a wholly accursed place, blighted by "
 "necromancy and consumed by darkness."
 msgstr ""
+"Tyto kopce – dnes náš domov – byly kdysi místem zcela prokletým, zničeným "
+"nekromancií a pohlceným temnotou."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:447
@@ -12449,6 +12504,10 @@ msgid ""
 "are stragglers of Ras-Tabahn’s. We only know that centuries ago, the crown "
 "sealed them underground with powerful magic."
 msgstr ""
+"Nevíme, odkud se to zlo vzalo. Někteří se domnívají, že nekromanti jsou "
+"vládci lichů, kteří přežili invazi ze západu. Jiní věří, že jde o zbytky Ras-"
+"Tabahnových vojsk. Víme jen to, že je před staletími koruna pomocí mocného "
+"kouzla uvěznila pod zemí."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:451
@@ -12457,6 +12516,9 @@ msgid ""
 "to cleanse this place of evil. We built our monastery here to ensure that "
 "the darkness never escapes."
 msgstr ""
+"Muži a ženy našeho řádu, služebníci Světla, si za svůj úkol stanovili "
+"očistit toto místo od zla. Postavili jsme zde náš klášter, abychom "
+"zajistili, že temnota odtud nikdy neunikne."
 
 #. [message]: speaker=Vinrar
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:455
@@ -12464,11 +12526,13 @@ msgid ""
 "But it’s been decades since the Crown last sent to us men or supplies, and "
 "the power of our order has waned. And now even the seal has fallen..."
 msgstr ""
+"Jsou to však už desítky let, co nám Koruna naposledy poslala posily nebo "
+"zásoby, a moc našeho řádu upadla. A nyní padla i pečeť..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:467
 msgid "Look out! They’re preparing another assault."
-msgstr ""
+msgstr "Pozor! Připravují další útok."
 
 #. [message]: type=Lich
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:471
@@ -12477,6 +12541,9 @@ msgid ""
 "shall be thrown open and our followers shall flood across the land! You "
 "cannot stop the eternal life that we bring!"
 msgstr ""
+"Už příliš dlouho jsme uvězněni vaší prokletou pečetí! Podzemní tunely se "
+"otevřou dokořán a naši stoupenci zaplaví celou zemi! Nemůžete zastavit věčný "
+"život, který přinášíme!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:475
@@ -12484,6 +12551,8 @@ msgid ""
 "Eternal life is no blessing, lich, but a curse. I have tasted from the cup "
 "of which you offer, and we will not allow such poison to spread."
 msgstr ""
+"Věčný život není požehnáním, lichu, ale prokletím. Ochutnal jsem z poháru, "
+"který nám nabízíš, a nedopustíme, aby se takový jed šířil."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:476
@@ -12491,6 +12560,8 @@ msgid ""
 "For too long has the crown neglected this place. Now, the spirit of Garard "
 "comes to put things right."
 msgstr ""
+"Koruna toto místo příliš dlouho zanedbávala. Nyní přichází duch Gararda, aby "
+"vše napravil."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:477
@@ -12498,6 +12569,9 @@ msgid ""
 "As tempting as the thought may be, I’ve heard more than a few stories of "
 "promising young magi tempted by necromancy. It never ends well."
 msgstr ""
+"Ať už je ta představa jakkoli lákavá, slyšel jsem už nejednu historku "
+"o nadějných mladých mázích, které svedla nekromancie. Nikdy to nedopadne "
+"dobře."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:478
@@ -12505,6 +12579,8 @@ msgid ""
 "As tempting as the thought may be, I’ve seen more than a few promising young "
 "magi tempted by necromancy. It never ends well."
 msgstr ""
+"Ať už je ta představa jakkoli lákavá, viděl jsem už nejednoho nadějného "
+"mladého mága, kterého zlákala nekromancie. Nikdy to nedopadne dobře."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:479
@@ -12512,6 +12588,9 @@ msgid ""
 "Fancy talk comin’ from a stick-handed sixpenny skull, ye soused gurnet! Jus’ "
 "wait ’til ah stick my axe through one o’yer wrinklin’ ribs!"
 msgstr ""
+"Moc hezký kecy na někoho, kdo má ruce jako hůlčičky a v palici vymeteno, ty "
+"naloženej hlaváči! Jen počkej, až ti zaseknu sekeru do těch tvejch "
+"varhánkovitejch žeber!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:480
@@ -12519,6 +12598,8 @@ msgid ""
 "You’re not the first lich we’ve fought. Want to hear what we did to the last "
 "one?"
 msgstr ""
+"Nejsi první lich, s kterým jsme bojovali. Chceš vědět, co jsme udělali s tím "
+"posledním?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:482
@@ -12526,6 +12607,8 @@ msgid ""
 "Really, eternal life? I’d love to discuss some of my alchemical theories "
 "with you! ...wait, ah, no, you mean undeath, don’t you."
 msgstr ""
+"Vážně, věčný život? Moc ráda bych s tebou probrala některé ze svých "
+"alchymistických teorií! ... počkej, ach ne, ty máš na mysli nemrtvost, že?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:483
@@ -12533,16 +12616,18 @@ msgid ""
 "Ya ya ya. Dosh heard dis all before. Always someone be thinkin’ dey know "
 "what’s best for everyone else."
 msgstr ""
+"Jo, jo, jo. Doš to už všechno slyšel. Vždycky se najde někdo, kdo si myslí, "
+"že ví, co je pro ostatní nejlepší."
 
 #. [message]: speaker=Vinrar
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:520
 msgid "At last, I see the light..."
-msgstr ""
+msgstr "Konečně vidím světlo..."
 
 #. [message]: speaker=Miryan
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:528
 msgid "Yield not one inch to the darkness..."
-msgstr ""
+msgstr "Neustupujte temnotě ani o jediný palec..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:540
@@ -12550,6 +12635,8 @@ msgid ""
 "This body is merely a puppet! You cannot stop us from enlightening your "
 "world to the bliss of eternal un-life!"
 msgstr ""
+"Toto tělo je pouhou loutkou! Nemůžete nám zabránit v tom, abychom váš svět "
+"osvítili blažeností věčného neživota!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:547
@@ -12557,21 +12644,23 @@ msgid ""
 "Your fighting only delays the inevitable! There are more of us than you "
 "could ever imagine!"
 msgstr ""
+"Vaše bojování jen oddaluje nevyhnutelné! Je nás víc, než si dokážete vůbec "
+"představit!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:551
 msgid "One fewer now."
-msgstr ""
+msgstr "Teď je jich o jednoho méně."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:570
 msgid "Lo! My faith has been tested! And lo! It has endured!"
-msgstr ""
+msgstr "Hle! Má víra byla podrobena zkoušce! A hle! Vydržela!"
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:607
 msgid "In the crucible of the Light, evil shall be purged!"
-msgstr ""
+msgstr "V ohnisku Světla zbavíme se zla!"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:626
@@ -12582,21 +12671,26 @@ msgid ""
 "Smite: each time Moremirmu strikes a finishing blow, he will deal\n"
 "30 arcane damage to all adjacent enemies."
 msgstr ""
+"Moremirmu se vrátil! Získal +2 k poškození, +20 životů\n"
+"a mocnou schopnost „ztrestání“!\n"
+"\n"
+"Ztrestání: pokaždé, když Moremirmu zasadí poslední ránu,\n"
+"způsobí všem sousedním nepřátelům 30 bodů nezemského poškození."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:651
 msgid "Nearly done, Konrad! Hold strong and we shall yet be victorious!"
-msgstr ""
+msgstr "Už to skoro máme, Konráde! Vydrž a ještě zvítězíme!"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:659
 msgid "Light save us all! It is finished."
-msgstr ""
+msgstr "Světlo, zachraň nás všechny! Je dokonáno."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:689
 msgid "They’re gone!"
-msgstr ""
+msgstr "Jsou pryč!"
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:695
@@ -12604,6 +12698,8 @@ msgid ""
 "With the seal restored, the undead have once more been banished underground. "
 "We are in your debt, Your Highness."
 msgstr ""
+"Díky obnovení pečetě byli nemrtví opět vyhnáni do podzemí. Jsme vám "
+"zavázáni, Vaše Výsosti."
 
 #. [message]: speaker=Myrilell
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:699
@@ -12613,18 +12709,23 @@ msgid ""
 "young mages, and the nascent Light that they nurture within. May they serve "
 "you well as you journey on to reclaim your throne."
 msgstr ""
+"My, starší, zde musíme zůstat, abychom dále posilovali své kouzlo "
+"a zajistili, že nemrtví už nikdy neuniknou. Do tvých rukou však svěřuji naše "
+"mladé mágy a rodící se Světlo, které v sobě pěstují. Kéž ti budou dobrými "
+"pomocníky na tvé cestě za znovuzískáním trůnu."
 
 #. [message]: id=Myrilell,Kenara
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:729
 msgid "No! Without her help, I have no hope of restoring the seal."
 msgstr ""
+"Ne! Bez její pomoci nemám žádnou naději, že se mi podaří pečeť obnovit."
 
 #. [message]: id=Myrilell,Kenara
 #: data/campaigns/Heir_To_The_Throne/scenarios/15b_Valley_of_Death_part2.cfg:733
 msgid ""
 "The undead will continue to pour forth and pour forth, until we are all "
 "overwhelmed..."
-msgstr ""
+msgstr "Nemrtví budou dál a dál proudit, dokud nás všechny nepřemohou..."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:14
