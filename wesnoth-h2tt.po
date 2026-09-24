@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-23 20:57+0200\n"
+"PO-Revision-Date: 2026-09-24 20:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -13185,7 +13185,7 @@ msgstr "Lupiči"
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:181
 msgid "En garde!"
-msgstr ""
+msgstr "Do střehu!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:202
@@ -13194,6 +13194,9 @@ msgid ""
 "city. Our scouts spotted several convoys nearby, but the others must not "
 "have arrived yet."
 msgstr ""
+"Naše načasování je dokonalé: první z našich několika cílů se blíží k městu. "
+"Naši zvědové zahlédli v okolí několik karavan, ale ty ostatní zřejmě ještě "
+"nedorazily."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:207
@@ -13201,6 +13204,8 @@ msgid ""
 "Each caravan will be brimming with supplies and weapons, so the more we "
 "plunder, the more new types of soldiers we’ll be able to equip!"
 msgstr ""
+"Každá karavana bude plná zásob a zbraní, takže čím více jich vypleníme, tím "
+"více nových typů vojáků budeme moci vybavit!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:210
@@ -13209,6 +13214,8 @@ msgid ""
 "city buffoons will have no idea we’re here, as long as we keep our distance "
 "from th’ walls."
 msgstr ""
+"Ba, a ještě že přišel ten chcanec a mha. Ty slepí městský šašci nebudou mít "
+"ani páru, že tu jsme, dokud se budeme držet dál od hradeb."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:211
@@ -13217,6 +13224,9 @@ msgid ""
 "Helicrom. Lucky for us that the fog’s out. As long as we’re careful an’ keep "
 "our distance, th’ city won’t know we’re here."
 msgstr ""
+"Vzpomínám si, že jsem kdysi něco podobného dělala s Baldrem a Helicromem. "
+"Máme štěstí, že padla mlha. Pokud budeme opatrní a udržíme si odstup, město "
+"si nevšimne, že tu jsme."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:212
@@ -13225,6 +13235,9 @@ msgid ""
 "from our foes. As long as we keep our distance from the city, Dan’Tonk shall "
 "surely remain ignorant of our presence."
 msgstr ""
+"Slyšte a dívejte se! Světlo nám je nakloněno, neboť déšť a mlha nás skryly "
+"před našimi nepřáteli. Dokud se budeme držet v odstupu od města, Dan’Tonk se "
+"o naší přítomnosti jistě nedozví."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:213
@@ -13234,6 +13247,9 @@ msgid ""
 "keep our distance from the city itself, I’m sure it’ll be some time before "
 "the garrison is alerted."
 msgstr ""
+"A podívejte se na tu mlhu! No, to je pro nás asi dobře. Pokud se budeme "
+"držet dál od samotného města, určitě to chvíli potrvá, než se o tom dozví "
+"posádka."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:215
@@ -13245,6 +13261,9 @@ msgid ""
 "keep our distance from the city proper, it may be some time before the "
 "garrison is alerted to our presence."
 msgstr ""
+"Máme štěstí, že ten déšť přišel spolu s hustou mlhou. Dokud se budeme držet "
+"v odstupu od samotného města, může chvíli trvat, než si posádka všimne naší "
+"přítomnosti."
 
 #. [objective]: condition=win
 #. $dead_wagons is a number; probably between 0 and 15
@@ -13253,25 +13272,27 @@ msgid ""
 "Intercept enemy wagons before they reach Dan’Tonk ($dead_wagons destroyed so "
 "far)"
 msgstr ""
+"Zadrž nepřátelské vozy, než dorazí do Dan’Tonku (dosud zničených vozů: "
+"$dead_wagons)"
 
 #. [objective]: condition=win
 #. [objective]: condition=win, description=<span strikethrough='true'>
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:235
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:242
 msgid "5+ destroyed: recruit Fencers"
-msgstr ""
+msgstr "5 a více zničených: verbuješ šermíře"
 
 #. [objective]: condition=win
 #. [objective]: condition=win, description=<span strikethrough='true'>
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:250
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:257
 msgid "8+ destroyed: recruit Spearmen"
-msgstr ""
+msgstr "8 a více zničených: verbuješ kopiníky"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:265
 msgid "all 11 destroyed: recruit Bowmen"
-msgstr ""
+msgstr "všech 11 zničeno: verbuješ lukostřelce"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:274
@@ -13280,18 +13301,22 @@ msgid ""
 "garrison, or if any of Konrad’s units move within 4 hexes of the the "
 "Dan’Tonk city walls (the unwalkable castle hexes)."
 msgstr ""
+"Scénář skončí, jakmile některá z karavan dorazí do Dan’Tonku a upozorní "
+"tamní posádku, nebo pokud se některá z Konrádových jednotek přiblíží na "
+"vzdálenost 4 políček od městských hradeb Dan’Tonku (neprůchodných hradních "
+"políček)."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:303
 msgid "Outlaws, here?! I warn you, I’m armed!"
-msgstr ""
+msgstr "Zločinci, tady?! Varuju vás, jsem ozbrojený!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:316
 msgid ""
 "I hate being stuck all the way out here on observation duty. What’s the "
 "point?"
-msgstr ""
+msgstr "Nesnáším, když trčím tak daleko venku na hlídce. K čemu to je?"
 
 #. [message]: speaker=unit
 #. this helps tell the player that they can safely fight these guards without alerting Dan'Tonk
@@ -13301,6 +13326,9 @@ msgid ""
 "the lieutenant expect me to do? It’s not as if I have any way to warn the "
 "city..."
 msgstr ""
+"I kdyby se někteří bandité tak hloupě přiblížili až k Dan’Tonku, co ode mě "
+"ten poručík očekává, že udělám? Vždyť nemám žádnou možnost, jak město "
+"varovat..."
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:345
@@ -13308,6 +13336,8 @@ msgid ""
 "Bandits in the fog! We’re under attack! It’s too far to warn the city — grab "
 "your weapons!"
 msgstr ""
+"Lupiči v mlze! Útočí na nás! Do města je to příliš daleko, abychom je "
+"varovali – popadněte zbraně!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:359
@@ -13315,6 +13345,8 @@ msgid ""
 "We are approaching the walls of Dan’Tonk! Careful — if we come much closer, "
 "the guards will spot us and we’ll be forced to abandon our mission."
 msgstr ""
+"Blížíme se k hradbám Dan’Tonku! Pozor – pokud se přiblížíme ještě víc, "
+"stráže nás zahlédnou a budeme nuceni úkol vzdát."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:373
@@ -13322,11 +13354,16 @@ msgid ""
 "I’m sure I see shapes moving in the rain nearby, but with so much fog it’s "
 "hard to tell exactly who it is. Hopefully one of our convoys."
 msgstr ""
+"Jsem si jistý, že poblíž v dešti vidím pohybující se siluety, ale v té husté "
+"mlze je těžké přesně rozpoznat, o koho jde. Snad je to jedna z našich "
+"karavan."
 
 #. [message]: role=wagons_mid
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:452
 msgid "It’s an ambush! How did Maddock’s mercenaries get this far inland?!"
 msgstr ""
+"To je léčka! Jak se Maddokovým žoldákům podařilo dostat se tak daleko do "
+"vnitrozemí?!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:464
@@ -13334,6 +13371,8 @@ msgid ""
 "That’s the first caravan destroyed! Well done, everyone — now we must stop "
 "the second, too!"
 msgstr ""
+"To je první zničená karavana! Skvělá práce, všichni – teď musíme zastavit "
+"i tu druhou!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:469
@@ -13341,6 +13380,8 @@ msgid ""
 "That’s the first caravan destroyed! Well done, everyone. We should continue "
 "expanding our control over this area — there will be more caravans soon."
 msgstr ""
+"To je první zničená karavana! Skvělá práce, všichni. Měli bychom dál "
+"rozšiřovat naši vládu nad touto oblastí – brzy se objeví další karavany."
 
 #. [message]: role=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:482
@@ -13348,6 +13389,8 @@ msgid ""
 "Lieutenant, weren’t we expecting a weapons convoy some hours ago? I hope "
 "they haven’t gotten into any trouble."
 msgstr ""
+"Poručíku, nečekali jsme snad před několika hodinami karavanu se zbraněmi? "
+"Doufám, že se nedostali do nějakých potíží."
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:487
@@ -13355,12 +13398,14 @@ msgid ""
 "The fog’s been causing delays for schedules all around the city, ma’am. The "
 "shipment’s probably just stuck in some mud."
 msgstr ""
+"Mlha způsobuje zpoždění v jízdních řádech po celém městě, madam. Ten náklad "
+"asi jen uvízl někde v bahně."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:515
 msgid ""
 "Another caravan is approaching the city, this time from the northern path!"
-msgstr ""
+msgstr "K městu se blíží další karavana, tentokrát po severní cestě!"
 
 #. [message]: role=wagons_top {FILTER_ADJACENT side=1}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:526
@@ -13368,6 +13413,8 @@ msgid ""
 "Outlaws on the road! Fighting elves in that awful forest was bad enough, and "
 "now this?"
 msgstr ""
+"Psanci na cestách! Bojovat s elfy v tom hrozném lese už bylo dost zlé, a teď "
+"ještě tohle?"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:531
@@ -13375,6 +13422,8 @@ msgid ""
 "You speak in the presence of High Lord Kalenz of the elves, human! The wrath "
 "of elf-kind falls upon you today!"
 msgstr ""
+"Mluvíš v přítomnosti nejvyššího lorda Kalenze z elfů, člověče! Dnes se na "
+"tebe snese jejich hněv!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:536
@@ -13382,6 +13431,8 @@ msgid ""
 "Vengeance for the Aethenwood! You should never have left your city to come "
 "burn my home!"
 msgstr ""
+"Pomsta za Aethenský les! Nikdy jsi neměl opustit své město, abys přišel "
+"vypálit můj domov!"
 
 #. [message]: role=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:553
@@ -13389,11 +13440,14 @@ msgid ""
 "Still no word from the wagon trains? Something’s wrong. Lieutenant, dispatch "
 "a squad to patrol the area — we may be dealing with roadside bandits."
 msgstr ""
+"Stále žádné zprávy od vozových souprav? Něco není v pořádku. Poručíku, "
+"pošlete tam hlídku, aby prohledala okolí – možná máme co do činění s lupiči, "
+"kteří přepadají cestující."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:556
 msgid "Teory"
-msgstr ""
+msgstr "Teory"
 
 #. [message]: speaker=squad_leader
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:594
@@ -13401,6 +13455,9 @@ msgid ""
 "Ah ha, found you! We aren’t dealing with just any petty bandits — these are "
 "Konrad’s rebels! I’ll see you hang for your crimes!"
 msgstr ""
+"Aha, našel jsem vás! Tady nejde o nějaké obyčejné bandity – to jsou "
+"Konrádovi vzbouřenci! Postarám se, abyste za své zločiny skončili na "
+"šibenici!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:627
@@ -13408,11 +13465,13 @@ msgid ""
 "A third convoy, along the southern path this time! This one is larger than "
 "the previous two. Better-defended. but also a more valuable prize!"
 msgstr ""
+"Třetí karavana, tentokrát po jižní cestě! Tahle je větší než ty dvě "
+"předchozí. Je lépe chráněná, ale také představuje cennější kořist!"
 
 #. [message]: role=wagons_bot {FILTER_ADJACENT side=1}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:638
 msgid "Look out! Bandits on the road!"
-msgstr ""
+msgstr "Pozor! Na silnici jsou bandité!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:696
@@ -13420,6 +13479,8 @@ msgid ""
 "The final convoy we’re waiting for has arrived — and this one approaches "
 "from two directions at once!"
 msgstr ""
+"Dorazila poslední karavana, na kterou jsme čekali – a tentokrát se blíží "
+"hned ze dvou směrů najednou!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:700
@@ -13428,6 +13489,9 @@ msgid ""
 "the strength, even defeating only one will still provide us with many "
 "valuable weapons!"
 msgstr ""
+"Budeme muset rozdělit naše jednotky, pokud chceme zastavit obě. A pokud na "
+"to nemáme dost sil, i porážka jen jedné z nich nám přinese mnoho cenných "
+"zbraní!"
 
 #. [message]: role=wagons_top {OR role=wagons_bot} {FILTER_ADJACENT side=1}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:712
@@ -13435,6 +13499,8 @@ msgid ""
 "I knew I heard the sound of fighting in the fog! You’ll find we’re battle-"
 "hardened veterans from Elensefar, and no easy prey for petty outlaws."
 msgstr ""
+"Věděl jsem, že jsem v mlze zaslechl zvuky boje! Uvidíte, že jsme ostřílení "
+"veteráni z Elensefaru a pro bezvýznamné psance nejsme žádná snadná kořist."
 
 #. [message]: role=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:731
@@ -13445,6 +13511,10 @@ msgid ""
 "strength, and our armies far outnumber any petty bandits or rebels. "
 "Whatever’s going on out there, it ends now."
 msgstr ""
+"To stačí! Ať už je vidíme, nebo ne, v mlze zjevně číhá nějaký silný "
+"nepřítel. Do zbraně, vojáci! Toto město je naší pevností a naše armády mají "
+"nad jakýmikoli bezvýznamnými bandity či povstalci drtivou početní převahu. "
+"Ať se tam venku děje cokoli, teď to skončí."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:735
@@ -13453,6 +13523,9 @@ msgid ""
 "presence, and Wesnoth’s armies are mobilizing to surround us. Quick, "
 "everyone, let us make our escape and tally our plunder!"
 msgstr ""
+"Jak jsme tušili, že se to dříve či později stane, Dan’Tonk si uvědomil naši "
+"přítomnost a armády Wesnothu se daly do pohybu, aby nás obklíčily. Rychle, "
+"všichni, utečme a spočítejme kořist!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:758
@@ -13461,6 +13534,9 @@ msgid ""
 "and weapons. If we continue waiting here even more may yet arrive, but I "
 "suspect we’ve pushed our luck staying as long as we have already."
 msgstr ""
+"To je poslední z těch vozů! Podařilo se nám ukořistit spoustu zásob "
+"a zbraní. Kdybychom tu čekali dál, možná by jich dorazilo ještě víc, ale mám "
+"pocit, že jsme to už přehnali, když jsme tu zůstali tak dlouho."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #. "speak of a lich" is a made-up saying, with the same meaning as "speak of the devil"
@@ -13470,6 +13546,9 @@ msgid ""
 "aware of our presence, and Wesnoth’s armies are mobilizing to surround us. "
 "Quick, everyone, let us make our escape and tally our plunder!"
 msgstr ""
+"My o vlku... Jak jsme věděli, že se dříve či později stane, Dan’Tonk si "
+"uvědomil naši přítomnost a armády Wesnothu se daly do pohybu, aby nás "
+"obklíčily. Rychle, všichni, utečme a spočítejme kořist!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:786
@@ -13477,6 +13556,8 @@ msgid ""
 "I’ve reached the city walls! Alarm! Alarm! We spotted Konrad and his rebels "
 "are lying in wait on the road!"
 msgstr ""
+"Dostal jsem se k městským hradbám! Poplach! Poplach! Spatřili jsme Konráda "
+"a jeho vzbouřence, kteří číhají na silnici!"
 
 #. [message]: role=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:791
@@ -13485,6 +13566,9 @@ msgid ""
 "place of strength, and I know us to far outnumber Konrad’s forces. We must "
 "bring the false prince to justice!"
 msgstr ""
+"Vzbouřenecká armáda, tady?! Ti hlupáci! Do zbraně, vojáci! Toto město je "
+"naší pevností a vím, že máme nad Konrádovými silami výraznou početní "
+"převahu. Musíme toho falešného prince postavit před soud!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:795
@@ -13492,6 +13576,8 @@ msgid ""
 "A caravan has reached Dan’Tonk, and Wesnoth’s armies are mobilizing to "
 "surround us! Quick, everyone, let us make our escape and tally our plunder!"
 msgstr ""
+"Do Dan’Tonku dorazila karavana a wesnothské armády se daly do pohybu, aby "
+"nás obklíčily! Rychle, všichni, utečme a spočítejme kořist!"
 
 #. [message]: role=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:813
@@ -13499,6 +13585,8 @@ msgid ""
 "Look — there! That figure can only be one of Konrad’s rebels, foolishly come "
 "to fight Dan’Tonk itself."
 msgstr ""
+"Podívejte se – tam! Ta postava může být jen jeden z Konrádových rebelů, "
+"který se pošetile vydal bojovat přímo proti Dan’Tonku."
 
 #. [message]: role=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:817
@@ -13507,6 +13595,9 @@ msgid ""
 "outnumber Konrad’s forces. We must capture the false prince and bring him to "
 "justice!"
 msgstr ""
+"Do zbraně, vojáci! Toto město je naší pevností a vím, že máme nad "
+"Konrádovými jednotkami výraznou početní převahu. Musíme toho falešného "
+"prince zajmout a postavit ho před soud!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:821
@@ -13514,6 +13605,8 @@ msgid ""
 "We’ve come too close to the city walls, and have been spotted! Quick, "
 "everyone, let us make our escape and tally our plunder!"
 msgstr ""
+"Dostali jsme se příliš blízko k městským hradbám a odhalili nás! Rychle, "
+"všichni, utečme a spočítejme kořist!"
 
 #. [message]: role=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:839
@@ -13521,11 +13614,13 @@ msgid ""
 "What?! What sort of unseen enemy has attacked me without ever approaching "
 "the city walls? I must flee!"
 msgstr ""
+"Cože?! Jaký neviditelný nepřítel na mě zaútočil, aniž se vůbec přiblížil "
+"k městským hradbám? Musím utéct!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/18_The_Highwaymen.cfg:846
 msgid "Quick, everyone, let us make our escape and tally our plunder!"
-msgstr ""
+msgstr "Rychle, všichni, utečme a spočítejme kořist!"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:12
