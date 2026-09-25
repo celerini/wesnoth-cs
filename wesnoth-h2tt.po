@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-24 20:20+0200\n"
+"PO-Revision-Date: 2026-09-25 04:32+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -13630,13 +13630,15 @@ msgstr "Abezský brod"
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:38
 msgid "Clan Stoneskin"
-msgstr ""
+msgstr "Klan Šutrokožců"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:141
 msgid ""
 "Have you reconsidered, troll? Let us pass, and bloodshed may yet be averted."
 msgstr ""
+"Rozmyslel sis to, trolle? Pusť nás dál a možná se ještě podaří zabránit "
+"krveprolití."
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:145
@@ -13645,6 +13647,9 @@ msgid ""
 "cross. Stoneskins fight hard to own ford, kill lotsa other trolls ’n orcs. "
 "Dosh kill you too, no big whoop."
 msgstr ""
+"Promiň, už jsem ti to říkal, měkká kůže. Jestli chceš přejít, musíš "
+"zaplatit. Šutrokožci tvrdě bojují o vládu nad brodem a zabíjejí spoustu "
+"jiných trollů a skřetů. Doš zabije i tebe, o nic nejde."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:149
@@ -13653,11 +13658,14 @@ msgid ""
 "You have no more right to own it than do I, or any of the free peoples of "
 "Wesnoth. Prepare for battle!"
 msgstr ""
+"Abezský brod tu byl dávno před tebou a ještě dlouho po tobě tu bude. Nemáš "
+"na něj o nic větší nárok než já nebo kterýkoli ze svobodných národů "
+"Wesnothu. Připrav se na bitvu!"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:157
 msgid "Defeat Dosh"
-msgstr ""
+msgstr "Poraz Doše"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:175
@@ -13667,6 +13675,8 @@ msgid ""
 "his allies, opening the way for Asheviere’s domination. She has much to "
 "answer for."
 msgstr ""
+"Právě zde došlo k poslední zradě. Právě zde Eldred zabil Gararda a jeho "
+"spojence, čímž otevřel cestu k Ašvířině nadvládě. Má se za co zodpovídat."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:177
@@ -13674,6 +13684,8 @@ msgid ""
 "Many terrible battles were once fought at this ford, Konrad. May ours prove "
 "itself less deadly."
 msgstr ""
+"Konráde, u tohoto brodu se kdysi odehrálo mnoho strašlivých bitev. Snad ta "
+"naše nebude tak krvavá."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:178
@@ -13681,16 +13693,18 @@ msgid ""
 "Delfador told me about the many terrible battles that were fought here. I "
 "hope ours won’t prove itself so deadly."
 msgstr ""
+"Delfador mi vyprávěl o mnoha strašlivých bitvách, které se zde odehrály. "
+"Doufám, že ta naše nebude tak krvavá."
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:201
 msgid "Urgh... Dosh don’ feel so good. Maybe fight was mistake..."
-msgstr ""
+msgstr "Urgh... Doš se necítí zrovna nejlíp. Možná ta rvačka byla chyba..."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:210
 msgid "Run away!"
-msgstr ""
+msgstr "Utíkejte!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:228
@@ -13698,6 +13712,8 @@ msgid ""
 "The leader of the trolls is defeated, and we have secured safe passage "
 "across the ford! Great work, everyone — onwards into the Northlands!"
 msgstr ""
+"Vůdce trollů je poražen a zajistili jsme si bezpečný průchod přes brod! "
+"Skvělá práce, všichni – hurá do Severních zemí!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:233
@@ -13705,21 +13721,25 @@ msgid ""
 "The leader of the trolls is defeated, and we have secured safe passage "
 "across the ford! Great work, everyone — we can now return to Wesnoth!"
 msgstr ""
+"Vůdce trollů je poražen a zajistili jsme si bezpečný průchod přes brod! "
+"Skvělá práce, všichni — teď se můžeme vrátit do Wesnothu!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:248
 msgid "Ormok"
-msgstr ""
+msgstr "Ormok"
 
 #. [message]: speaker=Ormok
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:256
 msgid "Ha ha ha, what’s this? Someone’s trying to dethrone the Stoneskins!"
-msgstr ""
+msgstr "Ha ha ha, co to má být? Někdo se snaží sesadit Šutrokožce z trůnu!"
 
 #. [message]: speaker=Ormok
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:260
 msgid "Hope you don’t mind if we take over! C’mon, boys, let’s kill ’em all!"
 msgstr ""
+"Snad ti nevadí, že to tu převezmeme! No tak, kluci, pojďme je všechny "
+"vyřídit!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/20_The_Ford_of_Abez.cfg:264
@@ -13727,6 +13747,8 @@ msgid ""
 "We’ve taken too long to secure the ford! Now more orcs have arrived! Even if "
 "we defeat them all, we’ll suffer greatly from the delay..."
 msgstr ""
+"Zabezpečení brodu nám trvalo příliš dlouho! Teď dorazilo ještě víc skřetů! "
+"I kdybychom je všechny porazili, velice na to zpoždění doplatíme..."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:18
