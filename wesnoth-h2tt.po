@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-25 04:32+0200\n"
+"PO-Revision-Date: 2026-09-26 06:27+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -13761,23 +13761,23 @@ msgstr "Glamdrol"
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:63
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:47
 msgid "Bloody Sword Clan"
-msgstr ""
+msgstr "Klan Krvavého meče"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:91
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:107
 msgid "Stoneskin Clan"
-msgstr ""
+msgstr "Klan Šutrokožců"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:129
 msgid "Hu-nash"
-msgstr ""
+msgstr "Hu-naš"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:132
 msgid "Vikkak the Old"
-msgstr ""
+msgstr "Vikkak Starší"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:204
@@ -13796,7 +13796,7 @@ msgstr "150 zlatých"
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:233
 msgid "Get lost, you troll-sniffing degenerates!"
-msgstr ""
+msgstr "Jděte k čertu, vy zkaženci, co čmucháte po trolech!"
 
 #. [message]: speaker=leader4
 #. "Khazg" refers to Khazg Black-Tusk, the late leader of the Bloody Sword clan, mentioned in Northern Rebirth
@@ -13805,6 +13805,8 @@ msgid ""
 "Khazg-worshipping tuskers! We come to trade and this is how you greet us? "
 "Some hospitality."
 msgstr ""
+"Vy klouni, co uctíváte Khazga! Přijeli jsme obchodovat a takhle nás vítáte? "
+"To je ale pohostinnost."
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:242
@@ -13812,6 +13814,8 @@ msgid ""
 "Trade? You came here to sneak inside and slaughter us all in our sleep! I’m "
 "not having it. Get lost!"
 msgstr ""
+"Obchodovat? Přišli jste sem, abyste proklouzli dovnitř a všechny nás "
+"povraždili ve spánku! Na to nepřistoupím. Vypadněte!"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:246
@@ -13853,7 +13857,7 @@ msgstr ""
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:365
 msgid "Pillage as much gold as you can before turns run out"
-msgstr ""
+msgstr "Nasbírej co nejvíc zlata, než vyprší počet kol"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:373
