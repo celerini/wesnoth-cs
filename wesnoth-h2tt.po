@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-26 06:27+0200\n"
+"PO-Revision-Date: 2026-09-27 17:20+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -13796,7 +13796,7 @@ msgstr "150 zlatých"
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:233
 msgid "Get lost, you troll-sniffing degenerates!"
-msgstr "Jděte k čertu, vy zkaženci, co čmucháte po trolech!"
+msgstr "Jděte k čertu, vy zkaženci, co čmucháte po trolech!"
 
 #. [message]: speaker=leader4
 #. "Khazg" refers to Khazg Black-Tusk, the late leader of the Bloody Sword clan, mentioned in Northern Rebirth
@@ -13820,32 +13820,33 @@ msgstr ""
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:246
 msgid "Oh yeah? Well— ...wait, do you see that?"
-msgstr ""
+msgstr "Vážně? No — ... počkej, vidíš to?"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:345
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:348
 msgid ""
 "Humans! What’s an army of boot-licking humans doing so close to Glamdrol?"
-msgstr ""
+msgstr "Lidi! Co dělá armáda podlejzavejch lidí tak blízko Glamdrolu?"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:346
 msgid ""
 "Elves! What’s an army of tree-shagging elves doing so close to Glamdrol?"
-msgstr ""
+msgstr "Elfové! Co dělá armáda stromošuckej elfů tak blízko Glamdrolu?"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:347
 msgid ""
 "Dwarves! What’s an army of dirt-grubbing dwarves doing so close to Glamdrol?"
 msgstr ""
+"Trpaslíci! Co dělá armáda hlínohrabejch trpaslíků tak blízko Glamdrolu?"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:349
 msgid ""
 "Invaders! What’s an army of boot-licking worms doing so close to Glamdrol?"
-msgstr ""
+msgstr "Útočníci! Co dělá armáda podlejzavejch červů tak blízko Glamdrolu?"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:353
@@ -13853,6 +13854,8 @@ msgid ""
 "Grr... we can settle things between us later. Right now we work together and "
 "kill the vermin."
 msgstr ""
+"Grr... vyřídíme si to mezi sebou pozdějc. Teď musíme spolupracovat a zbavit "
+"se tý havěti."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:365
@@ -13863,18 +13866,19 @@ msgstr "Nasbírej co nejvíc zlata, než vyprší počet kol"
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:373
 msgid ""
 "Fulfill your pledge: end the scenario with at least $bm_s22_gold_cost gold"
-msgstr ""
+msgstr "Splň svůj slib: dokonči scénář s minimálně $bm_s22_gold_cost zlatými"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:382
 msgid "Defeat the orcish shaman to claim the Horn of Glamdrol"
-msgstr ""
+msgstr "Poraz skřetí šamanku a získej Glamdrolský roh"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:390
 msgid ""
 "Fail your pledge: end the scenario with less than $bm_s22_gold_cost gold"
 msgstr ""
+"Nesplníš svůj slib: dokončíš scénář s méně než $bm_s22_gold_cost zlatými"
 
 #. [note]
 #. "enemy" includes any enemy side. When one enemy dies, other enemies gain the "regenerates" ability for one turn.
@@ -13884,6 +13888,8 @@ msgid ""
 "Horn of Glamdrol: Whenever you defeat one enemy, other enemies gain "
 "regeneration for one turn"
 msgstr ""
+"Glamdrolský roh: Pokaždé, když porazíš jednoho nepřítele, ostatní nepřátelé "
+"získají regeneraci na jedno kolo"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:421
@@ -13891,17 +13897,22 @@ msgid ""
 "We’re here for a quick raid, not to try to conquer the fortress outright. "
 "Move swiftly, grab as much gold as we can, and get out!"
 msgstr ""
+"Jsme tu jen na rychlý nájezd, ne abychom se pokoušeli pevnost úplně dobýt. "
+"Pohybujte se rychle, seberte co nejvíc zlata a zmizte odtud!"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:429
 msgid "Konrad, look! Dem north side orcs be from da Stoneskin clan, like me."
 msgstr ""
+"Konráde, podívej! Ti skřeti ze severu jsou z klanu Šutrokožců, stejně jako "
+"já."
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:433
 msgid ""
 "Dey ain’t so bad. No reason for us to be fighting. Dosh gona go talk to dem."
 msgstr ""
+"Nejsou zas tak zlí. Nemáme důvod se prát. Doš si s nimi půjde promluvit."
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:453
@@ -13909,6 +13920,8 @@ msgid ""
 "Hey, you! I recognize you; you’re the ford troll. What’re you doing working "
 "for some lousy human?"
 msgstr ""
+"Hele, ty! Poznávám tě. Ty jsi ten troll od brodu. Co tu děláš, že pracuješ "
+"pro nějakýho mizernýho člověka?"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:457
@@ -13917,6 +13930,9 @@ msgid ""
 "Konrad paid Dosh much money, and now Dosh helps Konrad. You should help "
 "Konrad too."
 msgstr ""
+"Konrád není žádný mizerný člověk. Je to velký princ a skvělý přítel trollů! "
+"Konrád dal Došovi spoustu peněz a teď mu Doš pomáhá. Ty bys měl Konrádovi "
+"taky pomoct."
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:461
@@ -13925,11 +13941,14 @@ msgid ""
 "and then maybe I will. It’s true that these Bloody Swords have owned "
 "Glamdrol for long enough..."
 msgstr ""
+"Ha. No, jasně, řekni svýmu velkýmu princi, ať zaplatí pořádnej balík "
+"<i><b>mně</b></i>, a pak to možná udělám. Je pravda, že ty Krvavý meče už "
+"Glamdrol ovládají dost dlouho..."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:470
 msgid "Pledge 400 gold: negotiate a truce and learn to recruit Troll Whelps"
-msgstr ""
+msgstr "Slib 400 zlatých: vyjednáš příměří a naučíš se verbovat trollí mláďata"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:475
@@ -13937,6 +13956,9 @@ msgid ""
 "Want more fighters like that one, do you? Sure, 400 gold is worth at least a "
 "few whelps. But I’m only offering because Dosh says you’re all right."
 msgstr ""
+"Chceš víc takovejch bojovníků, jako je tenhle, co? Jasně, za 400 zlatejch se "
+"dá pořídit aspoň pár mláďat. Ale nabízím ti to jen proto, že Doš říká, že "
+"jsi v pohodě."
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:479
@@ -13944,11 +13966,13 @@ msgid ""
 "Trolls’re a bit dim, usually even more so than the one you’ve already got, "
 "but you tell ’em who to smash and they’ll smash ’em good."
 msgstr ""
+"Trollové jsou trochu tupí, většinou dokonce ještě víc než ten, kterého už "
+"máš, ale stačí jim říct, koho mají rozmlátit, a oni to udělají pořádně."
 
 #. [command]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:481
 msgid "Konrad can now recruit Troll Whelps!"
-msgstr ""
+msgstr "Konrád nyní může verbovat trollí mláďata!"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:484
@@ -13956,11 +13980,13 @@ msgid ""
 "Have fun sacking the city. When all’s said and done, you pay us out of the "
 "coin you’ve looted — or else."
 msgstr ""
+"Užijte si vyplenění města. Až bude po všem, zaplatíte nám z peněz, který "
+"uloupíte – nebo jinak."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:496
 msgid "Pledge 100 gold: negotiate a truce"
-msgstr ""
+msgstr "Slib 100 zlatých: vyjednáš příměří"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:501
@@ -13969,6 +13995,8 @@ msgid ""
 "fortress, and when all’s said and done you pay us out of the coin you’ve "
 "looted — or else."
 msgstr ""
+"100 zlatých za příměří? Dohodnuto. Budeme se vám vyhýbat, zatímco budete "
+"přepadávat pevnost, a až bude po všem, zaplatíte nám z kořisti – nebo jinak."
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:517
@@ -13976,6 +14004,8 @@ msgid ""
 "Hah! Some friend you’ve got there, Dosh. Don’t worry, we’ll take all the "
 "gold we want from your treasury once we kill you!"
 msgstr ""
+"Ha! To máš ale kamaráda, Doši. Neboj se, až tě zabijem, vezmem si z tvý "
+"pokladnice tolik zlata, kolik budeme chtít!"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:530
@@ -13983,11 +14013,15 @@ msgid ""
 "I knew it! Filthy human-lover! You want to ruin us so you can take over "
 "Glamdrol!"
 msgstr ""
+"Věděl jsem to! Ty špinavej milovníku lidí! Chceš nás zničit, abys moh "
+"převzít vládu nad Glamdrolem!"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:534
 msgid "What can I say? I came to trade, and the human boy offered a good one!"
 msgstr ""
+"Co na to říct? Přišel jsem obchodovat a ten lidskej kluk mi nabíd opravdu "
+"dobrej obchod!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:583
@@ -13997,6 +14031,11 @@ msgid ""
 "gather gold in preparation for our next battle. Clearing the fortress won’t "
 "do us much good if we leave poorer than we arrived!"
 msgstr ""
+"Měl bych si dát pozor, abych nenaverboval příliš mnoho dalších jednotek. "
+"I když je lákavé využít zlato skřetů k dobytí jejich pevnosti, jsme tu "
+"nakonec proto, abychom nashromáždili zlato jako přípravu na naši další "
+"bitvu. Dobytí pevnosti nám k ničemu nebude, pokud odejdeme chudší, než jsme "
+"přišli!"
 
 #. [companion_message]
 #. TRoW's Jessene says that when orcs game to the Green Isle, the lich-lords "built a great stone gate to the heart of the homeland of the orcs in the distant west"
@@ -14013,6 +14052,8 @@ msgid ""
 "A foul odor. A blight upon the wind. Konrad, this is a gateway created by "
 "the lich-lords of ages past, during their genocidal hunt for the Ruby."
 msgstr ""
+"Odporný zápach. Zkáza nesoucí se ve větru. Konráde, tohle je brána, kterou "
+"vytvořili páni lichů v dávných dobách během své vyhlazovací honby za Rubínem."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:616
@@ -14022,6 +14063,9 @@ msgid ""
 "gateway created by the lich-lords of ages past, during their genocidal hunt "
 "for the Ruby."
 msgstr ""
+"Úžasná skřetí brána! Vidět ji na vlastní oči je... mrazivé. Konráde, tohle "
+"je brána, kterou vytvořili páni lichů v dávných dobách během své vyhlazovací "
+"honby za Rubínem."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:618
@@ -14029,6 +14073,8 @@ msgid ""
 "There must have been magic in this chasm once, but it’s still and dead now. "
 "Whatever power once created it has been long since vanished."
 msgstr ""
+"Kdysi v této průrvě muselo pracovat kouzlo, ale teď je tichá a mrtvá. Ať už "
+"ji kdysi stvořila jakákoli síla, dávno zmizela."
 
 #. [companion_message]
 #. TRoW's Jessene says that when orcs game to the Green Isle, the lich-lords "built a great stone gate to the heart of the homeland of the orcs in the distant west"
@@ -14041,6 +14087,9 @@ msgid ""
 "five hundred years ago. And when orc pursued man here to the Great "
 "Continent, they came in such numbers as to nearly ruin my own people as well."
 msgstr ""
+"Říká se, že skrz bránu, jako je tato, se člověk poprvé setkal se skřety, "
+"před více než pěti sty lety. A když skřeti pronásledovali člověka až sem na "
+"Velký kontinent, přišli v takovém počtu, že málem zničili i můj vlastní lid."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:629
@@ -14049,6 +14098,9 @@ msgid ""
 "foul powers that created it, when they were slain by the human-kings of old. "
 "May it never again awaken."
 msgstr ""
+"Ale to je prastará minulost. Tato brána již dávno zanikla. Zanikla spolu "
+"s temnými silami, které ji stvořily, když byly poraženy dávnými lidskými "
+"králi. Kéž se již nikdy neprobudí."
 
 #. [companion_message]
 #. TRoW's Jessene says that when orcs game to the Green Isle, the lich-lords "built a great stone gate to the heart of the homeland of the orcs in the distant west"
@@ -14061,6 +14113,9 @@ msgid ""
 "met orc, over five hundred years ago. Lo! Darkness drove us from our homes, "
 "and lo! Our proud people became a band of refugees."
 msgstr ""
+"Stařešinové zaznamenali, že právě skrze bránu, jako je tato, se člověk "
+"poprvé setkal se skřety, před více než pěti sty lety. Hle! Temnota nás "
+"vyhnala z našich domovů, a hle! Náš hrdý lid se stal skupinou uprchlíků."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:637
@@ -14070,6 +14125,10 @@ msgid ""
 "itself rains down from the heavens as sulfur and fire and all the darkness "
 "is cleansed from this world."
 msgstr ""
+"Světlo nás však vysvobodilo, neboť dnes stojíme zde, zcelení a silní. Tato "
+"brána již dávno zanikla. Kéž tak zůstane až do konce věků, až samotné slunce "
+"spadne z nebes jako síra a oheň a veškerá temnota bude z tohoto světa "
+"očištěna."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:639
@@ -14080,6 +14139,10 @@ msgid ""
 "very long time ago, and the gates have long-since gone quiet — hopefully for "
 "good."
 msgstr ""
+"Pokud si dobře vzpomínám na dějiny, právě skrze bránu, jako je tahle, poprvé "
+"vtrhli skřeti pánů lichů na Zelený ostrov. Naštěstí pro nás se to stalo už "
+"před velmi dlouhou dobou a u bran už dávno zavládlo ticho – doufejme, že "
+"nadobro."
 
 #. [companion_message]
 #. TRoW's Jessene says that when orcs game to the Green Isle, the lich-lords "built a great stone gate to the heart of the homeland of the orcs in the distant west"
@@ -14092,11 +14155,15 @@ msgid ""
 "here from far away and fight you softskins. But dey didn’t build it, and now "
 "dey don’t know how to turn it back on again. Maybe nobody ever will."
 msgstr ""
+"Tohle je ta velká skřetí brána, Konráde. Kdysi dávno ji spousta z nich "
+"použila, aby sem přišli z daleka a bojovali proti vám, měkkým kůžím. Ale oni "
+"ji nepostavili, a teď neví, jak ji zase zprovoznit. Možná to už nikdo nikdy "
+"nedokáže."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:660
 msgid "One of our horde is dead! Blow the horn, shaman."
-msgstr ""
+msgstr "Jeden z naší hordy je mrtev! Zatrub na roh, šamanko."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:697
@@ -14105,6 +14172,8 @@ msgid ""
 "Urgh, my head! What kind of instrument could make such a sound? There’s "
 "magic in that horn, Konrad, mark my words."
 msgstr ""
+"Au, moje hlava! Jaký nástroj by mohl vydávat takový zvuk? Ten roh je "
+"kouzelný, Konráde, to si zapamatuj."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:699
@@ -14112,6 +14181,8 @@ msgid ""
 "Urgh... that sound hurts my head somethin’ fierce. I’ve heard a lot o’ orc-"
 "horns before, Konrad, an’ this one ain’t normal."
 msgstr ""
+"Fuj... z toho zvuku mě strašně bolí hlava. Už jsem slyšela spoustu skřetích "
+"rohů, Konráde, ale tenhle není obyčejný."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:700
@@ -14119,6 +14190,8 @@ msgid ""
 "The air rings with power and might! Hark! I recognize orcish magic when I "
 "hear it, Konrad."
 msgstr ""
+"Vzduch se rozeznívá silou a mocí! Slyšte! Poznám skřetí magii, když ji "
+"uslyším, Konráde."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:701
@@ -14126,6 +14199,9 @@ msgid ""
 "Gah! Now thar’s a sound to split an eardrum! Ah’ve heard plenty o’ scumbreed "
 "half-dog warhorns before, Konrad, but this one ain’t normal."
 msgstr ""
+"Fuj! Z toho zvuku by mohly prasknout ušní bubínky! Už jsem slyšel spoustu "
+"válečnejch rohu těch všivejch podvraťáků, Konráde, ale tenhle není "
+"vobyčejnej."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:702
@@ -14133,6 +14209,8 @@ msgid ""
 "Ow! Ow, ow, that hurts my ears, and sets my bones all a-shaking! That can’t "
 "be a mundane, every-day warhorn, can it?"
 msgstr ""
+"Au! Au, au, z toho mě bolí uši a třesou se mi kosti! To snad není žádný "
+"obyčejný, všední válečný roh, že ne?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:703
@@ -14140,6 +14218,8 @@ msgid ""
 "Dat’s a bad sound for us, Konrad. Dosh been hearin’ dis horn before — it’s "
 "not no normal warhorn. It’s got some kind of orc-magic."
 msgstr ""
+"To pro nás nevěstí nic dobrého, Konráde. Doš už ten roh někde slyšel – není "
+"to žádný obyčejný válečný roh. Je v něm nějaká skřetí magie."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:704
@@ -14148,6 +14228,8 @@ msgid ""
 "From the fortress rings a piercing sound of sacrifice, death, and rebirth! "
 "There is orcish magic at work here, Konrad."
 msgstr ""
+"Z pevnosti se ozývá pronikavý zvuk obětování, smrti a znovuzrození! Působí "
+"tu skřetí magie, Konráde."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:706
@@ -14155,6 +14237,8 @@ msgid ""
 "From the fortress rings a piercing sound of sacrifice, death, and rebirth! "
 "There is orcish magic at work here."
 msgstr ""
+"Z pevnosti se ozývá pronikavý zvuk obětování, smrti a znovuzrození! Je v tom "
+"skřetí magie."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:711
@@ -14162,6 +14246,8 @@ msgid ""
 "Tremble before the Horn of Glamdrol, worms! Whenever one of us falls, the "
 "rest shall be healed anew!"
 msgstr ""
+"Třeste se před Glamdrolským rohem, vy červi! Kdykoli jeden z nás padne, "
+"ostatní budou znovu uzdraveni!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:727
@@ -14170,6 +14256,8 @@ msgid ""
 "will take it and examine it when I have time — for now we must continue to "
 "fight."
 msgstr ""
+"Co je to? Ta skřetice měla u sebe podivný roh s magickými znaky. Vezmu si ho "
+"a prozkoumám, až budu mít čas – teď musíme pokračovat v boji."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:732
@@ -14177,6 +14265,8 @@ msgid ""
 "The shaman is dead, and we’ve claimed her magical horn for ourselves! There "
 "will be time to examine it later — for now we must continue to fight."
 msgstr ""
+"Šamanka je mrtvá a my jsme si přivlastnili její kouzelný roh! Na jeho "
+"prozkoumání bude čas později – teď musíme dál bojovat."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:751
@@ -14184,16 +14274,18 @@ msgid ""
 "What are we doing fighting up here? The orcs’ gold is in their city, not "
 "here among these trolls!"
 msgstr ""
+"Proč vlastně bojujeme tady nahoře? Skřetí zlato je v jejich městě, ne tady "
+"mezi těmi trolly!"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:769
 msgid "The chiefs are dead! Run for the hills!"
-msgstr ""
+msgstr "Náčelníci jsou mrtví! Utíkejte do hor!"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:783
 msgid "I spit my last breath at you!"
-msgstr ""
+msgstr "Plivu na tebe!"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:792
@@ -14202,6 +14294,8 @@ msgid ""
 "bringing his warriors back from their raid! You’d better not be here when he "
 "gets back!"
 msgstr ""
+"Pojďme odtud pryč! Vy špinavý vetřelci, najdu vrchního náčelníka a přivedu "
+"jeho válečníky zpátky z jejich nájezdu! Až se vrátí, radši už tu nebuďte!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:805
@@ -14209,6 +14303,8 @@ msgid ""
 "We have defeated all of the orcs! An incredible challenge — well done, "
 "everyone. Time to take our leave of this place, and to tally our plunder!"
 msgstr ""
+"Porazili jsme všechny skřety! Byla to neuvěřitelná výzva – všichni jste si "
+"vedli skvěle. Je čas opustit toto místo a spočítat kořist!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:822
@@ -14216,6 +14312,9 @@ msgid ""
 "We can afford to fight here only a little longer! This is orcish territory, "
 "and every minute here only further risks our enemies being reinforced."
 msgstr ""
+"Můžeme si tady dovolit bojovat už jen chvilku! Tohle je území skřetů a každá "
+"minuta, kterou tu strávíme, jen zvyšuje nebezpečí, že naši nepřátelé "
+"dostanou posily."
 
 #. [message]: speaker=$speaker_id
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:837
@@ -14223,6 +14322,8 @@ msgid ""
 "That’s it! You pinkskins are proving way too much of a nuisance. I’m finding "
 "the high chief and bringing his warriors back from their raid!"
 msgstr ""
+"A dost! Vy bledý kůže mi už děláte až příliš velký potíže. Najdu vrchního "
+"náčelníka a přivedu jeho válečníky zpátky z jejich nájezdu!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:844
@@ -14230,11 +14331,13 @@ msgid ""
 "That sounds like our cue to leave. We can’t risk being pinned down and "
 "eradicated. Quick, everyone, let us make our escape and tally our plunder!"
 msgstr ""
+"To vypadá jako signál k našemu odchodu. Nemůžeme riskovat, že nás obklíčí "
+"a vyhladí. Rychle, všichni, utečme a spočítejme kořist!"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:862
 msgid "Hey, what about my gold? You made a pledge!"
-msgstr ""
+msgstr "Hele, a co moje zlato? Slíbil jsi mi ho!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:866
@@ -14242,6 +14345,8 @@ msgid ""
 "I’m sorry, but we didn’t pillage enough from Glamdrol to cover all "
 "$bm_s22_gold_cost gold. Can I pay you later?"
 msgstr ""
+"Je mi líto, ale v Glamdrolu jsme neuloupili dost, aby to pokrylo všech "
+"$bm_s22_gold_cost zlatých. Můžu ti zaplatit později?"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/22_Glamdrol.cfg:870
@@ -14249,6 +14354,8 @@ msgid ""
 "Oh, that’s no problem — we’ll just take what we’re owed off your corpse. "
 "Attack! Don’t let them escape!"
 msgstr ""
+"Ou, to neni žádnej problém – prostě si z tvý mrtvoly vezmeme, co nám patří. "
+"Do útoku! Nenechte je utéct!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:105
