@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-27 17:20+0200\n"
+"PO-Revision-Date: 2026-09-28 21:02+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -14360,7 +14360,7 @@ msgstr ""
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:105
 msgid "Infirm Yeti"
-msgstr ""
+msgstr "Neduživý Yetti"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:159
@@ -14368,6 +14368,8 @@ msgid ""
 "Brrr... it may not be winter, but with the storm swirling about overhead it "
 "certainly feels like it. This place is freezing!"
 msgstr ""
+"Brrr... možná ještě není zima, ale s tou bouří, co se nad námi prohání, mám "
+"pocit, jako by už byla. Tady je ale ledárna!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:164
@@ -14375,11 +14377,13 @@ msgid ""
 "Hello! Are you all right? What’re you doing out here in the cold? ...she’s "
 "still not paying attention."
 msgstr ""
+"Ahoj! Jsi v pořádku? Co tady venku v té zimě děláš? ...ještě nás "
+"nezpozorovala."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:176
 msgid "Err, hello? HELLO!"
-msgstr ""
+msgstr "Ehm, haló? HALÓ!"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:184
@@ -14387,6 +14391,8 @@ msgid ""
 "Aaah! Don’t sneak up on a woman like that; the jump you gave me nearly "
 "ruined three days’ work!"
 msgstr ""
+"Aaah! Takhle se k ženě nepliž. Tím vylekáním jsi mě málem připravil o tři "
+"dny práce!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:188
@@ -14394,6 +14400,8 @@ msgid ""
 "I’m sorry, I just wanted to see if everything is all right. What’re you "
 "doing alone and unarmed all the way up here in these snows?"
 msgstr ""
+"Promiň, jen jsem se chtěl ujistit, jestli je všechno v pořádku. Co tu nahoře "
+"v tom sněhu děláš sama a beze zbraně?"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:192
@@ -14401,6 +14409,8 @@ msgid ""
 "Ah, I’m glad you asked! You see, I’m an — err, how should I say it — "
 "alchemist, yes, yes, alchemist is right. A researcher!"
 msgstr ""
+"Ach, jsem ráda, že ses zeptal! Víš, já jsem – ehm, jak to říct – "
+"alchymistka, ano, ano, alchymistka je to správné slovo. Vědkyně!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:196
@@ -14408,6 +14418,8 @@ msgid ""
 "You’re a mage? That explains why you’re not carrying any weapons. Are you "
 "conducting some sort of magical experiment?"
 msgstr ""
+"Jsi čarodějka? To vysvětluje, proč u sebe nemáš žádné zbraně. Provádíš snad "
+"nějaký magický experiment?"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:200
@@ -14417,6 +14429,10 @@ msgid ""
 "here in the mountains. I’m certain my theories are correct, I just need the "
 "ingredients to prove it!"
 msgstr ""
+"Ne, ne! Nejsem jedna z těch upjatých akademiků s kruhy pod očima. Nedělám "
+"kouzla, ale vyvolávám chemické reakce! Tady v horách se dá najít spousta "
+"cenných alchymistických činidel. Jsem si jistá, že moje teorie jsou správné, "
+"jen potřebuju ty správné ingredience, abych to dokázala!"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:204
@@ -14426,6 +14442,10 @@ msgid ""
 "cooperative than for which I was prepared... Right! But now you’re here to "
 "help!"
 msgstr ""
+"Víš, s nasbíráním většiny bylinek jsem neměla žádné potíže. Ehm, ale, no, "
+"místní fauna – jak si asi dokážeš představit, se ukázala být o něco méně "
+"ochotná, než na co jsem byl připravená... Dobrá! Ale teď jsi tu ty, abys mi "
+"pomohl!"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:208
@@ -14433,6 +14453,8 @@ msgid ""
 "Here, take this leather pouch for the tongue... and yes, this glass jar for "
 "the bile— No! Not that one, this one—"
 msgstr ""
+"Tady, vezmi si tenhle kožený váček na jazyk... a ano, tuhle skleněnou "
+"nádobku na žluč – Ne! Ne tamtu, tuhle —"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:216
@@ -14440,6 +14462,8 @@ msgid ""
 "What is all this stuff? You... want me to gather some alchemy components for "
 "you, is that right?"
 msgstr ""
+"Co je to všechno za věci? Ty... chceš, abych ti sehnal nějaké alchymistické "
+"přísady, je to tak?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:218
@@ -14449,6 +14473,10 @@ msgid ""
 "trouble, but I’m not sure my army and I can spare the time to stop and help "
 "you collect ingredients."
 msgstr ""
+"Jmenuji se Konrád, jsem následník wesnothského trůnu a vydal jsem se na "
+"výpravu, abych svrhl temnou královnu Ašvíru. Rád ti přenechám nějaké jídlo "
+"nebo zlato, pokud jsi v nesnázích, ale nejsem si jistý, zda si já a moje "
+"vojsko můžeme dovolit zastavit se a pomoci ti se sháněním přísad."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:222
@@ -14458,6 +14486,10 @@ msgid ""
 "and come with you on your quest. A great chance to field-test my concoctions "
 "against that queen of yours."
 msgstr ""
+"Ano, přísady, přesně tak! A kdybyste si udělali čas a pomohli mi, byla bych "
+"vám velmi vděčná. A... a! Pokud mi pomůžete, oplatím vám to a půjdu s vámi "
+"na vaši výpravu. Skvělá příležitost vyzkoušet moje lektvary v praxi proti té "
+"vaší královně."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:226
@@ -14466,6 +14498,9 @@ msgid ""
 "bile. Giant Spider venom — that one’s a doozy. And, err, believe it or not, "
 "Yeti tongue. If Yetis exist."
 msgstr ""
+"K dokončení mých experimentů mi chybí už jen tři přísady. Žluč ledohraba. "
+"Jed obřího pavouka – to je fakt něco. A, ehm, věřte tomu nebo ne, jazyk "
+"yettiho. Pokud yettiové existují."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:230
@@ -14473,6 +14508,8 @@ msgid ""
 "... and if we can collect all three of these, you’ll come with us to help us "
 "fight against Asheviere? I suppose that sounds like a fair trade."
 msgstr ""
+"... a když se nám podaří sehnat všechny tři, půjdeš s námi a pomůžeš nám "
+"v boji proti Ašvíře? Myslím, že to zní jako férová dohoda."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:234
@@ -14482,37 +14519,41 @@ msgid ""
 "variety of alchemical concoctions. For now, the keep is yours — I’ve noticed "
 "a very interesting species of beetle over here..."
 msgstr ""
+"Rozhodně! Momentálně možná nejsem moc užitečná, ale jakmile mi seženete "
+"potřebné přísady, budu vám moci pomáhat v boji pomocí nejrůznějších "
+"alchymistických lektvarů. Prozatím můžeš použít tvrz – všimla jsem si tady "
+"jednoho velmi zajímavého druhu brouka..."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:249
 msgid "Gather as many ingredients as you can before turns run out:"
-msgstr ""
+msgstr "Nasbírej co nejvíce přísad, než vyprší počet kol:"
 
 #. [objective]: condition=win
 #. [objective]: condition=win, description=<span strikethrough='true'>
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:254
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:261
 msgid "Defeat a Great Icemonax"
-msgstr ""
+msgstr "Poraz velkého ledohraba"
 
 #. [objective]: condition=win
 #. [objective]: condition=win, description=<span strikethrough='true'>
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:269
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:276
 msgid "Defeat a Giant Spider"
-msgstr ""
+msgstr "Poraz obřího pavouka"
 
 #. [objective]: condition=win
 #. [objective]: condition=win, description=<span strikethrough='true'>
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:284
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:291
 msgid "Defeat a Yeti"
-msgstr ""
+msgstr "Poraz yettiho"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:299
 msgid "Death of Jeniver"
-msgstr ""
+msgstr "Jeniver zemře"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:307
@@ -14520,6 +14561,8 @@ msgid ""
 "Springtime Storm: at the end of every third turn (1, 4, 7, etc), Konrad’s "
 "forces will become slowed."
 msgstr ""
+"Jarní bouře: na konci každého třetího kola (1, 4, 7 atd.) dojde ke zpomalení "
+"Konrádových jednotek."
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:313
@@ -14527,6 +14570,8 @@ msgid ""
 "Summer Storm: at the end of every fourth turn (1, 5, 9, etc), Konrad’s "
 "forces will become slowed."
 msgstr ""
+"Letní bouře: Na konci každého čtvrtého kola (1, 5, 9 atd.) dojde ke "
+"zpomalení Konrádových jednotek."
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:319
@@ -14534,6 +14579,8 @@ msgid ""
 "Autumn Storm: at the end of every third turn (1, 4, 7, etc), Konrad’s forces "
 "will become slowed."
 msgstr ""
+"Podzimní bouře: na konci každého třetího kola (1, 4, 7 atd.) dojde ke "
+"zpomalení Konrádových jednotek."
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:325
@@ -14541,6 +14588,8 @@ msgid ""
 "Winter Storm: at the end of every second turn (1, 3, 5, etc), Konrad’s "
 "forces will become slowed."
 msgstr ""
+"Zimní bouře: na konci každého druhého kola (1, 3, 5 atd.) dojde ke zpomalení "
+"Konrádových jednotek."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:353
