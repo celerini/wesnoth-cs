@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-29 04:57+0200\n"
+"PO-Revision-Date: 2026-09-30 08:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -14781,120 +14781,107 @@ msgid ""
 "I’ve defeated one of the young Icemonax, Jeniver! How do I get the bile you "
 "wanted?"
 msgstr ""
-"Porazil jsem jednoho z mladých ledohrabů, Jeniver! Jak získám tu žluč, kterou "
-"jsi chtěla?"
+"Porazil jsem jednoho z mladých ledohrabů, Jeniver! Jak získám tu žluč, "
+"kterou jsi chtěla?"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:450
-#, fuzzy
 msgid ""
 "Oh, ah, I neglected to mention: only the Great Icemonax have the requisite "
 "liver chemistry for producing bile. You’ll have to down one of the bigger "
 "ones before I can collect what I need."
 msgstr ""
-"Ou, ach, zapomněla jsem se zmínit: pouze velcí ledohrabové mají potřebné jaterní "
-"složení pro tvorbu žluči. Budeš muset skolit jednoho z těch větších, než "
-"budu moct získat to, co potřebuju."
+"Ou, ach, zapomněla jsem se zmínit: pouze velcí ledohrabové mají potřebné "
+"složení jater pro tvorbu žluči. Budeš muset skolit jednoho z těch větších, "
+"než budu moct získat to, co potřebuju."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:464
-#, fuzzy
 msgid "Oh, the Icemonax is dead! Yes, yes... allow me to extract the bile..."
 msgstr ""
-"Ach, Icemonax je mrtvý! Ano, ano... dovolte mi, abych z něj vytáhl žluč..."
+"Ach, ten ledohrab je mrtvý! Ano, ano... dovol mi, abych z něj vyjmula žluč..."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:469
-#, fuzzy
 msgid ""
 "... there! Now add essence of wandweed... bone of the tyrant... a lit torch—"
 "<i><b>stand back!</b></i>"
 msgstr ""
-"... tak! Teď přidej esenci z hůlkovitého plevele... kost tyrana... zapálenou "
-"pochodeň—<i><b>ustup!</b></i>"
+"... tak! Teď přidat výtažek z podenky... kost tyrana... zapálenou pochodeň —"
+"<i><b>ustup!</b></i>"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:480
-#, fuzzy
 msgid ""
 "Smoke! Yes, earth turned to air... most useful for befuddling and bewitching "
 "the unprepared, and a validation of my theory of elemental humors!"
 msgstr ""
-"Kouř! Ano, země se proměnila ve vzduch… to se skvěle hodí k tomu, aby to "
-"zmátlo a okouzlilo nepřipravené, a je to potvrzení mé teorie o elementárních "
-"humorách!"
+"Kouř! Ano, země se proměnila ve vzduch... to se skvěle hodí k tomu, aby to "
+"zmátlo a okouzlilo nepřipravené, a je to potvrzení mé teorie o elementárním "
+"vtipu!"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:486
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:555
-#, fuzzy
 msgid "New Attack"
 msgstr "Nový útok"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:487
-#, fuzzy
 msgid "Jeniver has gained a powerful <i>flashpowder</i> attack!"
-msgstr "Jeniver získala silný útok <i>flashpowder</i>!"
+msgstr "Jeniver získala silný útok <i>bleskovým práškem</i>!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:506
-#, fuzzy
 msgid "Look out! That giant spider is furious, and it’s coming right at us!"
-msgstr "Pozor! Ten obří pavouk je rozzuřený a míří přímo na nás!"
+msgstr "Pozor! Ten obří pavouk je rozzuřený a míří přímo na nás!"
 
 #. [message]: speaker=Jeniver
 #. Jeniver is incorrect; the spider will mind. This message plays when spiders and Konrad's forces are about to engage in battle.
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:511
-#, fuzzy
 msgid ""
 "Oh, come now, I’m sure it just wants to make friends. No need for violence; "
 "to get what I need, all you need to do is lever apart the front incisors and "
 "gently massage the venom sacks. I’m sure the spider won’t mind."
 msgstr ""
 "No tak, určitě se jen chce spřátelit. Není třeba používat násilí; abys "
-"získal, co potřebuješ, stačí jen roztáhnout přední řezáky a jemně masírovat "
-"jedové váčky. Jsem si jistý, že pavoukovi to nebude vadit."
+"získal, co potřebuji, stačí jen roztáhnout přední řezáky a jemně masírovat "
+"jedové váčky. Jsem si jistá, že pavoukovi to nebude vadit."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:522
-#, fuzzy
 msgid ""
 "You have the spider venom! Fantastic! I shall just add a distillation of "
 "euphoria... a dash of elf-hair, a few other bits and bobs..."
 msgstr ""
-"Máš pavoučí jed! Fantastické! Jen k tomu přidám destilát euforie… špetku "
-"elfích vlasů, pár dalších drobností…"
+"Máš pavoučí jed! Fantastické! Jen k tomu přidám extrakt euforie... špetku "
+"elfích vlasů, pár dalších drobností..."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:527
-#, fuzzy
 msgid "And... and! And my elixir of immortality is ready!"
-msgstr "A... a! A můj elixír nesmrtelnosti je hotový!"
+msgstr "A... a! A můj elixír nesmrtelnosti je hotový!"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:542
-#, fuzzy
 msgid "Blarghh!!!"
 msgstr "Blarghh!!!"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:549
-#, fuzzy
 msgid ""
 "Ugh... well, so much for my treatise on the life-extending properties of "
 "venoms. Ah, well— well, setbacks are inevitable! At least the toxin, "
 "properly prepared, may make for a useful weapon."
 msgstr ""
-"Ach jo... no, tolik k mé úvaze o vlastnostech jedů, které prodlužují život. "
-"Ach, co už – no, překážky jsou nevyhnutelné! Alespoň ten toxin, správně "
-"připravený, by se mohl hodit jako užitečná zbraň."
+"Fujtajbl... no, tolik k mé úvaze o vlastnostech jedů, které prodlužují "
+"život. Ach, co už – no, nezdary jsou nevyhnutelné! Alespoň ten toxin, "
+"správně připravený, by se mohl hodit jako užitečná zbraň."
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:556
-#, fuzzy
 msgid "Jeniver has gained a poisoned <i>blowgun</i> attack!"
-msgstr "Jeniver získala útok s otrávenou <i>fukárkou</i>!"
+msgstr "Jeniver získala útok s otrávenou <i>foukačkou</i>!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:575
@@ -14902,11 +14889,13 @@ msgid ""
 "They truly are real! This Yeti would be a majestic sight, if not for how "
 "determined it is to beat our heads in with its bare fists!"
 msgstr ""
+"Opravdu existují! Tenhle yetti by skýtal velkolepou podívanou, nebýt toho, "
+"jak je odhodlaný nám rozbít hlavy holými pěstmi!"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:586
 msgid "Fantastic, the Yeti is defeated! Let me take a look at that tongue..."
-msgstr ""
+msgstr "Skvělé, Yetti je poražen! Nech mě se podívat na ten jazyk..."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:591
@@ -14914,6 +14903,8 @@ msgid ""
 "Yes, yes, now one dash of mugwort... essence of skyworm, heated under a cold "
 "flame... and... and— And golden transmutation is achieved!"
 msgstr ""
+"Ano, ano, teď špetku pelyňku... esenci nebeského červa, zahřátou na mírném "
+"plameni... a... a — A zlatá transmutace je dokončena!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:597
@@ -14921,6 +14912,8 @@ msgid ""
 "Golden transmutation? You mean you can transmute other substances into gold? "
 "That’s an incredible accomplishment!"
 msgstr ""
+"Proměna ve zlato? Chceš tím říct, že dokážeš proměnit jiné látky ve zlato? "
+"To je neuvěřitelný úspěch!"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:601
@@ -14930,16 +14923,20 @@ msgid ""
 "“transmutation” is a much more exciting word for alchemists. And etymology "
 "aside, my discovery will certainly help boost your income!"
 msgstr ""
+"No, vlastně ne, ne tak úplně. Je to spíš... destilace – ano, proces, který "
+"slouží k zušlechtění a získání větší hodnoty z tvé stávající mince. Ale "
+"„transmutace“ je pro alchymisty mnohem vzrušujícíjší slovo. A když pomineme "
+"etymologii, můj objev vám určitě pomůže zvýšit vaše příjmy!"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:607
 msgid "New Ability"
-msgstr ""
+msgstr "Nová schopnost"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:608
 msgid "Jeniver has gained the powerful <i>transmutation</i> ability!"
-msgstr ""
+msgstr "Jeniver získala mocnou schopnost <i>proměny</i>!"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:638
@@ -14947,6 +14944,8 @@ msgid ""
 "And with that— yes, with that, I have everything I needed from the north! "
 "Excellent! I wonder what substances I should turn my study to next..."
 msgstr ""
+"A tím – ano, tím mám všechno, co jsem ze severu potřebovala! Výborně! "
+"Zajímalo by mě, jakým látkám bych se měla ve svém výzkumu věnovat dál..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:642
@@ -14954,6 +14953,8 @@ msgid ""
 "I’m glad to help! But don’t forget, you’d said you would join us if we "
 "helped you here."
 msgstr ""
+"Rád ti poradím! Ale nezapomeň, že jsi slíbila se k nám přidat, když ti tady "
+"pomůžeme."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:646
@@ -14963,6 +14964,10 @@ msgid ""
 "will provide me with a good opportunity for travel and research. I’d be glad "
 "to accompany you on your travels, Konrad!"
 msgstr ""
+"Hmm? Ach ano, ano, to je samozřejmě pravda. Vlastně mám pár nových nápadů, "
+"které bych strašně ráda uskutečnila. Možná mi společná cesta s tebou "
+"poskytne skvělou příležitost k cestování a výzkumu. Ráda tě na tvých cestách "
+"doprovodím, Konráde!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:661
@@ -14971,6 +14976,8 @@ msgid ""
 "by the minute; meanwhile Asheviere continues to grow stronger and stronger "
 "unchecked."
 msgstr ""
+"S pomocí Jeniver se nesmíme příliš zdržovat. Vzduch je mrazivý a každou "
+"minutou se zhoršuje. Mezitím Ašvíra bez jakéhokoli odporu sílí a sílí."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:665
@@ -14979,6 +14986,8 @@ msgid ""
 "without all three ingredients she also won’t be as useful as she might "
 "otherwise have been."
 msgstr ""
+"Jeniver řekla, že nás bude doprovázet i v případě, že nám dojde čas, ale bez "
+"všech tří přísad nám nebude tak užitečná, jak by jinak mohla být."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:672
@@ -14987,6 +14996,9 @@ msgid ""
 "but between the cold and the threat of Asheviere we simply can’t spare any "
 "more time to help you."
 msgstr ""
+"Jeniver, vím, že jsme ti slíbili, že ti pomůžeme sehnat alchymistické "
+"přísady, ale díky chladu a hrozbě ze strany Ašvíry ti prostě nemůžeme "
+"věnovat žádný další čas."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:676
@@ -14996,6 +15008,10 @@ msgid ""
 "ingredients here, perhaps joining you on your travels will provide me with a "
 "good opportunity for travel and research. If you’ll have me, of course!"
 msgstr ""
+"Ach ano, chápu. To je v pořádku. Vlastně mám pár nových nápadů, které bych "
+"strašně ráda uskutečnila. Bez ohledu na to, jaké ingredience tu ještě "
+"zbývají, mi účast na vašich cestách možná poskytne skvělou příležitost "
+"k cestování a výzkumu. Samozřejmě, pokud mě vezmete s sebou!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:692
@@ -15003,18 +15019,20 @@ msgid ""
 "Oh no! We promised to help Jeniver find her alchemical ingredients, but "
 "instead we’ve let her die..."
 msgstr ""
+"Ach ne! Slíbili jsme Jeniver, že jí pomůžeme najít alchymistické přísady, "
+"ale místo toho jsme ji nechali zemřít..."
 
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:701
 msgid "scenario name^Northern Spring"
-msgstr ""
+msgstr "Jaro na severu"
 
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:702
 msgid "scenario name^Northern Summer"
-msgstr ""
+msgstr "Léto na severu"
 
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:703
 msgid "scenario name^Northern Autumn"
-msgstr ""
+msgstr "Podzim na severu"
 
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:704
 msgid "scenario name^Northern Winter"
@@ -22754,12 +22772,12 @@ msgstr ""
 #. [attack]: type=fire
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:307
 msgid "flashpowder"
-msgstr ""
+msgstr "bleskový prášek"
 
 #. [attack]: type=pierce
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:321
 msgid "blowgun"
-msgstr ""
+msgstr "foukačka"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:4
 msgid "Fighter"
@@ -23792,7 +23810,7 @@ msgstr ""
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:821
 msgid "Improved Blowgun"
-msgstr ""
+msgstr "lepší foukačka"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:822
@@ -23802,7 +23820,7 @@ msgstr ""
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:842
 msgid "Improved Flashpowder"
-msgstr ""
+msgstr "lepší bleskový prášek"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:843
