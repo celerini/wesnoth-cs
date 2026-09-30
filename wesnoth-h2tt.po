@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-30 08:50+0200\n"
+"PO-Revision-Date: 2026-09-30 10:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -15046,7 +15046,7 @@ msgstr "Starý přítel"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:65
 msgid "Deoran"
-msgstr ""
+msgstr "Deoran"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:136
@@ -15054,6 +15054,8 @@ msgid ""
 "You have led us to a dark part of the jungle, great-granddaughter. And "
 "undead? What are undead doing in Wesmere?!"
 msgstr ""
+"Zavedla jsi nás do temné části džungle, pravnučko. A nemrtvý? Co dělá ve "
+"Wesmérii nemrtvý?!"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:141
@@ -15062,11 +15064,14 @@ msgid ""
 "after Eldred so cruelly struck him down. He remembers nothing but echoes. It "
 "is terrible, Kalenz!"
 msgstr ""
+"Ne jen tak nějaký nemrtvý. Ten temný jezdec je náš přítel Deoran, který "
+"znovu povstal jako postrach poté, co ho Eldred tak krutě srazil k zemi. "
+"Nepamatuje si nic, jen ozvěny. To je strašné, Kalenzi!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:145
 msgid "Death... I lowered my sword... A blade in my chest..."
-msgstr ""
+msgstr "Smrt... Sklonil jsem meč... Čepel mi trčela z hrudi..."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:149
@@ -15075,6 +15080,9 @@ msgid ""
 "Asheviere’s or by the dark magic of Eldred’s fall, but now he has come here "
 "to Wesmere. He has sought me out..."
 msgstr ""
+"Nevím, zda se Deoran stal nemrtvým pro Ašvířinu urážku, nebo díky temné "
+"magii spojené s Eldredovým pádem, ale teď přišel sem, do Wesmérie. Vyhledal "
+"mě..."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:153
@@ -15082,6 +15090,8 @@ msgid ""
 "Deoran was a good man, and deserved better than the end he met. I know you "
 "and he were close, Chantal, and I am sorry."
 msgstr ""
+"Deoran byl dobrý člověk a zasloužil si lepší konec, než jaký ho potkal. Vím, "
+"že jste si byli blízcí, Chantal, a je mi to líto."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:157
@@ -15090,6 +15100,9 @@ msgid ""
 "that we cannot leave him to rampage through Wesmere. Now that you are here, "
 "if his bones must be crushed and his body destroyed, so be it."
 msgstr ""
+"Neměla jsem to srdce ho zabít... jedna smrt byla dost velkým utrpením. Vím "
+"však, že ho nemůžeme nechat řádit v celé Wesmérii. Teď, když jsi tady, pokud "
+"je třeba mu rozdrtit kosti a zničit tělo, tak ať se stane."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:161
@@ -15097,6 +15110,8 @@ msgid ""
 "Indeed, it would a mercy to put this cursed being out of his misery. But "
 "perhaps it can be done without the violence that you would so abhor."
 msgstr ""
+"Opravdu by bylo milosrdenstvím zbavit tuto prokletou bytost jejího utrpení. "
+"Ale možná by to šlo i bez násilí, které bys tak silně odsuzovala."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:168
@@ -15106,6 +15121,10 @@ msgid ""
 "peace and rest. You say Deoran has sought you out; I believe he has sought "
 "out this tomb."
 msgstr ""
+"Nedaleko odtud se nachází místo s prastarým kouzlem – pohřebiště, které bylo "
+"kdysi připraveno pro jednoho z našich dávných pánů. Nikdy nebylo využito, "
+"ale dodnes je místem velkého klidu a odpočinku. Říkáš, že tě Deoran "
+"vyhledal. Domnívám se, že on hledal právě tuto hrobku."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:172
@@ -15114,21 +15133,24 @@ msgid ""
 "at last find the peace they have so long been denied. And your tired heart "
 "may at last find closure, great-granddaughter."
 msgstr ""
+"Pokud se nám podaří nalákat ho do hrobky, aniž ho zabijeme, jeho unavené "
+"kosti možná konečně najdou klid, který jim byl tak dlouho odpírán. A tvé "
+"unavené srdce možná konečně dojde smíření, pravnučko."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:180
 msgid "Lure undead Deoran into the burial chamber, and leave him alone inside."
-msgstr ""
+msgstr "Nalákej nemrtvého Deorana do pohřební komory a nech ho tam samotného."
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:184
 msgid "Death of Deoran"
-msgstr ""
+msgstr "Deoran zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:188
 msgid "Death of Kalenz or Chantal"
-msgstr ""
+msgstr "Kalenz nebo Chantal zemře"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:196
@@ -15139,12 +15161,12 @@ msgstr "V tomto scénáři nemůžeš zlato ani získat, ani utratit."
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:199
 msgid "Deoran will prefer to target Chantal."
-msgstr ""
+msgstr "Deoran se zaměří spíše na Chantal."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:211
 msgid "Blackcrests... more, to the north... Rally! Form ranks..."
-msgstr ""
+msgstr "Černohřebenáci... dál, na sever... Shromážděte se! Seřaďte se..."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:224
@@ -15152,11 +15174,13 @@ msgid ""
 "You don’t remember me, do you, Deoran... We shared good memories together, "
 "back in the Lintanir."
 msgstr ""
+"Ty si mě nepamatuješ, viď, Deorane... Máme krásné společné vzpomínky z dob, "
+"kdy jsme byli v Lintaniru."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:228
 msgid "... Chantal? No, not here... War is no... place for you..."
-msgstr ""
+msgstr "... Chantal? Ne, tady ne... Válka není... místo pro tebe..."
 
 #. [message]: speaker=Deoran
 #. Deoran references Mebrin from TSG, and Kalenz's lich-eye potion from LoW
@@ -15164,62 +15188,65 @@ msgstr ""
 msgid ""
 "Mebrin... I sense eye... of lich... Your time has come... once-wise sage..."
 msgstr ""
+"Mebrine... Cítím oko... licha... Tvá hodina nadešla... kdysi moudrý mudrci..."
 
 #. [message]: speaker=Deoran
 #. Deoran references Mebrin's line from TSG S06b: "I curse you, Deoran of Wesnoth! I curse you... may you one day know the same pain that your kind have inflicted on me..."
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:247
 msgid "You cursed me... you cursed me... to know the same pain..."
-msgstr ""
+msgstr "Proklel jsi mě... proklel jsi mě... abych poznal tu samou bolest..."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:259
 msgid "He’s inside! Now we need to exit the tomb and leave him there."
-msgstr ""
+msgstr "Je uvnitř! Teď musíme opustit hrobku a nechat ho tam."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:318
 msgid "There! Now shut the gate and the magic will begin to do its work."
-msgstr ""
+msgstr "Tak! Teď zavři bránu a kouzlo začne působit."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:330
 msgid "Is it working?"
-msgstr ""
+msgstr "Funguje to?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:334
 msgid "My... head..."
-msgstr ""
+msgstr "Moje... hlava..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:349
 msgid "I died. How am I here? I remember better places... happier times..."
 msgstr ""
+"Zemřel jsem. Jak to, že jsem tady? Vzpomínám si na hezčí místa... šťastnější "
+"časy..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:353
 msgid "... goodbye, Chantal."
-msgstr ""
+msgstr "... sbohem, Chantal."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:359
 msgid "Goodbye."
-msgstr ""
+msgstr "Sbohem."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:381
 msgid "Eldred—"
-msgstr ""
+msgstr "Eldrede —"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:387
 msgid "No! He has been broken to pieces..."
-msgstr ""
+msgstr "Ne! Rozpadl se na kusy..."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:409
 msgid "Argh! I am finished!"
-msgstr ""
+msgstr "Argh! Jsem vyřízený!"
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:430
@@ -15228,11 +15255,14 @@ msgid ""
 "we cannot complete our task, I fear he shall soon flee into the river, and "
 "vanish to bring harm to some other land."
 msgstr ""
+"Nemrtvý Deoran začíná divoce otáčet hlavou sem a tam. Pokud svůj úkol "
+"nedokončíme, obávám se, že brzy uteče do řeky a zmizí, aby ublížil nějaké "
+"jiné zemi."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:437
 msgid "You cannot... trap me, Mebrin... I see my escape..."
-msgstr ""
+msgstr "Nepodaří se ti... mě polapit, Mebrine... Vidím cestu k úniku..."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/scenarios/24_An_Old_Friend.cfg:443
@@ -15240,6 +15270,8 @@ msgid ""
 "Deoran has gone! We’ve taken too long to seal him away, and now we may never "
 "find him again..."
 msgstr ""
+"Deoran je pryč! Trvalo nám příliš dlouho ho uvěznit, a teď ho možná už nikdy "
+"nenajdeme..."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:17
