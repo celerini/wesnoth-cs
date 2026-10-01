@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-09-30 10:23+0200\n"
+"PO-Revision-Date: 2026-10-01 21:23+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -15283,6 +15283,7 @@ msgstr "Trpasličí Dveře"
 msgid ""
 "Back into your hovel, worms! Your masters will deal with this idiot attack."
 msgstr ""
+"Zpátky do svých chatrčí, červi! Vaši páni se o tenhle pitomý útok postarají."
 
 #. [message]: role=angry_orc
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:217
@@ -15290,6 +15291,8 @@ msgid ""
 "And stay in there. Any pinkskin sticks its head out, it won’t have a head "
 "for much longer!"
 msgstr ""
+"A zůstaňte tam. Jakmile nějaká bledá kůže vystrčí hlavu, už ji dlouho mít "
+"nebude!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:238
@@ -15298,6 +15301,9 @@ msgid ""
 "purify! Our crossing will be difficult, yet cross we must, if the dwarven "
 "caverns we wish to exit."
 msgstr ""
+"Slyšte! Toto údolí zaplavuje tma: skřeti. Je jich víc, než dokáže mé světlo "
+"očistit! Náš přechod bude obtížný, přesto ho musíme zvládnout, pokud chceme "
+"opustit trpasličí jeskyně."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:239
@@ -15305,6 +15311,8 @@ msgid ""
 "There’s orcs here; lots of orcs. More than we can fight, I’m thinkin’. But "
 "we’ve gots to get through if’n we want to get out o’ these dwarf tunnels!"
 msgstr ""
+"Jsou tu skřeti. Spousta skřetů. Víc, než dokážeme porazit, říkám si. Ale "
+"musíme se tím prokousat, jestli se chceme dostat z těch trpasličích tunelů!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:240
@@ -15312,6 +15320,8 @@ msgid ""
 "There are orcs here; many orcs, likely more than we can defeat. Yet we must "
 "pass through this valley if we wish to exit the dwarven caverns."
 msgstr ""
+"Jsou tu skřeti. Spousta skřetů, pravděpodobně víc, než dokážeme porazit. "
+"Přesto musíme tímto údolím projít, pokud chceme opustit trpasličí jeskyně."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:242
@@ -15320,6 +15330,9 @@ msgid ""
 "purify! Our crossing will be difficult, yet cross we must, if the dwarven "
 "caverns we wish to enter."
 msgstr ""
+"Slyšte! Toto údolí zaplňuje temnota: skřeti. Je jich víc, než kolik dokáže "
+"mé světlo očistit! Naše cesta bude náročná, ale přesto ji musíme projít, "
+"pokud chceme vstoupit do trpasličích jeskyní."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:243
@@ -15327,6 +15340,8 @@ msgid ""
 "There’s orcs here; lots of orcs. More than we can fight, I’m thinkin’. But "
 "we’ve gots to get through if’n we want to into them dwarf tunnels!"
 msgstr ""
+"Jsou tu skřeti. Spousta skřetů. Víc, než dokážeme porazit, říkám si. Ale "
+"musíme se tím prokousat, jestli chceme do těch trpasličích tunelů!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:244
@@ -15334,6 +15349,9 @@ msgid ""
 "There are orcs here; many orcs, likely more than we can defeat. Yet we must "
 "pass through this valley if we wish to enter the dwarvish caverns beyond."
 msgstr ""
+"Jsou tu skřeti. Spousta skřetů, pravděpodobně víc, než dokážeme porazit. "
+"Přesto musíme tímto údolím projít, pokud se chceme dostat do trpasličích "
+"jeskyní, které leží za ním."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:247
@@ -15342,6 +15360,9 @@ msgid ""
 "o’ the dwarf-friends! Swallow-tiltin’ marmalade drinkers! I say we take an "
 "axe to every last one o’ the wretches!"
 msgstr ""
+"Špinavý zbabělý skřeti, schovávají se tu v troskách města našich trpasličích "
+"přátel! Podlézavý bávovky, co žerou marmeládu! Říkám, že bychom měli na "
+"každýho z těch lumpů vzít sekeru!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:250
@@ -15350,6 +15371,8 @@ msgid ""
 "but... wow! And slaves! I’d no idea there were so many humans living up in "
 "the north."
 msgstr ""
+"Páni! Páni, to je ale opravdu spousta skřetů! Věděla jsem sice, že jich bude "
+"hodně, ale... páni! A otroci! Netušila jsem, že na severu žije tolik lidí."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:251
@@ -15358,6 +15381,9 @@ msgid ""
 "since dey took over dis valley, dey’ve got really big and really strong. How "
 "you thinkin’ we should fight?"
 msgstr ""
+"Mmm... Konrád by si měl dát pozor. To sou skřeti z Krvavýho meče. Od tý "
+"doby, co vobsadili tohle údolí, řácky vyrostli a zesílili. Jak bychom podle "
+"tebe měli bojovat?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:258
@@ -15366,6 +15392,9 @@ msgid ""
 "are just too many foes to fight. We’ve caught them by surprise right now, "
 "but that won’t last long."
 msgstr ""
+"I když bych si moc přál, abychom tu mohli zůstat a osvobodit všechny ty "
+"ubohé otroky, je tu prostě příliš mnoho nepřátel, se kterými musíme bojovat. "
+"Právě teď jsme je zaskočili, ale to dlouho nevydrží."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:261
@@ -15373,6 +15402,8 @@ msgid ""
 "We’ll have to focus on fighting our way through to the south exit, and free "
 "as many slaves as we can along the way!"
 msgstr ""
+"Budeme se muset soustředit na to, abychom se probili k jižnímu východu, a po "
+"cestě osvobodit co nejvíc otroků!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:263
@@ -15380,21 +15411,23 @@ msgid ""
 "We’ll have to focus on fighting our way through to the north exit, and free "
 "as many slaves as we can along the way!"
 msgstr ""
+"Budeme se muset soustředit na to, abychom se probili k severnímu východu, "
+"a po cestě osvobodili co nejvíc otroků!"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:276
 msgid "Move Konrad to the marked tunnel entrance"
-msgstr ""
+msgstr "Přesuň Konráda k označenému vchodu do tunelu"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:283
 msgid "Move Konrad to the southern edge of the map"
-msgstr ""
+msgstr "Přesuň Konráda na jižní okraj mapy"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:291
 msgid "Rescue as many slaves as possible"
-msgstr ""
+msgstr "Zachraň co nejvíce otroků"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:301
@@ -15402,16 +15435,18 @@ msgid ""
 "Liberating a village will free the slaves inside. The more slaves are with "
 "you, the fewer new ones will appear."
 msgstr ""
+"Osvobozením vesnice osvobodíš otroky, kteří se v ní nacházejí. Čím více "
+"otroků bude s tebou, tím méně nových se objeví."
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:304
 msgid "Each surviving slave increases your gold carryover by 10."
-msgstr ""
+msgstr "Každý přeživší otrok zvýší množsví přeneseného zlata o 10."
 
 #. [modify_unit]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:352
 msgid "Tanry"
-msgstr ""
+msgstr "Tanry"
 
 #. [message]: role=freed_slave {NOT id=$unit.id}
 #. the speaking peasant/woodsman refers to a time when Baldras and some allies tried to help the Doors, but got captured. The player may or may not know about at this point.
@@ -15420,6 +15455,8 @@ msgid ""
 "I— I can’t believe it. Have you come to rescue us? Others have tried "
 "before..."
 msgstr ""
+"Já... já tomu nemůžu uvěřit. Přišli jste nás zachránit? I jiní už to dříve "
+"zkoušeli..."
 
 #. [message]: id=$unit.id
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:366
@@ -15427,6 +15464,8 @@ msgid ""
 "By the Lords of Light, we’re saved! Take us with you! I don’t care who you "
 "are or where you’re going, as long as it’s away!"
 msgstr ""
+"U pánů světla, jsme zachráněni! Vezměte nás s sebou! Je mi jedno, kdo jste "
+"a kam jdete, hlavně že to bude pryč odtud!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:370
@@ -15435,6 +15474,10 @@ msgid ""
 "cannot express my grief at the sorry state of you and your people here. Of "
 "course you may come with us, as may any other slaves who we are able to free!"
 msgstr ""
+"Jmenuji se Konrád, jsem synem Aranda a právoplatným dědicem trůnu Wesnothu. "
+"Slova nedokážou vyjádřit můj zármutek nad tím, v jakém žalostném stavu se "
+"zde nacházíte vy i váš lid. Samozřejmě, že můžete jít s námi, stejně jako "
+"všichni ostatní otroci, které se nám podaří osvobodit!"
 
 #. [message]: id=$unit.id
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:382
@@ -15444,6 +15487,10 @@ msgid ""
 "Maybe you could come up from underground through there, if you had time to "
 "clear a path. But there’s no way down."
 msgstr ""
+"Chystáte se do trpasličích jeskyní? Slyšel jsem, jak páni říkali, že hlavní "
+"brána je už léta zavalená – udělali to trpaslíci, aby zabránili skřetům "
+"vejít. Možná byste tudy mohli vyjít z podzemí, kdybyste měli čas si "
+"proklestit cestu. Ale dolů nevede žádná cesta."
 
 #. [message]: id=$unit.id
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:386
@@ -15453,21 +15500,24 @@ msgid ""
 "dwarves and claim Knalga’s treasure for themselves. That’s the only way "
 "underground now."
 msgstr ""
+"Pokusili se zbourat i východní šachtu, ale ta byla poté vyklizena. Vchází do "
+"ní spousta skřetů i trollů, kteří se snaží vyřídit poslední trpaslíky "
+"a zmocnit se pokladu Knalgy. To je teď jediná cesta do podzemí."
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:405
 msgid "Who’s there? What’s goin’ on?"
-msgstr ""
+msgstr "Kdo je tam? Co se děje?"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:413
 msgid "... Uncle Somf? Is that really you? What’re you doing here!"
-msgstr ""
+msgstr "... Strýčku Somfe? Jsi to opravdu ty? Co tady děláš!"
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:417
 msgid "Harper!? Well, I never— my, how ye’ve grown!"
-msgstr ""
+msgstr "Harper!? No to mě podrž – páni, jak ty jsi vyrostla!"
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:421
@@ -15476,6 +15526,9 @@ msgid ""
 "people, Baldras ne’er told any o’ ye where we was goin’, fer fear o’ the "
 "orcs catchin’ wind."
 msgstr ""
+"Jak jste mě našli? Když jsme opustili Tři sestry, abychom se pokusili těm "
+"lidem pomoct, Baldras nikomu z vás neřekl, kam jedeme, aby to nezvětřili "
+"skřeti."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:425
@@ -15483,6 +15536,9 @@ msgid ""
 "When you all didn’t come back, Delurin thought you was all dead, but I never "
 "lost hope. Where’s Uncle Baldras? I’ve so many things to tell him!"
 msgstr ""
+"Když se nikdo z vás nevrátil, Delurin si myslel, že jste všichni mrtví, ale "
+"já jsem nikdy neztratila naději. Kde je strýček Baldras? Mám mu toho tolik "
+"co říct!"
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:429
@@ -15490,6 +15546,8 @@ msgid ""
 "Ah... I’m sorry Harper, but he’s dead. Died a hero; saved us all when things "
 "went bad."
 msgstr ""
+"Ach... Je mi líto, Harper, ale on je mrtvý. Zemřel jako hrdina. Zachránil "
+"nás všechny, když se to zvrtlo."
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:433
@@ -15499,6 +15557,10 @@ msgid ""
 "said he was an escaped slave causin’ trouble, an’ that the rest of us were "
 "jus’ innocents mixed up in it all."
 msgstr ""
+"Ti skřeti nás chytili hned, jak jsme se přiblížili, ještě než jsme vůbec "
+"stihli začít pašovat lidi pryč. Tvůj strýc vzal vinu za celou tu záležitost "
+"na sebe. Řekl, že je to on, kdo jako uprchlý otrok dělá potíže, a že my "
+"ostatní jsme jen nevinní, co se do toho všeho zapletli."
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:437
@@ -15507,6 +15569,10 @@ msgid ""
 "said. The rest o’ us they chained up and whipped a few times, afore throwin’ "
 "us into the fields to be slaves. But Baldras they made an’ example out of."
 msgstr ""
+"Víš, skřeti totiž sotva rozeznají lidi jednoho od druhého. Uvěřili každému "
+"jeho slovu. Zbytek z nás spoutali řetězy a párkrát zbičovali, než nás "
+"vyhnali na pole, abychom tam sloužili jako otroci. Z Baldra ale udělali "
+"odstrašující příklad."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:441
@@ -15514,6 +15580,8 @@ msgid ""
 "I was so sure he’d be okay... but I suppose it woulda been too good to be "
 "true. At least you’ve survived, Somf."
 msgstr ""
+"Byla jsem si tak jistá, že to zvládne... ale asi by to bylo příliš krásné, "
+"než aby to byla pravda. Aspoň že jsi to přežil ty, Somfe."
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:449
@@ -15522,6 +15590,9 @@ msgid ""
 "His Royal Highness Konrad, Prince of Wesnoth. I’m fighting in his army, an’ "
 "now you are too."
 msgstr ""
+"... Konráde, tohle je Somf – kamarád ze Tří sester. Somfe, tohle je Jeho "
+"královská Výsost Konrád, princ z Wesnothu. Bojuju v jeho armádě a ty už teď "
+"taky."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:458
@@ -15529,6 +15600,8 @@ msgid ""
 "I am Konrad, heir to the throne of Wesnoth. I’m here to rescue you from "
 "these slavers! Will you join me and help fight in my army?"
 msgstr ""
+"Jmenuji se Konrád a jsem dědic wesnothského trůnu. Přišel jsem tě zachránit "
+"před těmito otrokáři! Přidáš se ke mně a budeš bojovat v mém vojsku?"
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:462
@@ -15536,6 +15609,8 @@ msgid ""
 "That’s mighty fine of you to offer, boy; liberatin’ me from one master only "
 "to offer yerself as my new one. Hah, I weren’t born yesterday!"
 msgstr ""
+"To je od tebe opravdu šlechetné, chlapče. Osvobodit mě od jednoho pána, jen "
+"aby ses mi nabídl jako ten nový. Ha, nejsem včerejší!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:468
@@ -15543,18 +15618,20 @@ msgid ""
 "That man looked like he could’ve made a capable warrior! I am sorry to see "
 "him go — but least we have given him the freedom to choose his own path."
 msgstr ""
+"Ten muž vypadal, že by z něj mohl být schopný válečník! Je mi líto, že "
+"odchází – ale alespoň jsme mu dali svobodu, aby si zvolil svou vlastní cestu."
 
 #. [message]: type=Cuttle Fish,Kraken
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:488
 msgid "Ruarrrrr!!!"
-msgstr ""
+msgstr "Ruarrrrr!!!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:491
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:492
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:493
 msgid "By Haldric! There’s some sort of monster in the lake!"
-msgstr ""
+msgstr "U Haldrika! V jezeře je nějaká příšera!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:494
