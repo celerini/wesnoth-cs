@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-01 21:23+0200\n"
+"PO-Revision-Date: 2026-10-02 22:12+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -15639,26 +15639,28 @@ msgid ""
 "Aaah! There’s— it’s— well, I don’t mean to sound unscientific, but it’s a "
 "monster!"
 msgstr ""
+"Aaah! Tam je... to je... no, nechci, aby to znělo nevědecky, ale je to "
+"příšera!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:495
 msgid "Thursagan’s beard! There’s a great galumphing monster in the lake!"
-msgstr ""
+msgstr "U Thursaganova vousu! V jezeře se převaluje obrovská příšera!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:496
 msgid "By the Light! A monster most foul lurks within the waters!"
-msgstr ""
+msgstr "Při Světle! Ve vodách se skrývá příšerná obluda!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:497
 msgid "Dere be some kind of monster in da lake!"
-msgstr ""
+msgstr "V tom jezeře je nějaká příšera!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:498
 msgid "Gah! Look out, there’s some kind of monster in the lake!"
-msgstr ""
+msgstr "Fuj! Pozor, v jezeře je nějaká příšera!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:502
@@ -15666,6 +15668,8 @@ msgid ""
 "The legend was true! They say there’s always tentacled creatures hiding in "
 "lakes near dwarven tunnels."
 msgstr ""
+"Ta legenda byla pravdivá! Říká se, že v jezerech poblíž trpasličích tunelů "
+"se vždycky skrývají stvoření s chapadly."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:514
