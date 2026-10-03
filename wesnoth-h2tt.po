@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-02 22:12+0200\n"
+"PO-Revision-Date: 2026-10-03 06:19+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -15677,6 +15677,8 @@ msgid ""
 "Here stand the pillars of Thunedain. He were a great lord o’ my kind; the "
 "last o’ the heroes o’ the Doors. Here did he stand, an’ here did he fall."
 msgstr ""
+"Zde stojí Thunedainovy pilíře. Byl to velký pán mého rodu. Poslední z hrdinů "
+"Dveří. Zde stál a zde padl."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:515
@@ -15684,6 +15686,9 @@ msgid ""
 "I think these to be the pillars of Thunedain, Konrad. He was a legendary "
 "dwarvish lord who made his last stand here. May we triumph where he fell."
 msgstr ""
+"Myslím, že tohle jsou Thunedainovy pilíře, Konráde. Byl to legendární "
+"trpasličí vládce, který zde svedl svou poslední bitvu. Kéž zvítězíme tam, "
+"kde padl."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:516
@@ -15693,6 +15698,8 @@ msgid ""
 "Is this— yes, these must be the pillars of Thunedain. I read about this. He "
 "was a great dwarvish lord who made his last stand here."
 msgstr ""
+"Jsou to... ano, to musí být Thunedainovy pilíře. Četla jsem o tom. Byl to "
+"velký trpasličí pán, který zde svedl svou poslední bitvu."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:544
@@ -15701,6 +15708,9 @@ msgid ""
 "to these orcs! If only we could have truly liberated this place... but I "
 "know that far more people are suffering under Asheviere."
 msgstr ""
+"Dostali jsme se k jižnímu východu z údolí a zasadili těmto skřetům pořádnou "
+"ránu! Kéž bychom mohli toto místo skutečně osvobodit... ale vím, že pod "
+"Ašvířiným jhem trpí ještě mnohem více lidí."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #. [message]: speaker=Konrad
@@ -15711,6 +15721,9 @@ msgid ""
 "remain; to those we could not save I say: <i>Hold fast your hope, for one "
 "day you shall be free!</i>"
 msgstr ""
+"Alespoň jsme se snažili ze všech sil pomoci těm, kteří zde byli zotročeni. "
+"Těm, kteří zde zůstali, těm, které jsme zachránit nedokázali, vzkazuji: "
+"<i>Neztrácejte naději, neboť jednoho dne budete svobodní!</i>"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:565
@@ -15719,6 +15732,9 @@ msgid ""
 "blow to these orcs! If only we could have truly liberated this place... but "
 "I know that far more people are suffering under Asheviere."
 msgstr ""
+"Dostali jsme se ke vchodu do trpasličích tunelů a zasadili těmto skřetům "
+"těžkou ránu! Kéž bychom mohli toto místo skutečně osvobodit... ale vím, že "
+"pod Ašvířinou nadvládou trpí ještě mnohem více lidí."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:587
@@ -15726,6 +15742,8 @@ msgid ""
 "As we were warned, the central tunnels have been collapsed. We shall have to "
 "make for the eastern mineshaft instead."
 msgstr ""
+"Jak nás varovali, hlavní tunely byly zavaleny. Budeme se tedy muset vydat "
+"k východní důlní šachtě."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:592
@@ -15734,16 +15752,19 @@ msgid ""
 "but I freed so few... We shall have to make for the eastern mineshaft, and "
 "hope that entrance is still open."
 msgstr ""
+"Hlavní tunely jsou zavaleny! Možná o tom někteří otroci věděli, ale "
+"osvobodil jsem jich tak málo... Budeme se muset vydat k východní důlní "
+"šachtě a doufat, že ten vchod je ještě volný."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:608
 msgid "Death to slavers!"
-msgstr ""
+msgstr "Smrt otrokářům!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:620
 msgid "This isn’t going so well..."
-msgstr ""
+msgstr "Tohle nejde moc dobře..."
 
 #. [message]: id=$last_leader.id
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:642
@@ -15751,6 +15772,8 @@ msgid ""
 "Okay, forget this. I’m taking the rest of our slaves, getting the chief, and "
 "bringing the horde! You invaders had better not be here when we get back!"
 msgstr ""
+"Tak jo, zapomeňte na to. Beru si zbytek našich otroků, jdu k náčelníkovi "
+"a přivedu celou hordou! Ať tu ti vetřelci radši nejsou, až se vrátíme!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:663
@@ -15759,11 +15782,14 @@ msgid ""
 "all... but please, remember: <i>Hold fast your hope, for one day you shall "
 "be free!</i>"
 msgstr ""
+"Skřeti prchají spolu s mnoha svými otroky! Nemohu vás všechny zachránit... "
+"ale prosím, pamatujte si: <i>Neztrácejte naději, neboť jednoho dne budete "
+"svobodní!</i>"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:692
 msgid "Konrad can now recruit Peasants and Woodsmen!"
-msgstr ""
+msgstr "Konrád nyní může verbovat sedláky a lesáky!"
 
 #. [message]: role=freed_slave
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:695
@@ -15771,6 +15797,8 @@ msgid ""
 "Thank you for helping me escape, Konrad! On our way out, each of those you "
 "freed have grabbed as much of the orcs’ gold and supplies as we could."
 msgstr ""
+"Děkuji ti, Konráde, že jsi mi pomohl uniknout! Na útěku si každý z těch, "
+"které jsi osvobodil, vzal tolik skřetího zlata a zásob, kolik jen šlo."
 
 #. [message]: speaker=narrator
 #. $freed_slaves.length is more than 0, and probably less than 20. $carryover is more than 4, and probably less than 100
@@ -15779,6 +15807,8 @@ msgid ""
 "You have rescued $freed_slaves.length slaves, and will have $carryover extra "
 "gold in the next scenario!"
 msgstr ""
+"V příštím scénáři budeš mít $carryover zlatých navíc! Počet zachráněných "
+"otroků: $freed_slaves.length."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:718
@@ -15787,13 +15817,16 @@ msgid ""
 "deed here would help us gain new allies, but it seems my hopes were in vain. "
 "We must press onwards alone."
 msgstr ""
+"... ani jeden otrok s námi neutekl. Doufal jsem, že nám tady náš dobrý "
+"skutek pomůže získat nové spojence, ale zdá se, že mé naděje byly marné. "
+"Musíme pokračovat dál sami."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:732
 msgid ""
 "Bah, when’s the chief getting back with the horde? These invaders are being "
 "a real nuisance."
-msgstr ""
+msgstr "Pah, kdy se šéf vrátí s tou hordou? Ti vetřelci jsou fakt otravní."
 
 #. [message]: role=warlord
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:755
@@ -15801,6 +15834,8 @@ msgid ""
 "What’s goin’ on here? Slave revolt, is it? Hah! None o’ you’re getting out "
 "o’ this valley alive!"
 msgstr ""
+"Co se to tady děje? Vzpoura otroků, co? Ha! Nikdo z vás se z tohohle údolí "
+"nedostane živý!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:759
@@ -15809,6 +15844,9 @@ msgid ""
 "progressing! Even if we manage to win this fight, the cost will surely be "
 "too great for our small army to bear..."
 msgstr ""
+"Dorazili další skřeti a zaujali potavení, aby nám zabránili v postupu! "
+"I kdyby se nám podařilo tento boj vyhrát, cena za to bude pro naše malé "
+"vojsko jistě příliš vysoká..."
 
 #. [side]: type={TYPE}, id={ID}
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:74
