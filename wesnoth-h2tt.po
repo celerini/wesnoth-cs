@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-03 06:19+0200\n"
+"PO-Revision-Date: 2026-10-03 09:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -12589,7 +12589,7 @@ msgid ""
 "wait ’til ah stick my axe through one o’yer wrinklin’ ribs!"
 msgstr ""
 "Moc hezký kecy na někoho, kdo má ruce jako hůlčičky a v palici vymeteno, ty "
-"naloženej hlaváči! Jen počkej, až ti zaseknu sekeru do těch tvejch "
+"naloženej hlaváči! Jen počkej, až ti zaseknu sekyru do těch tvejch "
 "varhánkovitejch žeber!"
 
 #. [companion_message]
@@ -13041,7 +13041,7 @@ msgstr "Konrád nyní může verbovat trpasličí horníky!"
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:606
 msgid ""
 "... hey, what the— that axe! That axe you’re holdin’, that’s my father’s!"
-msgstr "... hej, co to... ta sekera! Ta sekera, co držíš, patří mýmu otci!"
+msgstr "... hej, co to... ta sekyra! Ta sekyra, co držíš, patří mýmu otci!"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:610
@@ -13072,7 +13072,7 @@ msgid ""
 "Oy princess! Ah got an axe right ’ere with yer name on it! By Thursagan’s "
 "beard, ah’ll teach you and yer men to lock me up!"
 msgstr ""
-"Hej, princezno! Mam tady sekeru, na který je vyrytý tvoje méno! Při "
+"Hej, princezno! Mam tady sekyru, na který je vyrytý tvoje méno! Při "
 "Thursaganově bradě, já tebe a tvý muže naučim, zavírat mě!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
@@ -13129,7 +13129,7 @@ msgid ""
 "tha’ hollow skull, ye grubby wisenheimerin’ blockhead?"
 msgstr ""
 "Teď už nejsi tak drsná, co, princezno? Máš ještě nějaký poslední slova, než "
-"ti zabořím sekeru do tý dutý lebky, ty špinavá přechytřelá tupanko?"
+"ti zabořím sekyru do tý dutý lebky, ty špinavá přechytřelá tupanko?"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/scenarios/17_Crossroads.cfg:775
@@ -15362,7 +15362,7 @@ msgid ""
 msgstr ""
 "Špinavý zbabělý skřeti, schovávají se tu v troskách města našich trpasličích "
 "přátel! Podlézavý bávovky, co žerou marmeládu! Říkám, že bychom měli na "
-"každýho z těch lumpů vzít sekeru!"
+"každýho z těch lumpů vzít sekyru!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/26_The_Dwarven_Doors.cfg:250
@@ -15844,14 +15844,14 @@ msgid ""
 "progressing! Even if we manage to win this fight, the cost will surely be "
 "too great for our small army to bear..."
 msgstr ""
-"Dorazili další skřeti a zaujali potavení, aby nám zabránili v postupu! "
+"Dorazili další skřeti a zaujali postavení, aby nám zabránili v postupu! "
 "I kdyby se nám podařilo tento boj vyhrát, cena za to bude pro naše malé "
 "vojsko jistě příliš vysoká..."
 
 #. [side]: type={TYPE}, id={ID}
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:74
 msgid "Trolls"
-msgstr ""
+msgstr "Trollové"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:221
@@ -15859,6 +15859,8 @@ msgid ""
 "From what Delfador has taught me, I recognize us to be in the ruins of the "
 "great western hall of Knalga."
 msgstr ""
+"Podle toho, co mě naučil Delfador, usuzuji, že se nacházíme v troskách velké "
+"západní síně Knalgy."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:225
@@ -15867,6 +15869,8 @@ msgid ""
 "was missed by the conquering orcs. We just have to drive off the local "
 "trolls first."
 msgstr ""
+"Je to smutný pohled, ale možná tu ještě najdeme něco cenného, co dobyvačným "
+"skřetům uniklo. Jen musíme nejdřív vyhnat místní trolly."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:229
@@ -15875,6 +15879,8 @@ msgid ""
 "tunnels even less so. I am not eager to proceed, but what must be done must "
 "be done."
 msgstr ""
+"Jeskyně a hrobky nejsou pro víly tím pravým místem, Konráde, a trpasličí "
+"tunely teprv ne. Nechce se mi jít dál, ale nedá se nic dělat, povinnost volá."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:230
@@ -15882,6 +15888,8 @@ msgid ""
 "Cave and crypts are no place for cavalry, Konrad, and dwarvish tunnels even "
 "less so. I am not eager to proceed, but what must be done must be done."
 msgstr ""
+"Jeskyně a hrobky nejsou pro jízdu to pravé místo, Konráde, a trpasličí "
+"tunely teprv ne. Nechce se mi jet dál, ale nedá se nic dělat, povinnost volá."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:231
@@ -15890,6 +15898,8 @@ msgid ""
 "Well, this is a far cry from the sunny shores of Alduin. And it stinks of "
 "troll excrement! Let’s do what needs to be done and get it over with."
 msgstr ""
+"No, tohle je něco úplně jiného než slunné břehy Alduinu. A navíc to tu smrdí "
+"trollími výkaly! Udělejme, co je třeba, a ať už to máme za sebou."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:233
@@ -15897,6 +15907,8 @@ msgid ""
 "Aye, an’ <b><i>I</i></b> may find me father’s defiled bones, or me "
 "grandfather’s. Cheery thoughts all around, eh?"
 msgstr ""
+"Ba, a <b><i>já</i></b> možná najdu znesvěcené kosti svého otce nebo děda. "
+"Všehovšudy radostné představy, není-liž pravda?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:234
@@ -15905,6 +15917,8 @@ msgid ""
 "the Light, nor ever from the Light, for the Light shall always guide the "
 "faithful."
 msgstr ""
+"Tam v hluboké temnotě jsme odříznuti od světla. Ale slyšte! Ne od Světla, od "
+"Světla nikdy, neboť Světlo bude věřící vždy vést."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:235
@@ -15912,6 +15926,8 @@ msgid ""
 "Well, don’ this place be bringin’ back some bad memories. Jus’ hope we don’ "
 "find no Midnight Queen down these caves this time."
 msgstr ""
+"No, tohle místo ve mně probouzí ošklivé vzpomínky. Jen doufám, že tentokrát "
+"v těch jeskyních nenarazíme na žádnou Půlnoční královnu."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:236
@@ -15920,6 +15936,9 @@ msgid ""
 "I’ve always wanted to. Do you think they know how their regeneration works, "
 "or does it just happen by instinct?"
 msgstr ""
+"Víš, vždycky jsem chtěla potkat divokého trolla! No, alespoň si myslím, že "
+"jsem to vždycky chtěla. Domníváš se, že vědí, jak funguje jejich regenerace, "
+"nebo se to děje prostě instinktivně?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:237
@@ -15928,6 +15947,9 @@ msgid ""
 "knows all the trolls on da continent. An’ don’t get Dosh mixed up with one "
 "o’ dem other trolls while we’re fighting, okay?"
 msgstr ""
+"Na mě se nekoukej, Konráde. To, že je Doš troll, ještě neznamená, že zná "
+"všechny trolly na kontinentu. A nepleť si Doše s nějakým jiným trollem, když "
+"budeme bojovat, jasný?"
 
 #. [message]: race=dwarf,gryphon {NOT id=Ulfdain}
 #. [message]: speaker=Ulfdain
@@ -15937,17 +15959,21 @@ msgid ""
 "I remember that passageway. Me uncle’s whole family drowned here after th’ "
 "orcs flooded th’ halls. I were young, very young..."
 msgstr ""
+"Na tuhle chodbu si pamatuju. Utopila se v ní celá rodina mého strýce, když "
+"skřeti zaplavili sály. Byl jsem mladý, velmi mladý..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:344
 msgid "Listen! Do you hear that?"
-msgstr ""
+msgstr "Poslouchejte! Slyšíte to?"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:350
 msgid ""
 "Kill the trolls... kill them all... scour the caverns... search the halls..."
 msgstr ""
+"Zabijte trolly... zabijte je všechny... pročesejte jeskyně... prohledejte "
+"sály..."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:393
@@ -15955,27 +15981,31 @@ msgid ""
 "More orcs at the gates... Send Eller... for reinforcements. The west hall. "
 "Where... are my dragoons?"
 msgstr ""
+"U bran je další vlna skřetů... Pošlete Ellera... pro posily. Do západní "
+"síně. Kde... jsou moji dragouni?"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:400
 msgid "No more recruits. I will lead the sortie... personally."
-msgstr ""
+msgstr "Už žádní rekruti. Výpad povedu... osobně."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:412
 msgid ""
 "Look at the strange axe that death knight is holding! What an unusual weapon."
 msgstr ""
+"Podívejte se na tu podivnou sekeru, kterou ten rytíř smrti drží! To je ale "
+"neobvyklá zbraň."
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:417
 msgid "I... that..."
-msgstr ""
+msgstr "Já... to..."
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:421
 msgid "<i>THAT’S MY FATHER’S AXE!</i>"
-msgstr ""
+msgstr "<i>TO JE SEKYRA MÉHO OTCE!</i>"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:425
@@ -15983,6 +16013,8 @@ msgid ""
 "Give it back, ye beastly bag o’ bones! I’ll rip out yer ribs and stuff ’em "
 "down yer eye sockets!"
 msgstr ""
+"Vrať mi ji, ty odporný pytle kostí! Vytrhnu ti žebra a nacpu ti je do očních "
+"důlků!"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:429
@@ -15990,11 +16022,13 @@ msgid ""
 "I’ll boil yer teeth. I’ll invert your kneecaps. Death is too good for ye. UN-"
 "death is too good fer ye!"
 msgstr ""
+"Vyvařím tvoje zuby. Vyvrátím ti kolenní čéšky. Smrt je pro tebe příliš mírný "
+"trest. Nemrtvo je pro tebe příliš mírný trest!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:433
 msgid "Ulfdain, calm down! What are you talking about?"
-msgstr ""
+msgstr "Ulfdaine, uklidni se! O čem to mluvíš?"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:437
@@ -16002,6 +16036,8 @@ msgid ""
 "That coward, that yaldson, that spawn of utter darkness is holdin’ my "
 "father’s axe! His bloodaxe, one o’ the last few in the world!"
 msgstr ""
+"Ten zbabělec, ten zkurvysyn, ten potomek nejčernější tmy drží sekyru mého "
+"otce! Jeho krvavou sekyru, jednu z posledních na světě!"
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:441
@@ -16009,6 +16045,8 @@ msgid ""
 "By Thursagan’s beard, we’re goin’ to get it back or we’re goin’ to die "
 "tryin’! Charge!"
 msgstr ""
+"Při Thursaganově vousu, buď ji získáme zpátky, nebo při tom zemřeme! Do "
+"útoku!"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:456
@@ -16016,6 +16054,7 @@ msgid ""
 "Lost? No... do not speak that word. We will... prevail. We will find... the "
 "sceptre..."
 msgstr ""
+"Ztraceni? Ne... to slovo nevyslovuj. My... zvítězíme. Najdeme... žezlo..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:460
@@ -16023,12 +16062,14 @@ msgid ""
 "The Sceptre? Of Fire?! Who are you, foul creature that we fight? Speak your "
 "name, that I may know the foe I slay!"
 msgstr ""
+"Žezlo? Ohnivé?! Kdo jsi, ohavná stvůro, s níž bojujeme? Řekni své jméno, "
+"abych poznal nepřítele, kterého zabíjím!"
 
 #. [message]: speaker=Lionel
 #. Lionel repeats a line from TDG's S06
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:465
 msgid "We swore our oaths... now we do our duty..."
-msgstr ""
+msgstr "Složili jsme přísahu... a nyní plníme svou povinnost..."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:480
@@ -16036,12 +16077,14 @@ msgid ""
 "I am Konrad, nephew of Garard, son of Arand and rightful heir to the throne "
 "of Wesnoth! And in their names, I end your undead suffering."
 msgstr ""
+"Jsem Konrád, synovec Gararda, syn Aranda a právoplatný dědic trůnu Wesnothu! "
+"A v jejich jménu ukončím tvé utrpení nemrtvého."
 
 #. [message]: speaker=Lionel
 #. Lionel foreshadows the reveal that Konrad is not in fact the heir
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:485
 msgid "Arand? You look... nothing like Arand..."
-msgstr ""
+msgstr "Arand? Nevypadáš... vůbec jako Arand..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:496
@@ -16050,6 +16093,10 @@ msgid ""
 "Neither in life nor un-life could he find the object of his quest — but it "
 "seems he still gathered many other riches and things of value."
 msgstr ""
+"Tato ohavná stvůra tedy kdysi bývala člověkem, který pátral po Ohnivém "
+"žezlu. Ani za života, ani v nemrtvém stavu se mu nepodařilo najít předmět "
+"svého pátrání – zdá se však, že přesto nashromáždil mnoho jiného bohatství "
+"a cenností."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:518
@@ -16057,6 +16104,8 @@ msgid ""
 "His gold will be useful to us, but his axe may be even more so. The runes "
 "carved into it look dwarvish, and ancient..."
 msgstr ""
+"Jeho zlato se nám bude hodit, ale jeho sekera možná ještě víc. Runy, které "
+"jsou do ní vyryté, vypadají jako trpasličí a starodávné..."
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:533
@@ -16065,6 +16114,10 @@ msgid ""
 "with us dwarves since times o’ legend, have th’ bloodaxes. I never thought "
 "I’d again see such a sight! Not since th’ dark days began..."
 msgstr ""
+"Ba... jak jsem říkal, patřila mému otci, ale nebyl to on, kdo ji vykoval. Ty "
+"krvavé sekyry jsou s námi trpaslíky už od dob legend. Nikdy bych neřekl, že "
+"se na něco takového ještě někdy podívám! Ne od té doby, co začaly ty temné "
+"časy..."
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:541
@@ -16073,6 +16126,9 @@ msgid ""
 "Bloodaxe now, like my father an’ his father an’ his father afore him! Ah’m "
 "in yer debt once again, Konrad. Ye given me hope."
 msgstr ""
+"Možná, že duch Knalgy přece jen není tak úplně mrtvý a pohřbený. Teď jsem "
+"Krvavá sekyra, stejně jako můj otec, jeho otec a jeho otec před ním! Zase ti "
+"dlužím, Konráde. Dal jsi mi naději."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:556
@@ -16080,13 +16136,15 @@ msgid ""
 "A weapon worthy of a king — or a prince. I shall personally wield this axe "
 "against the dark queen."
 msgstr ""
+"Zbraň hodná krále – nebo prince. Tuto sekeru použiji osobně proti temné "
+"královně."
 
 #. [event]
 #. [unit_type]: id=Dwarvish Bloodaxe, race=dwarf
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:561
 #: data/campaigns/Heir_To_The_Throne/units/Dwarvish_Bloodaxe.cfg:4
 msgid "Dwarvish Bloodaxe"
-msgstr ""
+msgstr "Trpasličí krvavá sekera"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:562
@@ -16094,6 +16152,8 @@ msgid ""
 "This runic axe increases Konrad’s melee damage by 3, and grants him the "
 "<i>drains</i> special on his melee attacks."
 msgstr ""
+"Tato runová sekera zvyšuje Konrádovo poškození v boji zblízka o 3 a dodává "
+"jeho útokům zblízka zvláštnost <i>vysátí</i>."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:594
@@ -16101,6 +16161,8 @@ msgid ""
 "I am glad; the halls of your ancestors are at peace once more, Ulfdain. Now "
 "it is time for us to move on."
 msgstr ""
+"Jsem rád. V síních tvých předků opět zavládl mír, Ulfdaine. Nyní je čas, "
+"abychom šli dál."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:599
@@ -16108,6 +16170,8 @@ msgid ""
 "More trolls will move in soon, but for now, the caverns are empty. Time for "
 "us to move on."
 msgstr ""
+"Brzy se sem nastěhují další trollové, ale zatím jsou jeskyně prázdné. Je "
+"čas, abychom šli dál."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:626
@@ -16115,6 +16179,8 @@ msgid ""
 "These halls are old, and our fighting is damaging the walls and pillars. If "
 "we cannot finish soon, the whole cavern might collapse on us!"
 msgstr ""
+"Tyto sály jsou staré a naše boje poškozují stěny a sloupy. Pokud to brzy "
+"nedokončíme, celá jeskyně se na nás může zřítit!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/28_The_Lost_General.cfg:640
@@ -16122,6 +16188,8 @@ msgid ""
 "Our fighting has caused too much damage to these old ruins! The whole "
 "mountain is falling down on us!"
 msgstr ""
+"Naše boje způsobily v těchto starých ruinách příliš velké škody! Řítí se na "
+"nás celá hora!"
 
 #. [side]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:51
