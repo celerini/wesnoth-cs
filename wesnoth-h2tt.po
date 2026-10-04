@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-04 09:54+0200\n"
+"PO-Revision-Date: 2026-10-04 11:03+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19251,7 +19251,7 @@ msgstr "Sněžné pláně"
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:43
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:59
 msgid "Clan Fell-Hand"
-msgstr ""
+msgstr "Klan Tvrdé ruky"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:216
@@ -19260,6 +19260,9 @@ msgid ""
 "distance?! ...I’d be elated to see you, if you weren’t so clearly marching "
 "in rapport with the traitor prince. This is a surprise."
 msgstr ""
+"Vaše Výsosti, princezno z Wesnothu! Jste to vy, tam v dálce?! ... Měla bych "
+"z toho obrovskou radost, kdybyste tak zjevně nekráčela bok po boku s tím "
+"zrádným princem. To je ale překvapení."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:220
@@ -19267,6 +19270,8 @@ msgid ""
 "Konrad’s not the one who tried to kill his own allies in a flood of lava, "
 "Mirya. Yet here I stand alive and free, while you are locked behind bars."
 msgstr ""
+"Konrád není ten, kdo se pokusil zabít své vlastní spojence v proudu lávy, "
+"Miryo. A přesto tu stojím živá a svobodná, zatímco ty jsi zavřená za mřížemi."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:224
@@ -19275,6 +19280,10 @@ msgid ""
 "reliable courier. You’ve seen every major event in the kingdom firsthand; "
 "people and battles I’ve only read about in sanitized reports."
 msgstr ""
+"Už více než deset let jsi pro mou matku nejrychlejším zvědem "
+"a nejspolehlivějším poslem. Na vlastní oči jsi byla svědkem všech významných "
+"událostí v království – lidí i bitev, o nichž jsem četla jen v cenzurovaných "
+"zprávách."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:228
@@ -19282,6 +19291,9 @@ msgid ""
 "Tell me, when did we stop trying to make Wesnoth a better place; a stronger "
 "place? Or was it always this way and I was just too blind to see?"
 msgstr ""
+"Pověz mi, kdy jsme přestali usilovat o to, aby se Wesnoth stal lepším "
+"a pevnějším místem? Nebo to bylo vždycky takové a já byla prostě příliš "
+"slepá, abych to viděla?"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:236
@@ -19290,6 +19302,9 @@ msgid ""
 "rebels and traitors, orc-haters out for your head. Set me free and I will "
 "help you fight."
 msgstr ""
+"Urag-Tifere, musíš mě okamžitě propustit. Ti vojáci před tebou jsou "
+"vzbouřenci a zrádci, nepřátelé skřetů, kteří ti jdou po krku. Propusť mě "
+"a já ti pomůžu v boji."
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:240
@@ -19297,6 +19312,8 @@ msgid ""
 "Set you free so you can magic yourself away without us getting our ransom? "
 "Fat chance. Just ’cause I’m an orc doesn’t mean I’m stupid."
 msgstr ""
+"Máme tě pustit, abys mohla kouzlem zmizet, aniž dostaneme výkupné? To ani "
+"náhodou. To, že jsem skřet, ještě neznamená, že jsem hlupák."
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:244
@@ -19304,11 +19321,13 @@ msgid ""
 "We’ll handle these soldiers the orcish way. C’mon, boys, grab your swords! "
 "We’ve got a battle to win!"
 msgstr ""
+"S těmi vojáky naložíme po skřetím způsobu. No tak, hoši, popadněte meče! "
+"Musíme vyhrát bitvu!"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:276
 msgid "Defeat Urag-Tifer"
-msgstr ""
+msgstr "Poraz Urag-Tifera"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:304
@@ -19316,16 +19335,18 @@ msgid ""
 "There’s the mage, but there won’t be time to deal with her until we first "
 "defeat these orcs!"
 msgstr ""
+"Je tu ta čarodějka, ale nebudeme mít čas se s ní vypořádat, dokud nejdřív "
+"neporazíme tyhle skřety!"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:338
 msgid "Gah, ah..."
-msgstr ""
+msgstr "Gah, ah..."
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:345
 msgid "Hands off!! Not another swing at me, or the mage gets it!"
-msgstr ""
+msgstr "Ruce pryč!! Ještě jeden úder a ta mágyně to schytá!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:353
@@ -19333,21 +19354,23 @@ msgid ""
 "Okay, go ahead. We’re fighting to stop Mirya from returning to my mother, "
 "not to rescue her or to keep her as prisoner."
 msgstr ""
+"Dobře, do toho. Bojujeme proto, abychom zabránili Mirye v návratu k mé "
+"matce, ne proto, abychom ji zachránili nebo ji drželi jako vězně."
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:361
 msgid "<b><i>That’s</i></b> all you want?!"
-msgstr ""
+msgstr "<b><i>To je</i></b> všechno, co chceš?!"
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:365
 msgid "Wait—"
-msgstr ""
+msgstr "Počkej —"
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:370
 msgid "There, she’s dead. Better I lose a ransom than my life."
-msgstr ""
+msgstr "Tak, je mrtvá. Raději přijdu o výkupné než o život."
 
 #. [message]: speaker=leader2
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:374
@@ -19355,6 +19378,8 @@ msgid ""
 "Now get out of here. You pinkskins and your politics have caused me enough "
 "trouble already..."
 msgstr ""
+"A teď odtud vypadněte, bledý kůže. Vy a vaše politika jste mi způsobili už "
+"dost potíží..."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:390
@@ -19362,6 +19387,8 @@ msgid ""
 "Mirya isn’t the type to leave her fate to chance, Konrad. While we’re busy "
 "fighting, she’s certainly planning some kind of escape."
 msgstr ""
+"Mirya není ten typ, který by svůj osud ponechal náhodě, Konráde. Zatímco my "
+"se zabýváme bojem, ona určitě plánuje nějaký způsob útěku."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:394
@@ -19369,6 +19396,8 @@ msgid ""
 "If we take too long to defeat these orcs and capture her, she may slip away "
 "from us and back to Asheviere."
 msgstr ""
+"Pokud nám zabere příliš dlouho porazit tyto skřety a zajmout ji, může nám "
+"uniknout a vrátit se k Ašvíře."
 
 #. [message]: speaker=Mirya
 #: data/campaigns/Heir_To_The_Throne/scenarios/41_Snow_Plains.cfg:401
@@ -19376,6 +19405,8 @@ msgid ""
 "Finally, I’ve burned an opening in these bars. And that oaf of an orc has "
 "been too preoccupied with Li’sar to notice! Time to slip away..."
 msgstr ""
+"Konečně se mi podařilo do těchto mříží vypálit otvor. A ten skřetí hňup byl "
+"příliš zaujatý Lisar, než aby si toho všiml! Je čas se vypařit..."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:13
