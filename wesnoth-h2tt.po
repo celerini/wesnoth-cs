@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-03 09:31+0200\n"
+"PO-Revision-Date: 2026-10-04 09:54+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -16195,7 +16195,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:51
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:71
 msgid "Knalgans"
-msgstr ""
+msgstr "Knalgané"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:170
@@ -16204,6 +16204,8 @@ msgid ""
 "The Knalgans led Konrad and his men, blindfolded, through a maze of twisting "
 "tunnels and passageways."
 msgstr ""
+"Knalgané zavázali Konrádovi a jeho lidem oči a vedli je bludištěm klikatých "
+"tunelů a chodeb."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:172
@@ -16213,6 +16215,10 @@ msgid ""
 "from the still-seeing dwarves of Konrad’s own party. And at long last, "
 "silence."
 msgstr ""
+"Zatuchlým vzduchem jeskyně se nesl zvuk kladiv, poté krumpáčů a ten přešel "
+"v tichý šum tlumených trpasličích hlasů, proložený hlasitějšími poznámkami "
+"trpaslíků z Konrádovy vlastní výpravy, kteří ještě viděli. Nakonec se "
+"rozhostilo ticho."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:181
@@ -16220,6 +16226,8 @@ msgid ""
 "The sound of hammers echoed through the stale cave air, then pickaxes, then "
 "the quiet murmur of low dwarvish voices. And at long last, silence."
 msgstr ""
+"Zatuchlým vzduchem jeskyně se nesl zvuk kladiv, poté krumpáčů a ten přešel "
+"v tichý šum tlumených trpasličích hlasů. Nakonec se rozhostilo ticho."
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:195
@@ -16228,6 +16236,8 @@ msgid ""
 "manner of beasts and vermin, lie our trapped miners. Rescue them, and you’ll "
 "be rewarded."
 msgstr ""
+"A jsme tu. Začátek sesuvu. Někde za tímto místem, za všemi těmi bestiemi "
+"a havětí, uvízli naši horníci. Zachraňte je a dostane se vám odměny."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:199
@@ -16235,16 +16245,17 @@ msgid ""
 "It’s just a solid wall of rock. How am I supposed to get through and find "
 "your comrades?"
 msgstr ""
+"Tohle je jen tvrdá skalní stěna. Jak se mám dostat skrz a najít tvé kamarády?"
 
 #. [message]: speaker=Geldar
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:203
 msgid "Dig, human. I must return to my guard duties."
-msgstr ""
+msgstr "Kopej, člověče. Já se musím vrátit ke své strážní službě."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:214
 msgid "Find the missing dwarves"
-msgstr ""
+msgstr "Najdi pohřešované trpaslíky"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:234
@@ -16252,6 +16263,8 @@ msgid ""
 "Ulfdain, the Knalgans here have been very evasive about what’s going on. Do "
 "you have any insights?"
 msgstr ""
+"Ulfdaine, místní Knalgané se k tomu, co se děje, vyjadřují velmi vyhýbavě. "
+"Rozumíš tomu nějak?"
 
 #. [message]: speaker=Ulfdain
 #. [message]: race=dwarf
@@ -16261,6 +16274,8 @@ msgid ""
 "Aye, I think I can guess. But I cannae tell an outsider, Konrad, not even "
 "you."
 msgstr ""
+"Jo, myslím, že to dokážu uhodnout. Ale cizímu člověku to nemůžu říct, "
+"Konráde, ani tobě ne."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:244
@@ -16268,6 +16283,8 @@ msgid ""
 "Friend dwarf, the Knalgans here have been very evasive about what’s going "
 "on. Do you have any insights?"
 msgstr ""
+"Příteli trpaslíku, místní Knalgané se k tomu, co se děje, vyjadřují velmi "
+"vyhýbavě. Rozumíš tomu nějak?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:324
@@ -16276,11 +16293,14 @@ msgid ""
 "slow going, but we’ll be able to dig our way through the cave-in. That must "
 "be what Geldar meant."
 msgstr ""
+"Stěny jsou tu natolik křehké a slabé, že je lze narušit meči a kopími. Bude "
+"to sice pomalé, ale dokážeme se tak prokopat skrz zával. Tohle musel mít "
+"Geldar na mysli."
 
 #. [message]: type=Dwarvish Miner
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:343
 msgid "Mining’s a lot easier when you’ve got the proper equipment, aye?"
-msgstr ""
+msgstr "Dolování jde mnohem snadněji, když máš správné vybavení, je tak?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:393
@@ -16288,11 +16308,13 @@ msgid ""
 "Look out! The cavern beyond this wall is filled with water, and it’s "
 "flooding into our caves!"
 msgstr ""
+"Pozor! Kaverna za touto stěnou je zaplavená vodou a ta se valí do našich "
+"jeskyní!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:448
 msgid "<i>(cough)</i> Who’s there?"
-msgstr ""
+msgstr "<i>(kašle)</i> Kdo je tam?"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:452
@@ -16300,6 +16322,7 @@ msgid ""
 "I am Prince Konrad of Wesnoth, and a friend of Knalga. I’ve come to rescue "
 "you!"
 msgstr ""
+"Jsem princ Konrád z Wesnothu a přítel Knalgy. Přišel jsem tě zachránit!"
 
 #. [message]: speaker=Angarthing
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:456
@@ -16307,11 +16330,13 @@ msgid ""
 "Aye, that so? ...ye weren’t who I was expectin’. <i>(cough)</i> But I’m not "
 "about to turn down help."
 msgstr ""
+"Vážně? ... Nejsi ten, koho jsem čekal. <i>(kašle)</i> Ale pomoc rozhodně "
+"neodmítnu."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:464
 msgid "Yer alive! Quick, git ’im to th’ great hall."
-msgstr ""
+msgstr "Jsi naživu! Rychle, odveďte ho do velké síně."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:471
@@ -16320,12 +16345,17 @@ msgid ""
 "but I was led to believe there was a whole posse trapped down here. What’s "
 "the meaning of this?"
 msgstr ""
+"To všechno, Relgorne, kvůli jedinému trpaslíkovi? Chápu, že život má svou "
+"cenu, ale měl jsem za to, že tady dole uvízla celá skupina. Co to má "
+"znamenat?"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:475
 msgid ""
 "Never ye mind, human. But you did right by us, so we’ll do right by you."
 msgstr ""
+"Na to nehleď, člověče. Ale zachoval ses k nám čestně, tak se k tobě "
+"zachováme stejně."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:479
@@ -16334,6 +16364,9 @@ msgid ""
 "o’ everyone to spare. But those we do have are tough, and well-practiced in "
 "the art of battle."
 msgstr ""
+"Vím, že budete chtít všechny typy našich bojovníků, ale nemáme od každého "
+"dost na to, abychom je mohli postrádat. Ti, které máme, jsou však tvrdí "
+"a v umění boje dobře vycvičení."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:481
@@ -16341,6 +16374,8 @@ msgid ""
 "Choose two — Fighters, Guardsmen, Thunderers, or Ulfserkers — an’ we’ll send "
 "ye’ enough Knalgans to make a difference in yer quest."
 msgstr ""
+"Vyber si dvě skupiny – bojovníky, gardisty, hromovládce nebo ulfserky – a my "
+"ti pošleme dost Knalganů, aby ti to při tvém úkolu pomohlo."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:494
@@ -16348,71 +16383,73 @@ msgid ""
 "It shall be done, Konrad. May you someday reclaim your birthright — and us "
 "ours."
 msgstr ""
+"Tak se stane, Konráde. Kéž jednoho dne získáš zpět své dědičné právo – a my "
+"zase to naše."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:509
 msgid "Choose Dwarvish Fighters and Guardsmen"
-msgstr ""
+msgstr "Vybrat trpasličí bojovníky a gardisty"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:510
 msgid "Konrad can now recruit Dwarvish Fighters and Guardsmen!"
-msgstr ""
+msgstr "Konrád nyní může verbovat trpasličí bojovníky a gardisty!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:515
 msgid "Choose Dwarvish Fighters and Thunderers"
-msgstr ""
+msgstr "Vybrat trpasličí bojovníky a hromovládce"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:516
 msgid "Konrad can now recruit Dwarvish Fighters and Thunderers!"
-msgstr ""
+msgstr "Konrád nyní může verbovat trpasličí bojovníky a hromovládce!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:521
 msgid "Choose Dwarvish Fighters and Ulfserkers"
-msgstr ""
+msgstr "Vybrat trpasličí bojovníky a ulfserky"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:522
 msgid "Konrad can now recruit Dwarvish Fighters and Ulfserkers!"
-msgstr ""
+msgstr "Konrád nyní může verbovat trpasličí bojovníky a ulfserky!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:527
 msgid "Choose Dwarvish Guardsmen and Thunderers"
-msgstr ""
+msgstr "Vybrat trpasličí gardisty a hromovládce"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:528
 msgid "Konrad can now recruit Dwarvish Guardsmen and Thunderers!"
-msgstr ""
+msgstr "Konrád nyní může verbovat trpasličí gardisty a hromovládce!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:533
 msgid "Choose Dwarvish Guardsmen and Ulfserkers"
-msgstr ""
+msgstr "Vybrat trpasličí gardisty a ulfserky"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:534
 msgid "Konrad can now recruit Dwarvish Guardsmen and Ulfserkers!"
-msgstr ""
+msgstr "Konrád nyní může verbovat trpasličí gardisty a ulfserky!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:539
 msgid "Choose Dwarvish Thunderers and Ulfserkers"
-msgstr ""
+msgstr "Vybrat trpasličí hromovládce a ulfserky"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:540
 msgid "Konrad can now recruit Dwarvish Thunderers and Ulfserkers!"
-msgstr ""
+msgstr "Konrád nyní může verbovat trpasličí hromovládce a ulfserky!"
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:545
 msgid "Ask for more"
-msgstr ""
+msgstr "Požádat o víc"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:552
@@ -16421,6 +16458,9 @@ msgid ""
 "send aid to Knalga. I understand you have little to give, but right now it "
 "is in both of our best interests to work together!"
 msgstr ""
+"Jakmile porazím Ašvíru a znovu se dostanu na trůn, velmi rád pošlu do Knalgy "
+"pomoc. Chápu, že nemáte moc co nabídnout, ale právě teď je v našem společném "
+"zájmu spolupracovat!"
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:556
@@ -16428,11 +16468,14 @@ msgid ""
 "Aye, an’ I thought I’d live out a peaceful life in th’ west halls, but here "
 "we both are. We can’t spare any more, Konrad, not even for a prince."
 msgstr ""
+"Jo, a já si myslel, že budu žít klidný život v západních sálech, ale teď "
+"jsme na tom oba stejně. Už nemůžeme uvolnit nikoho dalšího, Konráde, ani "
+"kvůli princi."
 
 #. [option]
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:562
 msgid "Refuse payment"
-msgstr ""
+msgstr "Odmítnout výplatu"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION concerned}
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:566
@@ -16441,6 +16484,9 @@ msgid ""
 "demand bread from a starving man? Keep your warriors for Knalga, and may "
 "Knalga one day prosper again."
 msgstr ""
+"Příteli trpaslíku, potřebuješ všechny bojovníky, které se ti podaří sehnat. "
+"Jaké právo mám žádat chléb od hladovějícího člověka? Nech si své válečníky "
+"pro Knalgu a kéž Knalga jednoho dne opět rozkvete."
 
 #. [message]: speaker=Relgorn
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:570
@@ -16448,6 +16494,8 @@ msgid ""
 "You’re a good lad, Konrad. Thank ye, an’ I’m sorry we were so suspicious "
 "when ye first showed up."
 msgstr ""
+"Jsi hodný kluk, Konráde. Děkuju ti a omlouvám se, že jsme k tobě byli tak "
+"nedůvěřiví, když ses tu poprvé objevil."
 
 #. [message]: speaker=Relgorn
 #. this is a hint to the player that there's a special event if they also complete "Lost General" and entirely wipe out the orcs in "Dwarven Doors"
@@ -16457,6 +16505,9 @@ msgid ""
 "what remains o’ it, at least. Between the trolls in the west an’ the orcs in "
 "the Doors we’re just spread too thin. Mebbe if those were gone..."
 msgstr ""
+"Ať už svůj trůn získáš zpátky, nebo ne, v Knalze budeš vždy vítán – alespoň "
+"v tom, co z ní zbylo. Mezi trolly na západě a skřety ve Dveřích jsme prostě "
+"příliš roztříštění. Možná kdyby zmizeli ti..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:603
@@ -16464,6 +16515,9 @@ msgid ""
 "We must hurry. We promised Relgorn we would rescue his lost kin, but every "
 "hour we wait is an hour in which some misfortune may befall them."
 msgstr ""
+"Musíme si pospíšit. Slíbili jsme Relgornovi, že zachráníme jeho ztracené "
+"příbuzné, ale každá hodina, kterou čekáme, je hodinou, během níž je může "
+"potkat nějaké neštěstí."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/29_Digging_for_Dwarves.cfg:610
@@ -16471,6 +16525,8 @@ msgid ""
 "We have taken so long to search for the missing dwarves! Even should we "
 "eventually find them, we will surely find only their corpses..."
 msgstr ""
+"Hledání pohřešovaných trpaslíků nám trvá už tak dlouho! I kdybychom je "
+"nakonec objevili, jistě najdeme jen jejich mrtvoly..."
 
 #. [side]: type=Fire Ant Queen, id=ant_leader
 #. [side]
