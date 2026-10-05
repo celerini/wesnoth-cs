@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-04 11:03+0200\n"
+"PO-Revision-Date: 2026-10-05 21:19+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19418,37 +19418,37 @@ msgstr "Krize vedení"
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:44
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:68
 msgid "Clan Whitefang"
-msgstr ""
+msgstr "Klan Bílých špičáků"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:50
 msgid "Chief Khargol"
-msgstr ""
+msgstr "Náčelník Khargol"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:51
 msgid "Ga-har"
-msgstr ""
+msgstr "Ga-har"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:52
 msgid "Aharb"
-msgstr ""
+msgstr "Aharb"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:53
 msgid "Arshag"
-msgstr ""
+msgstr "Aršag"
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:54
 msgid "Rizgab"
-msgstr ""
+msgstr "Rizgab"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:57
 msgid "Muk-har"
-msgstr ""
+msgstr "Muk-har"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:153
@@ -19485,6 +19485,8 @@ msgid ""
 "I have the scheming orc locked up, Konrad. My soldiers and I will guard the "
 "camp to make sure he doesn’t escape until you safely return."
 msgstr ""
+"Toho pletichářského skřeta jsem dala pod zámek, Konráde. Spolu s mými vojáky "
+"budeme hlídat tábor, aby nám neunikl, dokud se bezpečně nevrátíš."
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:330
@@ -19492,6 +19494,8 @@ msgid ""
 "Yeah yeah, nice cage. Now, prince — recruit three of your best fighters, and "
 "my followers’ wagons will sneak you four into the camp."
 msgstr ""
+"Jo, jo, pěkná klec. Tak, princi – vyber si tři ze svých nejlepších bojovníků "
+"a vozy mých stoupenců vás čtyři propašují do tábora."
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:336
@@ -19500,16 +19504,19 @@ msgid ""
 "wagons you should be able to freely explore. Once you find the chief, kill "
 "him!"
 msgstr ""
+"Náš tábor jsi ještě neviděl, ale dokud zůstaneš schovaný v mých vozech, měl "
+"bys ho mít možnost volně prozkoumat. Jakmile najdeš náčelníka, zabij ho!"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:344
 msgid "Recruit three units to help Konrad infiltrate the orcish camp"
 msgstr ""
+"Naverbuj tři jednotky, které Konrádovi pomohou proniknout do skřetího tábora"
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:351
 msgid "Find and defeat the Orcish Sovereign"
-msgstr ""
+msgstr "Najdi a poraz svrchovaného vládce skřetů"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:362
@@ -19517,6 +19524,9 @@ msgid ""
 "Konrad can only recruit or recall during this scenario’s first turn. Next "
 "turn, Fagh-mok will sneak all your units into the center of the orcish camp."
 msgstr ""
+"Konrád může verbovat nebo povolat jednotky pouze během prvního kola tohoto "
+"scénáře. V následujícím kole Fagh-mok propašuje všechny tvé jednotky do "
+"středu skřetího tábora."
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:368
@@ -19524,6 +19534,8 @@ msgid ""
 "Konrad’s soldiers are disguised. They will be permanently revealed after any "
 "soldier moves adjacent to an enemy."
 msgstr ""
+"Konrádovi vojáci jsou v přestrojení. Budou natrvalo odhaleni, jakmile se "
+"kterýkoli z nich přesune do sousedství nepřítele."
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:396
@@ -19531,6 +19543,8 @@ msgid ""
 "Just you? You’re going alone? ...fine, pick a wagon, get in, and hide under "
 "the hay. My goblins will sneak you inside."
 msgstr ""
+"Jen ty? Jdeš sám? ...dobře, vyber si povoz, nastup a schovej se pod seno. "
+"Moji goblini tě propašují dovnitř."
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:405
@@ -19538,6 +19552,8 @@ msgid ""
 "Ready? Pick a wagon, get in, and hide under the hay. Harness your animals to "
 "the front. My goblins will sneak you all inside."
 msgstr ""
+"Připraveni? Vyberte si povoz, nastupte a schovejte se pod seno. Dopředu "
+"zapřáhněte svá zvířata. Moji goblini vás všechny propašují dovnitř."
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:415
@@ -19545,6 +19561,8 @@ msgid ""
 "Ready? Pick a wagon, get in, and hide under the hay. Yes, even that big rock "
 "thing. My goblins will sneak you all inside."
 msgstr ""
+"Připraveni? Vyberte si povoz, nastupte a schovejte se pod seno. Ano, i ta "
+"velká šutrová věc. Moji goblini vás všechny propašují dovnitř."
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:425
@@ -19552,6 +19570,9 @@ msgid ""
 "Ready? Pick a wagon, get in, and hide under the hay. Err... maybe we can "
 "find something less flammable than hay to cover up that fire thing."
 msgstr ""
+"Připraveni? Vyberte si povoz, nastupte a schovejte se pod seno. Ehm... možná "
+"bychom mohli najít něco méně hořlavého než seno, abychom přikryli tu ohnivou "
+"věc."
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:434
@@ -19559,33 +19580,36 @@ msgid ""
 "Ready? Pick a wagon, get in, and hide under the hay. My goblins will sneak "
 "you all inside."
 msgstr ""
+"Připraveni? Vyberte si povoz, nastupte a schovejte se pod seno. Moji goblini "
+"vás všechny propašují dovnitř."
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:512
 msgid "Wagons at the gate!"
-msgstr ""
+msgstr "Vozy u brány!"
 
 #. [message]: role=gate_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:517
 msgid ""
 "That you, Razgob? Glad to see you’re bringing pillage with you this time."
-msgstr ""
+msgstr "To jsi ty, Razgobe? Jsem rád, že sis tentokrát přivezl i kořist."
 
 #. [message]: role=gate_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:522
 msgid ""
 "That you, Razgob? Big load of pillage you’ve brought with you this time."
 msgstr ""
+"To jsi ty, Razgobe? Tentokrát sis s sebou přivezl pořádnou hromadu kořisti."
 
 #. [message]: role=wagon1
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:527
 msgid "Wagon Driver"
-msgstr ""
+msgstr "Vozka"
 
 #. [message]: role=wagon1
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:529
 msgid "(shaking) *squeak*"
-msgstr ""
+msgstr "(třese se) *ííík*"
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:533
@@ -19593,18 +19617,20 @@ msgid ""
 "Stupid runtling, quit trembling! What’re you so afraid of? Go on through and "
 "get everything to the stockpiles."
 msgstr ""
+"Ty hloupý prcku, přestaň se třást! Čeho se tak bojíš? Běž tam a odnes "
+"všechno do skladů."
 
 #. [hides]: id=disguised
 #. ability given to a wagon
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:563
 msgid "disguised"
-msgstr ""
+msgstr "přestrojený"
 
 #. [hides]: id=disguised
 #. ability given to a wagon
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:565
 msgid "This unit’s mundane exterior conceals assassins within."
-msgstr ""
+msgstr "Za nenápadným zevnějškem této jednotky se skrývají zabijáci."
 
 #. [message]: speaker=$spotter_id
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:618
@@ -19612,12 +19638,14 @@ msgid ""
 "Hey, I think there’s someone hiding inside this wagon! Let’s chase away the "
 "driver and break it apart!"
 msgstr ""
+"Hele, myslím, že se v tom voze někdo schovává! Vyženeme vozku a rozbijeme ho "
+"na kusy!"
 
 #. [message]: speaker=leader6
 #. this is the same orc who let Konrad's soldiers in
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:634
 msgid "It’s a spy! Which one of you grunts let that worm into our camp?!"
-msgstr ""
+msgstr "Je to špeh! Kdo z vás pěšáků pustil toho červa do našeho tábora?!"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:638
@@ -19625,6 +19653,8 @@ msgid ""
 "We’re under attack! Check the other wagons! Grab your swords and kill "
 "anything that looks out of place!"
 msgstr ""
+"Jsme pod útokem! Prověřte ostatní vozy! Popadněte meče a zabijte všechno, co "
+"vypadá podezřele!"
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #. [event]
@@ -19645,12 +19675,12 @@ msgstr "Konrád"
 msgid ""
 "They’re getting ready for battle! We have to defeat the chief before we’re "
 "overwhelmed."
-msgstr ""
+msgstr "Připravují se na bitvu! Musíme porazit náčelníka, než nás přemohou."
 
 #. [message]: role=arshag_wolf
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:687
 msgid "Grrrr! Arf!"
-msgstr ""
+msgstr "Grrrr! Haf!"
 
 #. [message]: speaker=Arshag
 #. Arshag is talking to his pet wolf, in the same way that a modern human might talk to a dog
@@ -19659,11 +19689,13 @@ msgid ""
 "Who’s a good girl? Are you a good girl? Are you ready to feast on the bones "
 "of our enemies?"
 msgstr ""
+"Kdo je hodná holka? Ty jsi hodná holka? Připravená pochutnat si na kostech "
+"našich nepřátel?"
 
 #. [message]: role=arshag_wolf
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:696
 msgid "Arf! Arf! Woof!"
-msgstr ""
+msgstr "Haf! Haf! Huf!"
 
 #. [message]: speaker=leader3b
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:711
@@ -19671,6 +19703,7 @@ msgid ""
 "Hurry on past, goblin. I don’t want your stench in my nose while I’m trying "
 "to eat."
 msgstr ""
+"Pohni se dál, gobline. Nechci čichat ten tvůj smrad, když se snažím jíst."
 
 #. [message]: role=nw_gold_guard
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:728
@@ -19678,6 +19711,8 @@ msgid ""
 "That last raid was great! I can’t believe the queen is still finding rebel "
 "villages for us to plunder!"
 msgstr ""
+"Ten poslední nájezd byl skvělý! Nemůžu uvěřit, že nám královna pořád ještě "
+"hledá vesnice povstalců, které můžeme vyplenit!"
 
 #. [message]: role=nw_gold_guard
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:732
@@ -19685,6 +19720,8 @@ msgid ""
 "Just look at this pile of gold I’ve pillaged! I hope nobody steals my loot "
 "while I’m not looking..."
 msgstr ""
+"Jen se podívejte na tu hromadu zlata, kterou jsem si naloupil! Doufám, že mi "
+"tu kořist nikdo neukradne, když se nebudu dívat..."
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:748
@@ -19692,6 +19729,8 @@ msgid ""
 "There are caged animals here, many bearing the brand of a chief. They don’t "
 "look very well cared for."
 msgstr ""
+"Jsou tu zvířata v klecích a mnohá mají na sobě cejch náčelníka. Nevypadá to, "
+"že by se o ně někdo dobře staral."
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:752
@@ -19699,6 +19738,8 @@ msgid ""
 "Let us lift the latch on their fence gate, then quietly leave before anybody "
 "notices..."
 msgstr ""
+"Zvedneme závoru na jejich brance a pak tiše odejdeme, než si toho někdo "
+"všimne..."
 
 #. [message]: role=boar_speaker
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:770
@@ -19706,6 +19747,7 @@ msgid ""
 "Chief! Chief! Someone opened the pasture gate! Your prize pigs are running "
 "free!"
 msgstr ""
+"Šéfe! Šéfe! Někdo otevřel bránu na pastvině! Vaše prvotřídní prasata utekla!"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:774
@@ -19713,6 +19755,8 @@ msgid ""
 "Imbeciles! You three, go guard the pen and find my pigs. When I find out who "
 "was responsible..."
 msgstr ""
+"Blbci! Vy tři, jděte hlídat ohradu a najděte mi prasata. Až zjistím, kdo za "
+"to může..."
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:824
@@ -19721,16 +19765,19 @@ msgid ""
 "instead of going out on raids? I wish something exciting would finally "
 "happen..."
 msgstr ""
+"Argh, tady je taková nuda! Proč musím hlídat tohle pitomé údolí, místo abych "
+"vyrazil na nájezdy? Kéž by se konečně stalo něco vzrušujícího..."
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:840
 msgid "Hey, what’re you goblins doing back here? Get lost!"
-msgstr ""
+msgstr "Hele, co tady vzadu děláte, goblini? Vypadněte!"
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:857
 msgid "Look at all those weapons! This must be one of their armories."
 msgstr ""
+"Podívejte se na všechny ty zbraně! Tohle musí být jedna z jejich zbrojnic."
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:862
@@ -19738,11 +19785,13 @@ msgid ""
 "If we can sabotage some without waking that goblin guard, we’ll make it "
 "harder for their chief to recruit fighters and respond to our attack."
 msgstr ""
+"Pokud se nám podaří nějaké poničit, aniž probudíme toho gobliního strážce, "
+"ztížíme jejich veliteli verbování bojovníků a odpověď na náš útok."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:872
 msgid "The Orcish Sovereign’s gold has been reduced to 0."
-msgstr ""
+msgstr "Zlato skřetího svrchovaného vládce kleslo na 0."
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:889
@@ -19750,6 +19799,8 @@ msgid ""
 "Where’s that useless worm Fagh-Mok? He’s supposed to take orders from me! "
 "But he’s been acting suspiciously lately, and now I can’t find him at all."
 msgstr ""
+"Kde je ten neschopný červ Fagh-Mok? Měl by přece poslouchat mé rozkazy! Ale "
+"poslední dobou se chová podezřele a teď ho vůbec nemůžu najít."
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:893
@@ -19757,11 +19808,13 @@ msgid ""
 "I’ll be watching him. He’d better not try anything funny or I’ll chop his "
 "head off!"
 msgstr ""
+"Budu ho sledovat. Ať se radši nepokouší o žádné hlouposti, jinak mu useknu "
+"hlavu!"
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:898
 msgid "That must be the orcish chief. He’s the one we need to kill."
-msgstr ""
+msgstr "To musí být ten skřetí náčelník. Toho musíme zabít."
 
 #. [message]: role=wagon1 {OR id=Konrad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:913
@@ -19770,6 +19823,9 @@ msgid ""
 "to bring them in would only give the orcs time to deploy more soldiers "
 "against us."
 msgstr ""
+"Dorazili jsme ke skřetí pevnosti, ale naše vojsko je stále venku. Jakýkoli "
+"pokus dostat ho dovnitř by skřetům jen dal čas na to, aby proti nám nasadili "
+"další vojáky."
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:937
