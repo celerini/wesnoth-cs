@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-05 21:19+0200\n"
+"PO-Revision-Date: 2026-10-06 19:21+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -19832,12 +19832,12 @@ msgstr ""
 msgid ""
 "You idiot! What’re you doing back here?! You’re supposed to be fighting the "
 "chief!"
-msgstr ""
+msgstr "Ty pitomče! Co děláš tady vzadu?! Měl bys přece bojovat s náčelníkem!"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:943
 msgid "Get back in there or our deal’s off!"
-msgstr ""
+msgstr "Vrať se tam, nebo je naše dohoda zrušená!"
 
 #. [message]: speaker=Khargol
 #. referring to the events from the final scenario of Asheviere's Dogs. Khargol wasn't a named character in that campaign, but perhaps he was one of the random grunts
@@ -19846,6 +19846,8 @@ msgid ""
 "You! You’re that wizard from the battle at Dan’Tonk! The one who did the "
 "storm and the lightning."
 msgstr ""
+"Ty! Ty jsi ten čaroděj z bitvy u Dan’Tonku! Ten, který vyvolal bouři "
+"a blesky."
 
 #. [message]: speaker=Khargol
 #. Bazur is an orcish warrior, and the main character of Asheviere's Dogs.
@@ -19854,6 +19856,8 @@ msgid ""
 "Bazur always said he wanted a chance to kill you. Now I’ll do what he never "
 "could!"
 msgstr ""
+"Bazur vždycky říkal, že by tě rád zabil. Teď udělám to, co on nikdy "
+"nedokázal!"
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:968
@@ -19861,52 +19865,54 @@ msgid ""
 "Those were dark days. Today I end your rule as I shall one day end "
 "Asheviere’s!"
 msgstr ""
+"To byly temné časy. Dnes ukončím tvou vládu, stejně jako jednoho dne ukončím "
+"vládu Ašvíry!"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:979
 msgid ""
 "Hey! Do you see that? That’s the thing the queen told us to watch out for!"
-msgstr ""
+msgstr "Hele! Vidíš to? To je ta věc, před kterou nás královna varovala!"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:983
 msgid "The Sceptre of Fire! Get it!"
-msgstr ""
+msgstr "Ohnivé žezlo! Sem s ním!"
 
 #. [message]: speaker=Khargol
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:994
 msgid "Weakling invaders! I’ll kill you all!"
-msgstr ""
+msgstr "Vy vlezlí chcípáci! Všechny vás zabiju!"
 
 #. [message]: role=arshag_wolf
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1009
 msgid "whimper whimper whimper"
-msgstr ""
+msgstr "kňoúú kňoúú kňoúú"
 
 #. [message]: speaker=Arshag
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1013
 msgid "You’ll pay for that!"
-msgstr ""
+msgstr "Za to zaplatíš!"
 
 #. [message]: speaker=Arshag
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1021
 msgid "These foes are beyond my strength!"
-msgstr ""
+msgstr "Tihle nepřátelé jsou nad mé síly!"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1029
 msgid "Filthy pinkskins!"
-msgstr ""
+msgstr "Podělaný bledý kůže!"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1037
 msgid "Curse you all!"
-msgstr ""
+msgstr "Mor na vás všechny!"
 
 #. [message]: speaker=leader6
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1045
 msgid "Gah!!"
-msgstr ""
+msgstr "Gah!!"
 
 #. [message]: speaker=Khargol
 #. Konrad may not have struck the finishing blow, but it'll be either him or one of his soldiers
@@ -19914,22 +19920,24 @@ msgstr ""
 msgid ""
 "Impossible! Arr, how shameful to die at the hands of some stupid assassins..."
 msgstr ""
+"To přece není možné! Arr, jaká hanba – zemřít rukou nějakých hloupých "
+"vrahů..."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1069
 msgid "Gado-har"
-msgstr ""
+msgstr "Gado-har"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1074
 msgid "Khargol’s dead! The assassins killed our chief!"
-msgstr ""
+msgstr "Khargol je mrtvý! Vrahové zabili našeho náčelníka!"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1084
 msgid ""
 "Now is my chance! Set me free, girl, so I can take command of the horde!"
-msgstr ""
+msgstr "Teď mám šanci! Osvoboď mě, holka, ať můžu převzít velení nad hordou!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1088
@@ -19937,6 +19945,7 @@ msgid ""
 "Set you free? Nice try. You’re not getting out of that cage until Konrad "
 "returns."
 msgstr ""
+"Osvobodit tě? Hezký pokus. Z té klece se nedostaneš, dokud se Konrád nevrátí."
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1094
@@ -19944,11 +19953,13 @@ msgid ""
 "Stupid girl, you think the other orcs are just going to let him walk out? I "
 "must take command. Set me free or your friends all die!"
 msgstr ""
+"Ty hloupá holko, copak si myslíš, že ho ostatní skřeti jen tak nechají "
+"odejít? Musím převzít velení. Osvoboď mě, nebo všichni tvoji přátelé zemřou!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1098
 msgid "Rrr... insufferable. I don’t know how Mother stands working with orcs."
-msgstr ""
+msgstr "Rrr... nesnesitelné. Nevím, jak může matka vydržet pracovat se skřety."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1102
@@ -19956,21 +19967,24 @@ msgid ""
 "Go. But don’t you dare betray us, or I swear to personally find you and kill "
 "you. If you know anything about me, you’ll know that’s a promise I can keep."
 msgstr ""
+"Jdi. Ale neopovažuj se nás zradit, jinak přísahám, že tě osobně najdu "
+"a zabiju. Jestli o mně něco víš, tak určitě nepochybuješ, že ten slib dokážu "
+"splnit."
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1122
 msgid "Assassins! I’ll get them!"
-msgstr ""
+msgstr "Vrahové! Dostanu je!"
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1127
 msgid "You?! What??"
-msgstr ""
+msgstr "Ty?! Cože??"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1133
 msgid "Play dead, you idiot."
-msgstr ""
+msgstr "Hraj mrtvýho, ty pitomče."
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1152
@@ -19978,6 +19992,7 @@ msgid ""
 "Look, everyone! I have slain the invaders and avenged the murder of our "
 "chief!"
 msgstr ""
+"Podívejte se všichni! Zabil jsem útočníky a pomstil vraždu našeho náčelníka!"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1158
@@ -19985,18 +20000,20 @@ msgid ""
 "As head of Khargol’s personal guard, is only right that I assume the late "
 "chief’s duties! Long live chief Fagh-mok the Amazing!"
 msgstr ""
+"Je jedině správně, že jako velitel Khargolovy osobní stráže převezmu "
+"povinnosti zesnulého náčelníka! Ať žije náčelník Fagh-mok Úžasný!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1166
 msgid "Akhir"
-msgstr ""
+msgstr "Akhir"
 
 #. [message]: speaker=Arshag
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1171
 msgid ""
 "Fagh-mok? You?! You’re weak! You were nothing more than the chief’s sword-"
 "carrier!"
-msgstr ""
+msgstr "Fagh-mok? Ty?! Jsi slabý! Jen jsi náčelníkovi nosil meč, nic víc!"
 
 #. [message]: speaker=Arshag
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1175
@@ -20004,6 +20021,8 @@ msgid ""
 "No, I should be chief instead! Khargol respected me most of all! I followed "
 "him from the beginning!"
 msgstr ""
+"Ne, to já bych měl být náčelníkem! Khargol mě respektoval ze všech nejvíc! "
+"Byl jsem s ním od samého začátku!"
 
 #. [message]: speaker=leader3
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1180
@@ -20011,11 +20030,13 @@ msgid ""
 "No, I should be chief! My warriors are the bravest, and I am the strongest "
 "warrior of all!"
 msgstr ""
+"Ne, já bych měl být náčelníkem! Moji válečníci jsou nejodvážnější a já jsem "
+"nejsilnější válečník ze všech!"
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1184
 msgid "Bovrir"
-msgstr ""
+msgstr "Bovrir"
 
 #. [message]: speaker=leader4
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1189
@@ -20023,11 +20044,13 @@ msgid ""
 "Strongest?! I could kill both you AND that ingrate Fagh-Mok, with one hand "
 "tied behind my back!"
 msgstr ""
+"Nejsilnější?! Zabil bych jak tebe, tak toho nevděčníka Fagh-Moka, i s jednou "
+"rukou svázanou za zády!"
 
 #. [message]: speaker=faghmok
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1196
 msgid "Oh yeah? Come here and try it, you worthless sack of slime!"
-msgstr ""
+msgstr "Vážně? Tak pojď sem a zkus to, ty bezcenná hromado slizu!"
 
 #. [message]: speaker=Arshag
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1200
@@ -20035,11 +20058,13 @@ msgid ""
 "I say we kill all three of ’em! Warriors, fight to make me chief and I "
 "promise to bathe you all in gold and blood!"
 msgstr ""
+"Říkám, že je všechny tři zabijeme! Válečníci, bojujte, abych se stal "
+"náčelníkem, a slibuji, že vás všechny vykoupu ve zlatě a krvi!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1232
 msgid "Hail, Li’sar! I return!"
-msgstr ""
+msgstr "Buď zdráva, Lisar! Jsem zpět!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1236
@@ -20047,6 +20072,8 @@ msgid ""
 "The orcich camp echoes with shouts and screams. I take it Fagh-Mok’s bid to "
 "become chief has not gone according to plan?"
 msgstr ""
+"Z tábora skřetů se ozývá řev a jekot. Chápu správně, že Fagh-Mokův pokus "
+"stát se náčelníkem nevyšel podle plánu?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1240
@@ -20055,12 +20082,16 @@ msgid ""
 "ours. Chief Khargol is dead, and until the Whitefangs resolve their "
 "succession crisis they’ll be of no aid to Asheviere."
 msgstr ""
+"Ne, ne tak úplně. Ale alespoň dodržel svou část dohody a my tu naši. "
+"Náčelník Khargol je mrtvý a dokud Bílí špičáci nevyřeší krizi kolem "
+"nástupnictví, nebudou pro Ašvíru žádnou pomocí."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/42_A_Crisis_of_Leadership.cfg:1244
 msgid ""
 "Then we’ve accomplished what we set out to do. Onwards to the next battle."
 msgstr ""
+"Pak jsme dosáhli toho, co jsme si předsevzali. A teď hurá do další bitvy."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:21
