@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-06 19:21+0200\n"
+"PO-Revision-Date: 2026-10-07 23:01+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20106,7 +20106,7 @@ msgstr "Drakonidé"
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:124
 msgid "There is 80 gold lying in a cove at the bottom of this waterfall!"
-msgstr ""
+msgstr "V prohlubni na dně tohoto vodopádu leží 80 zlatých!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:207
@@ -20114,6 +20114,8 @@ msgid ""
 "All is quiet. Whatever fight was happening here, it ended before we could "
 "intervene."
 msgstr ""
+"Všude je ticho. Ať už se tu odehrával jakýkoli boj, skončil dříve, než jsme "
+"stačili zasáhnout."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:214
@@ -20121,6 +20123,8 @@ msgid ""
 "And the outcome is no mystery — there is a small fleet of boats shattered "
 "among the river islands! I shall send a scout to investigate."
 msgstr ""
+"A výsledek není žádným tajemstvím – mezi říčními ostrovy leží malé loďstvo "
+"z rozbitých člunů! Pošlu tam zvěda, aby to prozkoumal."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:228
@@ -20128,6 +20132,8 @@ msgid ""
 "And the outcome is no mystery — there is a small fleet of boats shattered "
 "among the river islands! I shall send my familiar to investigate."
 msgstr ""
+"A výsledek není žádným tajemstvím – mezi říčními ostrovy leží malé loďstvo "
+"z rozbitých člunů! Pošlu tam svého známého, aby to prošetřil."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:244
@@ -20137,6 +20143,10 @@ msgid ""
 "capsized have been burned. And most curious of all — all flew the banner of "
 "Wesnoth."
 msgstr ""
+"Zajímavé. Nejedná se o vraky samotných lodí, ale o nedávno postavené vory "
+"s malým ponorem. Většina jejich dřeva je ještě syrová. Ty, které se "
+"nepřevrátily, byly spáleny. A nejzajímavější ze všeho je, že všechny pluly "
+"pod vlajkou Wesnothu."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:248
@@ -20144,16 +20154,19 @@ msgid ""
 "Wesnoth! There is only one army of Wesnoth in these lands, and it is the one "
 "which I led here to fight you. These must be survivors from the volcano!"
 msgstr ""
+"Wesnoth! V těchto končinách je jen jedna armáda Wesnothu, a to ta, kterou "
+"jsem sem přivedla, abych proti vám bojovala. To musí být ti, co přežili "
+"výbuch sopky!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:252
 msgid "I’m afraid they don’t seem to be survivors any longer, Li’sar."
-msgstr ""
+msgstr "Obávám se, Lisar, že teď už to nevypadá, jako by přežili."
 
 #. [event]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:261
 msgid "Keh Ohn"
-msgstr ""
+msgstr "Keh Ohn"
 
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:269
@@ -20164,6 +20177,12 @@ msgid ""
 "Seek no further trespass of our land across this river.\n"
 "Lest you reach only that same end as they who did so before you."
 msgstr ""
+"Vetřelci z říše lidí!\n"
+"Vezměte si toto varování k srdci, neboť je poslední, které vašemu druhu "
+"poskytnu —\n"
+"\n"
+"Nepokoušejte se dále neoprávněně vstupovat na naši půdu za touto řekou.\n"
+"Jinak vás čeká stejný osud jako ty, kteří tak učinili před vámi."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:277
@@ -20171,6 +20190,8 @@ msgid ""
 "A drake! So the winged figures we saw fighting were drakes. You are the ones "
 "who destroyed this flotilla?"
 msgstr ""
+"Drakonid! Takže ty okřídlené postavy, které jsme viděli bojovat, byli "
+"drakonidé. To vy jste zničili tohle loďstvo?"
 
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:281
@@ -20186,6 +20207,16 @@ msgid ""
 "So I grant you, who were not directly responsible, your lives.\n"
 "Now go."
 msgstr ""
+"Ano, my.\n"
+"\n"
+"Neboť v rozporu s našimi Zákony lovili zvěř na našem území.\n"
+"A pak... odnesli si vejce drakonidů... naše vejce... jako kořist.\n"
+"\n"
+"Za takový čin bych neměl projevit žádnou shovívavost.\n"
+"Avšak kdysi dávno se moji předkové dopustili podobných přestupků vůči vašemu "
+"druhu.\n"
+"Proto vám, kteří jste za to nebyli přímo zodpovědní, daruji život.\n"
+"Nyní odejděte."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:293
@@ -20194,6 +20225,9 @@ msgid ""
 "enough to do such a thing, unless unknowingly or in extreme starvation. I "
 "fear this has been a terrible misunderstanding."
 msgstr ""
+"Vojáci snědli dračí vejce? Nedokážu si představit, že by někdo byl tak "
+"hloupý, aby něco takového udělal, leda nevědomky nebo na pokraji smrti "
+"hladem. Obávám se, že se jedná o strašné nedorozumění."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:297
@@ -20202,6 +20236,9 @@ msgid ""
 "they will have. We will go, drake, but you will first turn over any "
 "prisoners and allow us to search the river for survivors."
 msgstr ""
+"Muži, které jsem vycvičila, jsou zkušení a vytrvalí. Kdyby bylo možné "
+"přežít, určitě by to zvládli. Půjdeme, drokonide, ale nejprve nám předáš "
+"všechny zajatce a dovolíš nám prohledat řeku, zda tam nejsou nějací přeživší."
 
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:301
@@ -20211,6 +20248,10 @@ msgid ""
 "The matter is decided.\n"
 "My decision, final."
 msgstr ""
+"Jejich životy jsou ztraceny.\n"
+"Všechny, kdo se živili na úkor našich mláďat, zničíme.\n"
+"Záležitost je rozhodnuta.\n"
+"Mé rozhodnutí je konečné."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:308
@@ -20219,36 +20260,39 @@ msgid ""
 "Wesnoth has survived then I am coming to his rescue. Stand in my way only if "
 "you seek to do battle."
 msgstr ""
+"Ty ohavný drakonide, toto rozhodnutí ti nikdy nepříslušelo! Pokud přežil byť "
+"jen jediný voják z Wesnothu, přijdu mu na pomoc. Postav se mi do cesty, jen "
+"pokud se chceš utkat v boji."
 
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:312
 msgid "So be it, fellow contender."
-msgstr ""
+msgstr "Tak se stane, můj soupeři."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:322
 msgid "Find the survivor near the southeast corner of the map."
-msgstr ""
+msgstr "Najdi přeživšího v blízkosti jihovýchodního rohu mapy."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:329
 msgid "Then, escort him towards the west edge of the map."
-msgstr ""
+msgstr "Poté ho doprovoď k západnímu okraji mapy."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:337
 msgid "Reach Warven, then escort him towards the west edge of the map."
-msgstr ""
+msgstr "Najdi Warvena a poté ho doprovoď k západnímu okraji mapy."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:346
 msgid "Escort Warven west to the marked hexes."
-msgstr ""
+msgstr "Doprovoď Warvena na západ k označeným políčkům."
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:353
 msgid "Death of Warven"
-msgstr ""
+msgstr "Warven zemře"
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:368
@@ -20256,6 +20300,8 @@ msgid ""
 "Warven will remain under player control until the end of the scenario, but "
 "will join Li’sar’s side in future scenarios."
 msgstr ""
+"Až do konce scénáře zůstane Warven pod kontrolou hráče, v budoucích "
+"scénářích se však přidá na stranu Lisar."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:383
@@ -20264,6 +20310,9 @@ msgid ""
 "dwellings. We should break down the drakish villages to stop them rallying "
 "more fighters."
 msgstr ""
+"Na řece nevidím žádnou nepřátelskou pevnost, ale je plná primitivních "
+"obydlí. Měli bychom zničit drakonidské vesnice, abychom jim zabránili "
+"shromáždit další bojovníky."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:403
@@ -20272,16 +20321,18 @@ msgid ""
 "spume, it must drop several hundred feet at least! To try to sail past this "
 "would be suicide."
 msgstr ""
+"Před námi je vodopád. Soudě podle hřmění vody a síly pěny musí padat z výšky "
+"nejméně několika set stop! Pokusit se tím proplout by byla sebevražda."
 
 #. [message]: speaker=Keh Ohn
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:417
 msgid "GRRROOOOAAAAR!"
-msgstr ""
+msgstr "GRRROOOOAAAAR!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:423
 msgid "Huzzah! We’ve killed their leader!"
-msgstr ""
+msgstr "Hurá! Zabili jsme jejich vůdce!"
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:428
@@ -20289,6 +20340,8 @@ msgid ""
 "Our dominant is slain!\n"
 "Gliders, send word to the first intendant of his ascension by fate."
 msgstr ""
+"Náš vládce byl zabit!\n"
+"Plachtící, vyřiďte prvnímu důstojníkovi, že se vládce střetl se svým osudem."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:451
@@ -20296,6 +20349,8 @@ msgid ""
 "We’ve slain one of the drakes! Their biology is... wow, incredibly strange — "
 "yes, I think there must be some magic in them."
 msgstr ""
+"Zabili jsme jednoho z drakonidů! Jejich biologie je... páni, neuvěřitelně "
+"podivná – ano, myslím, že v nich musí být nějaká magie."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:455
@@ -20304,6 +20359,10 @@ msgid ""
 "could kill, say, err, thirty drakes — not including this one, that is — then "
 "I’m sure their fire could show me how to improve my flashpowder."
 msgstr ""
+"Mít tak víc exemplářů, určitě bych se mohla naučit něco užitečného. Kdybys "
+"dokázal zabít, řekněme, ehm, třicet drakonidů – tedy kromě tohohle – pak "
+"jsem si jistá, že jejich oheň by mi mohl ukázat, jak vylepšit můj bleskový "
+"prášek."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:476
@@ -20312,6 +20371,9 @@ msgid ""
 "dissecting the corpses! Fifteen more and I’m sure I’ll learn something "
 "practical."
 msgstr ""
+"To máme patnáct drakonidů, které jsi porazil. Už teď při pitvání mrtvol "
+"zjišťuji spoustu věcí! Ještě patnáct a určitě se naučím něco použitelného "
+"v praxi."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:486
@@ -20320,6 +20382,9 @@ msgid ""
 "absolutely amazing! Such fascinating creatures! Did you know that each wing "
 "contains upwards of seven major arteries?"
 msgstr ""
+"Teda páni, porazil jsi všech třicet drakonidů, o které jsem tě požádala! "
+"Jsou prostě... naprosto úžasní! Tak fascinující stvoření! Věděl jsi, že "
+"každé křídlo obsahuje více než sedm hlavních tepen?"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:490
@@ -20327,6 +20392,8 @@ msgid ""
 "Err, and, well, of course I’ve extracted some particular reagents that could "
 "be useful on the battlefield as well. As promised."
 msgstr ""
+"No, a... samozřejmě také se mi povedlo získat nějaká zvláštní činidla, která "
+"by se mohla hodit i na bojišti. Jak jsem slíbila."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:522
@@ -20334,6 +20401,8 @@ msgid ""
 "Good, we’ve destroyed one drake beacon. Each one we raze will make it more "
 "difficult for them to rally their fighters."
 msgstr ""
+"Skvělé, zničili jsme jeden zdroj drakonidů. Každý, který srovnáme se zemí, "
+"jim ztíží shromažďování bojovníků."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:600
@@ -20341,6 +20410,9 @@ msgid ""
 "Look! I see someone at the top of the furthermost cliff! It’s a young human "
 "officer, barely more than a boy. He appears badly hurt but still alive."
 msgstr ""
+"Podívejte! Vidím někoho na vrcholu toho nejvzdálenějšího srázu! Je to mladý "
+"lidský důstojník, sotva o něco starší než chlapec. Vypadá, že je těžce "
+"zraněný, ale stále žije."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:613
@@ -20348,16 +20420,18 @@ msgid ""
 "I wonder why the drakes haven’t finished him by now? It is strange that "
 "there are not any drakes in that area."
 msgstr ""
+"Zajímalo by mě, proč ho ti drakonidi ještě nezabili? Je divné, že v té "
+"oblasti žádní nejsou."
 
 #. [message]: type=Water Serpent,Kraken
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:636
 msgid "Grrroar"
-msgstr ""
+msgstr "Grrroar"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:640
 msgid "Well... that answers the question."
-msgstr ""
+msgstr "No... tady je odpověď na mou otázku."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:645
@@ -20365,6 +20439,9 @@ msgid ""
 "That young officer is Warven, one of my best lieutenants! He might well be "
 "the only survivor of this battle! We must reach him and bring him to safety."
 msgstr ""
+"Ten mladý důstojník je Warven, jeden z mých nejlepších poručíků! Je docela "
+"možné, že je jediný, kdo přežil tu bitvu! Musíme se k němu dostat "
+"a přesunout ho do bezpečí."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:648
@@ -20375,6 +20452,9 @@ msgid ""
 "once tried his utmost to kill us? Will he follow you, or will he choose to "
 "betray us to Asheviere?"
 msgstr ""
+"Musím ti snad připomínat, že on, stejně jako všichni ostatní, kteří proti "
+"nám bojovali v podzemí, se kdysi ze všech sil snažil nás zabít? Půjde "
+"s tebou, nebo se rozhodne nás zradit a vydat Ašvíře?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:651
@@ -20383,6 +20463,9 @@ msgid ""
 "so long ago? He’s one of Asheviere’s! Will he follow you, or will he choose "
 "to betray us to the dark queen?"
 msgstr ""
+"Nechci zpochybňovat tvůj úsudek, ale nesnažil se nás přece ještě nedávno "
+"zabít? Patří k Ašvířiným! Půjde s tebou, nebo se rozhodne nás zradit a vydat "
+"temné královně?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:652
@@ -20391,6 +20474,9 @@ msgid ""
 "pursued us underground and fought to kill us? Will he follow you, or will he "
 "choose to betray us to the dark queen?"
 msgstr ""
+"Jaká čest se skrývá v srdci muže, který sloužil Ašvíře? Který nás "
+"pronásledoval v podzemí a bojoval, aby nás zabil? Půjde s tebou, nebo se "
+"rozhodne nás zradit a vydat temné královně?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:653
@@ -20399,6 +20485,9 @@ msgid ""
 "Konrad. How do you think he’s going to join our alliance now? What if he "
 "betrays us to the queen?"
 msgstr ""
+"Ještě nedávno bojoval v podzemí a ze všech sil se snažil zabít Konráda. Jak "
+"myslíš, že se teď připojí k našemu spojenectví? Co když nás zradí a vydá "
+"královně?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:654
@@ -20407,6 +20496,9 @@ msgid ""
 "with you to kill Konrad. If rescued shall he join our alliance, or shall he "
 "betray us to Asheviere?"
 msgstr ""
+"Nezapomeň, že on, stejně jako ostatní, kteří proti nám bojovali v podzemí, "
+"s tebou přišel na sever, aby zabil Konráda. Pokud bude zachráněn, připojí se "
+"k našemu spojenectví, nebo nás zradí a vydá Ašvíře?"
 
 #. [companion_message]
 #. reference to this fable: https://en.wikipedia.org/wiki/The_Scorpion_and_the_Frog
@@ -20417,6 +20509,9 @@ msgid ""
 "heads who fought us underground! He’ll betray us to Asheviere quick as a "
 "wink."
 msgstr ""
+"Jo, to řekl štír žábě! Nezapomeň, že ten pitomý darebák se nedávno pokusil "
+"zabít Konráda, stejně jako všichni ti ostatní hlupci, co proti nám bojovali "
+"v podzemí! Zradí nás Ašvíře, než se naděješ."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:657
@@ -20425,6 +20520,9 @@ msgid ""
 "wasn’t he fighting underground trying to kill Konrad not too long ago? Is he "
 "going to join our alliance? What if he betrays us to Asheviere?"
 msgstr ""
+"Zachránit život je samozřejmě skvělá věc. Ale, ehm, no, víš, nebojoval snad "
+"ještě nedávno v podzemí a nesnažil se zabít Konráda? Přidá se k naší "
+"alianci? Co když nás zradí a vydá Ašvíře?"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:658
@@ -20433,6 +20531,9 @@ msgid ""
 "not too long ago, wasn’t he? Now we want to help him? Dosh thinks he’ll run "
 "quick as a wink back to dat queen, an’ we’ll be all da worse for it."
 msgstr ""
+"Doš si nemyslí, že je to zrovna chytrý. Ještě nedávno se v podzemí pokoušel "
+"zabít Konráda, ne? A teď mu chceme pomoct? Doš si myslí, že se v mžiku vrátí "
+"k té královně a nám to jen ublíží."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:659
@@ -20441,6 +20542,9 @@ msgid ""
 "tried his utmost to kill me. Will he follow you, or will he choose to betray "
 "us to Asheviere?"
 msgstr ""
+"Nezapomeň, že on, stejně jako všichni ostatní, kteří proti nám bojovali "
+"v podzemí, se kdysi ze všech sil snažil mě zabít. Půjde s tebou, nebo se "
+"rozhodne nás zradit a vydat Ašvíře?"
 
 #. [message]: speaker=Lisar
 #. "you people" refers to the last speaker - one of Konrad's many possible companions. Kalenz, Chantal, Haldiel, Elrian, Seimus, Harper, Moremirmu, Ulfdain, Jeniver, or Dosh.
@@ -20450,6 +20554,9 @@ msgid ""
 "orders. I don’t question you people who Konrad chooses to put his trust in — "
 "please don’t question mine."
 msgstr ""
+"Možná vás opravdu přišel zabít, ale je mi oddaný a udělal to jen na můj "
+"rozkaz. Nezpochybňuji vás, kterým se Konrád rozhodl důvěřovat – nezpochybňuj "
+"prosím ani ty, kterým důvěřuji já."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:673
@@ -20457,11 +20564,13 @@ msgid ""
 "Perhaps he did come to kill you, but he’s loyal to me and did so only at my "
 "orders. You can trust him."
 msgstr ""
+"Možná tě opravdu přišel zabít, ale je mi oddaný a udělal to jen na můj "
+"rozkaz. Můžeš mu věřit."
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:694
 msgid "Who... who are you? A friend or a foe?"
-msgstr ""
+msgstr "Kdo... kdo jsi? Přítel, nebo nepřítel?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:698
@@ -20469,12 +20578,14 @@ msgid ""
 "We are friends. Don’t worry about it and don’t try to fight us — you are in "
 "no condition to fight."
 msgstr ""
+"Jsme přátelé. Nedělej si s tím starosti a nesnaž se s námi bojovat – na boj "
+"nemáš sílu."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:702
 msgid ""
 "Welcome back to the fold, young lieutenant. Let’s get you to the healers."
-msgstr ""
+msgstr "Vítej zpět v našich řadách, mladý poručíku. Odvedeme tě k léčitelům."
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:706
@@ -20482,27 +20593,31 @@ msgid ""
 "General Li’sar — here? Praise Haldric, you’re alive! But... what you doing "
 "in league with the false prince?"
 msgstr ""
+"Generálka Lisar — tady? Chvála Haldrikovi, vy žijete! Ale... co děláte ve "
+"spolku s tím falešným princem?"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:710
 msgid "Call it a change of heart. You swore an oath to me. Will you follow us?"
-msgstr ""
+msgstr "Řekněme, že jsem změnila názor. Složil jsi mi přísahu. Půjdeš s námi?"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:714
 msgid "Your Highness... Highnesses, I am yours to command."
-msgstr ""
+msgstr "Vaše Výsosti... Vaše Výsosti, na váš rozkaz."
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:741
 msgid ""
 "General... Thank you for rescuing me, but the others are in need of help too."
 msgstr ""
+"Generálko... Děkuji, že jste mě zachránili, ale jsou tu i další, kteří "
+"potřebují pomoc."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:745
 msgid "Others? There are more survivors!?"
-msgstr ""
+msgstr "Ještě někdo? Je tu ještě víc přeživších!?"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:749
@@ -20511,6 +20626,9 @@ msgid ""
 "home. If I survive this battle, I can lead you upriver to our camp. They’ll "
 "be elated to see that you’ve survived."
 msgstr ""
+"Ano, Vaše Výsosti! Byli jsme jen zvědové – snažili jsme se najít cestu zpět "
+"domů. Pokud tuto bitvu přežiji, mohu vás dovést proti proudu řeky do našeho "
+"tábora. Budou nadšení, až uvidí, že jste přežila."
 
 #. [message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:770
@@ -20518,11 +20636,13 @@ msgid ""
 "Our foe flees.\n"
 "We are victorious."
 msgstr ""
+"Náš nepřítel prchá.\n"
+"Zvítězili jsme."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:776
 msgid "Warven’s made it to safety! Time to leave, everyone."
-msgstr ""
+msgstr "Warven se dostal do bezpečí! Je čas vyrazit, všichni."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:794
@@ -20530,6 +20650,8 @@ msgid ""
 "No! Without him we will never find the other survivors. I’ve failed my duty "
 "as commander."
 msgstr ""
+"Ne! Bez něj ty ostatní přeživší nikdy nenajdeme. Selhala jsem v plnění "
+"povinností velitele."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:812
@@ -20537,17 +20659,20 @@ msgid ""
 "Even the best healing we can administer is no substitute for rest. We must "
 "get Warven to safety before his wounds become too much to bear."
 msgstr ""
+"Ani ta nejlepší léčba, kterou mu můžeme poskytnout, nenahradí odpočinek. "
+"Musíme Warvena dostat do bezpečí, než se jeho zranění stanou neúnosnými."
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:819
 msgid "Argh... I... can’t—"
-msgstr ""
+msgstr "Argh... já... nemůžu —"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:824
 msgid ""
 "No! Without him we will never find the other survivors. I’ve failed my men."
 msgstr ""
+"Ne! Bez něj ty ostatní přeživší nikdy nenajdeme. Zklamala jsem své muže."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:20
