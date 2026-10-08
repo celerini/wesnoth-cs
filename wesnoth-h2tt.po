@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-08 09:55+0200\n"
+"PO-Revision-Date: 2026-10-08 11:25+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -14816,7 +14816,7 @@ msgid ""
 "Smoke! Yes, earth turned to air... most useful for befuddling and bewitching "
 "the unprepared, and a validation of my theory of elemental humors!"
 msgstr ""
-"Kouř! Ano, země se proměnila ve vzduch... to se skvěle hodí k tomu, aby to "
+"Kouř! Ano, země se přeměnila ve vzduch... to se skvěle hodí k tomu, aby to "
 "zmátlo a okouzlilo nepřipravené, a je to potvrzení mé teorie o elementárním "
 "vtipu!"
 
@@ -14912,7 +14912,7 @@ msgid ""
 "Golden transmutation? You mean you can transmute other substances into gold? "
 "That’s an incredible accomplishment!"
 msgstr ""
-"Proměna ve zlato? Chceš tím říct, že dokážeš proměnit jiné látky ve zlato? "
+"Přeměna ve zlato? Chceš tím říct, že dokážeš přeměnit jiné látky ve zlato? "
 "To je neuvěřitelný úspěch!"
 
 #. [message]: speaker=Jeniver
@@ -14936,7 +14936,7 @@ msgstr "Nová schopnost"
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:608
 msgid "Jeniver has gained the powerful <i>transmutation</i> ability!"
-msgstr "Jeniver získala mocnou schopnost <i>proměny</i>!"
+msgstr "Jeniver získala mocnou schopnost <i>přeměny</i>!"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/23_Northern_Winter.cfg:638
@@ -23108,6 +23108,10 @@ msgid ""
 "troll-mother, laying low her people and forevermore claiming dominion in the "
 "underearth."
 msgstr ""
+"Podle legendy byly tyto tajemné krvavé sekery vykovány na počátku věků ve "
+"velkých kamenných pecích Dhur Darihm, když byla celá Irdye ještě ponořena "
+"v plamenech a sazích. Právě s nimi první trpaslíci vedli válku proti trollí "
+"matce, porazili její lid a navždy si podmanili podzemí."
 
 #. [unit_type]: id=Dwarvish Bloodaxe, race=dwarf
 #: data/campaigns/Heir_To_The_Throne/units/Dwarvish_Bloodaxe.cfg:20
@@ -23118,13 +23122,18 @@ msgid ""
 "jealously guarded, passed down from father to son and reclaimed from the "
 "fallen even at great cost."
 msgstr ""
+"Ačkoli se o pravdivosti této legendy vedou spory, zprávy z bojiště "
+"nenechávají žádné pochybnosti o tom, že takové zbraně existují a že svému "
+"držiteli propůjčují velkou odolnost. Těch několik zbývajících krvavých seker "
+"trpaslíků je žárlivě střeženo, předávají se z otce na syna a od padlých se "
+"získávají zpět i za velkou cenu."
 
 #. [attack]: type=blade
 #. [object]: id=bloodaxe
 #: data/campaigns/Heir_To_The_Throne/units/Dwarvish_Bloodaxe.cfg:32
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:365
 msgid "bloodaxe"
-msgstr ""
+msgstr "krvavá sekera"
 
 #. [dummy]: id=march
 #: data/campaigns/Heir_To_The_Throne/units/Elite_Units.cfg:12
@@ -23293,12 +23302,12 @@ msgstr ""
 #. [unit_type]: id=Injured Lieutenant
 #: data/campaigns/Heir_To_The_Throne/units/Human_Injured_Lieutenant.cfg:7
 msgid "Injured Lieutenant"
-msgstr ""
+msgstr "Zraněný poručík"
 
 #. [dummy]: id=smoke
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:264
 msgid "smoke"
-msgstr ""
+msgstr "kouř"
 
 #. [dummy]: id=smoke
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:265
@@ -23308,11 +23317,15 @@ msgid ""
 "enforce a zone of control. The cloud lasts until the start of this unit’s "
 "next turn."
 msgstr ""
+"Ať už zásah vyjde, nebo ne, tento útok vytvoří na cílovém políčku oblak "
+"dusivého, žíravého kouře. Jakákoli jednotka uvnitř má poloviční šanci na "
+"zásah a nemůže již uplatňovat oblast kontroly. Oblak přetrvá až do začátku "
+"dalšího kola této jednotky."
 
 #. [dummy]: id=smoke
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:267
 msgid "<i>Magical</i> attacks are unaffected by smoke."
-msgstr ""
+msgstr "<i>Magické</i> útoky nejsou kouřem ovlivněny."
 
 #. [dummy]: id=smoke
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:268
@@ -23320,11 +23333,14 @@ msgid ""
 "This unit’s attacks create clouds of caustic smoke, halving chance-to-hit "
 "and nullifying zone of control for any unit caught inside."
 msgstr ""
+"Útoky této jednotky vytvářejí oblaka žíravého kouře, který o polovinu "
+"snižuje šanci na zásah a ruší účinek oblasti kontroly u všech jednotek, "
+"které se v něm ocitnou."
 
 #. [unit_type]: id=Alchemist, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:274
 msgid "Alchemist"
-msgstr ""
+msgstr "Alchymistka"
 
 #. [unit_type]: id=Alchemist, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:290
@@ -23333,6 +23349,9 @@ msgid ""
 "of alchemy are concerned with the study of physical matter — especially "
 "herbs, minerals, and the four humors."
 msgstr ""
+"Na rozdíl od vědeckých oborů, které se otevřeně zabývají magií, se "
+"alchymisté věnují studiu fyzické hmoty – zejména bylin, nerostů a čtyř "
+"tělesných tekutin."
 
 #. [unit_type]: id=Alchemist, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:292
@@ -23343,16 +23362,21 @@ msgid ""
 "as a whole is often derided as the pastime of frauds — at least in the eye "
 "of the more traditional orders of magery."
 msgstr ""
+"Konečným cílem těchto praktik je samozřejmě přeměna olova ve zlato. Ačkoli "
+"v minulosti několik lidí tvrdilo, že tohoto milníku dosáhlo, nikdy nebyl "
+"předložen žádný přesvědčivý důkaz a tato praxe jako celek je často "
+"zesměšňována jako zábava podvodníků – alespoň v očích tradičnějších "
+"magických řádů."
 
 #. [dummy]: id=transmutation
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:299
 msgid "transmutation"
-msgstr ""
+msgstr "přeměna"
 
 #. [dummy]: id=transmutation
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:300
 msgid "This unit generates 5 gold each turn."
-msgstr ""
+msgstr "Tato jednotka vydělává v každém kole 5 zlatých."
 
 #. [attack]: type=fire
 #: data/campaigns/Heir_To_The_Throne/units/Human_Jeniver.cfg:307
@@ -23382,7 +23406,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L3.cfg:126
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L4.cfg:138
 msgid "with axe"
-msgstr ""
+msgstr "se sekerou"
 
 #. [variation]
 #. [variation]: race=human
@@ -23393,7 +23417,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Princess.cfg:62
 #: data/campaigns/Heir_To_The_Throne/units/Human_Lisar_Warrior_Princess.cfg:101
 msgid "with sceptre"
-msgstr ""
+msgstr "s žezlem"
 
 #. [variation]
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1.cfg:103
@@ -23401,17 +23425,17 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L3.cfg:142
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L4.cfg:154
 msgid "with axe and sceptre"
-msgstr ""
+msgstr "se sekerou a žezlem"
 
 #. [unit_type]: id=Sleeping_Fighter, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1_Sleeping.cfg:5
 msgid "Sleeping Fighter"
-msgstr ""
+msgstr "Spící bojovník"
 
 #. [unit_type]: id=Unarmed_Fighter, race=human
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L1_Unarmed.cfg:5
 msgid "Unarmed Fighter"
-msgstr ""
+msgstr "Neozbrojený bojovník"
 
 #: data/campaigns/Heir_To_The_Throne/units/Human_Konrad_L2.cfg:4
 msgid "Captain"
@@ -23620,7 +23644,7 @@ msgstr ""
 #. [unit_type]: id=Caravan, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Caravan.cfg:5
 msgid "Caravan"
-msgstr ""
+msgstr "Karavana"
 
 #. [unit_type]: id=Caravan, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Caravan.cfg:19
@@ -23629,16 +23653,19 @@ msgid ""
 "of the immense weight of the cargo this caravan carries, it is not nimble, "
 "but the driver can still try to drive off attackers with his whip."
 msgstr ""
+"Karavany se používají k přepravě zlata nebo zásob na velké vzdálenosti. "
+"Vzhledem k obrovské hmotnosti nákladu, který tato karavana veze, není příliš "
+"obratná, ale vozka se přesto může pokusit útočníky odehnat svým bičem."
 
 #. [attack]: type=impact
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Caravan.cfg:29
 msgid "whip"
-msgstr ""
+msgstr "bič"
 
 #. [unit_type]: id=Granite Golem, race=monster
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Golem.cfg:4
 msgid "Granite Golem"
-msgstr ""
+msgstr "Žulový golem"
 
 #. [unit_type]: id=Granite Golem, race=monster
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Golem.cfg:21
@@ -23648,26 +23675,30 @@ msgid ""
 "transport across long distances, their vast bulk renders them nigh-immune to "
 "most forms of damage."
 msgstr ""
+"Tyto obrovské hliněné výtvory, tyčící se nad bojištěm, představují vrchol "
+"magie živlů. Ačkoli jsou neuvěřitelně neohrabané a nelze je přepravovat na "
+"velké vzdálenosti, díky své obrovské hmotnosti jsou téměř úplně odolné vůči "
+"většině druhů poškození."
 
 #. [attack]: type=impact
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Golem.cfg:63
 msgid "fist"
-msgstr ""
+msgstr "pěst"
 
 #. [unit_type]: id=Quintain, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Quintain.cfg:4
 msgid "Quintain"
-msgstr ""
+msgstr "Panák"
 
 #. [unit_type]: id=Quintain, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Quintain.cfg:15
 msgid "Quintains are used to practice swordplay and jousting on."
-msgstr ""
+msgstr "Panáci se používají k nácviku šermu a rytířských soubojů."
 
 #. [unit_type]: id=Wagon, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Wagon.cfg:5
 msgid "Wagon"
-msgstr ""
+msgstr "Vůz"
 
 #. [unit_type]: id=Wagon, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Wagon.cfg:22
@@ -23675,11 +23706,14 @@ msgid ""
 "Caravans are used to carry gold or supplies across long distances. This one "
 "is laden only lightly with hay, instead concealing Konrad and his soldiers."
 msgstr ""
+"Karavany se používají k přepravě zlata nebo zásob na velké vzdálenosti. Tato "
+"je jen lehce naložena senem, ve skutečnosti však skrývá Konráda a jeho "
+"vojáky."
 
 #. [unit_type]: id=Cave Wall, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Wall.cfg:5
 msgid "Cave Wall"
-msgstr ""
+msgstr "Stěna jeskyně"
 
 #. [unit_type]: id=Cave Wall, race=mechanical
 #: data/campaigns/Heir_To_The_Throne/units/Mechanical_Wall.cfg:17
@@ -23687,11 +23721,13 @@ msgid ""
 "A crudely hewn cave wall, weakened by recent cave-ins. Experience gathered "
 "from mining is of little use on the battlefield."
 msgstr ""
+"Hrubě otesaná stěna jeskyně, oslabená nedávnými závaly. Zkušenosti získané "
+"těžbou se na bojišti příliš nehodí."
 
 #. [unit_type]: id=Gryphlet, race=gryphon
 #: data/campaigns/Heir_To_The_Throne/units/Monster_Gryphlet.cfg:4
 msgid "Gryphlet"
-msgstr ""
+msgstr "Mladý gryf"
 
 #. [unit_type]: id=Gryphlet, race=gryphon
 #: data/campaigns/Heir_To_The_Throne/units/Monster_Gryphlet.cfg:18
@@ -23701,21 +23737,24 @@ msgid ""
 "fly, most have already grown larger than a wolf, and are more than capable "
 "of defending their nests from intruders."
 msgstr ""
+"Mladí gryfové jsou pokryti bílým a šedým peřím, které je měkčí a hebčí než "
+"peří jejich dospělých příbuzných. Než se naučí létat, většina z nich už je "
+"větší než vlk a dokáže své hnízdo před vetřelci bez problémů ubránit."
 
 #. [unit_type]: id=Sleeping Gryphon, race=gryphon
 #: data/campaigns/Heir_To_The_Throne/units/Monster_Sleeping_Gryphon.cfg:4
 msgid "Sleeping Gryphon"
-msgstr ""
+msgstr "Spící gryf"
 
 #. [unit_type]: id=Sleeping Gryphon, race=gryphon
 #: data/campaigns/Heir_To_The_Throne/units/Monster_Sleeping_Gryphon.cfg:20
 msgid "Shhhh! The gryphon is sleeping! You’d better not wake it up!"
-msgstr ""
+msgstr "Pššt! Ten gryf spí! Radši ho nevzbuď!"
 
 #. [unit_type]: id=Barrow Wight, race=undead
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Horse_Barrow_Wight.cfg:4
 msgid "Barrow Wight"
-msgstr ""
+msgstr "Mohylový postrach"
 
 #. [unit_type]: id=Barrow Wight, race=undead
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Horse_Barrow_Wight.cfg:18
@@ -23724,16 +23763,19 @@ msgid ""
 "wanders aimlessly in a delirium of darkness and despair. Their chill essence "
 "is shrouded behind cloak and bone, shielding them from most magic."
 msgstr ""
+"Mohylový postrach, neustále pronásledovaný blednoucí vzpomínkou na svůj "
+"dřívější život, bloudí bezcílně v deliriu temnoty a zoufalství. Jeho mrazivá "
+"podstata je skryta za pláštěm a kostmi, které ho chrání před většinou kouzel."
 
 #. [resistance]: id=shroud
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Horse_Barrow_Wight.cfg:33
 msgid "shroud"
-msgstr ""
+msgstr "rubáš"
 
 #. [resistance]: id=shroud
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Horse_Barrow_Wight.cfg:34
 msgid "While defending, this unit has 50% fire and arcane resistance."
-msgstr ""
+msgstr "Při obraně má tato jednotka 50% odolnost proti ohni a magii."
 
 #. [unit_type]: id=Vampire Lady, gender=female, race=undead, description=
 #: data/campaigns/Heir_To_The_Throne/units/Undead_Vampire_Lady.cfg:4
