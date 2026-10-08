@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-07 23:01+0200\n"
+"PO-Revision-Date: 2026-10-08 09:48+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -20682,12 +20682,12 @@ msgstr "Podzemní kanály"
 #. [side]: id=leader3, type=Saurian Javelineer
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:117
 msgid "Saurians"
-msgstr ""
+msgstr "Ještěráci"
 
 #. [side]: id=Haralamdum, type=Ancient Wose
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:166
 msgid "Woses"
-msgstr ""
+msgstr "Stromový lid"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:241
@@ -20695,59 +20695,61 @@ msgid ""
 "Here we are! Whatever evil lurks within these caves, we shall put an end to "
 "it."
 msgstr ""
+"A je to tady! Ať už v těchto jeskyních číhá jakékoli zlo, skoncujeme s ním."
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:253
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:254
 msgid "Konrad, do you hear that sound? Look to the north. I wonder if—"
 msgstr ""
+"Konráde, slyšíš ten zvuk? Podívej se na sever. Zajímalo by mě, jestli —"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:255
 msgid "Konrad, listen. Do you hear that? The trees are moving in the north!"
-msgstr ""
+msgstr "Konráde, poslouchej. Slyšíš to? Na severu se hýbou stromy!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:256
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:257
 msgid "Konrad, listen. Do you hear that? Look to the north. Woses!"
-msgstr ""
+msgstr "Konráde, poslouchej. Slyšíš to? Podívej se na sever. Stromový lid!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:258
 msgid "Whoah, did you hear that? Look north! The trees are moving!"
-msgstr ""
+msgstr "Páni, slyšel jsi to? Podívej se na sever! Stromy se hýbou!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:259
 msgid "Hark to the north, Konrad! There is movement among the trees!"
-msgstr ""
+msgstr "Slyš, Konráde, na severu! Mezi stromy se něco hýbe!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:260
 msgid "Hey, do you hear that? Look north! Th’ trees are moving!"
-msgstr ""
+msgstr "Hele, slyšíš to? Podívej se na sever! Ty stromy se hýbou!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:261
 msgid "Do you hear that? Is — yes! Yes, look! A wose!"
-msgstr ""
+msgstr "Slyšíš to? Je to... ano! Ano, podívej! Stromový muž!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:262
 msgid "Hey, Konrad, did you hear dat? I tink dem trees are moving!"
-msgstr ""
+msgstr "Hele, Konráde, slyšel jsi to? Mám dojem, že se ty stromy hýbou!"
 
 #. [companion_message]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:263
 msgid "Delfador, do you hear that? Look to the north. Woses!"
-msgstr ""
+msgstr "Delfadore, slyšíš to? Podívej se na sever. Stromový lid!"
 
 #. [message]: speaker=Haralamdum
 #. Well, I say. Is that young Master Delfador?
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:274
 msgid "Well, I say ... hmm dum har ... young Master Delfador?"
-msgstr ""
+msgstr "No, já bych řekl ... hmm, dum har ... mladý pán Delfador?"
 
 #. [message]: speaker=Haralamdum
 #. So it is! How is the ambassador? He was here just the other day.
@@ -20756,6 +20758,8 @@ msgid ""
 "Harum-alam-alam. So it is! Hmm hmm alam ... how is ... hum ... the "
 "ambassador? He was here ... hmm ... just the other day."
 msgstr ""
+"Harum-alam-alam. Tak to je! Hmm hmm alam ... jak se má ... hum ... vyslanec? "
+"Byl tady ... hmm ... zrovna nedávno."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:283
@@ -20763,6 +20767,8 @@ msgid ""
 "That was many years ago, I’m afraid. You are the woses who once resided at "
 "the Grey Grove? I see you have learned the language of men."
 msgstr ""
+"Obávám se, že už je to mnoho let. Vy jste ten stromový lid, který kdysi "
+"obýval Šedý háj? Vidím, že jste se naučili řeč lidí."
 
 #. [message]: speaker=Haralamdum
 #. Hmm, yes. A very useful language. Now these undead... very troubling.
@@ -20771,6 +20777,8 @@ msgid ""
 "Hmm ... yes ... alam ... alam dum ... very useful ... language ... yes ... "
 "hum ... now these undead ... harum ... very troubling."
 msgstr ""
+"Hmm ... ano ... alam ... alam dum ... velmi užitečný ... jazyk ... ano ... "
+"hum ... a teď ti nemrtví ... harum ... velmi obtěžující."
 
 #. [message]: speaker=Haralamdum
 #. I am sure you could help rid us of these infernal undead. Afterwards, we could perhaps help you too.
@@ -20780,16 +20788,19 @@ msgid ""
 "infernal undead ... yes, harum-alam-alam. Afterwards, we could perhaps... "
 "hmm ... help you too. Har alam dum."
 msgstr ""
+"Jsem si jistý ... dum hum ... že byste nám mohli pomoct zbavit se těch ... "
+"alam hurum ... příšerných nemrtvých ... ano, harum-alam-alam. Potom bychom "
+"vám možná mohli ... hmm ... taky pomoct. Har alam dum."
 
 #. [objective]: condition=win
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:301
 msgid "Defeat the undead leader"
-msgstr ""
+msgstr "Poraz vůdce nemrtvých"
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:306
 msgid "Death of Haralamdum"
-msgstr ""
+msgstr "Haralamdum zemře"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:327
@@ -20797,6 +20808,9 @@ msgid ""
 "Konrad, this entrance is nearly flooded, and is too narrow for both our "
 "armies to enter. My soldiers and I will search for another way in."
 msgstr ""
+"Konráde, tento vchod je téměř zaplavený a je příliš úzký na to, aby jím "
+"prošly obě naše armády. Pokusím se spolu se svými vojáky najít jinou cestu "
+"dovnitř."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:341
@@ -20805,6 +20819,10 @@ msgid ""
 "spectacular resistance to poison! Wose sap... curing — yes, if I could just "
 "extract a bucket of wose sap I’m certain I could learn their secrets."
 msgstr ""
+"Je to tak vzrušující, konečně vidět stromový lid zblízka! Slyšela jsem, že "
+"mají úžasnou odolnost proti jedu! Míza stromového muže... léčivá — ano, "
+"kdybych jen mohla získat vědro mízy stromového muže, jsem si jistá, že bych "
+"odhalila jejich tajemství."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:345
@@ -20813,6 +20831,9 @@ msgid ""
 "specimen, them being our allies and all. But, ah, we are on a battlefield. "
 "<b><i>We</i></b> don’t have to be the ones doing the cutting."
 msgstr ""
+"Tedy, ehm, no, samozřejmě by bylo problematické odebírat mízu z živého "
+"jedince, když jsou to přece naši spojenci. Ale, ach, jsme na bojišti. "
+"<b><i>My</i></b> nemusíme být ti, kdo to porážení provádějí."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:349
@@ -20820,6 +20841,8 @@ msgid ""
 "You’re asking me to help you rob the dead. Don’t you think that’s a bit "
 "ghoulish, Jeniver?"
 msgstr ""
+"Chceš, abych ti pomohl obírat mrtvé. Nepřipadá ti to trochu morbidní, "
+"Jeniver?"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:353
@@ -20828,21 +20851,24 @@ msgid ""
 "wose when it dies. If I can, I’m sure — yes I’m sure I can gather enough sap "
 "to begin curing poisons."
 msgstr ""
+"Ale jen si představ ty možnosti! Prosím tě, abys mi pomohl stát vedle "
+"stromového muže, až zemře. Pokud se to podaří, jsem si jistá – ano, jsem si "
+"jistá, že dokážu nabrat dostatek mízy, abych mohla začít léčit otravy."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:362
 msgid "It’s falling over! Oh, now’s my chance to collect some sap!"
-msgstr ""
+msgstr "Kácí se! Ach, teď mám šanci nabrat trochu mízy!"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:378
 msgid "Antivenom"
-msgstr ""
+msgstr "Protijed"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:379
 msgid "Jeniver has gained the “<i>cures</i>” ability!"
-msgstr ""
+msgstr "Jeniver získala schopnost „<i>uzdravování</i>“!"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:383
@@ -20851,6 +20877,9 @@ msgid ""
 "get back to the battle before the woses wonder what I was doing with their "
 "friend."
 msgstr ""
+"Funguje to! Funguje to! Ach, já to věděla! No, ehm, asi bych se měla rychle "
+"vrátit do bitvy, než si stromoví muži začnou klást otázky, co jsem to dělala "
+"s jejich kamarádem."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:405
@@ -20858,6 +20887,8 @@ msgid ""
 "Everyone ready? Good. Now that Konrad has distracted them from the west, "
 "we’ll push in from the east."
 msgstr ""
+"Jste všichni připraveni? Dobře. Teď, když je Konrád odlákal ze západu, "
+"vtrhneme tam z východu."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:428
@@ -20865,21 +20896,22 @@ msgid ""
 "The river is clean and fresh in this direction. There are no undead to hunt "
 "this way."
 msgstr ""
+"Tímto směrem je řeka čistá a svěží. Nedají se tudy lovit žádní nemrtví."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:454
 msgid "Look, saurians! What business do you have in these caves?"
-msgstr ""
+msgstr "Podívejme, ještěráci! Co tu v těch jeskyních děláte?"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:458
 msgid "Fssssh! Ssslay you! Ssslay you all!"
-msgstr ""
+msgstr "Fssssh! Zzzabiju tě! Zzzabiju vás všššechny!"
 
 #. [message]: speaker=Lisar {LISAR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:462
 msgid "I don’t think diplomacy will get us far with these ones."
-msgstr ""
+msgstr "Myslím, že s těmihle nám diplomacie moc nepomůže."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:477
@@ -20887,17 +20919,21 @@ msgid ""
 "The aggressive saurians are vanquished, but the undead are the greater evil "
 "here. We must not waver!"
 msgstr ""
+"Útoční ještěráci jsou přemoženi, ale větší zlo zde představují nemrtví. "
+"Nesmíme váhat!"
 
 #. [message]: speaker=unit
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:489
 msgid "Master. Is away. I guard. I will fight. Until Iliah. Malal returns."
-msgstr ""
+msgstr "Pán. Je pryč. Já hlídám. Budu bojovat. Dokud se Iliah. Malal nevrátí."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:493
 msgid ""
 "Your master Malal is gone, you undead fool! Go back to your eternal rest."
 msgstr ""
+"Tvůj pán Malal je pryč, ty nemrtvý blázne! Vrať se ke svému věčnému "
+"odpočinku."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:497
@@ -20905,6 +20941,8 @@ msgid ""
 "Iliah-Malal? That is the lich we fought in the swamp. What would one of his "
 "minions be doing here? And why is it so powerful!?"
 msgstr ""
+"Iliah-Malal? To je ten lich, se kterým jsme bojovali v bažině. Co by tady "
+"dělal jeden z jeho přisluhovačů? A proč je tak mocný!?"
 
 #. [message]: speaker=Delfador
 #. reference to Eastern Invasion's "Dark Sanctuary" scenario
@@ -20914,6 +20952,9 @@ msgid ""
 "in these hills. I do not think we have time to search for it, though. "
 "Perhaps a task for another hero, another time."
 msgstr ""
+"Mluví o hlídání – možná má Malal někde jinde v těchto kopcích skryté "
+"útočiště. Myslím si ale, že nemáme čas ho hledat. Možná to bude úkol pro "
+"jiného hrdinu, jindy."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:520
@@ -20922,6 +20963,8 @@ msgid ""
 "running water has washed away most of the ink, but one passage is still "
 "readable..."
 msgstr ""
+"Je tu jedna stará kniha s názvem <i>„Isaac Mallat — Deník.“</i> Tekoucí voda "
+"smyla většinu inkoustu, ale jeden úryvek je stále čitelný..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:525
@@ -20929,6 +20972,8 @@ msgid ""
 "—died in my arms. My own brother! He could have been saved!! This imbecile "
 "king’s quarantine will be the end of us all."
 msgstr ""
+"— zemřel mi v náručí. Můj vlastní bratr! Mohl být zachráněn!! Karanténa, "
+"kterou nařídil tenhle blbý král, bude znamenat konec pro nás všechny."
 
 #. [message]: speaker=narrator
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:527
@@ -20936,12 +20981,15 @@ msgid ""
 "I’m sure I’m not contagious. I’m sure there’s some way to cure it. If I "
 "sneak out of the village and make my way north to—"
 msgstr ""
+"Jsem si jistý, že nejsem nakažlivý. Jsem si jistý, že existuje nějaký "
+"způsob, jak se z toho vyléčit. Kdybych se vyplížil z vesnice a vydal se na "
+"sever do —"
 
 #. [message]: speaker=Haralamdum
 #. Well done. Very good.
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:547
 msgid "Har hum har ... hmm ... well ... har alam dum ... good."
-msgstr ""
+msgstr "Har hum har ... hmm ... velmi... har alam dum ... dobře."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:551
@@ -20949,6 +20997,8 @@ msgid ""
 "Those undead will bother you no more, Sir Wose. Will you join us? We march "
 "towards Weldyn, to depose the dark queen Asheviere."
 msgstr ""
+"Ti nemrtví vás už nebudou obtěžovat, stromový pane. Přidáte se k nám? "
+"Pochodujeme směrem k Weldynu, abychom sesadili temnou královnu Ašvíru."
 
 #. [message]: speaker=Haralamdum
 #. March? So hasty. No, we are not soldiers, not at all. And we are not many.
@@ -20957,17 +21007,19 @@ msgid ""
 "March? So hasty. Harum-alam-alam ... no, we are not soldiers ... harum ... "
 "not at all. And we are not ... hum ... not many."
 msgstr ""
+"Pochodovat? To je ale spěch. Harum-alam-alam ... ne, my nejsme vojáci ... "
+"harum ... vůbec ne. A není nás ... hum ... mnoho."
 
 #. [message]: speaker=Haralamdum
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:560
 msgid "Hmm ... but there was something ... something to help ..."
-msgstr ""
+msgstr "Hmm ... ale něco tam bylo ... něco, co by mohlo pomoct ..."
 
 #. [message]: speaker=Haralamdum
 #. Oh, yes. The dust.
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:566
 msgid "Har dum ... oh, yes, the dust."
-msgstr ""
+msgstr "Har dum ... ach ano, ten prach."
 
 #. [message]: speaker=Haralamdum
 #. Dust carried by a skeleton. Something magical. I put it— where did I put it...
@@ -20976,6 +21028,8 @@ msgid ""
 "Dust carried ... har alam dum ... by a skeleton. Something magical. I put "
 "it ... harum ... where did I put it..."
 msgstr ""
+"Prach, který nesla ... har alam dum ... kostra. Něco kouzelného. Dal jsem "
+"to ... harum ... kam jsem to dal..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:578
@@ -20984,6 +21038,9 @@ msgid ""
 "of spells. I used the last of my supply in the defense of Elensefar, and "
 "have sorely missed it since. Thank you for your gift, Haralamdum."
 msgstr ""
+"Už to vidím – váček s práškovým safírem! Cenná složka pro nejrůznější "
+"kouzla. Poslední zásoby jsem spotřeboval při obraně Elensefaru a od té doby "
+"mi velice chyběl. Děkuji ti za tvůj dar, Haralamdume."
 
 #. [message]: speaker=Delfador {DELFADOR_VARIATION mentoring}
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:582
@@ -20991,21 +21048,23 @@ msgid ""
 "Konrad, with this I can conjure up powerful earthen elementals. Malal must "
 "have stashed it away here. Now it is ours."
 msgstr ""
+"Konráde, s tímhle dokážu vykouzlit mocné zemní elementály. Malal tu musel "
+"mít tajnou skrýš. Teď je to naše."
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:588
 msgid "Delfador can now recruit Granite Golems!"
-msgstr ""
+msgstr "Delfador nyní může verbovat žulové golemy!"
 
 #. [message]: speaker=Haralamdum
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:608
 msgid "Harum ... huff ..."
-msgstr ""
+msgstr "Harum ... huff ..."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:614
 msgid "The woses have been defeated! The undead have won."
-msgstr ""
+msgstr "Stromový lid byl poražen! Nemrtví zvítězili."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:629
@@ -21014,6 +21073,9 @@ msgid ""
 "too long to finish our battle and it starts to rain, this entire cave system "
 "might flood."
 msgstr ""
+"Měli bychom si pospíšit, Konráde. Na obzoru se stahují bouřkové mraky. "
+"Jestli nám ta bitva potrvá příliš dlouho a začne pršet, celý tenhle jeskynní "
+"systém by mohl být zaplaven."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:640
@@ -21022,6 +21084,9 @@ msgid ""
 "survive underwater, but I can’t. Even the merfolk must surface often for "
 "air! We’ll have to break off the attack."
 msgstr ""
+"Začíná pršet a tyhle jeskyně budou brzy zaplaveny! Nemrtví pod vodou "
+"přečkají, ale já ne. I mořští lidé se musí často vynořovat, aby se nadechli! "
+"Budeme muset útok ukončit."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/scenarios/44_Underground_Channels.cfg:645
@@ -21029,6 +21094,8 @@ msgid ""
 "It’s starting to rain, and these caves are about to flood! The undead can "
 "survive underwater, but I can’t. We’ll have to break off the attack."
 msgstr ""
+"Začíná pršet a tyhle jeskyně budou brzy zaplaveny! Nemrtví pod vodou "
+"přečkají, ale já ne. Budeme muset útok ukončit."
 
 #. [scenario]
 #: data/campaigns/Heir_To_The_Throne/scenarios/47_Test_of_the_Clans.cfg:8
