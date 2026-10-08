@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-08 09:48+0200\n"
+"PO-Revision-Date: 2026-10-08 09:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -23087,7 +23087,7 @@ msgstr ""
 #. [terrain_type]: id=impassable_fence
 #: data/campaigns/Heir_To_The_Throne/terrain.cfg:7
 msgid "Impassable Fence"
-msgstr ""
+msgstr "Nepřekonatelný plot"
 
 #. [terrain_type]: id=web
 #: data/campaigns/Heir_To_The_Throne/terrain.cfg:16
@@ -23097,7 +23097,7 @@ msgstr "Pavučina"
 #. [terrain_type]: id=dummy_obstacle
 #: data/campaigns/Heir_To_The_Throne/terrain.cfg:27
 msgid "Point of Interest"
-msgstr ""
+msgstr "Zajímavost"
 
 #. [unit_type]: id=Dwarvish Bloodaxe, race=dwarf
 #: data/campaigns/Heir_To_The_Throne/units/Dwarvish_Bloodaxe.cfg:18
