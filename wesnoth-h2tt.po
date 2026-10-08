@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-08 11:25+0200\n"
+"PO-Revision-Date: 2026-10-08 11:31+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -23790,22 +23790,22 @@ msgstr "krvavý polibek"
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/utils/bigmap.cfg:22
 msgid "It is spring; the next scenario will have normal days and nights."
-msgstr ""
+msgstr "Je jaro. V dalším scénáři budou obvyklé dny i noci."
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/utils/bigmap.cfg:28
 msgid "It is summer; the next scenario will have unusually long days."
-msgstr ""
+msgstr "Je léto. V dalším scénáři budou dny neobvykle dlouhé."
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/utils/bigmap.cfg:34
 msgid "It is autumn; the next scenario will have normal days and nights."
-msgstr ""
+msgstr "Je podzim. V dalším scénáři budou obvyklé dny i noci."
 
 #. [note]
 #: data/campaigns/Heir_To_The_Throne/utils/bigmap.cfg:40
 msgid "It is winter; the next scenario will have unusually short days."
-msgstr ""
+msgstr "Je zima. V dalším scénáři budou dny neobvykle krátké."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/bigmap.cfg:67
