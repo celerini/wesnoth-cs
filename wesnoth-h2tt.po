@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-09 20:14+0200\n"
+"PO-Revision-Date: 2026-10-09 20:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -25269,11 +25269,11 @@ msgstr "Nejsem zraněný! Jen si potřebuju chvilku... vydechnout..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:850
 msgid "Well, this is a new experience..."
-msgstr ""
+msgstr "No, to je nová zkušenost..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:851
 msgid "Harper! No!"
-msgstr ""
+msgstr "Harper! Ne!"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:851
 msgid "Unngh... Sorry Baldras..."
@@ -25281,27 +25281,27 @@ msgstr "Umpf... Promiň, Baldre..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:852
 msgid "Ack! I tried my best..."
-msgstr ""
+msgstr "Ech! A já se tak snažil..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:852
 msgid "Somf! No!"
-msgstr ""
+msgstr "Somfe! Ne!"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:853
 msgid "Chantal! A dark shadow falls upon my soul..."
-msgstr ""
+msgstr "Chantal! Na mou duši padá temný stín..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:853
 msgid "—Oh!"
-msgstr ""
+msgstr "— Ach!"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:854
 msgid "Dosh don’ feel so good..."
-msgstr ""
+msgstr "Doš se necítí moc dobře..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:855
 msgid "Krawww..."
-msgstr ""
+msgstr "Krááu..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:857
 msgid "Send word of my fall to Sir Kaylan, Konrad! I fought my best..."
@@ -25312,10 +25312,12 @@ msgstr ""
 msgid ""
 "Tell Sir Kaylan of my demise, Konrad... I have served you as best I could..."
 msgstr ""
+"Pověz siru Kaylanovi o mém konci, Konráde... Sloužil jsem ti, jak nejlépe to "
+"šlo..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:859
 msgid "Oh... I suppose I deserve this..."
-msgstr ""
+msgstr "Ach... asi si to zasloužím..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:860
 msgid "Ow!"
@@ -25327,32 +25329,32 @@ msgstr "Jota ničeho nelituje..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:862
 msgid "Bury me back home in the Dulatus..."
-msgstr ""
+msgstr "Pohřběte mě doma v Dulatu..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:866
 msgid "At least I die an honorable death..."
-msgstr ""
+msgstr "Alespoň zemřu čestnou smrtí..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:868
 msgid "Gah! At least I die a death worthy of the Horse Lords of old..."
-msgstr ""
+msgstr "Gah! Alespoň zemřu smrtí hodnou dávných Pánů koní..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:869
 msgid "Argh! I may fall, but the Clans shall always endure!"
-msgstr ""
+msgstr "Argh! Já můžu padnout, ale klany budou žít navždy!"
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:870
 msgid "Ack! Bury me under the Horse Plains..."
-msgstr ""
+msgstr "Ech! Pohřběte mě v Nížině koní..."
 
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:871
 msgid "Bah! Tell the Clans I died fighting..."
-msgstr ""
+msgstr "Pah! Řekněte klanům, že jsem padl v boji..."
 
 #. [message]: speaker=Galdrad
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:879
 msgid "I have met my match..."
-msgstr ""
+msgstr "Narazil jsem na rovnocenného soupeře..."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:885
@@ -25360,16 +25362,19 @@ msgid ""
 "Tie him up and bind his wounds. The queen will want to make an example of "
 "this one."
 msgstr ""
+"Svažte ho a ošetřete mu rány. Královna z něj bude chtít udělat odstrašující "
+"příklad."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:895
 msgid "I have given all in defense of my home..."
-msgstr ""
+msgstr "Při obraně svého domova jsem obětoval vše..."
 
 #. [message]: speaker=second_unit
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:901
 msgid "Bind her arms and wings! The queen wants their leaders taken alive."
 msgstr ""
+"Svažte jí ruce a křídla! Královna chce, aby byli jejich vůdci zajati živí."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:915
@@ -25377,6 +25382,7 @@ msgid ""
 "Argh! I am nearly finished! But if I were to die here, my people would be "
 "left leaderless."
 msgstr ""
+"Argh! Už to skoro bylo! Ale kdybych tady zemřel, můj lid by zůstal bez vůdce."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:919
@@ -25384,16 +25390,19 @@ msgid ""
 "I have aided you in what ways I could, Konrad. Now I must leave your party, "
 "and retreat eastwards to Lintanir Forest. May we someday meet again there."
 msgstr ""
+"Pomohl jsem ti, jak jen mohl, Konráde. Nyní musím opustit tvou výpravu "
+"a odejít na východ do Lintanirského lesa. Snad se tam jednoho dne znovu "
+"setkáme."
 
 #. [message]: speaker=Lisar {LISAR_VARIATION defeat}
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:937
 msgid "I can’t believe it should end like this!"
-msgstr ""
+msgstr "Nemůžu uvěřit, že by to mělo skončit právě takhle!"
 
 #. [message]: speaker=Warven
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:951
 msgid "At least I die alongside my princess..."
-msgstr ""
+msgstr "Alespoň zemřu po boku své princezny..."
 
 #. [objective]: condition=lose
 #: data/campaigns/Heir_To_The_Throne/utils/unified_characters.cfg:967
