@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-09 20:08+0200\n"
+"PO-Revision-Date: 2026-10-09 20:14+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -24851,7 +24851,7 @@ msgstr ""
 #. [dummy]: id=smite
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:160
 msgid "smite"
-msgstr ""
+msgstr "ztrestání"
 
 #. [dummy]: id=smite
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:161
@@ -24859,6 +24859,8 @@ msgid ""
 "Each time this unit strikes a finishing blow, it deals 30 arcane damage to "
 "adjacent enemies."
 msgstr ""
+"Pokaždé, když tato jednotka zasadí rozhodující úder, způsobí sousedním "
+"nepřátelům 30 bodů nezemského poškození."
 
 #. [object]: id=sceptre_of_fire, type=fire, type=fire, type=fire, type=fire
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:197
@@ -24913,17 +24915,19 @@ msgstr "měsíční luk"
 #. [dummy]: id=sandals
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:330
 msgid "sandals"
-msgstr ""
+msgstr "sandály"
 
 #. [dummy]: id=sandals
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:331
 msgid "This unit has 40% defense and full movement on water, swamp, and snow."
 msgstr ""
+"Tato jednotka má 40 % obrany a plnou pohyblivost ve vodě, v bažinách a na "
+"sněhu."
 
 #. [dummy]: id=horn
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:386
 msgid "orc-horn"
-msgstr ""
+msgstr "skřetí roh"
 
 #. [dummy]: id=horn
 #. "ally" includes both the player's units and allied units. "living" excludes Delfador's elementals. When one ally dies, other allies gain the "regenerates" ability for one turn.
@@ -24931,22 +24935,24 @@ msgstr ""
 msgid ""
 "Whenever one living ally dies, all others gain regeneration for one turn."
 msgstr ""
+"Kdykoli zemře jeden živý spojenec, všichni ostatní získají na jedno kolo "
+"schopnost regenerace."
 
 #. [floating_text]
 #. this is floating text, to be shown above a unit that's temporarily gained the "regeneration" ability
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:441
 msgid "+regen"
-msgstr ""
+msgstr "+regen."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:476
 msgid "Take heart, men! Rally and avenge the fallen!"
-msgstr ""
+msgstr "Vzchopte se, muži! Shromážděte se a pomstěte padlé!"
 
 #. [object]: id=amulet
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:489
 msgid "Artificer’s Amulet"
-msgstr ""
+msgstr "Amulet řemeslníka"
 
 #. [object]: id=amulet
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:490
@@ -24955,6 +24961,9 @@ msgid ""
 "Konrad for 1 HP each turn. This value doubles (2, 4, 8, etc) for each other "
 "magic item that Konrad wields."
 msgstr ""
+"Tento podivně tvarovaný talisman čerpá energii z okolních magických předmětů "
+"a každé kolo vyléčí Konráda o 1 bod. Tato hodnota se zdvojnásobí (2, 4, "
+"8 atd.) za každý další magický předmět, který Konrád drží."
 
 #. [menu]: id=menu-main
 #: data/campaigns/Heir_To_The_Throne/utils/themes.cfg:34
