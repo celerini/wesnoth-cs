@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-08 11:31+0200\n"
+"PO-Revision-Date: 2026-10-09 20:08+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -23862,6 +23862,10 @@ msgid ""
 "fight it. We may have plenty of time to roam the Great Continent right now, "
 "but we won’t always. We should make every battle count."
 msgstr ""
+"Doufám, že odměny, které v této bitvě získáme, budou stát za dobu, kterou "
+"jsme strávili bojem. Možná máme teď spoustu času na to, abychom "
+"prozkoumávali Velký kontinent, ale nebude tomu tak vždy. Měli bychom se "
+"snažit, aby se každá bitva vyplatila."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:86
@@ -23874,13 +23878,15 @@ msgid ""
 "I am glad to see that you have been taking good care of my familiar, Konrad. "
 "Blackwing and I have been through many trials together."
 msgstr ""
+"Jsem rád, že se o mého známého tak dobře staráš, Konráde. Černák a já jsme "
+"spolu prošli mnoha zkouškami."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:106
 msgid ""
 "Thank you for entrusting me with him! He has become a valuable member of our "
 "team."
-msgstr ""
+msgstr "Děkuji, že jsi mi ho svěřil! Stal se cenným členem našeho týmu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:119
@@ -23888,17 +23894,20 @@ msgid ""
 "Seimus, I am glad that you still stand with us. I fear you would have gone "
 "down a dark path had Konrad and I not come to Alduin that day."
 msgstr ""
+"Seime, jsem rád, že stále stojíš po našem boku. Obávám se, že by ses vydal "
+"temnou cestou, kdybychom ten den s Konrádem nepřijeli na Alduin."
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:123
 msgid ""
 "Oh yes, don’t remind me. I’m trying not to think too much about all that."
 msgstr ""
+"Ach jo, radši mi to nepřipomínej. Snažím se na to všechno moc nemyslet."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:141
 msgid "Fool girl! You shall meet the same fate as did your brother!"
-msgstr ""
+msgstr "Hlupačko! Potká tě stejný osud jako tvého bratra!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:162
@@ -23907,6 +23916,9 @@ msgid ""
 "come join me, could you not have brought an elvish army along with you? I "
 "know you’re a powerful lord and greatly loved by your people."
 msgstr ""
+"Lorde Kalenzi, jsem ti vděčný za tvou pomoc. Ale když ses vydal na cestu, "
+"aby ses ke mně připojil, nemohl jsi s sebou přivést i elfí vojsko? Vím, že "
+"jsi mocný pán a že tě tvůj lid velmi miluje."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:166
@@ -23915,6 +23927,9 @@ msgid ""
 "quest! Your kin are many, and I know firsthand their great skill at sword "
 "and bow."
 msgstr ""
+"I pouhá hrstka elfích válečníků by mohla s naším úkolem významně pohnout! "
+"Tvých příbuzných je mnoho a z vlastní zkušenosti vím, jak skvěle ovládají "
+"meč i luk."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:170
@@ -23922,6 +23937,8 @@ msgid ""
 "Not so many as we once were, Konrad. And one elf alone can quietly travel "
 "through human lands far easier than can an army or war-band."
 msgstr ""
+"Není nás už tolik jako kdysi, Konráde. A jeden elf dokáže potichu putovat "
+"lidskými zeměmi mnohem snadněji než celé vojsko nebo válečný oddíl."
 
 #. [message]: speaker=Kalenz
 #. this is a hint that there's a special reward if you bringing Kalenz to Lintanir forest
@@ -23932,6 +23949,10 @@ msgid ""
 "after Asheviere’s crimes in the Aethenwood. A victory for you is a victory "
 "for all elves."
 msgstr ""
+"Kdybychom se však někdy vydali zpět na východ do mého domova v Lintaniru, "
+"moji poddaní budou jistě připraveni nabídnout zlato a zásoby. Zvláště po "
+"zločinech, kterých se dopustila Ašvíra v Aethenském lese. Tvé vítězství je "
+"vítězstvím všech elfů."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:189
@@ -23940,6 +23961,9 @@ msgid ""
 "Prince Arand, and Delfador’s regrets regarding him. I feel I would very much "
 "have liked to have met him."
 msgstr ""
+"Kalenzi, poznal jsi někdy mého otce? Delfador mi vyprávěl mnoho věcí "
+"o princi Arandovi a o tom, jak ho lituje. Mám pocit, že bych ho velmi rád "
+"poznal."
 
 #. [message]: speaker=Kalenz
 #. Kalenz knows that Arand is not Konrad's father. Konrad does not. Technically, everything Kalenz says here is true.
@@ -23949,6 +23973,8 @@ msgid ""
 "Delfador and I have spoken about your parentage, and there is nothing for me "
 "to add."
 msgstr ""
+"Tvého otce? Ne, tvého otce jsem nepoznal, ani nikoho z tvé rodiny. "
+"S Delfadorem jsme o tvém původu mluvili a já k tomu nemám co dodat."
 
 #. [message]: speaker=Kalenz
 #. Kalenz speaks about the events of LoW
@@ -23957,6 +23983,8 @@ msgid ""
 "It is sad to see what Wesnoth has fallen to, Konrad. Do not make the same "
 "mistakes as did my people."
 msgstr ""
+"Je smutné vidět, kam až se Wesnoth propadl, Konráde. Nedopusť se stejných "
+"chyb jako můj lid."
 
 #. [message]: speaker=Konrad
 #. Konrad speaks about the events of LoW
@@ -23966,6 +23994,8 @@ msgid ""
 "lived as if in a dream, untroubled by even the rumor of strife. That sounds "
 "an envious life."
 msgstr ""
+"Vím něco o historii elfů. Delfador říká, že jste kdysi žili jako ve snu, "
+"aniž vás trápily byť jen zvěsti o svárech. To zní jako záviděníhodný život."
 
 #. [message]: speaker=Kalenz
 #. Kalenz speaks about the events of LoW
@@ -23974,6 +24004,8 @@ msgid ""
 "Indeed. But then man came. And with man came the orcs, chasing after the "
 "very sceptre that your cousin now holds."
 msgstr ""
+"Vskutku. Ale pak přišel člověk. A s ním přišli i skřeti, kteří se hnali "
+"právě za tím žezlem, které nyní drží tvá sestřenka."
 
 #. [message]: speaker=Kalenz
 #. Kalenz speaks about the events of LoW
@@ -23982,6 +24014,8 @@ msgid ""
 "Indeed. But then man came. And with man came the orcs, chasing after that "
 "very sceptre you now hold."
 msgstr ""
+"Vskutku. Ale pak přišel člověk. A s ním přišli i skřeti, kteří se hnali "
+"právě za tím žezlem, které teď držíš."
 
 #. [message]: speaker=Kalenz
 #. Kalenz speaks about the events of LoW
@@ -23991,6 +24025,9 @@ msgid ""
 "across the open plain to make war, first against the orcs, then against each "
 "other. Now so few of us remain."
 msgstr ""
+"V těch dobách jsme sváděli velkolepé a strašlivé bitvy. Vojska elfů "
+"pochodovala přes otevřenou pláň, aby vedla válku – nejprve proti skřetům, "
+"poté proti sobě navzájem. Nyní nás už zbývá jen velmi málo."
 
 #. [message]: speaker=Kalenz
 #. Kalenz speaks about the events of LoW
@@ -24000,6 +24037,9 @@ msgid ""
 "you, Konrad. But some scars do not heal. I hope your civil war will end "
 "better than did mine."
 msgstr ""
+"Aethenský les je mladší. Jsem rád, že mnoho z jeho obyvatel kráčí po tvém "
+"boku, Konráde. Některé jizvy se však nezahojí. Doufám, že tvá občanská válka "
+"skončí lépe než ta moje."
 
 #. [message]: speaker=Kalenz
 #. Kalenz speaks about the events of LoW
@@ -24009,6 +24049,9 @@ msgid ""
 "Konrad. But some scars do not heal. I hope your civil war will end better "
 "than did mine."
 msgstr ""
+"Aethenský les je mladší. Jsem rád, že jsi vyrostl mezi jeho obyvateli, "
+"Konráde. Některé jizvy se však nezahojí. Doufám, že tvá občanská válka "
+"skončí lépe než ta moje."
 
 #. [message]: speaker=Delfador
 #. Delfador and Chantal first met in The Deceiver's Gambit
@@ -24017,6 +24060,8 @@ msgid ""
 "Chantal, it has been a long time since we first met in the Lintanir. I have "
 "grown old. You are as young as ever."
 msgstr ""
+"Chantal, už je to dlouho, co jsme se poprvé setkali v Lintaniru. Já zestárl. "
+"Ty jsi mladá jako vždy."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:270
@@ -24024,6 +24069,8 @@ msgid ""
 "I am young in body, at least. Do I detect a hint of jealousy in the voice of "
 "Delfador the Great? Hah — I am glad to have your company once again."
 msgstr ""
+"Alespoň tělo mám ještě mladé. Slyším snad v hlase Delfadora Velikého náznak "
+"závisti? Ha – jsem ráda, že jsem zas ve tvé společnosti."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:274
@@ -24031,6 +24078,8 @@ msgid ""
 "Jealousy? Banish the thought. It is good to travel with you as well. I am "
 "sure you will enjoy getting to know our lively band of warriors."
 msgstr ""
+"Závist? To ani náhodou. Také s tebou rád cestuji. Jsem si jistý, že tě "
+"potěší, až poznáš naši čilou skupinu válečníků."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:290
@@ -24156,6 +24205,8 @@ msgstr ""
 msgid ""
 "Hello Seimus, my old master. I’ll bet you regret expelling me now, don’t you!"
 msgstr ""
+"Zdravím, Seime, můj bývalý profesore. Vsadím se, že teď lituješ, že jsi mě "
+"vyloučil, co?"
 
 #. [message]: speaker=Seimus
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:411
@@ -24163,6 +24214,8 @@ msgid ""
 "Err, are you— who are you again? Many aspire to join the ranks of the magi, "
 "but few have the skill."
 msgstr ""
+"Ehm, ty jsi... kdo že to vlastně jsi? Mnozí touží vstoupit do řad mágů, ale "
+"málokdo má k tomu schopnosti."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:434
@@ -24232,6 +24285,8 @@ msgid ""
 "You wield your lightning with a nigh-supernatural skill, Delfador. Truly you "
 "have been blessed by the Light."
 msgstr ""
+"Delfadore, ovládáš blesky s téměř nadpřirozenou zručností. Skutečně jsi byl "
+"požehnán Světlem."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:485
@@ -24240,6 +24295,9 @@ msgid ""
 "a distance and await their destruction. Enemies of evil must stand ready to "
 "fight with steel!"
 msgstr ""
+"A co tvé šermířské umění? Naši nepřátelé se nespokojí s tím, že by jen "
+"postávali v dálce a čekali na svou zkázu. Ti, kdo bojují proti zlu, musí být "
+"připraveni bojovat s mečem!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:490
@@ -24247,6 +24305,8 @@ msgid ""
 "I need little strength of body, Moremirmu, for I wield the magical flaming "
 "sword of the Lintanir. A mighty boon, and one I am well grateful for."
 msgstr ""
+"Nepotřebuji moc tělesné síly, Moremirmu, neboť vládnu magickým plamenným "
+"mečem Lintaniru. Je to mocný dar, za který jsem velmi vděčný."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:495
@@ -24254,6 +24314,8 @@ msgid ""
 "I am an old man, Moremirmu. My magic serves me where my body has failed. I "
 "shall trust in you, Konrad, and our allies to carry the steel."
 msgstr ""
+"Jsem už starý muž, Moremirmu. Moje magie mi pomáhá tam, kde selhává tělo. "
+"Budu spoléhat na tebe, Konráde, a na naše spojence, že ponesou ocel."
 
 #. [message]: speaker=Moremirmu
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:514
@@ -24283,6 +24345,9 @@ msgid ""
 "Three Sisters? It be a powerful story, an’ one that matters for how you’re "
 "fightin’ Asheviere too! I’ve been excited to tell you!"
 msgstr ""
+"Konráde, jak to, že ses mě nikdy nezeptal, jak jsme se vlastně všichni "
+"ocitli na Třech sestrách? Je to strhující příběh, který má velký význam "
+"i pro tvůj boj s Ašvírou! Už se nemůžu dočkat, až ti to povím!"
 
 #. [message]: speaker=Konrad
 #. Harper and Konrad discuss the events of Liberty
@@ -24292,6 +24357,9 @@ msgid ""
 "your homes, destroyed Halstead, and ended up on the islands. Just like that, "
 "right?"
 msgstr ""
+"Tedy, ostatní mi to už vysvětlili! Ašvíra převzala moc, vy jste utekli ze "
+"svých domovů, zničili Halstead a skončili na ostrovech. Prostě takhle, nemám "
+"pravdu?"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:561
@@ -24299,6 +24367,8 @@ msgid ""
 "... err, but you can still tell me again. Your parts especially, Harper! I’d "
 "always be happy to listen."
 msgstr ""
+"... no, ale klidně mi to můžeš říct znovu. Zvlášť to, co se týká tebe, "
+"Harper! Vždycky si to rád poslechnu."
 
 #. [message]: speaker=Somf
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:574
@@ -24307,6 +24377,9 @@ msgid ""
 "get away from th’ queen. Why’re you fightin’ for this “Konrad” now, an’ "
 "draggin’ me into it too?"
 msgstr ""
+"Nikdy jsi nevypadala jako někdo, kdo by měl rád prince nebo krále, Harper. "
+"Docela tvrdě jsme bojovali, abychom se dostali pryč od královny. Proč teď "
+"bojuješ za toho „Konráda“ a zatahuješ do toho i mě?"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:578
@@ -24314,6 +24387,8 @@ msgid ""
 "We never fought just to get away. Baldras fought fer a better life fer all "
 "of us, an’ fer everyone!"
 msgstr ""
+"Nikdy jsme nebojovali jen proto, abychom se odtud dostali. Baldras bojoval "
+"za lepší život pro nás všechny a pro každého!"
 
 #. [message]: speaker=Harper
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:582
@@ -24321,12 +24396,14 @@ msgid ""
 "Konrad’s a good person. He wants what’s best fer everyone too. And he saved "
 "my life from a lich! That’s gotta be worth somethin’."
 msgstr ""
+"Konrád je dobrý člověk. Taky chce pro všechny to nejlepší. A zachránil mi "
+"život před lichem! To přece musí mít nějakou cenu."
 
 #. [message]: speaker=Ulfdain
 #. stay in your graves, you rotting heaps of bones
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:603
 msgid "Stay in yer graves, ye rottin’ heaps o’ bones!"
-msgstr ""
+msgstr "Zůstaňte ve svých hrobech, vy shnilé hromady kostí!"
 
 #. [message]: speaker=Ulfdain
 #. ah, insulting these dead ones is just no fun. They can't understand me...
@@ -24334,12 +24411,13 @@ msgstr ""
 msgid ""
 "Ah, insultin’ these dead’uns is jus’ no fun. They cannae understand me..."
 msgstr ""
+"Oh, urážet tyhle mrtvé prostě není žádná legrace. Nemůžou mi rozumět..."
 
 #. [message]: speaker=Ulfdain
 #. And stay down!
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:629
 msgid "An’ stay down!"
-msgstr ""
+msgstr "A zůstaň ležet!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:641
@@ -24348,6 +24426,9 @@ msgid ""
 "the dwarves preferred to keep their own company in Knalga, except for their "
 "human friends at the Doors."
 msgstr ""
+"Ulfdaine, jak ses ocitl ve Wesnothu? Delfador mi vždycky říkal, že trpaslíci "
+"dávají přednost své vlastní společnosti v Knalze s výjimkou jejich lidských "
+"přátel z Dveří."
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:645
@@ -24357,6 +24438,10 @@ msgid ""
 "the truth, there ain’t much hope left in Knalga, least not that I’ve heard "
 "about."
 msgstr ""
+"Jo, to je pravda. My trpaslíci zrovna nepatříme mezi ty nejspolečenštější "
+"tvory. Často máme hlavy tvrdší než troll a někdy jsme mnohem paličatější! "
+"Ale abych ti řekl pravdu, v Knalze už moc naděje nezbývá, alespoň jsem "
+"o žádné neslyšel."
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:649
@@ -24366,6 +24451,10 @@ msgid ""
 "friends dyin’ one by one? I fled our dyin’ home in search o’ a better life "
 "elsewhere."
 msgstr ""
+"Stydím se to přiznat, Konráde, ale utekl jsem. Ulfserk se nebojí žádného "
+"trolla ani skřeta, ale sledovat, jak se mi můj domov pomalu rozpadá na kusy? "
+"Jak mi jeden po druhém umírají přátelé? Utekl jsem z našeho skomírajícího "
+"domova a vydal se hledat lepší život jinde."
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:653
@@ -24373,6 +24462,8 @@ msgid ""
 "An ye see how that ended up. A great galumphing gallow-fool I’ve been. If ye "
 "hadn’t helped me miners and I when ye did..."
 msgstr ""
+"A vidíš, jak to dopadlo. Byl jsem pořádný neohrabaný hlupák na cestě do "
+"záhuby. Kdybyste tehdy nepomohli mně a mým horníkům..."
 
 #. [message]: speaker=Ulfdain
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:666
@@ -24381,6 +24472,9 @@ msgid ""
 "to show tha’ dew-beatin’ gobermouch excuse for a queen exactly what I think "
 "o’ her!"
 msgstr ""
+"Tenhle boj je sice fajn, ale kdy už se konečně dostaneme k Weldynu? Nemůžu "
+"se dočkat, až tý vometácký všetečce převlečený za královnu ukážu, co si o ní "
+"opravdu myslím!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:671
@@ -24389,6 +24483,9 @@ msgid ""
 "have come a long way together since you first joined us, Ulfdain — now even "
 "the princess is on our side!"
 msgstr ""
+"Mám tušení, že se ve Weldynu ocitneme spíš dříve než později. Od doby, kdy "
+"ses k nám přidal, Ulfdaine, jsme spolu ušli dlouhou cestu – teď je na naší "
+"straně dokonce i princezna!"
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:676
@@ -24397,6 +24494,8 @@ msgid ""
 "anytime soon! For now we should focus on surviving and building up our "
 "strength."
 msgstr ""
+"Vážím si toho nadšení, ale v dohledné době nejsme s to postavit se Ašvíře! "
+"Prozatím bychom se měli soustředit na přežití a nabírání sil."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:693
@@ -24405,6 +24504,8 @@ msgid ""
 "looked kindly upon by Alduin. There are some who think it hogwash and "
 "superstition."
 msgstr ""
+"Jsi alchymistka, Jeniver? To je odvážná volba, protože na Alduinu se tvé "
+"řemeslo netěší oblibě. Někteří ho považují za nesmyslné a plné pověr."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:697
@@ -24413,6 +24514,9 @@ msgid ""
 "ignorance! Alchemy is just— it’s the future! There’s so much for us to "
 "learn, it’s—"
 msgstr ""
+"Pověr?! Ne, ne, ne! To je jen běžný omyl, který pramení z... z... hloupé "
+"nevědomosti! Alchymie je prostě... je to budoucnost! Je toho tolik, co se "
+"musíme naučit, je to..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:701
@@ -24420,6 +24524,8 @@ msgid ""
 "No offense meant, my lady. Perhaps we can discuss your studies in more depth "
 "at another time."
 msgstr ""
+"Nic ve zlém, má paní. Možná bychom se o tvém studiu mohli pobavit jindy víc "
+"do hloubky."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:731
@@ -24428,11 +24534,14 @@ msgid ""
 "venom — I suppose it’s not really poison — for my blowdarts. Can you kill "
 "one for me?"
 msgstr ""
+"Jejda! To je zase nějaký obří pavouk? Hodil by se mi ještě nějaký pavoučí "
+"jed, ehm, jed – asi to vlastně není jed – do mých foukacích šipek. Mohl bys "
+"pro mě jednoho zabít?"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:739
 msgid "Wonderful, the spider is dead! Just, ah, just give me a moment here..."
-msgstr ""
+msgstr "Skvělé, ten pavouk je mrtvý! Jen, ehm, dej mi chvilku..."
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:821
@@ -24443,6 +24552,7 @@ msgstr "lepší foukačka"
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:822
 msgid "Jeniver’s “<i>blowgun</i>” attack can now be used twice each turn!"
 msgstr ""
+"Jeniveřin útok „<i>foukačkou</i>“ lze nyní v každém kole použít dvakrát!"
 
 #. [object]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:842
@@ -24453,6 +24563,8 @@ msgstr "lepší bleskový prášek"
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:843
 msgid "Jeniver’s “<i>flashpowder</i>” attack can now be used twice each turn!"
 msgstr ""
+"Jeniveřin útok „<i>bleskovým práškem</i>“ lze nyní v každém kole použít "
+"dvakrát!"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:860
@@ -24460,11 +24572,13 @@ msgid ""
 "Konrad, I had no idea you had a troll with you! What was his name? Dosh? "
 "Dosh, CAN. YOU. UNDERSTAND. ME?"
 msgstr ""
+"Konráde, netušila jsem, že máš s sebou trolla! Jak bylo to jeho jméno? Doš? "
+"Doši, CHÁPEŠ. CO. ŘÍKÁM?"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:864
 msgid "Dere sometin’ wrong wit’ your head, girl? You talkin’ real funny."
-msgstr ""
+msgstr "To se ti něco stalo s hlavou, holka? Mluvíš fakt divně."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:868
@@ -24473,6 +24587,9 @@ msgid ""
 "It’ll grow back, I’m sure. I have this, err, theory I want to try with "
 "regeneration, you see..."
 msgstr ""
+"Ach! Ach, no tak tedy, Doši, mohla bych tě poprosit o pár kousků tvého masa? "
+"Určitě ti to doroste, o tom nepochybuju. Mám totiž takovou, ehm, teorii, "
+"kterou bych chtěla vyzkoušet v souvislosti s regenerací, víš..."
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:872
@@ -24480,6 +24597,7 @@ msgid ""
 "You want some pieces of Dosh? Dere definitely sometin’ wrong wit’ your head. "
 "But okay. Here you go."
 msgstr ""
+"Chceš pár kousků z Doše? To máš fakt něco s hlavou. Ale fajn. Tady máš."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:896
@@ -24488,6 +24606,9 @@ msgid ""
 "regeneration... in fact, I have something of a theory about the curative "
 "properties of troll-flesh..."
 msgstr ""
+"Jejda, troll! Ehm, Konráde, víš, říká se, že trollové mají úžasnou schopnost "
+"regenerace... vlastně mám takovou teorii o léčivých vlastnostech trollího "
+"masa..."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:907
@@ -24495,6 +24616,8 @@ msgid ""
 "The troll’s dead? Oh, wonderful— yes, yes there’s something I’ve been "
 "meaning to try with regeneration..."
 msgstr ""
+"Je ten troll mrtvý? Ach, to je skvělé – ano, ano, je tu něco, co jsem už "
+"dlouho chtěla vyzkoušet s regenerací..."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:922
@@ -24502,11 +24625,14 @@ msgid ""
 "Mix with one vial of frostbone... infusion of boar... heat over an open "
 "flame..."
 msgstr ""
+"Smíchej s jednou lahvičkou zmrzlé kosti... výluhem z divočáka... zahřej nad "
+"otevřeným ohněm..."
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:935
 msgid "Oh! Oh Light, that’s foul! That stings! It blew up in my face!"
 msgstr ""
+"Á! U Světla, to je svinstvo! To pálí! Vybuchlo mi to přímo do obličeje!"
 
 #. [message]: speaker=Jeniver
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:939
@@ -24515,6 +24641,10 @@ msgid ""
 "curation of venoms; the curing of poison and bolstering of the body and so-"
 "on. But trollish regeneration seems, err, well— incompatible with my methods."
 msgstr ""
+"Snažila jsem se – no, <b><i>snažila</i></b> jsem se odhalit tajemství "
+"rychlého odbourání jedů, léčení otrav a posílení organismu a tak dále. Ale "
+"regenerační schopnosti trollů se zdají být, ehm, no – neslučitelné s mými "
+"metodami."
 
 #. [message]: speaker=Jeniver
 #. this is a hint that Jeniver will get a bonus if you bring her to Underground Channels (with Woses)
@@ -24523,6 +24653,8 @@ msgid ""
 "Although, if you could someday find some other species of regenerating "
 "creature for me to take a sample of..."
 msgstr ""
+"I když, kdybys mi někdy mohl najít nějaký jiný druh tvora, který se "
+"regeneruje, abych z něj mohla odebrat vzorek..."
 
 #. [message]: speaker=Ulfdain
 #. "from below" implying that dwarves believe that they end up in some underworld after death
@@ -24532,6 +24664,9 @@ msgid ""
 "bog-handed, mumblecrest o’ a troll, Konrad. I kin feel my ancestors laughin’ "
 "at me from below!"
 msgstr ""
+"Chm, nemůžu uvěřit, že ode mě čekáš, abych bojoval bok po boku s nějakým "
+"pitomým, nešikovným a mumlajícím trollem, Konráde. Mám pocit, že se mi "
+"z podsvětí smějí moji předkové!"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:978
@@ -24539,6 +24674,8 @@ msgid ""
 "Hey, who you calling... uhh... thing. Not like Dosh been killin’ hundred "
 "dwarves or nothin’ like that."
 msgstr ""
+"Hele, komu to říkáš... uhh... Není to tak, že by Doš zabil sto trpaslíků "
+"nebo něco podobného."
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:982
@@ -24546,6 +24683,8 @@ msgid ""
 "Dosh only ever kill two, small ones, an’ dey not even fight back. Dwarves "
 "not hard to kill. You probably not hard either."
 msgstr ""
+"Doš zabil vždycky jen dva, ty malé, a ti se ani nebránili. Trpaslíky není "
+"těžké zabít. Ty asi taky nebudeš těžký oříšek."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:986
@@ -24553,6 +24692,8 @@ msgid ""
 "Enough, both of you! Behave, or you’ll find yourselves needing to fight me, "
 "too."
 msgstr ""
+"To už stačí, vy dva! Chovejte se slušně, jinak se brzy ocitnete v situaci, "
+"kdy budete muset bojovat i se mnou."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:999
@@ -24561,6 +24702,8 @@ msgid ""
 "have fought against your kind instead. I hope there will be no tension "
 "between us."
 msgstr ""
+"Nejsem zvyklý bojovat po boku trollů, Doši. V minulosti jsem naopak bojoval "
+"proti tvému druhu. Doufám, že mezi námi nevznikne žádné napětí."
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1003
@@ -24569,11 +24712,15 @@ msgid ""
 "telling stories about all da big battles you fought back when. Now soon dey "
 "telling stories about Dosh too!"
 msgstr ""
+"Ne, Doš se těší, až bude bojovat spolu s Delfadorem. Skřeti a trollové "
+"vyprávějí příběhy o všech těch velkých bitvách, které jsi kdysi svedl. Brzy "
+"budou vyprávět i příběhy o Došovi!"
 
 #. [message]: speaker=Dosh
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1018
 msgid "You bad troll, bad! Bad trolls be getting hit with big sticks!"
 msgstr ""
+"Jsi zlobivý troll, zlobivý! Zlobiví trollové dostávají rány velkými klacky!"
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1035
@@ -24581,6 +24728,8 @@ msgid ""
 "I never thought I’d be fighting alongside the very wizard who killed my "
 "brother. I never had a chance to meet him. Thanks to you."
 msgstr ""
+"Nikdy by mě nenapadlo, že budu bojovat po boku právě toho čaroděje, který "
+"zabil mého bratra. Nikdy jsem neměla příležitost se s ním setkat. Díky tobě."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1039
@@ -24588,6 +24737,8 @@ msgid ""
 "You never had a chance to meet your father, either. I think Garard would be "
 "proud of you. You have his skill with the sword."
 msgstr ""
+"Ani svého otce jsi nikdy neměla možnost poznat. Myslím, že Garard by na tebe "
+"byl pyšný. Máš po něm talent na šerm."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1043
@@ -24596,50 +24747,53 @@ msgid ""
 "with flattery and lies, but it was his hand and his hand alone that slew the "
 "old king. Your brother sealed his own fate that day, Li’sar."
 msgstr ""
+"Ale co se týče tvého bratra... Nepochybuji o tom, že Ašvíra Eldredovi "
+"lichotila a lhala, ale byla to jeho ruka a pouze jeho ruka, která zabila "
+"starého krále. Tvůj bratr ten den zpečetil svůj vlastní osud, Lisar."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1047
 msgid ""
 "Save your breath. You’re not making this any easier. Let’s just do what "
 "needs to be done."
-msgstr ""
+msgstr "Šetři dechem. Tím to nijak neulehčuješ. Prostě udělejme, co je třeba."
 
 #. [message]: speaker=Lisar
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1062
 msgid "A powerful magic awakens in my hands. Behold the Sceptre of Fire!"
-msgstr ""
+msgstr "V mých rukou se probouzí mocná magie. Hle, Ohnivé žezlo!"
 
 #. [message]: id=$defector1.id
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1177
 msgid "Is that... the Sceptre of Fire?! Ye gods, it’s real!"
-msgstr ""
+msgstr "Je tohle... Ohnivé žezlo?! Proboha, ono je skutečné!"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1184
 msgid "The legends are true! The true queen has come!"
-msgstr ""
+msgstr "Legendy nelhaly! Přišla opravdová královna!"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1185
 msgid "Spare me, madam, and I will pledge myself into your service!"
-msgstr ""
+msgstr "Ušetřete mě, madam, a já se zavazuji, že vám budu sloužit!"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1187
 msgid "The legends are true! The true king has come!"
-msgstr ""
+msgstr "Legendy nelhaly! Přišel opravdový král!"
 
 #. [then]
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1188
 msgid "Spare me, sir, and I will pledge myself into your service!"
-msgstr ""
+msgstr "Ušetřete mě, pane, a já se zavazuji, že vám budu sloužit!"
 
 #. [message]: id=$defector2.id
 #. [message]: id=$defector1.id
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1206
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:1211
 msgid "And I!"
-msgstr ""
+msgstr "A já také!"
 
 #. [dummy]: id=exacting
 #: data/campaigns/Heir_To_The_Throne/utils/specials_and_abilities.cfg:9
