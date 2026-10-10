@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-10 13:50+0200\n"
+"PO-Revision-Date: 2026-10-10 13:55+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -736,7 +736,7 @@ msgstr "Ostrov Alduin"
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:41
 msgid "Summoned Monsters"
-msgstr ""
+msgstr "Přivolané příšery"
 
 #. [message]
 #. an informational plaque on a statue of a female arch-mage
