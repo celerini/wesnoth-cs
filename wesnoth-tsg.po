@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-08-08 20:03+0200\n"
+"PO-Revision-Date: 2026-10-10 16:35+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2405,6 +2405,9 @@ msgid ""
 "reduces performance, you can disable it by opening the Preferences menu "
 "(Ctrl-P), by selecting “Display” and unchecking “Animate Map.”</i>"
 msgstr ""
+"<i>Déšť ani sníh nemají na hru žádný vliv. Pokud tě počasí ruší nebo snižuje "
+"výkon, můžeš jej vypnout v nabídce Nastavení (Ctrl-P) výběrem možnosti "
+"„Obrazovka“ a odškrtnutím políčka „Animovat mapu“.</i>"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:447
@@ -2443,6 +2446,9 @@ msgid ""
 "imprisoned me here these long and terrible moons! ...but if you truly are of "
 "the South Guard, then you are not to blame."
 msgstr ""
+"Co se stalo? Vy blátošlapové jste zabili mé přátele, unesli našeho mudrce a "
+"uvěznili mě tady po celé ty dlouhé a strašné měsíce!\n"
+"… ale pokud opravdu patříte k Jižní hlídce, pak za to nemůžete."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:491
@@ -2452,6 +2458,11 @@ msgid ""
 "scholars, no match for your clubs and axes! My mentor, our great sage "
 "Mebrin, was taken away in chains; a foul insult for such a wise old elf."
 msgstr ""
+"Přišli v noci, je to víc než jedna sezóna. Neviděla jsem všechno, co se "
+"odehrálo, ale slyšela jsem výkřiky… Většina z nás byli řemeslníci a učenci, "
+"proti vašim palicím a sekerám jsme neměli šanci! Mého učitele, našeho "
+"velkého mudrce Mebrina, odvedli v řetězech. Pro tak moudrého starého elfa to "
+"byla hrozná potupa."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:495
@@ -2461,6 +2472,10 @@ msgid ""
 "bodies began to be defiled by wicked undeath, raised anew by the outlaw "
 "brothers to do their dark bidding..."
 msgstr ""
+"I já jsem zůstala naživu, snad díky svému vysokému postavení, ale ostatní "
+"přeživší byli jeden po druhém chladnokrevně popraveni. Nedlouho poté začala "
+"jejich těla znesvěcovat zlovolná nemrtvost a bratři psanci je znovu "
+"oživovali, aby plnili jejich temné rozkazy..."
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:570
@@ -2469,6 +2484,8 @@ msgid ""
 "the master’s magic whispers promises of life eternal, whispers beautiful "
 "secrets..."
 msgstr ""
+"Ach, to krásné mravenčení v konečcích prstů! Opojné, povznášející… mistrova "
+"magie šeptá sliby věčného života, šeptá nádherná tajemství…"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:576
@@ -2478,6 +2495,10 @@ msgid ""
 "nary a living soul since the last of my living followers joined the hordes "
 "of eternal unlife."
 msgstr ""
+"Ale co to? Dorazil jsem právě včas, protože máme hosty, lidské hosty! "
+"Vítejte, vítejte. Mám velkou radost, že mám návštěvu, protože od té doby, co "
+"se i můj poslední živý stoupenec připojil k hordám věčného neživota, jsem "
+"neviděl ani živou duši."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:583
@@ -2485,6 +2506,8 @@ msgid ""
 "Vermin! Scum! You black-souled degenerate! Where is your younger brother? "
 "What have you done with my sage Mebrin?"
 msgstr ""
+"Škůdče! Špíno! Ty zvrhlíku s černou duší! Kde je tvůj mladší bratr? Co jsi "
+"udělal s mým mudrcem Mebrinem?"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:587
@@ -2493,6 +2516,9 @@ msgid ""
 "many good memories... if only the master hadn’t instructed me to leave you "
 "intact, we could have had even more!"
 msgstr ""
+"Ethiliel, jsem v šoku! Copak ses netěšila z našich krásných společných "
+"chvil? Tolik krásných vzpomínek… Kdyby mi jen pán nenařídil, abych tě nechal "
+"naživu, mohli jsme jich mít ještě víc!"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:591
@@ -2500,6 +2526,8 @@ msgid ""
 "But that command was so many moons ago... now that the little bird has "
 "slipped her cage, perhaps the rules can be different, hmm?"
 msgstr ""
+"Ale ten příkaz už dávno odezněl... teď, když ten malý ptáček vyklouzl z "
+"klece, možná by mohla být jiná pravidla, co?"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:595
@@ -2507,6 +2535,9 @@ msgid ""
 "You always were the cruelest of my captors, Urza Nalmath. May your creator "
 "have mercy on you now that I am free, for I will not!"
 msgstr ""
+"Vždy jsi byl tím nejkrutějším z mých věznitelů, Urzo Nalmathe. Kéž se nad "
+"tebou tvůj stvořitel smiluje, teď, když jsem na svobodě, neboť já to "
+"rozhodně neudělám!"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:599
@@ -2516,6 +2547,9 @@ msgid ""
 "village. You and I and all your new human friends are going to have such "
 "<b><i>fun</i></b> together..."
 msgstr ""
+"Ethiliel, ty ubohá, zaslepená dívko. Zrovna ty bys měla vědět <b><i>, kolik</"
+"i></b> nemrtvých jsem oživil z trosek tvé malé vesnice. Ty, já a všichni tví "
+"noví lidští přátelé si spolu užijeme spoustu <b><i>legrace</i></b>..."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:606
@@ -2524,6 +2558,9 @@ msgid ""
 "my captors, Urza Nalmath. May your creator have mercy on you once I get "
 "free, for I will not!"
 msgstr ""
+"Škůdče! Špíno! Ty zvrhlíku s černou duší! Vždy jsi byl tím nejkrutějším z "
+"mých věznitelů, Urzo Nalmathe. Kéž se nad tebou tvůj stvořitel smiluje, až "
+"se osvobodím, neboť já to rozhodně neudělám!"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:610
@@ -2532,6 +2569,9 @@ msgid ""
 "So many good memories... if only the master hadn’t instructed me to leave "
 "you intact, we could have had even more!"
 msgstr ""
+"Ethiliel, jsem v šoku! Copak ses netěšila z našich krásných společných "
+"chvil? Tolik krásných vzpomínek… Kdyby mi jen pán nenařídil, abych tě nechal "
+"naživu, mohli jsme jich mít ještě víc!"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:614
@@ -2541,6 +2581,10 @@ msgid ""
 "from the ruins of your little village. You and I and all your new human "
 "friends are going to have such <b><i>fun</i></b> together..."
 msgstr ""
+"Ale rozhodně nemůžu dovolit, aby tě tihle lidští návštěvníci osvobodili. "
+"Zrovna ty bys měla vědět <b><i>, kolik</i></b> nemrtvých jsem oživil "
+"z trosek tvé malé vesnice. Ty, já a všichni tví noví lidští přátelé si spolu "
+"užijeme spoustu <b><i>legrace</i></b>…"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:637
@@ -2549,6 +2593,9 @@ msgid ""
 "so close to my camp, not supposed to be here at all... No, this simply won’t "
 "do. I’ll have to raise a few more of my beauties to slow you down."
 msgstr ""
+"Moment, vy lidé jste věděli, že přicházím? Neměli byste být tak blízko mého "
+"tábora, vlastně byste tu neměli být vůbec... Ne, takhle to prostě nejde. "
+"Budu muset vyvolat ještě pár svých krasavic, aby vás zdržely."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:720
@@ -2556,16 +2603,19 @@ msgid ""
 "It’s an ambush! I’d hoped to never again see undead in these terrible "
 "numbers..."
 msgstr ""
+"Je to léčka! Doufala jsem, že už nikdy neuvidím nemrtvé v takovém hrozném "
+"počtu..."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:721
 msgid "’tis an ambush! I’ve never e’en heard o’ so many elven undead!"
-msgstr ""
+msgstr "Je to léčka! O tolika elfích nemrtvých jsem ještě nikdy neslyšel!"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:722
 msgid "We are ambushed! Never-before have I seen so many elven undead."
 msgstr ""
+"Dostali jsme se do léčky! Ještě nikdy jsem neviděl tolik elfích nemrtvých."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:726
@@ -2574,12 +2624,15 @@ msgid ""
 "this bandit’s magic runs low! Prepare for battle, soldiers of the South "
 "Guard, and brace for incoming attack!"
 msgstr ""
+"I ty největší hordy mají své meze – musíme tyto ruiny bránit, dokud tomuto "
+"banditovi nedojde magie! Připravte se na bitvu, vojáci Jižní stráže, a "
+"připravte se na blížící se útok!"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:729
 #: data/campaigns/The_South_Guard/utils/sg_help.cfg:92
 msgid "Turn Limits"
-msgstr ""
+msgstr "Limit kol"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:731
@@ -2599,6 +2652,23 @@ msgid ""
 "<i><b>In this scenario, your objective is \n"
 "to survive until turns run out.</b></i>"
 msgstr ""
+"Většina scénářů má omezený počet tahů,\n"
+"jak je vidět v levém horním rohu.\n"
+"Vyčerpání všech tahů\n"
+"obvykle vede k porážce.\n"
+"Své <i><b>cíle</b></i> si zkontroluj\n"
+"kliknutím na tlačítko <i><b>„Menu“</b></i>\n"
+"v levém horním rohu\n"
+"(nebo pomocí klávesové zkratky <i><b>Ctrl+J</b></i>).\n"
+"\n"
+"Pokud scénář dokončíš předčasně,\n"
+"obvykle získáš v následujícím\n"
+"scénáři bonus ke zlatu\n"
+"(„bonus za rychlé dokončení“),\n"
+"takže neotálej!\n"
+"\n"
+"<i><b>V tomto scénáři je tvým úkolem\n"
+"přežít do konce limitu kol.</b></i>"
 
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:752
@@ -2610,12 +2680,12 @@ msgstr "Zůstaň naživu do konce kol"
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:779
 msgid "I’m not used to fighting in fog like this! What a mess..."
-msgstr ""
+msgstr "Nejsem zvyklý bojovat v takové mlze! To je ale zmatek..."
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:782
 msgid "Fog and Vision"
-msgstr ""
+msgstr "Mlha a viditelnost"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:784
@@ -2629,11 +2699,21 @@ msgid ""
 "from using “undo”, so be careful \n"
 "where you move!"
 msgstr ""
+"V mlze <b><i>vidí jednotky\n"
+"jen o 1 políčko dále,\n"
+"než kam dosáhne jejich pohyb</i></b>.\n"
+"Rychlé jednotky, jako Deoran,\n"
+"jsou skvělými průzkumníky.\n"
+"\n"
+"Průzkum v mlze znemožní\n"
+"použití funkce „zpět“,\n"
+"proto si dobře rozmysli,\n"
+"kam se vydáš!"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:802
 msgid "Bluffs and Gulches"
-msgstr ""
+msgstr "Srázy a rokle"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:804
@@ -2647,11 +2727,19 @@ msgid ""
 "do look pretty! <i>(or at\n"
 "least we devs think so)</i>"
 msgstr ""
+"Říkáš si, jaký vliv\n"
+"na hratelnost\n"
+"mají tyto útesy?\n"
+"\n"
+"Ve skutečnosti... žádnou.\n"
+"Ale vypadají pěkně!\n"
+"<i>(Nebo si to alespoň\n"
+"my vývojáři myslíme.)</i>"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:823
 msgid "Useful Options"
-msgstr ""
+msgstr "Užitečné možnosti"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:825
@@ -2779,7 +2867,7 @@ msgstr ""
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:982
 msgid "Poison"
-msgstr ""
+msgstr "Otrava"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:984
@@ -2794,6 +2882,16 @@ msgid ""
 "a healer (such as Ethiliel) will\n"
 "<i><b>cure poison.</b></i>"
 msgstr ""
+"Požírači způsobují <i><b>otravu</b></i> pokaždé,\n"
+"když zraní některou z tvých jednotek.\n"
+"Otrávená jednotka ztratí na začátku\n"
+"každého kola <i><b>8 životů</b></i>.\n"
+"Otrava nemůže jednotku zabít,\n"
+"ale může ji oslabit až na 1 život!\n"
+"\n"
+"<i><b>Uzdravit z otravy se lze</b></i>\n"
+"<i><b>léčením</b></i> ve vesnici nebo\n"
+"pomocí léčitele (například Ethiliel)."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1010
@@ -2801,6 +2899,8 @@ msgid ""
 "So many of my soldiers are poisoned! I should position them on a village or "
 "next to Ethiliel, so they can begin to recover."
 msgstr ""
+"Tolik mých vojáků je otrávených! Měl bych je rozmístit ve vesnicích nebo "
+"vedle Ethiliel, aby se mohli začít uzdravovat."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1021
