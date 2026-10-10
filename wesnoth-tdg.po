@@ -1,19 +1,19 @@
 # Michal Žejdl <lachim@emer.cz>, 2025, 2026
+# Karel Žid <zidkarel@gmail.com>, 2026
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-07-20 11:06+0200\n"
-"Last-Translator: Karel Žid <zidkarel@gmail.com>\n"
+"PO-Revision-Date: 2026-10-10 13:35+0200\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.9\n"
 
 #. [editor_group]: id=the_deceivers_gambit
 #. [campaign]: id=The Deceivers Gambit 1
@@ -30,7 +30,7 @@ msgstr "Podvodníkův gambit"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:64
 msgid "1x enemies, 70% XP"
-msgstr "1x nepřátelé, 70 % zkušeností"
+msgstr "1x nepřátelé, 70 % zkušeností"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:64
 msgid "Easy"
@@ -38,7 +38,7 @@ msgstr "Lehká"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:65
 msgid "2x enemies, 90% XP"
-msgstr "2x nepřátelé, 90 % zkušeností"
+msgstr "2x nepřátelé, 90 % zkušeností"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:65
 msgid "Normal"
@@ -46,7 +46,7 @@ msgstr "Normální"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:66
 msgid "3x enemies, 100% XP"
-msgstr "3x nepřátelé, 100 % zkušeností"
+msgstr "3x nepřátelé, 100 % zkušeností"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:66
 msgid "Hard"
@@ -54,7 +54,7 @@ msgstr "Těžká"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:67
 msgid "4x enemies, 100% XP"
-msgstr "4x nepřátelé, 100 % zkušeností"
+msgstr "4x nepřátelé, 100 % zkušeností"
 
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:67
 msgid "Deadly"
@@ -68,7 +68,7 @@ msgstr "Návrh tažení"
 #. [about]
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:80
 msgid "Setting and Story"
-msgstr "Prostředí a příběh"
+msgstr "Prostředí a příběh"
 
 #. [about]
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:86
@@ -103,7 +103,7 @@ msgstr ""
 #. [campaign]: id=The Deceivers Gambit 1
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:153
 msgid "(Intermediate level, 7 scenarios.)"
-msgstr "(Úroveň pokročilý hráč, 7 scénářů.)"
+msgstr "(Úroveň pokročilý hráč, 7 scénářů.)"
 
 #. [campaign]: id=The Deceivers Gambit 1
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:155
@@ -135,7 +135,7 @@ msgstr ""
 #. [campaign]: id=The Deceivers Gambit 2
 #: data/campaigns/The_Deceivers_Gambit/_main.cfg:179
 msgid "(Intermediate level, 8 scenarios.)"
-msgstr "(Úroveň pokročilý hráč, 8 scénářů.)"
+msgstr "(Úroveň pokročilý hráč, 8 scénářů.)"
 
 #. [campaign]: id=The Deceivers Gambit 2
 #. this campaign is not a direct continuation of the story and characters, but is next chronologically and is the recommended next campaign
@@ -144,13 +144,13 @@ msgid ""
 "The saga continues in\n"
 "<i>Liberty</i>"
 msgstr ""
-"Příběh pokračuje v tažení\n"
+"Příběh pokračuje v tažení\n"
 "<i>Svoboda</i>"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
 msgid "Blast the fire elementals in <i>Graduation</i>."
-msgstr "V <i>Maturitě</i> znič elementály ohně."
+msgstr "V <i>Maturitě</i> znič elementály ohně."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:21
@@ -170,7 +170,7 @@ msgstr "Scénář 1: Gobliní"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:23
 msgid "Complete the hidden victory condition in <i>Fort Garard</i>."
-msgstr "V <i>Pevnosti Garard</i> splň skrytou podmínku vítězství."
+msgstr "V <i>Pevnosti Garard</i> splň skrytou podmínku vítězství."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:23
@@ -190,7 +190,7 @@ msgstr "Scénář 3: Mellon"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:25
 msgid "Drown the silverback in <i>The Sylvan Seer</i>."
-msgstr "V <i>Sylvánské vidoucí</i> utop stříbrohřbetého."
+msgstr "V <i>Sylvánské vidoucí</i> utop stříbrohřbetého."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:25
@@ -200,7 +200,7 @@ msgstr "Scénář 4: Glo glo glo glo"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:26
 msgid "Defeat both enemy leaders in <i>The Deceiver</i> before Garard does."
-msgstr "Poraz oba nepřátelské vůdce v <i>Podvodníkovi</i> dřív než Garard."
+msgstr "Poraz oba nepřátelské vůdce v <i>Podvodníkovi</i> dřív než Garard."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:26
@@ -237,7 +237,7 @@ msgstr ""
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:29
 msgid "Scenario 8: Monster in the Mist"
-msgstr "Scénář 8: Jožin z bažin"
+msgstr "Scénář 8: Jožin z bažin"
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:30
@@ -252,7 +252,7 @@ msgstr "Scénář 9: Sapér"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:33
 msgid "Command four ghosts at once in <i>Houses of the Dead</i>."
-msgstr "V <i>Domech mrtvých</i> vel čtyřem duchům naráz."
+msgstr "V <i>Domech mrtvých</i> vel čtyřem duchům naráz."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:33
@@ -282,7 +282,7 @@ msgstr "Scénář 12: Spálená země"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:37
 msgid "Defeat all enemy leaders in <i>Revelry, Revisited</i>."
-msgstr "V <i>Oslavě, znovu</i> poraz všechny nepřátelské vůdce."
+msgstr "V <i>Oslavě, znovu</i> poraz všechny nepřátelské vůdce."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:37
@@ -299,19 +299,19 @@ msgstr "Dokonči první fázi <i>Ať žije královna</i>, aniž pohneš s Delfa
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:38
 msgid "Scenario 14: Armchair General"
-msgstr "Scénář 14: Generál v záloze"
+msgstr "Scénář 14: Generál v záloze"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:7
 msgid "Attack:"
-msgstr ""
+msgstr "Útok:"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:8
 msgid "Spell:"
-msgstr ""
+msgstr "Kouzlo:"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:9
 msgid "Passive:"
-msgstr ""
+msgstr "Pasivní:"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:20
 msgid "Magic Missile"
@@ -324,7 +324,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:29
 msgid "Shield"
-msgstr ""
+msgstr "Štít"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:31
 msgid ""
@@ -333,12 +333,12 @@ msgid ""
 "          of your next turn or until cancelled."
 msgstr ""
 "Za <span color='#00bbe6' style='italic'>8 zk. bodů</span> získáš dalších "
-"<i>20 % obrany v terénu</i> (možnost vyhnout se)\n"
+"<i>20 % obrany v terénu</i> (možnost vyhnout se)\n"
 "          až do začátku svého dalšího kola nebo do zrušení."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:39
 msgid "Panacea"
-msgstr ""
+msgstr "Všelék"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:41
 msgid ""
@@ -347,10 +347,14 @@ msgid ""
 "          attacks, strikes, and damage by its level. <span color='#dd0000' "
 "weight='bold'>Next turn, it dies.</span>"
 msgstr ""
+"Za <span color='#00bbe6' style='italic'>8 zk. bodů</span> zcela vyléčíš "
+"sousedního lidského spojence s nejnižším počtem životů a zvýšíš jeho\n"
+" útoky, údery a poškození o jeho úroveň. <span color='#dd0000' "
+"weight='bold'>V příštím kole zemře.</span>"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:49
 msgid "Animate Mud"
-msgstr ""
+msgstr "Živé bláto"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:51
 msgid ""
@@ -359,16 +363,21 @@ msgid ""
 "               while adjacent to you, but dissolve at the end of each "
 "scenario."
 msgstr ""
+"Nauč se verbovat <i><ref dst='unit_Mudcrawler'>blátožrouty</ref></i>. "
+"Blátožrouti získávají +100 % k poškození a zkušenostním bodům,\n"
+"pokud jsou vedle tebe, ale na konci každého scénáře se rozplynou."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:63
 msgid "Chill Touch"
-msgstr ""
+msgstr "Mrazivý dotek"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:65
 msgid ""
 "Melee 6x3 cold, <i><ref dst='weaponspecial_slow'>slows</ref></i>. Replaces "
 "your default melee attack."
 msgstr ""
+"Chlad 6x3 zblízka, <i><ref dst='weaponspecial_slow'>zpomaluje</ref></i>. "
+"Nahrazuje tvůj výchozí útok zblízka."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:72
 msgid "Levitate"
@@ -386,7 +395,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:82
 msgid "Find Familiar"
-msgstr ""
+msgstr "Najít známého"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:84
 msgid ""
@@ -395,38 +404,46 @@ msgid ""
 "               Your familiar’s level and XP persist across scenarios, but "
 "reset if it dies."
 msgstr ""
+"Každý scénář začneš se svým věrným společníkem <i><ref "
+"dst='unit_Raven'>krkavcem</ref></i>.\n"
+"               Úroveň a zkušenosti tvého společníka se přenášejí mezi "
+"scénáři, ale v případě jeho smrti se vynulují."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:91
 msgid "Mnemonic"
-msgstr ""
+msgstr "Mnemotechnická pomůcka"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:93
 msgid "Whenever an adjacent ally gains XP, you gain the same amount of XP."
 msgstr ""
+"Kdykoli sousední spojenec získá zkušenosti, získáš ty jejich stejné množství."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:105
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:171
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:222
 msgid "Fireball"
-msgstr ""
+msgstr "Ohnivá koule"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:107
 msgid "Ranged 8x4 fire, <i><ref dst='weaponspecial_magical'>magical</ref></i>."
 msgstr ""
+"Oheň 8x4 zdálky, <i><ref dst='weaponspecial_magical'>magický</ref></i>."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:114
 msgid "Siphon"
-msgstr ""
+msgstr "Vysátí"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:116
 msgid ""
 "Ranged 8x4 arcane, <i><ref dst='weaponspecial_magical'>magical</ref></i> and "
 "<i><ref dst='weaponspecial_drains'>drains</ref></i>."
 msgstr ""
+"Nezemský 8x4 zdálky, <i><ref dst='weaponspecial_magical'>magický</ref></i> "
+"a <i><ref dst='weaponspecial_drains'>vysává</ref></i>."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:123
 msgid "Blizzard"
-msgstr ""
+msgstr "Vánice"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:125
 msgid ""
@@ -435,10 +452,14 @@ msgid ""
 "dst='weaponspecial_slows'>slow</ref></i> enemy units and freeze terrain in a "
 "3-hex radius."
 msgstr ""
+"Za <span color='#00bbe6' style='italic'>16 zk. bodů</span> a <span "
+"color='#c06a61' style='italic'>svůj útok</span> dokážeš <i><ref "
+"dst='weaponspecial_slows'>zpomalit</ref></i> nepřátelské jednotky a zmrazit "
+"terén v okruhu 3 políček."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:133
 msgid "Counterspell"
-msgstr ""
+msgstr "Protikouzlo"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:135
 msgid ""
@@ -447,10 +468,14 @@ msgid ""
 "until cancelled.\n"
 "          Disables Delfador’s spells, but not his passive skills."
 msgstr ""
+"Za <span color='#00bbe6' style='italic'>16 zk. bodů</span> <i>zrušíš <ref "
+"dst='weaponspecial_magical'>magické</ref> útoky</i> v okruhu 3 políček, "
+"dokud nebude kouzlo zrušeno.\n"
+"          Znemožní Delfadorova kouzla, ale ne jeho pasivní schopnosti."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:143
 msgid "Polymorph"
-msgstr ""
+msgstr "Měňavec"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:145
 msgid ""
@@ -463,32 +488,43 @@ msgid ""
 "           Replaces Delfador’s attacks, spells, and passives, but does not "
 "affect hitpoints."
 msgstr ""
+"Proměníš se v <ref dst='unit_Frost Stoat Poly'>hranostaje</ref> (<span "
+"color='#00bbe6' style='italic'>1 zk. bod</span>), <ref dst='unit_Cave Bear "
+"Poly'>medvěda</ref> (<span color='#00bbe6' style='italic'>8 zk. bodů</"
+"span>), <ref dst='unit_Giant Crab'>kraba</ref> (<span color='#00bbe6' "
+"style='italic'>16 zk. bodů</span>) nebo <ref dst='unit_Roc'>ptáka Noha</ref> "
+"(<span color='#00bbe6' style='italic'>32 zk. bodů</span>). Trvá, dokud není "
+"zrušeno.\n"
+"           Nahrazuje Delfadorovy útoky, kouzla a pasivní schopnosti, ale "
+"nemá vliv na body života."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:157
 msgid "Glamour"
-msgstr ""
+msgstr "Kouzlo osobnosti"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:159
 msgid "Gain the <i><ref dst='ability_leadership'>leadership</ref></i> ability."
-msgstr ""
+msgstr "Získáš schopnost <i><ref dst='ability_leadership'>vedení</ref></i>."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:173
 msgid ""
 "Ranged 12x4 fire, <i><ref dst='weaponspecial_magical'>magical</ref></i>."
 msgstr ""
+"Oheň 12x4 zdálky, <i><ref dst='weaponspecial_magical'>magický</ref></i>."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:180
 msgid "Dancing Daggers"
-msgstr ""
+msgstr "Tančící dýky"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:182
 msgid ""
 "Ranged 5x8 blade, <i><ref dst='weaponspecial_backstab'>backstab</ref></i>"
 msgstr ""
+"Čepel 5x8 zdálky, <i><ref dst='weaponspecial_backstab'>nůž do zad</ref></i>"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:189
 msgid "Enthrall"
-msgstr ""
+msgstr "Uchvácení"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:191
 msgid ""
@@ -500,10 +536,17 @@ msgid ""
 "          (chance to evade) and chance to hit (except for magical attacks). "
 "Lasts until cancelled."
 msgstr ""
+"Za <span color='#00bbe6' style='italic'>48 zk. bodů</span> a <span "
+"color='#c06a61' style='italic'>svůj útok</span> se kouzlem proměníš v úžas "
+"budícího draka.\n"
+"          Nepřátelé v okruhu 2 políček utrpí postih -10 % jak k obraně "
+"v terénu (šanci na úhyb),\n"
+"          tak k šanci na zásah (s výjimkou magických útoků). Trvá, dokud "
+"není zrušeno."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:199
 msgid "Animate Fire"
-msgstr ""
+msgstr "Živý oheň"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:201
 msgid ""
@@ -512,6 +555,10 @@ msgid ""
 "               while adjacent to you, but dissipate at the end of each "
 "scenario."
 msgstr ""
+"Naučíš se přivolat <i><ref dst='unit_Fire Guardian'>Ohnivé strážce</ref></"
+"i>. Ohniví strážci získávají +100 % k poškození a zkušenostním bodům,\n"
+"               pokud se nacházejí vedle tebe, ale na konci každého scénáře "
+"se rozplynou."
 
 #. [floating_text]
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:208
@@ -525,16 +572,18 @@ msgid ""
 "Whenever one of your human soldiers dies, they are instead returned safely "
 "to your recall list."
 msgstr ""
+"Kdykoli jeden z tvých lidských vojáků zemře, je místo toho bezpečně vrácen "
+"do tvého povolávacího seznamu."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:224
 msgid ""
 "Ranged 17x4 fire, <i><ref dst='weaponspecial_magical'>magical</ref></i>."
 msgstr ""
-"Oheň 17x4 na dálku, <i><ref dst='weaponspecial_magical'>magický</ref></i>."
+"Oheň 17x4 zdálky, <i><ref dst='weaponspecial_magical'>magický</ref></i>."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:231
 msgid "Chain Lightning"
-msgstr ""
+msgstr "Řetězový blesk"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:233
 msgid ""
@@ -542,10 +591,13 @@ msgid ""
 "This attack can be used multiple times on offense, but\n"
 "              consecutive uses strike one fewer time."
 msgstr ""
+"Oheň 14x3 zdálky, <i><ref dst='weaponspecial_magical'>magický</ref></i>. "
+"Tento útok lze při zahájení použít vícekrát,\n"
+"              ale každé následující užití má o úder méně."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:240
 msgid "Time Dilation"
-msgstr ""
+msgstr "Zpomalení času"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:242
 msgid ""
@@ -554,10 +606,14 @@ msgid ""
 "          When this turn ends, affected units become <ref "
 "dst='weaponspecial_slows'>slowed</ref>."
 msgstr ""
+"Za <span color='#00bbe6' style='italic'>48 zk. bodů</span> zajistíš v tomto "
+"kole sobě i všem spojencům dvojnásobný pohyb a druhý útok.\n"
+"          Po skončení tohoto kola budou dotčené jednotky <ref "
+"dst='weaponspecial_slows'>zpomaleny</ref>."
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:250
 msgid "Cataclysm"
-msgstr ""
+msgstr "Pohroma"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:252
 msgid ""
@@ -567,6 +623,11 @@ msgid ""
 "          to 1 HP. Dries water, melts snow, burns forest, and levels castles/"
 "villages."
 msgstr ""
+"Za <span color='#00bbe6' style='italic'>99 zk. bodů</span> a <span "
+"color='#c06a61' style='italic'>svůj útok</span> zničíš vše v okruhu "
+"5 políček. Zdraví jednotek (kromě Delfadora) bude sníženo na 1 bod.\n"
+"          Vysušuje vodu, rozpouští sníh, vypaluje lesy a srovnává hrady "
+"a vesnice se zemí."
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:49
