@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-10 13:35+0200\n"
+"PO-Revision-Date: 2026-10-10 13:50+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -688,12 +688,12 @@ msgstr ""
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:131
 msgid "Confirm Spells <small><i>(can be changed every scenario)</i></small>"
-msgstr ""
+msgstr "Potvrdit kouzla <small><i>(lze změnit v každém scénáři)</i></small>"
 
 #. [lua]: display_skills_dialog
 #: data/campaigns/The_Deceivers_Gambit/lua/spellcasting.lua:134
 msgid "Choose Later"
-msgstr ""
+msgstr "Vybrat později"
 
 #. [lua]: wesnoth.interface.game_display.unit_status
 #. [chance_to_hit]: id=skill_illusion
@@ -703,6 +703,8 @@ msgid ""
 "dazed: This unit is dazed. It suffers a -10% penalty to both its defense and "
 "chance to hit (except for magical attacks)."
 msgstr ""
+"omámený: Tato jednotka je omámená. Má postih -10 % jak k obraně, tak k šanci "
+"na zásah (s výjimkou magických útoků)."
 
 #. [scenario]: id=00_Graduation
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:6
