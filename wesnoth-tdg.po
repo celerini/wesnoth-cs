@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-11 06:35+0200\n"
+"PO-Revision-Date: 2026-10-11 06:41+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -160,7 +160,7 @@ msgstr "Scénář 0: Filuta"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:22
 msgid "Complete <i>Stirrings of War</i> without killing any goblin spearmen."
-msgstr "Dokonči <i>Plameny války</i> bez zabití jediného gobliního kopiníka."
+msgstr "Dokonči <i>Náznaky války</i> bez zabití jediného gobliního kopiníka."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:22
@@ -1038,7 +1038,7 @@ msgstr ""
 #. [scenario]: id=01_Stirrings_of_War
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:10
 msgid "Stirrings of War"
-msgstr "Plameny války"
+msgstr "Náznaky války"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:28
