@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-11 06:41+0200\n"
+"PO-Revision-Date: 2026-10-11 08:13+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1484,12 +1484,12 @@ msgstr "Pevnost Garard"
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:56
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:75
 msgid "Whitefang Orcs"
-msgstr ""
+msgstr "Skřeti Bílých špičáků"
 
 #. [side]: type=Goblin Pillager, id=Khavur
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:46
 msgid "Khavur"
-msgstr ""
+msgstr "Khavur"
 
 #. [side]
 #. [side]: id={ID}, type={TYPE}
@@ -1506,22 +1506,22 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:61
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:151
 msgid "Army of Wesnoth"
-msgstr ""
+msgstr "Vojsko Wesnothu"
 
 #. [side]: type=Orcish Warrior, id=Ushnug
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:143
 msgid "Ushnug"
-msgstr ""
+msgstr "Ušnug"
 
 #. [side]: type=Orcish Slayer, id=Gusush
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:159
 msgid "Gusush"
-msgstr ""
+msgstr "Gusuš"
 
 #. [side]: type=Orcish Warlord, id=Vidrug
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:175
 msgid "Vidrug"
-msgstr ""
+msgstr "Vidrug"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:267
@@ -1531,6 +1531,10 @@ msgid ""
 "Methor, command the camp in my absence — those goblin raiders are still "
 "being a nuisance."
 msgstr ""
+"Konečně jsme tu, v předvečer bitvy! Pamatujte si plán: generále Lioneli, "
+"oslabíš skřetí válečníky, zatímco moji rytíři budou hledat skulinku. "
+"Methore, v mé nepřítomnosti velíš táboru – ti gobliní nájezdníci nám pořád "
+"dělají potíže."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:274
@@ -1538,6 +1542,8 @@ msgid ""
 "M’lord, weren’ we waiting for the queen? Your wife had expressed an interest "
 "in seeing an orc."
 msgstr ""
+"Můj pane, nečekali jsme na královnu? Vaše žena se zmínila, že by ráda viděla "
+"nějakého skřeta."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:278
@@ -1545,6 +1551,9 @@ msgid ""
 "We can brook no delay, Lionel. The opposing army is finally ready for "
 "pitched battle. Ere dusk, my lance will be stained with orcish blood!"
 msgstr ""
+"Nemůžeme si dovolit žádné zpoždění, Lioneli. Nepřátelské vojsko je konečně "
+"připraveno k rozhodující bitvě. Ještě před setměním bude moje kopí zbarveno "
+"skřetí krví!"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:284
@@ -1552,6 +1561,8 @@ msgid ""
 "This may prove a learning experience for you, apprentice. Keep your eyes "
 "sharp as we guard the fort."
 msgstr ""
+"Tohle pro tebe může být poučná zkušenost, učedníku. Měj oči na stopkách, až "
+"budeme hlídat pevnost."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:288
@@ -1559,6 +1570,9 @@ msgid ""
 "The king commanded us to handle the goblins, master. We could do that by "
 "guarding... or we could take a risk and assault the goblin camp."
 msgstr ""
+"Král nám nařídil, abychom se postarali o gobliny, profesore. Mohli bychom to "
+"udělat tak, že budeme hlídat... nebo bychom mohli zariskovat a vzít tábor "
+"goblinů útokem."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:292
@@ -1567,6 +1581,9 @@ msgid ""
 "master, not just another wandering healer or village mage. Proving ourselves "
 "to the king here could be the first step."
 msgstr ""
+"Vím, že to není ta opatrnost, kterou obvykle kážeš. Ale já chci být někým, "
+"profesore, ne jen dalším potulným léčitelem nebo vesnickým mágem. Dokázat "
+"králi, co v nás je, by mohl být první krok."
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:296
@@ -1575,12 +1592,15 @@ msgid ""
 "guards against the goblins I won’t stop you, but I’m afraid I can’t help you "
 "either. My place is here, tending to the sick and injured."
 msgstr ""
+"Ach, mladíku, co si s tebou jen počít... Jestli chceš vést stráže do boje "
+"proti goblinům, nebudu ti v tom bránit, ale obávám se, že ti ani nemohu "
+"pomoci. Moje místo je tady, kde se starám o nemocné a zraněné."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:313
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:443
 msgid "Defeat Khavur, the goblin leader"
-msgstr ""
+msgstr "Poraz Khavura, vůdce goblinů"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:317
@@ -1588,25 +1608,27 @@ msgid ""
 "Win before Garard defeats the orcish leader <span color='#ffffff' "
 "size='small'>(probably turn 17 or 18)</span>"
 msgstr ""
+"Vyhraj dříve, než Garard porazí vůdce skřetů <span color='#ffffff' "
+"size='small'>(pravděpodobně v 17. nebo 18. kole)</span>"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:321
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:457
 msgid "Garard defeats Vidrug, the orcish leader"
-msgstr ""
+msgstr "Garard porazí Vidruga, vůdce skřetů"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:329
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:465
 msgid "Death of Garard or Lionel"
-msgstr ""
+msgstr "Garard nebo Lionel zemře"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:342
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:465
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:455
 msgid "New Recruits:"
-msgstr ""
+msgstr "Noví rekruti:"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:343
@@ -1615,6 +1637,9 @@ msgid ""
 "roster of level 1 infantry. In addition to Mages, you can recruit Spearmen, "
 "Bowmen, Fencers, and Heavy Infantrymen."
 msgstr ""
+"Methor je nyní vojákem královské armády a má na povel celou škálu weshothské "
+"pěchoty 1. úrovně. Kromě mágů můžeš verbovat kopiníky, lučištníky, šermíře "
+"a těžkooděnce."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:355
@@ -1622,6 +1647,8 @@ msgid ""
 "<i>If movement and combat are taking too long, you can enable “accelerated "
 "speed” and “skip AI moves” in the Preferences menu.</i>"
 msgstr ""
+"<i>Pokud pohyb a boj trvají příliš dlouho, můžeš v nabídce „Nastavení“ "
+"zapnout „Zrychlenou hru“ a „Přeskočit tahy počítače“.</i>"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:390
@@ -1629,18 +1656,20 @@ msgid ""
 "We have some gold in camp, apprentice, and I am still in our keep and ready "
 "to recruit. Remember to call for reinforcements if you need them."
 msgstr ""
+"V táboře máme trochu zlata, učedníku, a já jsem pořád v naší tvrzi "
+"a připravený verbovat. Nezapomeň požádat o posily, pokud je budeš potřebovat."
 
 #. [message]: speaker=Garard
 #. Garard's forces have just killed an orc
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:407
 msgid "They fall before us!"
-msgstr ""
+msgstr "Podléhají nám!"
 
 #. [message]: speaker=Khavur
 #. The goblin leader calls the retreat. Remaining goblins fall back to their keep, at least until dusk.
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:419
 msgid "Too many humans!"
-msgstr ""
+msgstr "Příliš mnoho lidí!"
 
 #. [message]: speaker=Methor
 #. the player is attacking orcs instead of working towards the main scenario objective. This unlocks an alternate objective
@@ -1649,6 +1678,8 @@ msgid ""
 "Apprentice, what are you doing! The king commanded us to engage the goblin "
 "raiders, not the main orcish army!"
 msgstr ""
+"Učedníku, co to děláš! Král nám přikázal zabývat se gobliními nájezdníky, ne "
+"hlavním skřetím vojskem!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:438
@@ -1656,6 +1687,9 @@ msgid ""
 "Lighten up! What’s the worst that could happen? If I slay enough orcs in the "
 "main battle, I’m sure the king won’t mind that I abandoned my post! ...right?"
 msgstr ""
+"Uvolni se! Co se může v nejhorším případě stát? Když v hlavní bitvě zabiju "
+"dost skřetů, král určitě nebude mít nic proti tomu, že jsem opustil své "
+"stanoviště! ... nemám pravdu?"
 
 #. [objective]: condition=win
 #. $initial_orcs_remaining is between 8-15, $orcs_remaining is between 0-15
@@ -1663,16 +1697,18 @@ msgstr ""
 msgid ""
 "Defeat at least $initial_orcs_remaining orcs ($orcs_remaining remaining)"
 msgstr ""
+"Poraz alespoň $initial_orcs_remaining skřetů (počet zbývajících: "
+"$orcs_remaining)"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:453
 msgid "Win before Garard defeats the orcish leader"
-msgstr ""
+msgstr "Vyhraj dříve, než Garard porazí vůdce skřetů"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:461
 msgid "Death of Delfador or Methor"
-msgstr ""
+msgstr "Delfador nebo Methor zemře"
 
 #. [message]: speaker=Garard
 #. a goblin has just attacked one of Garard's horsemen. Garard previously told Methor to guard against the goblins, but Delfador led the guards to battle instead
@@ -1681,32 +1717,34 @@ msgid ""
 "What the— who let all these runts in here! I should have known that healer "
 "would be too soft-hearted to deal properly with the goblins."
 msgstr ""
+"Co to... Kdo sem pustil všechny ty skrčky! Měl jsem tušit, že ten léčitel "
+"bude moc měkkosrdcatý na to, aby si s gobliny patřičně poradil."
 
 #. [message]: speaker=Delfador
 #. Delfador (or one of his troops) has killed another orc, and completed his alternate objective
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:508
 msgid "Yes! We got another one!"
-msgstr ""
+msgstr "Ano! Dostali jsme dalšího!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:513
 msgid "I’ve defeated so many orcs; surely the king must be impressed by now!"
-msgstr ""
+msgstr "Porazil jsem už tolik skřetů. Král teď musí být určitě ohromen!"
 
 #. [message]: speaker=Vidrug
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:518
 msgid "Bah, filthy humans! This is hopeless. Whitefangs, retreat!"
-msgstr ""
+msgstr "Fuj, hnusní lidé! To je beznadějné. Bílí špičáci, ustupte!"
 
 #. [message]: speaker=Khavur
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:534
 msgid "Nooo! Help meeee..."
-msgstr ""
+msgstr "Néé! Pomozte míí..."
 
 #. [message]: speaker=Vidrug
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:540
 msgid "Bah, useless runts! This is hopeless. Whitefangs, retreat!"
-msgstr ""
+msgstr "Pah, vy nepoužitelní skrčci! To je beznadějné. Bílí špičáci, ustupte!"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:553
@@ -1714,6 +1752,8 @@ msgid ""
 "Oh, what’s this? Seems one of our young magi knows how to seize the "
 "initiative."
 msgstr ""
+"Á, co to je? Zdá se, že jeden z našich mladých mágů ví, jak převzít "
+"iniciativu."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:557
@@ -1721,12 +1761,14 @@ msgid ""
 "A proper war-mage is far too valuable to waste on the front lines; I may "
 "have a special assignment for you. What’s your name, boy?"
 msgstr ""
+"Pořádného válečného mága je pro frontu škoda. Možná pro tebe mám zvláštní "
+"úkol. Jak se jmenuješ, chlapče?"
 
 #. [message]: speaker=Delfador
 #. said by Delfador to himself (or maybe just thought in his mind)
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:562
 msgid "Commendation from the king himself! This is a dream come true."
-msgstr ""
+msgstr "Pochvala přímo od krále! To je splněný sen."
 
 #. [message]: speaker=Delfador
 #. Delfador is realy excited to go with the king, but deeply respects Methor and doesn't want to dissapoint him
@@ -1736,6 +1778,9 @@ msgid ""
 "apprentice; Alduin has not yet assigned me one. And... I suppose I shouldn’t "
 "want to leave without my master’s blessing..."
 msgstr ""
+"Bylo by mi ctí, můj pane! Ale nemohu vám sdělit své jméno – jsem jen "
+"učedník. Alduin mi ještě žádné nepřidělil. A... asi bych neměl odcházet bez "
+"požehnání svého profesora..."
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:571
@@ -1743,6 +1788,8 @@ msgid ""
 "By the traditions of our order, no apprentice shall venture alone; that "
 "privilege is first awarded only to the journeymen!"
 msgstr ""
+"Podle zvyklostí našeho řádu se žádný učedník nesmí vydávat na cestu sám. "
+"Tato výsada se uděluje nejdříve a pouze tovaryšům!"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:575
@@ -1751,12 +1798,15 @@ msgid ""
 "some time now. I was hoping to impart a little more wisdom before advancing "
 "you, but now I understand that fate has other plans."
 msgstr ""
+"... ale učedníku, abych byl upřímný, už nějakou dobu máš dovednosti "
+"tovaryše. Doufal jsem, že ti před tvým povýšením předám ještě trochu "
+"moudrosti, ale teď chápu, že osud má jiné plány."
 
 #. [message]: speaker=Methor
 #. nonsense words, sounding magical, copied from the original DM
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:607
 msgid "Thorum restro targa thorum..."
-msgstr ""
+msgstr "Thorum restro targa thorum..."
 
 #. [message]: speaker=Methor
 #. referencing the "Provost of the Council of Archmagi" mentioned by Delfador in HttT
@@ -1765,11 +1815,13 @@ msgid ""
 "The light waxes bright. By the power of the high provost and the blessing of "
 "the five sages, I declare you to be nameless NO LONGER!"
 msgstr ""
+"Světlo stále sílí. Z moci vrchního rektora a s požehnáním pěti mudrců "
+"prohlašuji, že již déle nejsi BEZEJMENNÝ!"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:632
 msgid "<i><b>DELFADOR</b></i> you shall be, and Delfador shall be YOU."
-msgstr ""
+msgstr "Budeš se jmenovat <i><b>DELFADOR</b></i> a Delfadorem SE STANEŠ."
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:640
@@ -1779,6 +1831,10 @@ msgid ""
 "I grieve for the apprentice I have lost, but I celebrate the journeyman "
 "Wesnoth has gained. Your naming ceremony is complete."
 msgstr ""
+"Delfadore, otevři oči. A OTEVŘI JE ZNOVU!\n"
+"\n"
+"Truchlím nad ztrátou svého učedníka, ale raduji se z toho, že Wesnoth získal "
+"tovaryše. Tvůj obřad pojmenování je u konce."
 
 #. [unit]: type=Delfador L2
 #. [event]
@@ -1800,12 +1856,12 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1210
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:15
 msgid "Delfador"
-msgstr ""
+msgstr "Delfador"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:670
 msgid "Del-fa-dor; Delfador! Thanks master, I like the sound of that."
-msgstr ""
+msgstr "Del-fa-dor. Delfador! Díky, profesore, líbí se mi, jak to zní."
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:674
@@ -1814,6 +1870,9 @@ msgid ""
 "want, I would never stand in your way. May we meet again in more peaceful "
 "times."
 msgstr ""
+"Nyní se s tebou loučím, Delfadore, můj ctižádostivý mladý příteli. Jestliže "
+"je to skutečně to, co chceš, nikdy ti nebudu stát v cestě. Kéž se znovu "
+"setkáme v klidnějších časech."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:678
@@ -1821,12 +1880,14 @@ msgid ""
 "Yes, yes, well done to you both. Now that that’s settled, “Delfador”, it’s "
 "time to pack your bags. You have a long journey ahead of you!"
 msgstr ""
+"Ano, ano, oběma vám blahopřeji. Teď, když je to srovnané, „Delfadore“, je "
+"čas sbalit si saky paky. Čeká tě dlouhá cesta!"
 
 #. [message]: speaker=Vidrug
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:703
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:739
 msgid "Bah... my kin will avenge me..."
-msgstr ""
+msgstr "Pah... moji příbuzní mě pomstí..."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:709
@@ -1834,6 +1895,8 @@ msgstr ""
 msgid ""
 "The first line of orcs is broken! Continue forth, riders; we ride to victory!"
 msgstr ""
+"První řada skřetů je prolomena! Pokračujte vpřed, jezdci. Jedeme za "
+"vítězstvím!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:714
@@ -1841,18 +1904,20 @@ msgid ""
 "No; that’s not fair! I helped fight the orcs too; why is he going on without "
 "me?"
 msgstr ""
+"Ne, to není spravedlivé! Taky jsem pomáhal v boji proti skřetům. Proč "
+"pokračuje beze mě?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:718
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:754
 msgid "Now I’ll never impress the king..."
-msgstr ""
+msgstr "Teď už na krále nikdy dojem neudělám..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:723
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:773
 msgid "He’s going on without us! Now I’ll never impress the king..."
-msgstr ""
+msgstr "On jde bez nás! Teď už na krále nikdy dojem neudělám..."
 
 #. [message]: speaker=Delfador
 #. Delfador has killed the orcish leader, but not killed enough orcs to impress Garard and complete his alternate objective
@@ -1861,6 +1926,8 @@ msgid ""
 "No; that’s not fair! I struck the finishing blow; why is he going on without "
 "me?"
 msgstr ""
+"Ne, to není spravedlivé! To já jsem zasadil rozhodující ránu. Proč pokračuje "
+"beze mě?"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:769
