@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-10 13:55+0200\n"
+"PO-Revision-Date: 2026-10-11 06:35+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1100,32 +1100,32 @@ msgstr ""
 #. [side]: type=Orcish Grunt, id=Ozgob
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:70
 msgid "Ozgob"
-msgstr ""
+msgstr "Ozgob"
 
 #. [side]: type=Orcish Grunt, id=Ozgob
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:78
 msgid "Clan Whitefang"
-msgstr ""
+msgstr "Klan Bílých špičáků"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:122
 msgid "Weldyn"
-msgstr ""
+msgstr "Weldyn"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:143
 msgid "15 gold"
-msgstr ""
+msgstr "15 zlatých"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:143
 msgid "Treasure! Looks like a previous victim of the goblins."
-msgstr ""
+msgstr "Poklad! Vypadá to na další oběť goblinů."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:180
 msgid "Are we there yet?"
-msgstr ""
+msgstr "Už tam budem?"
 
 #. [message]: speaker=Methor
 #. a "seeker spell" is a made-up word to describe some kind of spell that helps you find your way to a destination
@@ -1134,6 +1134,8 @@ msgid ""
 "Nearer than the last time you asked, yet further than we will be the next. "
 "Really apprentice, would it kill you to learn a proper seeker spell?"
 msgstr ""
+"Jsme blíž, než když ses naposled ptal, ale dál, než budeme příště. Vážně, "
+"učni, zabilo by tě naučit se pořádné kouzlo na hledání cesty?"
 
 #. [message]: speaker=Delfador
 #. Delfador has never met King Garard II, but rather idolizes him
@@ -1144,16 +1146,19 @@ msgid ""
 "even get to counsel with the king himself! What I wouldn’t give for a chance "
 "to prove myself to him..."
 msgstr ""
+"Není třeba být tak rozmrzelý, profesore. Jako vedoucí naší delegace budete "
+"mít dokonce příležitost radit se osobně se samotným králem! Co bych dal za "
+"možnost ukázat se před ním..."
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:195
 msgid "Do you hear that?"
-msgstr ""
+msgstr "Slyšíš to?"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:195
 msgid "Quiet!"
-msgstr ""
+msgstr "Tiše!"
 
 #. [message]: speaker=Ozgob
 #. 'stragglers' refers to soldiers (like Delfador and Methor) who are joining Garard's war-camp, but are arriving late
@@ -1162,11 +1167,13 @@ msgid ""
 "“Kill the stragglers”, they says. “You’ll have our best warriors”, they "
 "says. N’ all I get are a bunch o’ lousy goblins? Lousy lazy lying—"
 msgstr ""
+"„Zabij opozdilce,“ říkají. „Dostaneš naše nejlepší válečníky,“ říkají. A já "
+"dostanu jen bandu mizerných goblinů? Mizerných, líných, prolhaných —"
 
 #. [message]: role=gobbo1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:210
 msgid "They’re here, they’re here! Humans on the clan road!"
-msgstr ""
+msgstr "Jsou tady, jsou tady! Lidé na klanové cestě!"
 
 #. [message]: speaker=Ozgob
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:214
@@ -1174,74 +1181,76 @@ msgid ""
 "—then grab your spear, you loathsome lout! Don’t let them link up with the "
 "rest of their army!"
 msgstr ""
+"— tak si vezmi svoje kopí, ty odporný klacku! Nenech je spojit se se zbytkem "
+"jejich vojska!"
 
 #. [message]: role=gobbo1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:218
 msgid "No, no, no! No fight! I run away!"
-msgstr ""
+msgstr "Ne, ne, ne! Žádná rvačka! Utíkám!"
 
 #. [message]: speaker=Ozgob
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:225
 msgid "Why you runtish, yellow—"
-msgstr ""
+msgstr "Proč ty zakrslý, srabácký —"
 
 #. [message]
 #. multiple goblins are running away
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:232
 msgid "Wait for me!"
-msgstr ""
+msgstr "Počkej na mě!"
 
 #. [message]: role=gobbo3
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:236
 msgid "Run away! Back to the swamp!"
-msgstr ""
+msgstr "Utečte! Zpátky do močálu!"
 
 #. [message]: speaker=Ozgob
 #. Ozgob has just killed one of the fleeing goblins
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:244
 msgid "I said FORM RANKS! Rousers, get these runts organized!"
-msgstr ""
+msgstr "Řekl jsem SEŘAĎTE SE! Vy se zástavou, dejte ty prcky do pořádku!"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:248
 msgid "Gumpnug"
-msgstr ""
+msgstr "Gumpnug"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:263
 msgid "Bork"
-msgstr ""
+msgstr "Bork"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:279
 msgid "Mirnik"
-msgstr ""
+msgstr "Mirnik"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:295
 msgid "Gump"
-msgstr ""
+msgstr "Gump"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:315
 msgid "Defeat Ozgob"
-msgstr ""
+msgstr "Poraz Ozgoba"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:319
 #: data/campaigns/The_Deceivers_Gambit/scenarios/02_Fort_Garard.cfg:325
 msgid "Death of Methor or the Apprentice"
-msgstr ""
+msgstr "Methor nebo učedník zemře"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:327
 msgid "Defeat a Goblin Rouser to rout their entourage."
-msgstr ""
+msgstr "Poraz goblina se zástavou a rozprášíš tak jeho družinu."
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:344
 msgid "Choosing Spells:"
-msgstr ""
+msgstr "Výběr kouzel:"
 
 #. [object]
 #. Delfador does not yet have a true name; he's only called "apprentice"
@@ -1251,6 +1260,10 @@ msgid ""
 "select which spells to equip for the upcoming battle. Remember, double- or "
 "right-click on the apprentice to cast chosen spells!"
 msgstr ""
+"Před každým scénářem v tomto tažení budeš mít možnost vybrat si, jaká kouzla "
+"si připravíš pro nadcházející bitvu. Nezapomeň, že k seslání vybraných "
+"kouzel stačí na učedníka kliknout dvakrát levým nebo jednou pravým tlačítkem "
+"myši!"
 
 #. [message]: speaker=Methor
 #. Methor says this when Delfador stands on their keep. Delfador can only recruit mudcrawlers; Methor recruits mages
@@ -1259,6 +1272,8 @@ msgid ""
 "You’re not yet a journeyman, apprentice! Your mudcrawlers are not without "
 "use, but to recruit mages I’ll need to stand on our keep."
 msgstr ""
+"Ještě nejsi tovaryš, učedníku! Tvoji blátožrouti sice nejsou k zahození, ale "
+"abych mohl verbovat mágy, budu muset v naší tvrzi stát já."
 
 #. [message]: speaker=Methor
 #. Methor says this when Delfador stands on their keep. Delfador can not recruit; Methor recruits mages
@@ -1267,12 +1282,14 @@ msgid ""
 "You’re not yet a journeyman, apprentice! To recruit mages I’ll need to stand "
 "on our keep."
 msgstr ""
+"Ještě nejsi tovaryš, učedníku! Abych mohl verbovat mágy, budu muset v naší "
+"tvrzi stát já."
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:388
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:546
 msgid "New Recruit:"
-msgstr ""
+msgstr "Nový rekrut:"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:389
@@ -1280,6 +1297,8 @@ msgid ""
 "The apprentice is the main character of this campaign, but right now he’s "
 "not your leader. Methor is your leader, and he can recruit Mages."
 msgstr ""
+"Hlavní postavou tohoto tažení je učedník, ale v tuto chvíli není tvým "
+"vůdcem. Tím je Methor a ten může verbovat mágy."
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:391
@@ -1288,6 +1307,9 @@ msgid ""
 "are difficult to evade. They have few hitpoints and are highly vulnerable in "
 "melee combat, so take good care of them!"
 msgstr ""
+"Mágové jsou smrtící útočníci na dálku, jejich přesným <i>magickým</i> útokům "
+"se dá jen těžko vyhnout. Mají málo životů a v boji zblízka jsou velmi "
+"zranitelní, takže se o ně dobře starej!"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:404
@@ -1297,32 +1319,36 @@ msgid ""
 "Preferences menu (Ctrl-P), selecting “Display”, and unchecking “Animate "
 "Map.”</i>"
 msgstr ""
+"<i>Déšť je čistě pro potěšení oka a na hratelnost nemá žádný vliv. Pokud tě "
+"déšť ruší nebo snižuje výkon, můžeš jej vypnout tak, že otevřeš nabídku "
+"„Nastavení“ (Ctrl-P), vybereš položku „Obrazovka“ a zrušíš zaškrtnutí "
+"u položky „Animovat mapu“.</i>"
 
 #. [scenario]: id=01_Stirrings_of_War
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:493
 msgid "Run for your lives!"
-msgstr ""
+msgstr "Utíkejte jako o život!"
 
 #. [scenario]: id=01_Stirrings_of_War
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:494
 msgid "Run! Flee back to the swamp!"
-msgstr ""
+msgstr "Běžte! Utečte zpátky do močálu!"
 
 #. [scenario]: id=01_Stirrings_of_War
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:495
 msgid "Noooo, $unit.name!"
-msgstr ""
+msgstr "Néé, $unit.name!"
 
 #. [scenario]: id=01_Stirrings_of_War
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:496
 msgid "Flee, flee! $unit.name’s dead!"
-msgstr ""
+msgstr "Utečte, utečte! $unit.name je mrtvý!"
 
 #. [message]: speaker=Ozgob
 #. said in response to goblins running away from the fight
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:503
 msgid "Cowards!! Fight and die like real orcish warriors!"
-msgstr ""
+msgstr "Zbabělci!! Bojujte a zemřete jako praví skřetí válečníci!"
 
 #. [message]: speaker=Methor
 #. said after any living unit dies (both human and goblin)
@@ -1331,6 +1357,8 @@ msgid ""
 "(sigh) More casualties of pointless politics. I joined the order to do some "
 "<i><b>good</b></i> in the world..."
 msgstr ""
+"(povzdech) Další oběti nesmyslné politiky. Vstoupil jsem do řádu, abych ve "
+"světě konal <i><b>dobro</b></i>..."
 
 #. [message]: speaker=Ozgob
 #. Ozgob has lost most of his goblins ('runts'), and is about to charge at Delfador personally
@@ -1339,6 +1367,8 @@ msgid ""
 "I’ve had it with this! Never send a runt to do a warrior’s job. I’ll bring "
 "you down myself!"
 msgstr ""
+"Mám toho plné zuby! Nikdy neposílej skrčka, aby udělal práci válečníka. "
+"Porazím vás já sám!"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:579
@@ -1347,17 +1377,20 @@ msgid ""
 "powerful on the front lines, if we’re ever struggling it’s also important "
 "that I have the chance to recruit new magi from our keep."
 msgstr ""
+"Nashromáždili jsme spoustu zlata, učedníku. I když je moje magie v přední "
+"linii mocná, je také důležité, abych měl v případě potíží možnost v naší "
+"tvrzi verbovat nové mágy."
 
 #. [message]
 #. Ozgob has died, and any remaining goblins are deserting him
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:607
 msgid "Run away!"
-msgstr ""
+msgstr "Utíkejte!"
 
 #. [message]: speaker=Ozgob
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:612
 msgid "Useless... goblins..."
-msgstr ""
+msgstr "Goblini... k ničemu..."
 
 #. [message]: speaker=Garard
 #. King Garard has just appeared, along with a few knights
@@ -1368,6 +1401,8 @@ msgid ""
 "Ride forth, knights of Wesnoth! No orc who sets foot on our soil shall leave "
 "alive!"
 msgstr ""
+"Kupředu, rytíři Wesnothu! Žádný skřet, který vkročí na naši půdu, odtud "
+"neodejde živý!"
 
 #. [message]: speaker=Garard
 #. Garard came to kill the goblins, but Delfador has already done it.
@@ -1377,6 +1412,9 @@ msgid ""
 "slain our foe! I wasn’t making a mistake bringing Alduin into the fold after "
 "all. Who commands this detachment?"
 msgstr ""
+"Ale co to je? Zdá se, že nás někteří mágové předběhli v boji a už našeho "
+"nepřítele zabili! Nakonec jsem se tedy nemýlil, když jsem Alduin přijal do "
+"našich řad. Kdo velí této jednotce?"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:644
@@ -1385,6 +1423,9 @@ msgid ""
 "war-call. I volunteered to lead them, and I now place my medicinal arts at "
 "your service."
 msgstr ""
+"(ukloní se) Můj pane, Alduin vyslal tyto učedníky jako odpověď na vaši "
+"povolávací výzvu. Nabídl jsem se, že je povedu, a nyní vám nabízím své "
+"léčitelské umění."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:648
@@ -1392,6 +1433,8 @@ msgid ""
 "A healer? Well, we’ll have need of your services soon enough. Follow me back "
 "to camp. We attack on the morrow!"
 msgstr ""
+"Léčitel? No, tvé služby budeme brzy potřebovat. Pojď se mnou zpátky do "
+"tábora. Zítra zaútočíme!"
 
 #. [message]: speaker=Garard
 #. Delfador has failed to defeat the goblins. Garard does not respect him.
@@ -1401,11 +1444,14 @@ msgid ""
 "even finish off a few goblins! Bah, go back to Alduin, you scholars have no "
 "place in war after all."
 msgstr ""
+"Ale co to je? Nějací neduživí mágové nás předběhli v boji, a přitom "
+"nedokážou ani dorazit pár goblinů! Fuj, vraťte se na Alduin, vy učenci přece "
+"do války nepatříte."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/01_Stirrings_of_War.cfg:682
 msgid "Now I’ll never make a name for myself..."
-msgstr ""
+msgstr "Teď už se nikdy neprosadím..."
 
 #. [scenario]: id=02_Fort_Garard
 #. [side]: type=Halberdier, id=Luraery
