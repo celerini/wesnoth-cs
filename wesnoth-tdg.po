@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-11 08:13+0200\n"
+"PO-Revision-Date: 2026-10-12 20:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -180,7 +180,7 @@ msgstr "Scénář 2: Krvežíznivý"
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
 msgid "Complete <i>The Ambassador</i> without killing any wose."
-msgstr "Dokonči <i>Velvyslance</i> bez zabití jediného stromového člověka."
+msgstr "Dokonči <i>Vyslance</i> bez zabití jediného stromového člověka."
 
 #. [achievement_group]
 #: data/campaigns/The_Deceivers_Gambit/achievements.cfg:24
@@ -1935,16 +1935,18 @@ msgid ""
 "The first line of orcs will soon be broken! Continue forth, riders; we ride "
 "to victory!"
 msgstr ""
+"První řada skřetů bude brzy prolomena! Pokračujte vpřed, jezdci. Jedeme za "
+"vítězstvím!"
 
 #. [scenario]: id=03_The_Ambassador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:13
 msgid "The Ambassador"
-msgstr "Velvyslanec"
+msgstr "Vyslanec"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:47
 msgid "Woses"
-msgstr ""
+msgstr "Stromový lid"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:119
@@ -1952,6 +1954,8 @@ msgid ""
 "When King Garard spoke of a special mission for me, I hadn’t been expecting "
 "something as quiet as messenger duty."
 msgstr ""
+"Když mi král Garard řekl o zvláštním úkolu, který pro mě má, vůbec jsem "
+"nečekal, že to bude něco tak nenápadného jako služba posla."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:121
@@ -1959,6 +1963,8 @@ msgid ""
 "But I won’t disappoint him. I am to find Wesnoth’s ambassador to Lintanir "
 "Forest, and then deliver to the elves a notice."
 msgstr ""
+"Ale nezklamu ho. Mám najít vyslance Wesnothu v Lintanirském lese a poté "
+"elfům doručit vzkaz."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:130
@@ -1967,21 +1973,24 @@ msgid ""
 "cluster of trees. The undergrowth is so thick... Perhaps this is an "
 "opportunity to practice my new fire spell."
 msgstr ""
+"Hranice elfího území by měla být kousek odtud na severovýchod, za touto "
+"skupinkou stromů. Podrost je tak hustý... Možná je to příležitost vyzkoušet "
+"moje nové ohnivé kouzlo."
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:163
 msgid "Eldebetam"
-msgstr ""
+msgstr "Eldebetam"
 
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:180
 msgid "Boruroom! Burarum!"
-msgstr ""
+msgstr "Borurům! Burárum!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:184
 msgid "What?! The tree speaks!"
-msgstr ""
+msgstr "Cože?! Ten strom mluví!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:188
@@ -1989,11 +1998,14 @@ msgid ""
 "I’ve heard tell of tree-folk... you must be a wose! Err, I’m terribly sorry "
 "for the fireball. I couldn’t tell you apart from an ordinary oak."
 msgstr ""
+"Slyšel jsem vyprávět o stromových lidech... ty musíš být jeden z nich! Ehm, "
+"moc se omlouvám za tu ohnivou kouli. Nedokázal jsem tě rozeznat od "
+"obyčejného dubu."
 
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:192
 msgid "Burarum! Boom-toom-hun-rum-tum-ala-lola-ala?"
-msgstr ""
+msgstr "Burárum! Bum-tum-hun-rum-tum-ala-lola-ala?"
 
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:196
@@ -2001,11 +2013,13 @@ msgid ""
 "A-rumgur-gurmum-un-rumba-ala-burarum! Burarum-ala-bortum-untum! A-rumgur-"
 "gurmum-un-rumba-ala-boruroom! BURARUM!!"
 msgstr ""
+"A-rumgur-gurmum-un-rumba-ala-burárum! Burárum-ala-bortum-untum! A-rumgur-"
+"gurmum-un-rumba-ala-borurům! BURÁRUM!!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:200
 msgid "It can’t understand me, and I can’t understand it... Oh no..."
-msgstr ""
+msgstr "Nerozumí mi a já nerozumím jemu... Ach ne..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:216
@@ -2014,6 +2028,9 @@ msgid ""
 "burning down half the forest would hardly be the good first impression King "
 "Garard tasked me with making."
 msgstr ""
+"Chystají se zaútočit! Pár chodících vrb se nebojím, ale spálit polovinu lesa "
+"by asi nebyl zrovna ten dobrý první dojem, který mám podle krále Gararda "
+"udělat."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:218
@@ -2021,11 +2038,13 @@ msgid ""
 "I’m sure Methor would know what to do here. But I don’t. I think we have no "
 "choice but to fight."
 msgstr ""
+"Jsem si jistý, že Methor by věděl, co v této situaci dělat. Já to ale nevím. "
+"Myslím, že nám nezbývá nic jiného než bojovat."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:226
 msgid "Defeat the enemy leader"
-msgstr ""
+msgstr "Poraz nepřátelského vůdce"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:230
@@ -2040,7 +2059,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:498
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:863
 msgid "Death of Delfador"
-msgstr ""
+msgstr "Delfador zemře"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:252
@@ -2056,6 +2075,18 @@ msgid ""
 "with effective damage types!</b></i> To see more details, right-click on a "
 "wose and select <i>“Unit Type Description”.</i>"
 msgstr ""
+"Stromoví lidé mají schopnost <i>přepadení</i>, díky níž jsou v lese "
+"neviditelní. Jakákoli jednotka může stromového muže dočasně odhalit tím, že "
+"se přesune do sousedství, ale odhalující jednotka se poté nebude moci "
+"pohnout — a to ani v případě, že má schopnost <i>průbojnost</i>. Přepadající "
+"se opět skryjí v okamžiku, kdy se od nich vzdálíš (i když se sami "
+"nepohnou).\n"
+"\n"
+"Stromoví lidé mají také mocnou schopnost <i>regenerace</i> a vyznačují se "
+"vysokou odolností vůči několika typům poškození. <i><b>Nezapomeň verbovat "
+"jednotky s účinnými typy poškození!</b></i> Chceš-li zobrazit další "
+"podrobnosti, klikni pravým tlačítkem myši na stromového muže a vyber "
+"<i>„Popis typu jednotky“.</i>"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:266
@@ -2063,16 +2094,18 @@ msgid ""
 "Where are those woses hiding? If I’m worried about my valuable veterans "
 "getting ambushed, I could use new recruits as expendable pickets."
 msgstr ""
+"Kde se ti stromoví lidé schovávají? Jestli se bojím, že moji cenní veteráni "
+"padnou do léčky, hodili by se mi noví rekruti jako postradatelné hlídky."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:306
 msgid "This hollow tree is full of bats!"
-msgstr ""
+msgstr "Tenhle dutý strom je plný netopýrů!"
 
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:343
 msgid "Ooohhhhoooom... Burarum..."
-msgstr ""
+msgstr "Ooohhhhůům... Burárum..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:359
@@ -2081,6 +2114,8 @@ msgid ""
 "Speak, strangers, for the wrath of Wesnoth and the Lintanir elves is upon "
 "you!"
 msgstr ""
+"Stát!! Kdo jste a proč obtěžujete stromy Šedého háje? Mluvte, cizinci, nebo "
+"na vás dopadne hněv Wesnothu a elfů z Lintaniru!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:363
@@ -2088,6 +2123,8 @@ msgid ""
 "Peace! Peace! You must be the man King Garard sent me to meet: Ambassador "
 "Deoran."
 msgstr ""
+"Klid! Klid! Ty musíš být ten muž, za kterým mě poslal král Garard, abych se "
+"s ním setkal: vyslanec Deoran."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:371
@@ -2095,6 +2132,8 @@ msgid ""
 "Please, can you speak with these woses and tell them we’re not their "
 "enemies? This whole battle has been a terrible misunderstanding."
 msgstr ""
+"Mohl bys, prosím, promluvit s těmi stromovými lidmi a říct jim, že nejsme "
+"jejich nepřátelé? Celá tahle bitva je jen strašným nedorozuměním."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:375
@@ -2102,6 +2141,8 @@ msgid ""
 "You’re a courier from Wesnoth? My apologies for the harsh words; long has it "
 "been since Weldyn sent to this lonely post."
 msgstr ""
+"Jsi kurýr z Wesnothu? Omlouvám se za ta ostrá slova. Už je to dlouho, co "
+"Weldyn naposledy poslal někoho na tuto osamělou stanici."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:379
@@ -2110,6 +2151,9 @@ msgid ""
 "and precious wose-grove. If you really are who you claim to be, explain "
 "yourself to me at once."
 msgstr ""
+"Ale pouhá omluva nestačí k nápravě tvých prohřešků vůči tomuto vzácnému "
+"a drahocennému háji stromových lidí. Jestli jsi opravdu tím, za koho se "
+"vydáváš, okamžitě mi to vysvětli."
 
 #. [message]: speaker=leader2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:397
@@ -2117,11 +2161,13 @@ msgid ""
 "Burarum! A-rumgur-gurmum-un-rumba-ala-burarum! Burarum-ala-bortum-untum! A-"
 "rumgur-gurmum-un-rumba-ala-boruroom!"
 msgstr ""
+"Burárum! A-rumgur-gurmum-un-rumba-ala-burárum! Burárum-ala-bortum-untum! A-"
+"rumgur-gurmum-un-rumba-ala-borurům!"
 
 #. [message]: role=young_wose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:407
 msgid "Boom-toom-hun-rum-tum-ala-lola-ala! Burarum! Boruroom!"
-msgstr ""
+msgstr "Bum-tum-hun-rum-tum-ala-lola-ala! Burárum! Borurům!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/03_The_Ambassador.cfg:411
@@ -2130,6 +2176,9 @@ msgid ""
 "I could fight my way through, the elves would never trust me after such a "
 "show of force..."
 msgstr ""
+"Je jich víc, než jsem si myslel! A teď jsou opravdu rozzuření! I kdybych se "
+"skrz ně dokázal probojovat, elfové by mi po takovém projevu síly už nikdy "
+"nevěřili..."
 
 #. [scenario]: id=04_The_Sylvan_Seer
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:11
