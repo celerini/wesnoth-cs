@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-12 20:09+0200\n"
+"PO-Revision-Date: 2026-10-13 20:41+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2188,7 +2188,7 @@ msgstr "Sylvánská vidoucí"
 #. [time]: id=dusk
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:16
 msgid "Dusk"
-msgstr ""
+msgstr "Soumrak"
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:24
@@ -2199,6 +2199,12 @@ msgid ""
 "aided greatly by the woses’s natural regenerative abilities, Deoran showed "
 "Delfador how to nurse the crippled tree-folk back to health."
 msgstr ""
+"Po stručném vysvětlení a s Deoranovou pomocí se Delfador stromovým lidem "
+"a jejich vůdci mnohokrát omluvil. Většina zničených stromů naštěstí "
+"nezemřela, ale byla pouze zraněna. Během následujících několika dní "
+"a s velkou pomocí přirozených regeneračních schopností stromových lidí, "
+"Deoran ukázal Delfadorovi, jak ošetřovat zmrzačené stromové bytosti, aby se "
+"uzdravily."
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:26
@@ -2206,42 +2212,44 @@ msgid ""
 "At last, relations mended, the two of them set out to deliver King Garard’s "
 "message to the elves..."
 msgstr ""
+"Když se konečně vztahy urovnaly, vydali se oba doručit vzkaz krále Gararda "
+"elfům..."
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:54
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:60
 msgid "Lintanir"
-msgstr ""
+msgstr "Lintanir"
 
 #. [unit]: id=Eloreis
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:87
 msgid "Eloreis"
-msgstr ""
+msgstr "Eloreis"
 
 #. [unit]: id=Parandra
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:100
 msgid "Parandra"
-msgstr ""
+msgstr "Parandra"
 
 #. [unit]: id=Kalenz
 #. [unit]: id=kalenz_mirror
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:111
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1321
 msgid "Kalenz"
-msgstr ""
+msgstr "Kalenz"
 
 #. [unit]: id=Chantal
 #. [unit]: id=chantal_mirror
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:123
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1338
 msgid "Chantal"
-msgstr ""
+msgstr "Chantal"
 
 #. [message]: speaker=Delfador
 #. Delfador is trying to speak, but gets interrupted by an elvish marshal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:189
 msgid "Okay, yes, but—"
-msgstr ""
+msgstr "Dobře, ano, ale —"
 
 #. [message]: speaker=Eloreis
 #. Delfador has brought a message from King Garard to the elves, asking them to attack the whitefang orcs
@@ -2251,6 +2259,9 @@ msgid ""
 "our rangers have neither the training nor the elfpower to fight an offensive "
 "war on open ground! What your king asks of us is impossible."
 msgstr ""
+"Chápu postoj Weldynu ke skřetům, ale Garard nemůže změnit fakta: naši "
+"hraničáři nemají ani výcvik, ani elfí sílu k tomu, aby vedli útočnou válku "
+"v otevřeném terénu! To, co od nás tvůj král požaduje, je nemožné."
 
 #. [message]: speaker=Parandra
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:198
@@ -2261,6 +2272,11 @@ msgid ""
 "desire have we for more territory when Lintanir’s broad eaves could support "
 "ten times our numbers?"
 msgstr ""
+"A proč bychom to vlastně měli chtít? Skřeti se drží dál od našich lesů a my "
+"se držíme dál od jejich kopců. Tak to funguje už více než století. Váš král "
+"nám slibuje jako kořist zasněžené hory a vyprahlou poušť, ale k čemu by nám "
+"bylo další území, když široké úbočí Lintaniru by uživilo desetkrát tolik "
+"lidí, kolik nás je?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:202
@@ -2270,6 +2286,9 @@ msgid ""
 "must know the orcs threaten all peoples of Wesnoth, or why else would he "
 "wage this war?"
 msgstr ""
+"Vážení pánové a dámy, chápu vaši povinnost chránit své země a svůj lid. "
+"A není to právě to, co nyní dělá Weldyn? Král Garard si jistě uvědomuje, že "
+"skřeti ohrožují všechny národy Wesnothu – proč by jinak vedl tuto válku?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:207
@@ -2282,11 +2301,18 @@ msgid ""
 "honor of the friendship we have built over my many years here, I would hope "
 "Lintanir will as well."
 msgstr ""
+"Samozřejmě můžete klidně pohrdat výzvou mého krále. Potloukat se "
+"v Lintaniru. Žít, smát se a <i>prodlévat</i>, dokud se síly Wesnothu "
+"nevyčerpají v Pyrrhovo vítězství nebo krvavé porážce.\n"
+"\n"
+"Vězte však, že já na volání svého krále odpovím. Vyrazím do války. Na počest "
+"přátelství, které jsme zde během mnoha let, co tu pobývám, vybudovali, "
+"doufám, že Lintanir učiní totéž."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:222
 msgid "Truly, a moving speech..."
-msgstr ""
+msgstr "To byl opravdu dojemný projev..."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:226
@@ -2295,6 +2321,9 @@ msgid ""
 "before seen the horrors of a war between elves and orcs, and have no desire "
 "to plunge my people back into such a nightmare."
 msgstr ""
+"Deorane, je mi líto, ale Eloreis má pravdu. Tohle není náš boj. Už dávno "
+"jsem byl svědkem hrůz války mezi elfy a skřety a nemám nejmenší chuť "
+"uvrhnout svůj lid znovu do takového zlého snu."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:230
@@ -2307,6 +2336,13 @@ msgid ""
 "you have spent here, but if Wesnoth goes to war we cannot march alongside "
 "you."
 msgstr ""
+"Kdyby skřetí hordy opět ohrožovaly celý kontinent, jako tomu bylo "
+"v minulosti, byl bych první, kdo by vystoupil a nabídl svůj meč do služeb "
+"spojenectví.\n"
+"\n"
+"Ale pro územní zisky? Cením si tvého přátelství a vážím si času, který jsi "
+"zde strávil, ale pokud Wesnoth vstoupí do války, nemůžeme pochodovat po tvém "
+"boku."
 
 #. [message]: speaker=Chantal
 #. 'Great-Grandfather' means Kalenz. Chantal is Kalenz's granddaughter
@@ -2317,6 +2353,10 @@ msgid ""
 "naught to offer but kind words? Force-of-arms is not the only strength of "
 "the elves."
 msgstr ""
+"Pradědečku, neříkej takové věci! Deoran a jeho spojenci riskují v bitvě své "
+"životy, a v celé té rozlehlosti Lintaniru nemůžeme najít nic jiného, co "
+"bychom jim mohli nabídnout, než laskavá slova? Vojenská síla není jedinou "
+"mocí elfů."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:241
@@ -2326,6 +2366,10 @@ msgid ""
 "life; sometimes to battle, sometimes to age. I would postpone that fate for "
 "Deoran if I can, for both your sakes."
 msgstr ""
+"Chantal, někdy mi tak moc připomínáš svou babičku... možná máš pravdu. Během "
+"svého nepřirozeně dlouhého života jsem viděl zemřít příliš mnoho přátel. "
+"Někdy v boji, jindy stářím. Kdybych mohl, takový osud bych od Deorana "
+"vzdálil – v zájmu vás obou."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:245
@@ -2333,6 +2377,8 @@ msgid ""
 "Deoran, Delfador, what I now speak to you concerns one of our great secrets; "
 "you are not to speak of this to anyone, even to your king."
 msgstr ""
+"Deorane, Delfadore, to, co vám nyní řeknu, se týká jednoho z našich velkých "
+"tajemství. Nesmíte o tom nikomu říkat, ani svému králi."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:250
@@ -2342,6 +2388,10 @@ msgid ""
 "Perhaps her visions may illuminate some measure of your futures, and in "
 "doing so help you blaze brighter ones."
 msgstr ""
+"Hluboko v Lintaniru přebývá naše sylfa – elfí vidoucí. Elendino roztříštěné, "
+"tajemné vidění i její záblesky proroctví v nás vzbuzují jak obdiv, tak "
+"strach. Možná vám její vize osvětlí alespoň část vaší budoucnosti a pomohou "
+"vám, aby zářila jasněji."
 
 #. [message]: speaker=Eloreis
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:254
@@ -2349,6 +2399,9 @@ msgid ""
 "Kalenz, are you sure this is wise? Seers are known to be... esoteric... and "
 "Elende has been particularly cloistered these last few decades."
 msgstr ""
+"Kalenzi, jsi si jistý, že je to moudré? Vidoucí jsou známí tím, že jsou... "
+"tajnosnubní... a Elende byla v posledních několika desetiletích obzvlášť "
+"odloučená."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:258
@@ -2356,28 +2409,29 @@ msgid ""
 "I shall accompany them. I wish to spend some time with with these humans "
 "before they depart."
 msgstr ""
+"Půjdu s nimi. Ráda bych s těmito lidmi strávila trochu času, než odejdou."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:262
 msgid "And so do and so shall I. Come, follow me."
-msgstr ""
+msgstr "A já učiním totéž. Pojďte, následujte mne."
 
 #. [time]: id=midnight
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:283
 msgid "Midnight"
-msgstr ""
+msgstr "Půlnoc"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:294
 msgid ""
 "There’s 5 gold pieces in this old boat! I suppose it’s better than nothing."
-msgstr ""
+msgstr "V téhle staré lodi je 5 zlatých! Řekl bych, že je to lepší než nic."
 
 #. [message]: speaker=Delfador
 #. said after a Forest Lion, Horned Scarab, or Silverback (a gorilla) attacks one of the player's units
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:375
 msgid "Look out! There’re beasts in the forest!"
-msgstr ""
+msgstr "Pozor! V lese je divá zvěř!"
 
 #. [message]: speaker=Deoran
 #. said after the player double-clicks on Delfador to try and cast a spell
@@ -2386,6 +2440,8 @@ msgid ""
 "No magic more unusual than a fireball, Delfador. We don’t want to appear "
 "threatening."
 msgstr ""
+"Žádnou magii neobvyklejší než ohnivá koule, Delfadore. Nechceme působit "
+"hrozivě."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:411
@@ -2396,6 +2452,11 @@ msgid ""
 "In many places there is no path at all, and Delfador senses they are guided "
 "more by the elves’ connection to the faerie than by conventional pathfinding."
 msgstr ""
+"Kalenz vede Delfadora, Deorana a Chantal po spletité cestě hlubokým lesem, "
+"přes zákruty a zatáčky a po klikatících se stezkách.\n"
+"\n"
+"Na mnoha místech pěšina úplně mizí a Delfador má pocit, že je vede spíše "
+"spojení elfů s říší víl než běžné hledání cesty."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:417
@@ -2405,6 +2466,9 @@ msgid ""
 "find the way again. At last, in the dead of night, a small structure looms "
 "out of the forest..."
 msgstr ""
+"Slunce zapadá jako umírající uhlík, který zhasíná pod obzorem, a les se noří "
+"do tmy. I Kalenz se několikrát ztratí, ale pokaždé se mu podaří znovu najít "
+"cestu. Nakonec, uprostřed noci, se z lesa vynoří malá stavba..."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:427
@@ -2412,24 +2476,26 @@ msgid ""
 "We have arrived. The seer’s mirror pool is just ahead; she herself should be "
 "close by."
 msgstr ""
+"Dorazili jsme. Zrcadlová tůň vidoucí je hned před námi. Ona sama by měla být "
+"někde poblíž."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:435
 msgid "Find the Sylph"
-msgstr ""
+msgstr "Najdi sylfu"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:439
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:475
 msgid "Death of Delfador, Deoran, Chantal, or Kalenz"
-msgstr ""
+msgstr "Delfador, Deoran, Chantal nebo Kalenz zemře"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:447
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:483
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1415
 msgid "Kalenz and Chantal will not follow you to the next scenario."
-msgstr ""
+msgstr "Kalenz a Chantal tě do dalšího scénáře nebudou následovat."
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:450
@@ -2438,18 +2504,18 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:802
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1146
 msgid "In this scenario, you can neither gain nor spend gold."
-msgstr ""
+msgstr "V tomto scénáři nemůžeš zlato ani získat, ani utratit."
 
 #. [message]
 #. there is a pool of water in the middle of the map. Right now the pool is mostly dry - your objective is to solve a puzzle to fill the pool with water
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:466
 msgid "There lies the mirror pool, but it is strangely dry..."
-msgstr ""
+msgstr "Tam leží zrcadlová tůň, ale je podivně vyschlá..."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:471
 msgid "Fill the central pool with water"
-msgstr ""
+msgstr "Naplň hlavní tůň vodou"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:486
@@ -2457,6 +2523,8 @@ msgid ""
 "Villages do not provide income in this scenario (since you have unlimited "
 "turns), but still provide healing."
 msgstr ""
+"Vesnice v tomto scénáři nezajišťují žádné příjmy (protože máš neomezený "
+"počet kol), ale i tak poskytují léčení."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:512
@@ -2464,6 +2532,8 @@ msgid ""
 "This is a puzzle segment. If you don’t like puzzles or find it too "
 "challenging, you can choose to skip it."
 msgstr ""
+"Toto je část s hádankou. Pokud nemáš hádanky rád/a nebo se ti zdá příliš "
+"náročná, můžeš ji přeskočit."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:514
@@ -2471,16 +2541,18 @@ msgid ""
 "The puzzle is harder on high difficulties, and much easier on low "
 "difficulties."
 msgstr ""
+"Hádanka je na vyšších úrovních obtížnosti těžší a na nižších úrovních mnohem "
+"snazší."
 
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:516
 msgid "Play the puzzle <i>(includes XP)</i>"
-msgstr ""
+msgstr "Zahrát si logickou hru <i>(zahrnuje body zkušeností)</i>"
 
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:519
 msgid "Skip the puzzle"
-msgstr ""
+msgstr "Přeskočit hádanku"
 
 #. [message]: speaker=Delfador
 #. referencing the events in The South Guard; exaggerated
