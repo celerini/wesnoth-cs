@@ -2625,7 +2625,7 @@ msgid ""
 "Guard, and brace for incoming attack!"
 msgstr ""
 "I ty největší hordy mají své meze – musíme tyto ruiny bránit, dokud tomuto "
-"banditovi nedojde magie! Připravte se na bitvu, vojáci Jižní stráže, a "
+"banditovi nedojde magie! Připravte se na bitvu, vojáci Jižní hlídky, a "
 "připravte se na blížící se útok!"
 
 #. [display_tip]
