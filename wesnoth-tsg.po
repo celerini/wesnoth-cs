@@ -2547,7 +2547,7 @@ msgid ""
 "village. You and I and all your new human friends are going to have such "
 "<b><i>fun</i></b> together..."
 msgstr ""
-"Ethiliel, ty ubohá, zaslepená dívko. Zrovna ty bys měla vědět <b><i>, kolik</"
+"Ethiliel, ty ubohá, zaslepená dívko. Zrovna ty bys měla vědět <b><i>kolik</"
 "i></b> nemrtvých jsem oživil z trosek tvé malé vesnice. Ty, já a všichni tví "
 "noví lidští přátelé si spolu užijeme spoustu <b><i>legrace</i></b>..."
 
