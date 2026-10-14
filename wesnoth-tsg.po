@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-10-14 20:29+0200\n"
+"PO-Revision-Date: 2026-10-14 20:32+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2496,8 +2496,8 @@ msgid ""
 "of eternal unlife."
 msgstr ""
 "Ale co to? Dorazil jsem právě včas, protože máme hosty, lidské hosty! "
-"Vítejte, vítejte. Mám velkou radost, že mám návštěvu, protože od té doby, co "
-"se i můj poslední živý stoupenec připojil k hordám věčného neživota, jsem "
+"Vítejte, vítejte. Mám velkou radost, že přišla návštěva, protože od té doby, "
+"co se i můj poslední živý stoupenec připojil k hordám věčného neživota, jsem "
 "neviděl ani živou duši."
 
 #. [message]
@@ -2626,7 +2626,7 @@ msgid ""
 msgstr ""
 "I ty největší hordy mají své meze – musíme tyto ruiny bránit, dokud tomuto "
 "banditovi nedojde magie! Připravte se na bitvu, vojáci Jižní hlídky, a "
-"připravte se na blížící se útok!"
+"seberte síly na blížící se útok!"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:729
