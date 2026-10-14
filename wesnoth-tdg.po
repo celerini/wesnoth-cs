@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-13 20:41+0200\n"
+"PO-Revision-Date: 2026-10-14 20:01+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1001,7 +1001,7 @@ msgstr "Učedníku! Posloucháš mě? Snažím se ti pogratulovat!"
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:615
 msgid "But who— what— um, yes, I must have drifted off."
-msgstr "Ale kdo… co… ehm, ano, trochu jsem se ztratil v myšlenkách."
+msgstr "Ale kdo... co... ehm, ano, trochu jsem se ztratil v myšlenkách."
 
 #. [message]: speaker=Leollyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/00_Graduation.cfg:619
@@ -2275,8 +2275,8 @@ msgstr ""
 "A proč bychom to vlastně měli chtít? Skřeti se drží dál od našich lesů a my "
 "se držíme dál od jejich kopců. Tak to funguje už více než století. Váš král "
 "nám slibuje jako kořist zasněžené hory a vyprahlou poušť, ale k čemu by nám "
-"bylo další území, když široké úbočí Lintaniru by uživilo desetkrát tolik "
-"lidí, kolik nás je?"
+"bylo další území, když by široké koruny Lintaniru uživily desetkrát tolik "
+"lidí, než kolik nás je?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:202
@@ -2562,6 +2562,9 @@ msgid ""
 "you single-handedly beat down a horde of black-magic bandits and saved the "
 "south from destruction? You’re practically a folk hero!"
 msgstr ""
+"Deorane, ve druhém ročníku na Alduinu jsem měl zkoušku o tobě. Je pravda, že "
+"jsi sám porazil hordu banditů praktikujících černou magii a zachránil jih "
+"před zničením? Jsi v podstatě lidový hrdina!"
 
 #. [message]: speaker=Deoran
 #. this is what has happened to Deoran since ending The South Guard
@@ -2571,6 +2574,9 @@ msgid ""
 "his favorites, but has little tolerance for failure. I found scant room for "
 "advancement within Wesnoth after so much blood spilled in Westin."
 msgstr ""
+"Možná pro některé. Král však nebyl příliš potěšen – Garard je sice velkorysý "
+"ke svým oblíbencům, ale těžko snáší selhání. Po tom, co bylo ve Westinu "
+"prolito tolik krve, mé naděje na povýšení ve Wesnothu zhasly."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:561
@@ -2580,6 +2586,10 @@ msgid ""
 "exercise what I learned from my time amongst the Aethenwood elves. I have "
 "come to value my friends here."
 msgstr ""
+"To vše se však stalo už před mnoha lety. Postavení vyslance v Lintaniru je "
+"vážené, i kdyby jen svým názvem, a představuje příležitost uplatnit to, co "
+"jsem se naučil během svého pobytu mezi elfy v Aethenském lese. Svých přátel "
+"zde si velmi vážím."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:565
@@ -2588,6 +2598,9 @@ msgid ""
 "of my own ilk, yet still I hope to return to Lintanir once my war-duty is "
 "done."
 msgstr ""
+"Musím přiznat, že se těším, až budu opět pochodovat po boku svých "
+"soukmenovců, přesto však doufám, že se po skončení své válečné služby vrátím "
+"do Lintaniru."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:579
@@ -2596,12 +2609,14 @@ msgid ""
 "ambassador. Deoran is no fool; if he does not already know, he certainly "
 "suspects."
 msgstr ""
+"Chantal, máme si o čem povídat. Je zřejmé, že k vyslanci něco cítíš. Deoran "
+"není žádný hlupák. Pokud to ještě neví, určitě něco tuší."
 
 #. [message]: speaker=Chantal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:583
 msgid ""
 "—who? What? Great-Grandfather, I have no idea what you’re talking about."
-msgstr ""
+msgstr "— kdo? Co? Pradědečku, nemám ponětí, o čem to mluvíš."
 
 #. [message]: speaker=Chantal
 #. continuing the "Chantal has feelings for Deoran" conversation, a moment after it ended
@@ -2612,6 +2627,10 @@ msgid ""
 "i>! Even a crusty old elf like you has to admit that round ears and stubble "
 "are exotic."
 msgstr ""
+"Tak dobře – no, ano, ale Deoran je dobrý člověk! Moudrý a laskavý, a který "
+"tiše snáší břemeno vyhnanství, tak daleko od svého lidu? A navíc je "
+"<i>člověk</i>! I takový nevrlý starý elf jako ty musí přiznat, že kulaté uši "
+"a strniště jsou kouzelné."
 
 #. [message]: speaker=Kalenz
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:594
@@ -2621,23 +2640,27 @@ msgid ""
 "pursue this, but I know all-too-well the pain from outliving those you love. "
 "Cleodil was just as stubborn as you..."
 msgstr ""
+"Životy mužů hoří jasně, ale krátce. I kdyby se vrátil do Lintaniru, jakou "
+"budoucnost byste spolu mohli vytvořit? Nebudu ti bránit, pokud se do toho "
+"chceš pustit, ale až příliš dobře znám tu bolest, když přežiješ ty, které "
+"miluješ. Kleodil byla stejně tvrdohlavá jako ty..."
 
 #. [message]: speaker=Delfador
 #. the player has just moved a unit onto one of several blue orbs scattered around the map, which has caused a river to change direction. This is part of the puzzle
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:607
 msgid "Look, the stream is changing direction!"
-msgstr ""
+msgstr "Podívejte, ten potok mění směr!"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:611
 msgid "Moonstones! Elende, what have you been up to..."
-msgstr ""
+msgstr "Měsíční kameny! Elende, co jsi zase vyváděla..."
 
 #. [message]: speaker=Delfador
 #. a monster has just drowned in the river, as a result of the player redirecting the river into the beast's hex
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:619
 msgid "Odd, the water appears shallow but the beast has vanished entirely."
-msgstr ""
+msgstr "Zvláštní, voda vypadá mělká, ale ta příšera úplně zmizela."
 
 #. [message]
 #. a player unit has just drowned in the river, as a result of the player redirecting the river into the beast's hex
@@ -2646,6 +2669,8 @@ msgid ""
 "This sandbed is shallow, but the water is suddenly deep and a strange magic "
 "tugs at my legs! I am drowning!"
 msgstr ""
+"Tohle písčité dno je mělké, ale voda je najednou hluboká a nějaké podivné "
+"kouzlo mě táhne za nohy! Topím se!"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:653
@@ -2653,53 +2678,56 @@ msgid ""
 "female^This sandbed is shallow, but the water is suddenly deep and a strange "
 "magic tugs at my legs! I am drowning!"
 msgstr ""
+"Tohle písčité dno je mělké, ale voda je najednou hluboká a nějaké podivné "
+"kouzlo mě táhne za nohy! Topím se!"
 
 #. [message]
 #. a monster has just drowned in the river, as a result of the player redirecting the river into the beast's hex
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:664
 msgid "Gurgle gurgle gurgle..."
-msgstr ""
+msgstr "Glo glo glo glo glo glo..."
 
 #. [message]: speaker=Delfador
 #. the player has completed their puzzle, and filled the central "mirror pool" with water
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1082
 msgid "There! The pool is full!"
-msgstr ""
+msgstr "A je to! Tůň je plná!"
 
 #. [time]: id=void
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1109
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:704
 msgid "Void"
-msgstr ""
+msgstr "Prázdnota"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1148
 msgid "What was that?!"
-msgstr ""
+msgstr "Co to bylo?!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1159
 msgid ""
 "I think this whole mirror world is starting to fall apart! I have to hurry!"
 msgstr ""
+"Mám pocit, že se celý ten zrcadlový svět začíná rozpadat! Musím si pospíšit!"
 
 #. [message]
 #. the player's units have just been transported into a strange realm, and aren't sure what's going on. Kalenz probably knows more than anybody else, and is calling out to see where Elende is (and what exactly she's doing)
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1303
 msgid "Elende!"
-msgstr ""
+msgstr "Elende!"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1308
 msgid "Elende, I come with friends, seeking foresight! Deoran and Del—"
-msgstr ""
+msgstr "Elende, přišel jsem s přáteli, hledáme moudrost! Deoran a Del —"
 
 #. [message]
 #. immediately after this, magically created "mirror image" units of younger/older versions of Kalenz, Chantal, and Deoran appear
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1314
 msgid ""
 "I know who you are, Delfador of Alduin. But how well do you know yourselves?"
-msgstr ""
+msgstr "Vím, kdo jsi, Delfadore z Alduinu. Ale jak dobře se znáš ty sám?"
 
 #. [unit]: id=deoran_mirror
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1355
@@ -2711,64 +2739,66 @@ msgstr "Deoran"
 #. referencing the mirror image of Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1371
 msgid "Deoran, is that... you? You look so much younger."
-msgstr ""
+msgstr "Deorane, jsi to... ty? Vypadáš o tolik mladší."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1375
 msgid "What’s going on?! Kalenz, is this normal?"
-msgstr ""
+msgstr "Co se to děje?! Kalenzi, je tohle obvyklé?"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1401
 msgid "Defeat all enemies"
-msgstr ""
+msgstr "Poraz všechny nepřátele"
 
 #. [objective]: condition=lose
 #. if reduced to 0 hp, Delfador doesn't die. Instead, he's kicked out of the mirror world, and fails the scenario
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1406
 msgid "Loss of Delfador"
-msgstr ""
+msgstr "Ztráta Delfadora"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1418
 msgid ""
 "In this strange world, fate guides every strike. <i>(attacks never miss)</i>"
 msgstr ""
+"V tomto podivném světě řídí každý úder osud. <i>(útoky nikdy neminou)</i>"
 
 #. [event]: id=always_hit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1444
 msgid ""
 "The mortal world beckons; tell me the rest of the prophecy when next we meet!"
 msgstr ""
+"Svět smrtelníků mě volá. Až se příště setkáme, pověz mi zbytek proroctví!"
 
 #. [event]: id=always_hit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1445
 msgid "Elende, I hope you know what you’re doing. Good luck, the rest of you!"
-msgstr ""
+msgstr "Elende, doufám, že víš, co děláš. Hodně štěstí, vy ostatní!"
 
 #. [event]: id=always_hit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1446
 msgid ""
 "Owww! Elende, it’s very rude to banish someone without their permission!"
-msgstr ""
+msgstr "Au! Elende, je velmi nezdvořilé někoho vyhnat bez jeho svolení!"
 
 #. [message]: speaker=Delfador
 #. Delfador has just been reduced to 0hp, and been "kicked out" of Elenede's "mirror realm" or wherever she was giving the prophecy
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1454
 msgid "Hey, stop—"
-msgstr ""
+msgstr "Hele, přestaň —"
 
 #. [time]: id=dawn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1472
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1988
 msgid "Dawn"
-msgstr ""
+msgstr "Svítání"
 
 #. [message]: speaker=Delfador
 #. Delfador has missed the ending of the prophecy, and the player loses the scenario
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1497
 msgid "I didn’t get to finish hearing everything..."
-msgstr ""
+msgstr "Nestihl jsem si to všechno poslechnout až do konce..."
 
 #. [message]
 #. spoken by Elende (through Kalenz's mirror image), referencing Legend of Wesmere's invisibility potion and Landar
@@ -2777,11 +2807,13 @@ msgid ""
 "Lich’s eye and brother’s bone; what have you sacrificed to save your people, "
 "Kalenz? Your greatest fear stands before you... ahead of you?"
 msgstr ""
+"Oko licha a kost bratra. Co jsi obětoval, abys zachránil svůj lid, Kalenzi? "
+"Tvůj největší strach stojí před tebou... čeká na tebe?"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1531
 msgid "That was long ago, Elende! This is about the humans’ story, not mine."
-msgstr ""
+msgstr "To už je dávno, Elende! Tady jde o příběh lidí, ne o můj."
 
 #. [message]
 #. spoken by Elende (through Deoran's mirror image), referencing his exile. I intend "nation" more in the "people" sense than the "country" sense.
@@ -2791,6 +2823,9 @@ msgid ""
 "his counsel and cast him away. What will become of the life he has built "
 "amongst Lintanir’s twilight eaves?"
 msgstr ""
+"Deoran, vyhnanec, se vrací domů. Vrací se k národu, který jím pohrdl, nedbal "
+"jeho rad a odvrhl ho. Co se stane s životem, který si vybudoval pod šerými "
+"korunami Lintaniru?"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1572
@@ -2798,12 +2833,14 @@ msgid ""
 "I know my duty! A captain of Wesnoth will never entertain doubts of loyalty, "
 "whether to his country or his King."
 msgstr ""
+"Vím, co je mou povinností! Kapitán Wesnothu nikdy nebude pochybovat o své "
+"věrnosti, ať už vůči své zemi, nebo svému králi."
 
 #. [message]
 #. spoken by Elende (through Chantal's mirror image), referencing Cleodil's historic death and foreshadowing Deoran's upcoming death
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1585
 msgid "Chantal—"
-msgstr ""
+msgstr "Chantal —"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1589
@@ -2811,6 +2848,8 @@ msgid ""
 "I already know what you’re going to say Elende! Don’t you dare; I will when "
 "I’m ready."
 msgstr ""
+"Už vím, co mi chceš říct, Elende! Ani se o to nepokoušej. Udělám to, až budu "
+"připravená."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1595
@@ -2818,13 +2857,15 @@ msgid ""
 "Then you may soon understand some measure of your great-grandfather’s bygone "
 "sorrows..."
 msgstr ""
+"Pak možná brzy alespoň zčásti pochopíš, jaké strasti zažil tvůj pradědeček "
+"v minulosti..."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1674
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1925
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1932
 msgid "Elende"
-msgstr ""
+msgstr "Elende"
 
 #. [message]
 #. Elende reaveals that she's the one who gave the weird prophecy thing to Delfador at Alduin, even though she wasn't physically there
@@ -2833,6 +2874,8 @@ msgid ""
 "And what of the fire mage? Young but ambitious, brilliant yet foolish. It "
 "has been many moons since I spoke to you at Alduin."
 msgstr ""
+"A co ten ohnivý mág? Mladý, ale ctižádostivý, vynikající, avšak pošetilý. Už "
+"je to mnoho měsíců, co jsem s tebou mluvila na Alduinu."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1681
@@ -2840,6 +2883,8 @@ msgid ""
 "That was you, back at graduation? I knew I heard a voice! Master Leollyn "
 "thought I was going crazy..."
 msgstr ""
+"To jsi byla ty, tehdy při ukončení studia? Já věděl, že jsem slyšel nějaký "
+"hlas! Profesor Leollyn si myslel, že blázním..."
 
 #. [event]
 #. [event]: type=Delfador L4, id=delfador_mirror4
@@ -2859,6 +2904,8 @@ msgid ""
 "I see secrets in the dark; a pale spy slips their bonds. A death, a "
 "deceiver. Ringed swords, cold blood, false friends."
 msgstr ""
+"Ve tmě vidím tajemství. Bledý špeh se vymaní ze svých pout. Smrt, podvodník. "
+"Zvonění mečů, chladná krev, zrádní přátelé."
 
 #. [message]
 #. referencing Delfador's adventures in scenarios 8-10, where he works with (or kills) poachers to fight saurians, then fights undead and a ghost given the appearance of a living drake.
@@ -2867,12 +2914,16 @@ msgid ""
 "The dark swamp looms. Purses and poachers, mirror and smoke. A figure of "
 "shadow cloaked in the spirits of the dead. Battles won while wars are lost."
 msgstr ""
+"Objevuje se temný močál. Měšce a pytláci, zrcadlo a kouř. Stínová postava "
+"zahalená do duchů mrtvých. Vyhrané bitvy, zatímco války jsou prohrané."
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1785
 msgid ""
 "Spend 16 XP to disallow magical attacks in a 3-hex radius, until cancelled."
 msgstr ""
+"Za 16 zkušenostních bodů znemožníš v okruhu 3 políček magické útoky, dokud "
+"nebude kouzlo zrušeno."
 
 #. [message]
 #. referencing the civil war when Asheviere takes power
@@ -2883,6 +2934,9 @@ msgid ""
 "of mankind will be broken, and flames shall blaze anew across the embers of "
 "Haldric’s people."
 msgstr ""
+"Bratr proti bratrovi, otec proti dítěti. Z pustého trůnu povstane bledý "
+"anděl. Velkolepý i děsivý zároveň. Křehká rovnováha lidstva bude narušena "
+"a plameny znovu vzplanou nad uhlíky Haldrikova národa."
 
 #. [event]: type=Delfador L4, id=delfador_mirror4
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1821
@@ -2890,6 +2944,9 @@ msgid ""
 "Spend 48 XP to grant yourself and all allies double movement and a second "
 "attack this turn. When this turn ends, affected units become slowed."
 msgstr ""
+"Za 48 zkušenostních bodů zajistíš sobě i všem spojencům v tomto kole "
+"dvojnásobný pohyb a druhý útok. Po skončení tohoto kola budou dotčené "
+"jednotky zpomaleny."
 
 #. [message]
 #. referncing the future events of HttT; Konrad and Li'Sar retriving the sceptre of fire
@@ -2898,6 +2955,8 @@ msgid ""
 "Black soot rains over Weldyn. The line of kings sundered; the ruby of the "
 "wesfolk restored. The nameless son and the ashen daughter."
 msgstr ""
+"Na Weldyn se snáší déšť černých sazí. Řada králů se přetrhla. Rubín Wesanů "
+"byl navrácen. Bezejmenný syn a bledá dcera."
 
 #. [message]
 #. referencing Delfador's choice in S10x
@@ -2908,6 +2967,9 @@ msgid ""
 "the power to alter the currents of time; to rewrite the future that is "
 "written."
 msgstr ""
+"Tento osud však není jedinou cestou. Čaroději z Alduinu, stojíš v uzlu "
+"pramenů, v propojení úlomků. Na jeden krátký okamžik budeš mít moc změnit "
+"proudy času. Přepsat budoucnost, která je již dána."
 
 #. [message]
 #. referencing Delfador's choice in S10x. He can either listen to a drunk Garard and kill Garard's brother Arand based on false reports of a betrayal, or refuse, stay with Garard, and find out more about Arand before attacking
@@ -2917,17 +2979,20 @@ msgid ""
 "that fire that you possess, but the gleaming light of truth instead. Quench "
 "the flames of fear before all your world is consumed."
 msgstr ""
+"Až ten okamžik nastane, pamatuj si... snaž se tím ohněm, který v sobě máš, "
+"nepřinášet zkázu, ale naopak zářivé světlo pravdy. Uhas plameny strachu, než "
+"bude tvůj svět zcela stráven."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:1939
 msgid "But, what? I don’t understa—"
-msgstr ""
+msgstr "Ale cože? Nerozu —"
 
 #. [message]: speaker=Delfador
 #. Delfador previously said "But, what? I don’t understa—", but has now been kicked out of Elende's 'mirror world' and is back in the normal world. The scenario is over.
 #: data/campaigns/The_Deceivers_Gambit/scenarios/04_The_Sylvan_Seer.cfg:2011
 msgid "—nd what you’re saying..."
-msgstr ""
+msgstr "— mím tomu, co říkáš..."
 
 #. [scenario]: id=05_The_Deceiver
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:11
