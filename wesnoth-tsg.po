@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-08-18 15:19 UTC\n"
-"PO-Revision-Date: 2026-10-10 16:35+0200\n"
+"PO-Revision-Date: 2026-10-14 20:29+0200\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2448,7 +2448,7 @@ msgid ""
 msgstr ""
 "Co se stalo? Vy blátošlapové jste zabili mé přátele, unesli našeho mudrce a "
 "uvěznili mě tady po celé ty dlouhé a strašné měsíce!\n"
-"… ale pokud opravdu patříte k Jižní hlídce, pak za to nemůžete."
+"... ale pokud opravdu patříte k Jižní hlídce, pak za to nemůžete."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:491
@@ -2459,10 +2459,10 @@ msgid ""
 "Mebrin, was taken away in chains; a foul insult for such a wise old elf."
 msgstr ""
 "Přišli v noci, je to víc než jedna sezóna. Neviděla jsem všechno, co se "
-"odehrálo, ale slyšela jsem výkřiky… Většina z nás byli řemeslníci a učenci, "
-"proti vašim palicím a sekerám jsme neměli šanci! Mého učitele, našeho "
-"velkého mudrce Mebrina, odvedli v řetězech. Pro tak moudrého starého elfa to "
-"byla hrozná potupa."
+"odehrálo, ale slyšela jsem výkřiky... Většina z nás byli řemeslníci a "
+"učenci, proti vašim palicím a sekerám jsme neměli šanci! Mého učitele, "
+"našeho velkého mudrce Mebrina, odvedli v řetězech. Pro tak moudrého starého "
+"elfa to byla hrozná potupa."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:495
@@ -2484,8 +2484,8 @@ msgid ""
 "the master’s magic whispers promises of life eternal, whispers beautiful "
 "secrets..."
 msgstr ""
-"Ach, to krásné mravenčení v konečcích prstů! Opojné, povznášející… mistrova "
-"magie šeptá sliby věčného života, šeptá nádherná tajemství…"
+"Ach, to krásné mravenčení v konečcích prstů! Opojné, povznášející... "
+"mistrova magie šeptá sliby věčného života, šeptá nádherná tajemství..."
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:576
@@ -2517,8 +2517,8 @@ msgid ""
 "intact, we could have had even more!"
 msgstr ""
 "Ethiliel, jsem v šoku! Copak ses netěšila z našich krásných společných "
-"chvil? Tolik krásných vzpomínek… Kdyby mi jen pán nenařídil, abych tě nechal "
-"naživu, mohli jsme jich mít ještě víc!"
+"chvil? Tolik krásných vzpomínek... Kdyby mi jen pán nenařídil, abych tě "
+"nechal naživu, mohli jsme jich mít ještě víc!"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:591
@@ -2570,8 +2570,8 @@ msgid ""
 "you intact, we could have had even more!"
 msgstr ""
 "Ethiliel, jsem v šoku! Copak ses netěšila z našich krásných společných "
-"chvil? Tolik krásných vzpomínek… Kdyby mi jen pán nenařídil, abych tě nechal "
-"naživu, mohli jsme jich mít ještě víc!"
+"chvil? Tolik krásných vzpomínek... Kdyby mi jen pán nenařídil, abych tě "
+"nechal naživu, mohli jsme jich mít ještě víc!"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:614
@@ -2582,9 +2582,9 @@ msgid ""
 "friends are going to have such <b><i>fun</i></b> together..."
 msgstr ""
 "Ale rozhodně nemůžu dovolit, aby tě tihle lidští návštěvníci osvobodili. "
-"Zrovna ty bys měla vědět <b><i>kolik</i></b> nemrtvých jsem oživil "
-"z trosek tvé malé vesnice. Ty, já a všichni tví noví lidští přátelé si spolu "
-"užijeme spoustu <b><i>legrace</i></b>…"
+"Zrovna ty bys měla vědět <b><i>kolik</i></b> nemrtvých jsem oživil z trosek "
+"tvé malé vesnice. Ty, já a všichni tví noví lidští přátelé si spolu užijeme "
+"spoustu <b><i>legrace</i></b>..."
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:637
