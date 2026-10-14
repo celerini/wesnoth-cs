@@ -2582,7 +2582,7 @@ msgid ""
 "friends are going to have such <b><i>fun</i></b> together..."
 msgstr ""
 "Ale rozhodně nemůžu dovolit, aby tě tihle lidští návštěvníci osvobodili. "
-"Zrovna ty bys měla vědět <b><i>, kolik</i></b> nemrtvých jsem oživil "
+"Zrovna ty bys měla vědět <b><i>kolik</i></b> nemrtvých jsem oživil "
 "z trosek tvé malé vesnice. Ty, já a všichni tví noví lidští přátelé si spolu "
 "užijeme spoustu <b><i>legrace</i></b>…"
 
