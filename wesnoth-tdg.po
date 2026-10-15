@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-14 20:01+0200\n"
+"PO-Revision-Date: 2026-10-15 19:09+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3005,6 +3005,8 @@ msgid ""
 "Delfador and his companions departed the mirror grove in hushed silence. The "
 "Sylph’s words weighed heavily on each of their minds."
 msgstr ""
+"Delfador a jeho společníci opustili zrcadlový háj v naprostém tichu. Slova "
+"sylfy na každého z nich těžce doléhala."
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:24
@@ -3014,31 +3016,36 @@ msgid ""
 "several days’ westward travel, they soon sighted the banners of the king’s "
 "army."
 msgstr ""
+"Po dlouhém uvažování a k velké nelibosti Chantal se Delfador a Deoran "
+"rozhodli pokračovat ve svém poslání. Po několika dnech cesty na západ "
+"opustili les a brzy zahlédli prapory královského vojska."
 
 #. [side]: type=Orcish Crossbowman, id=Shogro
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:54
 msgid "Shogro"
-msgstr ""
+msgstr "Šogro"
 
 #. [side]: type=Orcish Warlord, id=Khovak
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:72
 msgid "Khovak"
-msgstr ""
+msgstr "Khovak"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:302
 msgid "90 gold"
-msgstr ""
+msgstr "90 zlatých"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:302
 msgid "These orcs were sitting on some gold! We can put it to better use."
 msgstr ""
+"Tihle skřeti seděli na hromadě zlata! Můžeme ho využít k něčemu "
+"užitečnějšímu."
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:316
 msgid "Captain Kestrel"
-msgstr ""
+msgstr "Kapitán Kestrel"
 
 #. [message]: speaker=Chantal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:365
@@ -3046,12 +3053,16 @@ msgid ""
 "Deoran, are you sure you won’t reconsider staying in the Lintanir? What "
 "Elende said..."
 msgstr ""
+"Deorane, jsi si jistý, že se nerozmyslíš a nezůstaneš v Lintaniru? To, co "
+"říkala Elende..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:369
 msgid ""
 "My duty comes first, always. Would you truly want me any other way, Chantal?"
 msgstr ""
+"Moje povinnost je vždy na prvním místě. Opravdu bys chtěla abych byl jiný, "
+"Chantal?"
 
 #. [message]: speaker=Kalenz
 #. referencing the beginning of HttT, where Delfador and Konrad are staying with the elves
@@ -3064,6 +3075,12 @@ msgid ""
 "Should either of you ever find yourselves searching for a home away from "
 "Wesnoth, you will always be welcome with us."
 msgstr ""
+"Deorane, bylo nám potěšením mít tě v těchto letech mezi námi. A Delfadore, "
+"doufám, že jednoho dne budu moci totéž říci i o tobě. Elende si tě zjevně "
+"velmi váží, a to pro mě i můj lid znamená opravdu hodně.\n"
+"\n"
+"Kdyby některý z vás někdy hledal nový domov mimo Wesnoth, budete u nás vždy "
+"vítáni."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:391
@@ -3071,11 +3088,13 @@ msgid ""
 "Hail! The fledgling war-mage returns. Welcome, Delfador... and Deoran. Tell "
 "me, are the north-elves with us?"
 msgstr ""
+"Sláva! Mladý válečný mág se vrací. Vítej, Delfadore... a Deorane. Pověz mi, "
+"stojí severní elfové na naší straně?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:395
 msgid "Deepest apologies my Lord, but they are not. Lintanir—"
-msgstr ""
+msgstr "Upřímně se omlouvám, můj pane, ale ne. Lintanir —"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:399
@@ -3083,6 +3102,8 @@ msgid ""
 "I see. Unfortunate, but ultimately of no consequence. Victory is nearly won "
 "even without their aid."
 msgstr ""
+"Aha. Je to škoda, ale konec konců to není důležité. Vítězství máme téměř "
+"v kapse i bez jejich pomoci."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:404
@@ -3090,6 +3111,8 @@ msgid ""
 "See there: we’ve driven the Whitefang chieftain and the last of his guards "
 "into this old hill fort."
 msgstr ""
+"Podívejte se tam: zahnali jsme náčelníka Bílích špičáků a poslední z jeho "
+"stráží do toho starého hradiště."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:408
@@ -3098,6 +3121,9 @@ msgid ""
 "Lionel and my brother Arand will press them from the front, while you sneak "
 "in the back and roast their chief like a pig on a spit."
 msgstr ""
+"Načasování tvého návratu nemohlo být lepší, Delfadore. Generál Lionel a můj "
+"bratr Arand na ně zaútočí zepředu, zatímco ty se připlížíš zezadu a upečeš "
+"jejich náčelníka jako prase na rožni."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:412
@@ -3105,23 +3131,25 @@ msgid ""
 "Without their chief the Whitefangs will dissolve into an infighting mass of "
 "petty squabbles, and our— Wesnoth’s victory will be complete!"
 msgstr ""
+"Bez svého vůdce se Bílí špičáci rozpadnou na dav zmítaný vnitřními spory "
+"a malichernými hádkami a naše vítězství, tedy Wesnothu, bude úplné!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:420
 msgid "Defeat Khovak, the orcish warlord"
-msgstr ""
+msgstr "Poraz Khovaka, skřetího vojenského vůdce"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:424
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:583
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:504
 msgid "Death of Delfador or Deoran"
-msgstr ""
+msgstr "Delfador nebo Deoran zemře"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:428
 msgid "Death of Garard, Arand, Lionel, or Methor"
-msgstr ""
+msgstr "Garard, Arand, Lionel nebo Methor zemře"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:448
@@ -3130,6 +3158,9 @@ msgid ""
 "to stage our forces outside their walls, then attack just before the second "
 "dawn."
 msgstr ""
+"Nespěchej s útokem, Lioneli – není třeba plýtvat dobrými muži. Dej si čas na "
+"rozmístění našich sil před jejich hradbami a zaútoč těsně před druhým "
+"úsvitem."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:452
@@ -3137,6 +3168,8 @@ msgid ""
 "We have them right where we want them. Once our forces are assembled, I "
 "shall join the battle personally and savor this victory up close."
 msgstr ""
+"Máme je přesně tam, kde je chceme mít. Jakmile se naše jednotky shromáždí, "
+"zapojím se do bitvy osobně a vychutnám si toto vítězství zblízka."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:456
@@ -3145,6 +3178,9 @@ msgid ""
 "quickly. Chantal speaks of them as numerous and cunning... I wonder if "
 "something is amiss."
 msgstr ""
+"Překvapuje mě, že se Bílí špičáci tak rychle ocitli na pokraji porážky. "
+"Chantal o nich mluví jako o početném a mazaném nepříteli... Napadá mě, "
+"jestli není něco v nepořádku."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:468
@@ -3153,6 +3189,9 @@ msgid ""
 "their apprentices as warriors, but Clan Whitefang usually keeps theirs far "
 "from the frontline."
 msgstr ""
+"Skřetí šamanka! Občas jsem zaslechl, že některé jiné klany nasazují své "
+"učedníky jako válečníky, ale klan Bílých špičáků je obvykle drží daleko od "
+"přední linie."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:472
@@ -3161,6 +3200,10 @@ msgid ""
 "she was using, but now that I have her equipment I’ll bet I could figure out "
 "how to imitate that draining attack... for our next battle, at least."
 msgstr ""
+"To je ale neobvyklé kouzlo! Nemyslím si, že bych dokázal čerpat z těch "
+"základních sil, které používala, ale teď, když mám její výbavu, vsadím se, "
+"že bych mohl přijít na to, jak ten vysávací útok napodobit... alespoň pro "
+"naši příští bitvu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:498
@@ -3169,16 +3212,19 @@ msgid ""
 "defeated was standing on a keep. We should seize it and recruit our army "
 "before we attack the orcs’ main camp."
 msgstr ""
+"Ještě jsem nenaverboval ani nepovolal žádné vojáky! Ta skřetí šamanka, "
+"kterou jsme porazili, stála v tvrzi. Měli bychom ji obsadit a postavit naše "
+"vojsko, než zaútočíme na hlavní tábor skřetů."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:522
 msgid "There’s more of them coming from the north! Should we go attack?"
-msgstr ""
+msgstr "Ze severu se jich blíží ještě víc! Měli bychom zaútočit?"
 
 #. [message]: speaker=Khovak
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:526
 msgid "Stay in our fort, worm! Stick to the plan."
-msgstr ""
+msgstr "Zůstaň v naší pevnosti, červe! Drž se plánu."
 
 #. [message]: speaker=Garard
 #. "trog" is a made-up slur referring to an orc
@@ -3187,11 +3233,13 @@ msgid ""
 "You’re squatting in my summer home, trogs! No more raids for you; no more "
 "pillage and plunder. Last chance to surrender!"
 msgstr ""
+"Zabíráte mi letní sídlo, neandrtálci! Už žádné nájezdy, žádné rabování "
+"a plenění. Poslední šance se vzdát!"
 
 #. [message]: speaker=second_unit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:543
 msgid "Up yours, pink-skin!"
-msgstr ""
+msgstr "Jdi do háje, ty selecí kůže!"
 
 #. [message]: speaker=Delfador
 #. Delfador is telling his master Methor about the adventures he had in the last 2 scenarios
@@ -3200,6 +3248,8 @@ msgid ""
 "Hello there, master, it’s nice to see you again! You’ll never believe the "
 "adventures I’ve had. Did you know there’s an elvish prophecy about me?!"
 msgstr ""
+"Zdravím, profesore, rád vás zase vidím! Tomu, co jsem zažil, byste nevěřil. "
+"Věděl jste, že o mně existuje elfí proroctví?!"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:572
@@ -3207,34 +3257,36 @@ msgid ""
 "(smiling) Delfador, don’t make me regret teaching you that psychedelic "
 "spell! I’m just glad you’ve made it back safe and sound."
 msgstr ""
+"(s úsměvem) Delfadore, nechtěj, abych litoval, že jsem tě naučil to "
+"halucinogenní kouzlo! Jsem jen rád, že ses vrátil živ a zdráv."
 
 #. [message]: speaker=Shogro
 #. the whitefangs orcs are luring Garard into overextending. Shogro is bait, and has just died
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:586
 msgid "Stinking Ushka’e! This was a terrible plan..."
-msgstr ""
+msgstr "Podělanej Uška’e! To byl ale příšernej plán..."
 
 #. [message]: speaker=Khovak
 #. the whitefangs orcs are luring Garard into overextending. Khovak is bait, and has just died
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:611
 msgid "Human dogs! You’ve just sealed your deaths..."
-msgstr ""
+msgstr "Člověčí psi! Právě jste si podepsali rozsudek smrti..."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:628
 msgid "Run for the hills!"
-msgstr ""
+msgstr "Utíkejte do hor!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:643
 msgid "Yes! Did I do well, Your Majesty?"
-msgstr ""
+msgstr "Ano! Vedl jsem si dobře, Vaše Veličenstvo?"
 
 #. [message]: speaker=Garard
 #. Garard thinks he's won, even though he hasn't
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:648
 msgid "Indeed you did. Fantastic battle, everyone, the orcs are broken!"
-msgstr ""
+msgstr "To tedy ano. Skvělý boj, všichni, skřeti jsou poraženi!"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:656
@@ -3242,6 +3294,8 @@ msgid ""
 "Footmen — down into the fort’s dungeons! Flush out any stragglers and "
 "complete our victory."
 msgstr ""
+"Pěšáci – dolů do vězení pevnosti! Vyžeňte odtud všechny zbývající nepřátele "
+"a dovršte naše vítězství."
 
 #. [message]: speaker=Garard
 #. Garard thinks he's won, even though he hasn't. "Wold" means "a piece of high, open, uncultivated land or moor."
@@ -3250,6 +3304,8 @@ msgid ""
 "Hah! I think “Garard’s Wold” will make a good name for the new province... "
 "or perhaps “Garard’s Triumph”? What do you think, Lionel?"
 msgstr ""
+"Ha! Myslím, že „Garardova vysočina“ by byl dobrý název pro tuto novou "
+"provincii... nebo možná „Garardův triumf“? Co myslíš, Lioneli?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:705
@@ -3257,11 +3313,13 @@ msgid ""
 "Delfador, something’s wrong. The orc leader we killed... isn’t the Whitefang "
 "chief."
 msgstr ""
+"Delfadore, něco tu nesedí. Ten skřet, kterého jsme zabili... není náčelník "
+"Bílých špičáků."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:709
 msgid "What? How can you tell?"
-msgstr ""
+msgstr "Cože? Jak to poznáš?"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:713
@@ -3270,6 +3328,9 @@ msgid ""
 "treaty. This orc’s face is narrower than I remember, and his helmet doesn’t "
 "have the right war-paint. Delfador, I think we’ve been tricked!"
 msgstr ""
+"S vůdci klanu Bílých špičáků jsem se setkal asi před rokem, když Lintanir "
+"dojednával úmluvu. Tenhle skřet má užší obličej, než si pamatuji, a na jeho "
+"přilbě není ta správná válečná malba. Delfadore, myslím, že nás napálili!"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/05_The_Deceiver.cfg:760
@@ -3277,6 +3338,8 @@ msgid ""
 "Are you even trying to fight, Delfador!? I should have known a mage would "
 "never have the stomach for true battle; get back to Alduin where you belong!"
 msgstr ""
+"Snažíš se vůbec bojovat, Delfadore!? Měl jsem tušit, že mág nikdy nebude mít "
+"žaludek na skutečnou bitvu. Vrať se na Alduin, kam patříš!"
 
 #. [scenario]: id=06_Ring_of_Swords
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:6
@@ -3286,27 +3349,27 @@ msgstr "Kruh mečů"
 #. [side]: type=Orcish Warlord, id=Ghazgir
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:49
 msgid "Ghazgir"
-msgstr ""
+msgstr "Ghazgir"
 
 #. [side]: type=Direwolf Rider, id=Mukhu
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:68
 msgid "Muhku"
-msgstr ""
+msgstr "Muhku"
 
 #. [side]: type=Orcish Leader, id=Irbirch
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:89
 msgid "Irbirch"
-msgstr ""
+msgstr "Irbirč"
 
 #. [side]: type=Orcish Leader, id=Irbirch
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:97
 msgid "Blackcrest Orcs"
-msgstr ""
+msgstr "Skřeti z Černého hřebenu"
 
 #. [side]: type=Saurian Flanker, id=Ssisaix
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:107
 msgid "Ssisaix"
-msgstr ""
+msgstr "Ssisaix"
 
 #. [side]: type=Saurian Flanker, id=Ssisaix
 #. [side]: type=Saurian Prophet, id=Xairr
@@ -3315,17 +3378,17 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:134
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:79
 msgid "Blackcrest Saurians"
-msgstr ""
+msgstr "Ještěráci z Černého hřebenu"
 
 #. [side]: type=Saurian Prophet, id=Xairr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:127
 msgid "Xairr"
-msgstr ""
+msgstr "Xairr"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:407
 msgid "Chief Ushka'e"
-msgstr ""
+msgstr "Náčelník Uška'e"
 
 #. [message]: speaker=Ushka'e
 #. this is the whitefang chief. He's happy that Garard has walked into his trap
@@ -3335,6 +3398,9 @@ msgid ""
 "goblin runt, who does exactly what I want. The trap is sprung! Now we crush "
 "them."
 msgstr ""
+"Vidíte? Co jsem vám říkal! Jejich král není nic jiného než slabomyslný "
+"gobliní skrček, který dělá přesně to, co chci. Past sklapla! Teď je "
+"rozdrtíme."
 
 #. [message]: speaker=Irbirch
 #. Irbirch is a representative of clan blackcrest, now (tenuously) allied with whitefang. The "spy" references Asheviere (probably; might be an agent of Iliah-Malal instead), who came up with the plan and told it to the orcs
@@ -3344,6 +3410,9 @@ msgid ""
 "spy? Blackcrest warriors would never have let humans advance so far into our "
 "lands!"
 msgstr ""
+"Buahaha, odkdy jste vy, Bílí špičáci, tak slabí, že se necháte vodit za nos "
+"špehem? Bojovníci z Černého hřebene by nikdy nedopustili, aby se lidé "
+"dostali tak daleko do našich zemí!"
 
 #. [message]: speaker=Ushka'e
 #. referencing clan blackcrest's saurian allies.
@@ -3353,6 +3422,9 @@ msgid ""
 "But since Clan Blackcrest has begged so-like trembling goblins, Clan "
 "Whitefang will agree to work together."
 msgstr ""
+"Tvoji „válečníci“ přežívají jen díky tomu, že se schovávají za zády vašich "
+"slizkých ještěráckých spojenců! Ale protože klan Černého hřebenu žadonil "
+"jako roztřesení goblini, klan Bílých špičáků souhlasí se spoluprací."
 
 #. [message]: speaker=Irbirch
 #. neither side has actually offered to work together. Subversive messengers poised as members of each clan and manipulated them into working together against Garard
@@ -3361,6 +3433,8 @@ msgid ""
 "Since WE begged!? YOU invited US here; your messenger was quaking in his "
 "boots when he groveled before Chief Ghuvog asking for help!"
 msgstr ""
+"Protože jsme MY žadonili? VY jste NÁS sem pozvali. Tvůj posel se chvěl "
+"strachem, když se plazil před náčelníkem Ghuvogem a prosil ho o pomoc!"
 
 #. [message]: speaker=Ushka'e
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:449
@@ -3368,16 +3442,18 @@ msgid ""
 "What are you talking abo— Oh forget it, just make sure your clan does its "
 "job! No human leaves this valley alive!"
 msgstr ""
+"O čem to mlu — No, kašli na to, hlavně se postarej, aby tvůj klan udělal, co "
+"má! Žádný člověk z tohohle údolí neodejde živý!"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:469
 msgid "Bazur"
-msgstr ""
+msgstr "Bazur"
 
 #. [message]: speaker=Bazur
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:477
 msgid "Lousy chief! Lousy plan! Next time I’m doing this on my own terms!"
-msgstr ""
+msgstr "Mizernej šéf! Mizernej plán! Příště to udělám po svým!"
 
 #. [message]: speaker=Garard
 #. Garard has just realized he's surrounded
@@ -3386,6 +3462,8 @@ msgid ""
 "What devilry is this? How did they sneak in behind us. I’m separated from my "
 "generals and most of my soldiers..."
 msgstr ""
+"Co je to za čertovinu? Jak se nám mohli proplížit do zad? Jsem odříznutý od "
+"svých generálů a většiny svých vojáků..."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:499
@@ -3393,6 +3471,8 @@ msgid ""
 "Foul orcs, come at me then! If this is where I am to fall, I shall make such "
 "a stand as to stir the gods themselves to tears!"
 msgstr ""
+"Zatracení skřeti, tak si pro mě pojďte! Jestliže mám padnout právě tady, "
+"postavím se vám tak, že to dožene k slzám i samotné bohy!"
 
 #. [message]: speaker=Irbirch
 #. Asheviere is next to Irbirch. The player is led to think she's been captured, but it's possible she actually went of her own free will to escape Garard
@@ -3401,6 +3481,9 @@ msgid ""
 "Nice speech! I wonder what your wife thinks of it? Don’t worry, we’ll have "
 "plenty of fun with her, <b><i>and</i></b> your unborn heir. Haw, haw, haw!"
 msgstr ""
+"Pěkný proslov! Zajímalo by mě, co si o tom myslí tvoje žena? Neboj se, "
+"pořádně si s ní užijeme, <b><i>i</i></b> s tvým nenarozeným dědicem. Ha, ha, "
+"ha!"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:533
@@ -3408,6 +3491,8 @@ msgid ""
 "(aghast) That’s— They’ve captured the queen! Asheviere’s no warrior, and "
 "fragile with pregnancy. We have to rescue her!"
 msgstr ""
+"(zděšeně) To je... Zajali královnu! Ašvíra není válečnice a díky těhotenství "
+"je velmi křehká. Musíme ji zachránit!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:537
@@ -3417,37 +3502,42 @@ msgid ""
 "Asheviere, and have the rest protect King Garard until Lionel and Arand can "
 "break through to us!"
 msgstr ""
+"Jsme obklíčeni a bez královny. To je pohroma! Rychle, musíme shromáždit to, "
+"co zbylo z královské pěchoty. Pošlete oddíl vysvobodit královnu Ašvíru "
+"a zbytek ať chrání krále Gararda, dokud se k nám Lionel a Arand neprobojují!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:541
 msgid "I won’t let you down! For Wesnoth!"
-msgstr ""
+msgstr "Nezklamu tě! Za Wesnoth!"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:548
 msgid "Fail to rescue Asheviere before turns run out"
-msgstr ""
+msgstr "Nepodaří se ti vysvobodit Ašvíru, než vyprší počet kol"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:551
 msgid "Defeat Irbirch to recapture Asheviere, then survive until turns run out"
 msgstr ""
+"Poraz Irbirče, abys znovu získal Ašvíru, a poté přežij, dokud nevyprší počet "
+"kol"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:558
 msgid "Survive until turns run out"
-msgstr ""
+msgstr "Přežij, dokud nevyprší počet kol"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:587
 msgid "Death of Garard, Asheviere, or Methor"
-msgstr ""
+msgstr "Garard, Ašvíra nebo Methor zemře"
 
 #. [message]: speaker=Ssisaix
 #. the player (and Garard) is still alive. The orcs and saurians expected them to die by now
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:648
 msgid "They ssstill sssurvive! Thisss was not the plan!"
-msgstr ""
+msgstr "Oni jsssou pořád na žžživu! Tohle přece nebylo v plánu!"
 
 #. [message]: speaker=Ushka'e
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:652
@@ -3456,6 +3546,9 @@ msgid ""
 "lizards! This is <b>our</b> homeland; our ranks swell by the hour, while "
 "these humans dwindle every moment."
 msgstr ""
+"Tak pošlete další válečníky a dorazte je, vy neschopné ještěrky z Černého "
+"hřebene! Tohle je <b>naše</b> domovina. Naše řady se každou hodinu "
+"rozrůstají, zatímco počet těch lidí každou chvíli klesá."
 
 #. [message]: speaker=Ushka'e
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:658
@@ -3464,11 +3557,14 @@ msgid ""
 "in more orcs! This is <b>our</b> homeland; our ranks swell by the hour, "
 "while these humans dwindle every moment."
 msgstr ""
+"Nepoužitelné ještěrky! Nedokážou ani přežít, natož vyhrát válku. Pošlete sem "
+"víc skřetů! Tohle je <b>naše</b> domovina. Naše řady se každou hodinu "
+"rozrůstají, zatímco počet těch lidí každou chvíli klesá."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:672
 msgid "They’re being reinforced!"
-msgstr ""
+msgstr "Přicházejí jim posily!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:711
@@ -3477,6 +3573,9 @@ msgid ""
 "recruit trolls, but seldom saurians. And with these three factions fighting "
 "together, soon all the warlords will hear of their prowess."
 msgstr ""
+"Toto spojenectví mezi rasami je obrovské neštěstí! Často jsem slýchával, že "
+"skřeti verbují trolly, ale jen zřídka ještěráky. A když tyto tři frakce "
+"bojují společně, brzy se o jejich chrabrosti dozvědí všichni vojenští vůdci."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:715
@@ -3485,6 +3584,10 @@ msgid ""
 "this disaster countless more will surely flock to the Blackcrest and "
 "Whitefang banners. Orcs follow might above all else, even clan blood."
 msgstr ""
+"K sjednocení vzpurných skřetů je zapotřebí velká ukázka síly, ale po tomhle "
+"našem fiasku se k praporům Černého hřebene a Bílých špičáků jistě přidá "
+"nespočet dalších. Skřeti dávají přednost moci, dokonce i před pokrevními "
+"pouty klanu."
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:719
@@ -3493,22 +3596,25 @@ msgid ""
 "never have been kicked. Pillagers and raids we can deal with, but total war "
 "is something else entirely."
 msgstr ""
+"To všechno je naprosté šílenství! Skřetí klany jsou sršní hnízdo, do kterého "
+"se nikdy nemělo kopat. S loupežníky a nájezdy si poradíme, ale totální válka "
+"je něco úplně jiného."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:723
 msgid "Quiet, both of you! If I wanted your advice I would have asked for it!"
-msgstr ""
+msgstr "Ticho, vy dva! Kdybych chtěl vaši radu, tak bych se vás na ni zeptal!"
 
 #. [message]: speaker=Ushka'e
 #. the player has just attacked the whitefang chief. He then flees
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:735
 msgid "Worthless humans! You’ll never defeat me, or clan Whitefang!"
-msgstr ""
+msgstr "Neschopný lidi! Mě ani klan Bílých špičáků nikdy neporazíte!"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:741
 msgid "Coward! Stand and fight!"
-msgstr ""
+msgstr "Zbabělče! Stůj a bojuj!"
 
 #. [message]: speaker=Ssisaix
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:756
@@ -3516,16 +3622,18 @@ msgid ""
 "They sssneak off to the northeassst, towardsss their queen! Ssshould I "
 "pursssue?"
 msgstr ""
+"Plížžží se na ssseverovýchod, sssměrem k jejich královně! Mám je "
+"pronásssledovat?"
 
 #. [message]: speaker=Irbirch
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:760
 msgid "Finish off their king, lizard! I’ll handle things here."
-msgstr ""
+msgstr "Zabij jejich krále, ještěrko! Tady to zvládnu sám."
 
 #. [message]: speaker=Irbirch
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:772
 msgid "Come to ransom back your queen? Too bad, she’s mine!"
-msgstr ""
+msgstr "Přišel jsi vykoupit svou královnu? Smůla, ta je moje!"
 
 #. [message]: speaker=Irbirch
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:776
@@ -3533,6 +3641,7 @@ msgid ""
 "Maybe once she pops out her kid you can pay me double for both! Haw, haw, "
 "haw."
 msgstr ""
+"Možná až porodí to dítě, můžeš mi zaplatit dvojnásobek za oba! Ha, ha, ha."
 
 #. [message]: speaker=Irbirch
 #. a representative of clan blackcrest has died
@@ -3541,50 +3650,52 @@ msgid ""
 "Great Chief Ghuvog will avenge me! Clan Blackcrest will never rest.. until "
 "Wesnoth is... razed to... ash..."
 msgstr ""
+"Velký náčelník Ghuvog mě pomstí! Kmen Černého hřebene si nedá pokoj... dokud "
+"Wesnoth nebude... srovnaný se... zemí..."
 
 #. [message]: speaker=Asheviere
 #. Asheviere tries to say something, but gets interrupted
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:801
 msgid "Thank yo—"
-msgstr ""
+msgstr "Děku —"
 
 #. [message]: speaker=Deoran
 #. both Deoran and Garard talk over Asheviere. She doesn't get any agency of her own, even from Deoran (who generally stands up for her)
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:806
 msgid "Not now, milady! We have to get you out of here!"
-msgstr ""
+msgstr "Teď ne, má paní! Musíme vás odtud dostat!"
 
 #. [message]: speaker=Asheviere
 #. asheviere tries to say something, but gets interrupted
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:816
 msgid "Garard, I—"
-msgstr ""
+msgstr "Gararde, Já —"
 
 #. [message]: speaker=Garard
 #. both Deoran and Garard talk over Asheviere. She doesn't get any agency of her own, even from Deoran (who generally stands up for her)
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:821
 msgid "Not now, woman! I have a battle to fight!"
-msgstr ""
+msgstr "Teď ne, ženská! Musím bojovat!"
 
 #. [message]: speaker=Ghazgir
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:834
 msgid "I’m not dying! Just... need a moment..."
-msgstr ""
+msgstr "Já neumírám! Jen... potřebuju chvilku..."
 
 #. [message]: speaker=Mukhu
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:841
 msgid "Nooo! Help meeee!"
-msgstr ""
+msgstr "Néé! Pomozte míí!"
 
 #. [message]: speaker=Xairr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:848
 msgid "Ssssuch ssssskill!"
-msgstr ""
+msgstr "Sssskvělá šššššikovnost!"
 
 #. [message]: speaker=Ssisaix
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:855
 msgid "Cursessss, I am sssslain!"
-msgstr ""
+msgstr "Ssssakraííí, zzzzabíjí mě!"
 
 #. [message]: speaker=Lionel
 #. Lionel appears with reinforcments to help Garard
@@ -3593,6 +3704,8 @@ msgid ""
 "Rally behind me, men! We swore our oaths, now we do our duty. Fight, fight "
 "through to the king!"
 msgstr ""
+"Shromážděte se za mnou, muži! Složili jsme přísahu, teď splníme svou "
+"povinnost. Bojujte, probojujte se až ke králi!"
 
 #. [message]: speaker=Deoran
 #. the player has survived, but failed ot rescue the queen
@@ -3601,23 +3714,25 @@ msgid ""
 "But the queen! If we leave her in the hands of the orcs she’ll surely be "
 "tortured and killed!"
 msgstr ""
+"Ale co královna! Jestli ji necháme v rukou skřetů, určitě ji budou mučit "
+"a zabijí ji!"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:926
 msgid "I’m sorry, there’s no time! We have to get the king out of here!"
-msgstr ""
+msgstr "Je mi líto, ale na to není čas! Musíme odtud dostat krále!"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:947
 msgid "Sir, look out!"
-msgstr ""
+msgstr "Pane, pozor!"
 
 #. [message]: speaker=Lionel
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:962
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1395
 msgid "<b><i>NNnrgh!</i></b>"
-msgstr ""
+msgstr "<b><i>NNnrgh!</i></b>"
 
 #. [message]: speaker=Lionel
 #. Lionel has appeared with reinforcments to help Garard
@@ -3627,11 +3742,13 @@ msgid ""
 "surprise. We’re holding a corridor but I don’t know for how long — we’ve got "
 "to get you back to Fort Garard, sir."
 msgstr ""
+"U Žezla, dorazil jsem právě včas! Úplně nás zaskočili. Držíme průchod, ale "
+"nevím, jak dlouho ještě – musíme vás dostat zpátky do pevnosti Garard, pane."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:985
 msgid "Lionel! I’d almost feared this was the end."
-msgstr ""
+msgstr "Lioneli! Už jsem se skoro bál, že je to konec."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:998
@@ -3639,6 +3756,8 @@ msgid ""
 "But how did this disaster happen? We were on the eve of victory! Did someone "
 "betray our plans to the enemy? Or am I really just that predictable!?"
 msgstr ""
+"Jak ale k téhle pohromě došlo? Vždyť jsme byli na prahu vítězství! Prozradil "
+"snad někdo naše plány nepříteli? Nebo jsem snad opravdu tak předvídatelný!?"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:1002
@@ -3646,6 +3765,8 @@ msgid ""
 "Couldn’t tell you, m’lord. But there’ll be time to talk later. It looks like "
 "this war is going to last a lot longer than we’d planned..."
 msgstr ""
+"To vám nemohu říct, můj pane. Ale bude čas promluvit si později. Vypadá to, "
+"že tahle válka potrvá mnohem déle, než jsme plánovali..."
 
 #. [scenario]: id=07_The_Great_River
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:29
