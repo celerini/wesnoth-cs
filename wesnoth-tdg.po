@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-16 17:43+0200\n"
+"PO-Revision-Date: 2026-10-16 18:26+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2905,7 +2905,7 @@ msgid ""
 "deceiver. Ringed swords, cold blood, false friends."
 msgstr ""
 "Ve tmě vidím tajemství. Bledý špeh se vymaní ze svých pout. Smrt, podvodník. "
-"Zvonění mečů, chladná krev, zrádní přátelé."
+"Obklopení meči, chladná krev, zrádní přátelé."
 
 #. [message]
 #. referencing Delfador's adventures in scenarios 8-10, where he works with (or kills) poachers to fight saurians, then fights undead and a ghost given the appearance of a living drake.
@@ -2934,7 +2934,7 @@ msgid ""
 "of mankind will be broken, and flames shall blaze anew across the embers of "
 "Haldric’s people."
 msgstr ""
-"Bratr proti bratrovi, otec proti dítěti. Z pustého trůnu povstane bledý "
+"Bratr proti bratrovi, otec proti dítěti. Z pustého trůnu povstane plavý "
 "anděl. Velkolepý i děsivý zároveň. Křehká rovnováha lidstva bude narušena "
 "a plameny znovu vzplanou nad uhlíky Haldrikova národa."
 
@@ -2956,7 +2956,7 @@ msgid ""
 "wesfolk restored. The nameless son and the ashen daughter."
 msgstr ""
 "Na Weldyn se snáší déšť černých sazí. Řada králů se přetrhla. Rubín Wesanů "
-"byl navrácen. Bezejmenný syn a bledá dcera."
+"byl navrácen. Bezejmenný syn a plavá dcera."
 
 #. [message]
 #. referencing Delfador's choice in S10x
@@ -4285,7 +4285,7 @@ msgstr ""
 #. [scenario]: id=07x_Weldyn_Court
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:6
 msgid "Weldyn Court"
-msgstr ""
+msgstr "Weldynský dvůr"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:106
@@ -4294,11 +4294,14 @@ msgid ""
 "things to do than gossip all day about this vapid prophecy? I put my trust "
 "in steel, not seers."
 msgstr ""
+"„<i>Pustý trůn</i>“, „<i>plavý anděl</i>“. Copak lidé nemají na práci nic "
+"lepšího, než celý den klábosit o tomhle nicneříkajícím proroctví? Já věřím "
+"oceli, ne věštcům."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:110
 msgid "My Liege, I fear you give insufficient weight to—"
-msgstr ""
+msgstr "Můj pane, obávám se, že nepřikládáte dostatečnou váhu..."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:114
@@ -4306,6 +4309,8 @@ msgid ""
 "And “<i>Sceptre of the Wesfolk</i>” is the worst of it all... as if it’s my "
 "fault Haldric’s dwarves lost the accursed thing."
 msgstr ""
+"A „<i>Žezlo Wesanů</i>“ je z toho všeho to nejhorší... jako by to byla moje "
+"vina, že Haldrikovi trpaslíci tu prokletou věc ztratili."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:116
@@ -4315,6 +4320,10 @@ msgid ""
 "treasure-seekers and other such nonsense. What do you make of it all, "
 "brother?"
 msgstr ""
+"Dokonce i manželka! Od té doby, co nám Delfador poprvé vyprávěl o tom "
+"proroctví, slyším od Asheviere samé klepy – zvěsti o šlechticích, výpravách, "
+"hledačích pokladů a dalších podobných nesmyslech. Co si o tom všem myslíš, "
+"bratře?"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:120
@@ -4322,6 +4331,8 @@ msgid ""
 "The Sceptre of Fire may have gone missing years ago, but it is still well-"
 "known as Wesnoth’s symbol of kingship, among lords and common-folk alike."
 msgstr ""
+"Ohnivé žezlo sice před lety zmizelo, ale mezi šlechtou i prostým lidem je "
+"stále dobře známé jako symbol královské moci ve Wesnothu."
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:122
@@ -4330,6 +4341,9 @@ msgid ""
 "and a noble actually manages to find and retrieve the Sceptre, well, such a "
 "misfortune could put your claim to the throne in serious jeopardy."
 msgstr ""
+"Moji špehové o těchto hledačích žezla nic neslyšeli. Pokud však skutečně "
+"existují a nějakému šlechtici se podaří žezlo najít a získat, pak by taková "
+"rána osudu mohla vážně ohrozit tvůj nárok na trůn."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:126
@@ -4337,6 +4351,8 @@ msgid ""
 "Intrigue and influence, politics and loyalty. I’m lucky to have you, Arand. "
 "This isn’t my strength."
 msgstr ""
+"Intriky a vliv, politika a loajalita. Ještě štěstí, že tě mám, Arande. Tohle "
+"není moje silná stránka."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:130
@@ -4345,26 +4361,29 @@ msgid ""
 "He’s served me loyally for many years; why, I practically trust him more "
 "than my own son!"
 msgstr ""
+"Ale využívám prostředky, které mám. Vezmi si třeba generála Lionela – to je "
+"člověk, na kterého se dá spolehnout! Slouží mi věrně už mnoho let. Vlastně "
+"mu věřím skoro víc než vlastnímu synovi!"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:134
 msgid "(bows)"
-msgstr ""
+msgstr "(ukloní se)"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:138
 msgid "No offense, boy."
-msgstr ""
+msgstr "Bez urážky, chlapče."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:142
 msgid "(scowls)"
-msgstr ""
+msgstr "(mračí se)"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:146
 msgid "Still, these rumors cannot be taken lightly. Something must be done...."
-msgstr ""
+msgstr "Přesto nelze tyto zvěsti brát na lehkou váhu. Je třeba něco udělat..."
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:42
