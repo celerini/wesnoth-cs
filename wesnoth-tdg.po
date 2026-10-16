@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-15 19:09+0200\n"
+"PO-Revision-Date: 2026-10-16 17:43+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3695,7 +3695,7 @@ msgstr "Sssskvělá šššššikovnost!"
 #. [message]: speaker=Ssisaix
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:855
 msgid "Cursessss, I am sssslain!"
-msgstr "Ssssakraííí, zzzzabíjí mě!"
+msgstr "Ssssakra, zabíjí mě!"
 
 #. [message]: speaker=Lionel
 #. Lionel appears with reinforcments to help Garard
@@ -3776,7 +3776,7 @@ msgstr "Velká řeka"
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:40
 msgid "Part II"
-msgstr ""
+msgstr "Část II."
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:46
@@ -3787,6 +3787,11 @@ msgid ""
 "heavily fortified, and river commerce grinds to a halt. Many years pass, "
 "with neither side able to gain an advantage."
 msgstr ""
+"Vstup klanu Černého hřebene do války otevírá novou frontu dále na západ, což "
+"vyžaduje pohotovou odpověď. Wesnoth se dává celý do pohybu a řada krvavých "
+"bitev u Abezského brodu končí pro obě strany na mrtvém bodě. Brod je silně "
+"opevněn a říční obchod ustává. Uplyne mnoho let, aniž některá ze stran "
+"dokáže získat převahu."
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:50
@@ -3798,6 +3803,12 @@ msgid ""
 "nephew are able to stabilize the eastern front around Fort Garard. Whitefang "
 "orcs still firmly hold the hills, but limited settlement begins."
 msgstr ""
+"Mezitím porodí Ašvíra zdravého chlapce – korunního prince Eldreda. Pod "
+"silným tlakem obou rodičů a pod vedením generála Lionela se Eldred rychle "
+"vypracuje na urozeného vojáka. Princ Arand bere Eldreda pod svá křídla "
+"a díky společnému úsilí strýce a synovce se jim daří upevnit východní frontu "
+"v okolí pevnosti Garard. Skřeti z kmene Bílých špičáků stále pevně drží "
+"kopce, ale začíná zde omezené osidlování."
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:54
@@ -3808,6 +3819,10 @@ msgid ""
 "lines several times at the Ford of Abez, but continually become stymied by "
 "saurian reinforcements."
 msgstr ""
+"Delfador stárne, moudří a stává se podstatně mocnějším. Proslaví se jako "
+"králův nejvýznamnější válečný mág a brzy si získá pověst nelítostného "
+"bojovníka. Svými odvážnými manévry několikrát prorazí skřetí řady "
+"u Abezského brodu, avšak jeho postup je neustále brzděn posilami ještěráků."
 
 #. [part]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:58
@@ -3817,6 +3832,11 @@ msgid ""
 "force of mercenary northmen to sneak behind enemy lines and determine the "
 "nature of Clan Blackcrest’s orc-saurian alliance..."
 msgstr ""
+"Vzhledem k tomu, že počet obětí ve Wesnothu stále roste a konec je "
+"v nedohlednu, rozhodne se Delfador vzít věci do vlastních rukou. Válečný mág "
+"sestavuje oddíl žoldáků ze severu, který se má vplížit za nepřátelské linie "
+"a zjistit, jaká je povaha spojenectví mezi skřety a ještěráky z klanu "
+"Černého hřebene..."
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:76
@@ -3824,12 +3844,12 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/09_Omaranth.cfg:33
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:31
 msgid "Delfador’s Hirelings"
-msgstr ""
+msgstr "Delfadorovi žoldáci"
 
 #. [side]: type=Saurian Ambusher, id=Ysaxis
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:89
 msgid "Ysaxis"
-msgstr ""
+msgstr "Ysaxis"
 
 #. [side]: type=Saurian Ambusher, id=Ysaxis
 #. [side]
@@ -3848,33 +3868,33 @@ msgstr "Klan Černého hřebenu"
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:114
 msgid "Fish (and Beacon)"
-msgstr ""
+msgstr "Ryby (a maják)"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:152
 msgid "Mount Oromore"
-msgstr ""
+msgstr "Hora Oromore"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:350
 msgid "Lynyan"
-msgstr ""
+msgstr "Lynyan"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:354
 msgid "Ritharran"
-msgstr ""
+msgstr "Ritharran"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:374
 msgid "Alright men—"
-msgstr ""
+msgstr "Dobře, pánové —"
 
 #. [message]: speaker=Lynyan
 #. and women
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:379
 msgid "And wom’n!"
-msgstr ""
+msgstr "A dámy!"
 
 #. [message]: speaker=Delfador
 #. Delfador is paying these mercenaries himself; they're not wesnoth regulars
@@ -3884,6 +3904,9 @@ msgid ""
 "importantly: you work for cheap. <span size='x-small'>Lousy Eldred wouldn’t "
 "give me any of my veterans.</span>"
 msgstr ""
+"— a dámy. Vybral jsem si vás, protože jste rychlí, nenápadní a hlavně: "
+"pracujete i za málo peněz. <span size='x-small'>Ten mizera Eldred mi nechtěl "
+"dát ani jednoho z mých veteránů.</span>"
 
 #. [message]: speaker=Delfador
 #. cross the Great River. Not at the Ford of Abez, but near.
@@ -3894,13 +3917,18 @@ msgid ""
 "our movements. We should have time to clear this saurian outpost and sneak "
 "past the frontline before the main orcish army wakes at nightfall."
 msgstr ""
+"Teď je pro nás ideální čas přejít řeku! Je svítání, což znamená, že většina "
+"skřetů a ještěráků bude spát, a hustá zimní mlha zakryje náš pohyb. Měli "
+"bychom mít dost času na to, abychom vyčistili tuto základnu ještěráků "
+"a proklouzli kolem přední linie, než se za soumraku probudí hlavní skřetí "
+"vojsko."
 
 #. [message]: speaker=Delfador
 #. there's a large metal brazier on a mountain filled with wood. If lit, the main orcish army will see it and come to fight Delfadaor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:394
 msgid ""
 "But first, our objective must be to destroy this outpost’s signal beacon."
-msgstr ""
+msgstr "Nejprve však musíme zničit výstražné světlo této základny."
 
 #. [message]: speaker=Delfador
 #. there's a large metal braizer on a mountain filled with wood. If lit, the main orcish army will see it and come to fight Delfadaor
@@ -3910,6 +3938,9 @@ msgid ""
 "the orcish host at the Ford of Abez is alerted before we can get through to "
 "the swamp, we’ll be slaughtered!"
 msgstr ""
+"I přes mlhu bude tak velký signální oheň vidět na míle daleko. Pokud bude "
+"skřetí vojsko u Abezského brodu varováno dříve, než se nám podaří dostat se "
+"do močálu, budeme povražděni!"
 
 #. [message]: speaker=Ritharran
 #. Ritharran is a rogue mage; a half-mage, half-bandit. "Hey genius, you forget there's a river there? I couldn't swim that far even if it weren't the middle of winter"
@@ -3919,36 +3950,41 @@ msgid ""
 "how to levitate, and the girl ’haint swimming that far even if’t it weren’t "
 "the middle of winter."
 msgstr ""
+"Hele, génie, zapomněl jsi na tu řeku? Vykopli mě z školy dávno předtím, než "
+"jsem se naučil levitovat, a ta holka tak daleko nepoplave, i kdyby nebyla "
+"zima."
 
 #. [message]: speaker=Ritharran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:422
 msgid "Oh."
-msgstr ""
+msgstr "Ó."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:430
 msgid "Destroy the signal beacon"
-msgstr ""
+msgstr "Znič výstražné světlo"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:434
 msgid "Don’t be seen by a goblin or saurian during their turn"
-msgstr ""
+msgstr "Nenech se spatřit goblinem nebo ještěrákem během jejich tahu"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:438
 msgid "Then, defeat all enemies"
-msgstr ""
+msgstr "Poté poraz všechny nepřátele"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:442
 msgid "A goblin or saurian sees you during their turn"
-msgstr ""
+msgstr "Goblin nebo ještěrák tě během svého tahu zahlédne"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:454
 msgid "Moving past or killing enemies on your turn will not raise the alarm."
 msgstr ""
+"Pokud se ve svém tahu přesuneš kolem nepřátel nebo je zabiješ, poplach se "
+"nespustí."
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:466
@@ -3964,6 +4000,17 @@ msgid ""
 "\n"
 "Rogue Mages are fragile fighters with both physical and magical attacks."
 msgstr ""
+"Tvoji běžní vojáci se s tebou na sever nemohou proplížit, ale místo toho "
+"můžeš verbovat lapky, zloděje a potulné mágy!\n"
+"\n"
+"Lapkové jsou rychlí, ale křehcí zvědové, jejichž útoky zblízka i na dálku "
+"jsou stejně slabé.\n"
+"\n"
+"Zloději vyměnili útok lapků na dálku za vyšší poškození v boji zblízka "
+"a jsou obzvláště smrtící, když útočí na nepřítele zezadu.\n"
+"\n"
+"Potulní mágové jsou slabí bojovníci, kteří ovládají jak fyzický, tak magický "
+"útok."
 
 #. [message]: speaker=Delfador
 #. the player has spotted a goblin or saurian on lookout duty
@@ -3971,12 +4018,14 @@ msgstr ""
 msgid ""
 "Take care! If that guard spots us on its turn, it’ll alert all the others."
 msgstr ""
+"Buďte opatrní! Jestli nás ta stráž ve svém tahu zahlédne, upozorní všechny "
+"ostatní."
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:687
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:701
 msgid "Fog and Vision:"
-msgstr ""
+msgstr "Mlha a viditelnost:"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:688
@@ -3984,6 +4033,8 @@ msgstr ""
 msgid ""
 "In fog, units (including yours) can see 1 hex further than their movement."
 msgstr ""
+"V mlze vidí jednotky (včetně tvých) o 1 políčko dále, než je jejich dosah "
+"pohybu."
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:690
@@ -3994,6 +4045,11 @@ msgid ""
 "the scenario!\n"
 "Moving past or killing enemies on your turn will not raise the alarm."
 msgstr ""
+"V tomto scénáři jsme vyznačili, která políčka mohou goblini a ještěráci "
+"vidět.\n"
+"Pokud budeš na konci svého tahu v dohledu živého goblina nebo ještěráka, "
+"prohraješ scénář!\n"
+"Když ve svém tahu nepřátele obejdeš nebo je zabiješ, poplach to nevyvolá."
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:694
@@ -4002,6 +4058,9 @@ msgid ""
 "be completed\n"
 "<i><b>without relying on luck or risky attacks.</b></i>"
 msgstr ""
+"Se správnými kouzly a strategií lze tento scénář (stejně jako všechna "
+"tažení) dokončit\n"
+"<i><b>bez spoléhání se na štěstí nebo riskantní útoky.</b></i>"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:704
@@ -4010,6 +4069,9 @@ msgid ""
 "are in enemy vision. Because you’re playing on the highest difficulty,\n"
 "you’ll have to keep track on your own."
 msgstr ""
+"Na nižších obtížnostech tento scénář zvlášť zvýrazňuje, která políčka\n"
+"jsou v dohledu nepřítele. Jelikož hraješ na nejvyšší obtížnost,\n"
+"budeš si o tom muset udržovat přehled sám."
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:708
@@ -4017,30 +4079,33 @@ msgid ""
 "With the right spells and strategy, this scenario (like all campaigns)\n"
 "can be completed <i><b>without relying on luck or risky attacks.</b></i>"
 msgstr ""
+"Se správnými kouzly a strategií lze tento scénář (stejně jako všechna "
+"tažení)\n"
+"dokončit <i><b>bez spoléhání se na štěstí nebo riskantní útoky.</b></i>"
 
 #. [message]: speaker=Lynyan
 #. that one's patrolling back and forth! Those lizards are ugly
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:726
 msgid "That one’s patrollin’ back an’ forth! Those lizards sure are ugly..."
-msgstr ""
+msgstr "Tahle pořád běhá sem a tam! Ty ještěrky jsou fakt ošklivé..."
 
 #. [message]: speaker=$unit
 #. an enemy has died swiftly, without making much noise
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:740
 msgid "Urk—"
-msgstr ""
+msgstr "Urk —"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:744
 msgid ""
 "Excellent! That one perished swiftly, before it had a chance to raise the "
 "alarm."
-msgstr ""
+msgstr "Skvělé! Tahle zahynula rychle, než stačila vyhlásit poplach."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:756
 msgid "We must move swiftly! The fog is already starting to clear."
-msgstr ""
+msgstr "Musíme se okamžitě pohnout! Mlha se už začíná rozplývat."
 
 #. [message]: speaker=$unit.id
 #. [message]: speaker=Ysaxis
@@ -4052,22 +4117,22 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:879
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:899
 msgid "Look, it’sss that wisssard again! Light the fire, sssound the alarm!"
-msgstr ""
+msgstr "Hele, to je zassse ten čaroděj! Zapalte oheň, ssspusťte poplach!"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:845
 msgid "Look, it’s that wizard again! Light the fire, sound the alarm!"
-msgstr ""
+msgstr "Hele, to je zase ten čaroděj! Zapalte oheň, spusťte poplach!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:868
 msgid "The beacon is destroyed! And just in time too: the fog is lifting."
-msgstr ""
+msgstr "Výstražné světlo je zničeno! A také právě včas: mlha se zvedá."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:888
 msgid "I’ve tarried too long, the fog is already clearing!"
-msgstr ""
+msgstr "Zdržel jsem se příliš dlouho, mlha se už rozplývá!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:916
@@ -4075,6 +4140,8 @@ msgid ""
 "We’ve been spotted, and soon this outpost will be swarming with orcs! I hate "
 "running from a fight, but we have to retreat..."
 msgstr ""
+"Objevili nás a brzy se tahle základna bude hemžit skřety! Nerad utíkám "
+"z boje, ale musíme se stáhnout..."
 
 #. [message]: speaker=Ysaxis
 #. Ysaxis is ordering his minions to light the beacon fire, but there's nobody left to light the beacon
@@ -4083,7 +4150,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:927
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:938
 msgid "I sssaid, light the fire!"
-msgstr ""
+msgstr "Řekla jsssem: „Zapalte oheň!“"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:930
@@ -4091,16 +4158,18 @@ msgid ""
 "Cursssesss, the mountain guards are ssslain, and the beacon cannot be "
 "reached!"
 msgstr ""
+"Sssakra, horssská ssstráž je zabitá a k výssstražnému sssvětlu se nedá "
+"dossstat!"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:940
 msgid "Cursssesss, the beacon is destroyed and the orcs still slumber!"
-msgstr ""
+msgstr "Sssakra, výssstražné světlo je zničené a skřeti pořád spí!"
 
 #. [message]: role=goblin1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:962
 msgid "Eeek! It’s gone!"
-msgstr ""
+msgstr "Jejda! Je to pryč!"
 
 #. [message]: speaker=Ysaxis
 #. no matter, my saurains will slip past and warn the army! Everyone, escape to the west!
@@ -4109,6 +4178,8 @@ msgid ""
 " No matter, my sssaurians will ssslip past and warn the army! Everyone, "
 "essscape to the west!"
 msgstr ""
+" Na tom nesssejde, moji ještěráci proklouznou a budou varovat vojsssko! "
+"Všichni utíkejte na západ!"
 
 #. [message]: speaker=Delfador
 #. saurians are trying to run past Delfador's army and get orcs to come fight Delfador
@@ -4117,16 +4188,18 @@ msgid ""
 "They’re making a run for it! Don’t let a single one get away, or this "
 "outpost will be swarming with orcs!"
 msgstr ""
+"Snaží se utéct! Nenechte ani jednoho uniknout, jinak se tahle základna bude "
+"hemžit skřety!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1032
 msgid "Defeat enemies before any escape"
-msgstr ""
+msgstr "Poraz nepřátele, než stihnou utéct"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1036
 msgid "Any enemy reaches the west edge of the map"
-msgstr ""
+msgstr "Jakýkoli nepřítel dosáhne západního okraje mapy"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1054
@@ -4140,6 +4213,9 @@ msgid ""
 "couldn’t have anticipated at the scenario’s start), you now have the option "
 "to change your spells."
 msgstr ""
+"Vzhledem k tomu, že se cíle scénáře výrazně změnily (a to způsobem, který "
+"jsi na začátku scénáře nemohl/a předvídat), máš nyní možnost změnit svá "
+"kouzla."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1070
@@ -4147,17 +4223,19 @@ msgid ""
 "We must defeat these saurians and escape before nightfall, or the main "
 "orcish camp will wake and be upon us!"
 msgstr ""
+"Musíme tyhle ještěráky porazit a uniknout ještě před setměním, jinak se "
+"hlavní skřetí tábor probudí a vrhne se na nás!"
 
 #. [message]: speaker=$unit
 #. I have escaped!
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1083
 msgid "I have essscaped!"
-msgstr ""
+msgstr "Unikl jsssem!"
 
 #. [message]: speaker=$unit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1084
 msgid "female^I have essscaped!"
-msgstr ""
+msgstr "Unikla jsssem!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1088
@@ -4165,12 +4243,14 @@ msgid ""
 "One of them has gotten away to warn the orcish army! I hate running from a "
 "fight, but we have to retreat..."
 msgstr ""
+"Jeden z nich utekl, aby varoval skřetí vojsko! Nesnáším útěk z boje, ale "
+"musíme se stáhnout..."
 
 #. [message]: type=Orcish Warlord
 #. an orc has just woken up and found Delfador fighting saurians
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1105
 msgid "<i>Yaawwnn</i> ...what’s all this noise about?"
-msgstr ""
+msgstr "<i>Vááu</i> ...co je to za povyk?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1109
@@ -4178,16 +4258,18 @@ msgid ""
 "We’ve taken too long, now it’s nighttime and the orcish camp has awoken! I "
 "hate running from a fight, but we have to retreat..."
 msgstr ""
+"Trvalo nám to příliš dlouho, teď je už noc a skřetí tábor se probudil! "
+"Nesnáším útěk z boje, ale musíme se stáhnout..."
 
 #. [message]: speaker=Ysaxis
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1127
 msgid "Cursssesss..."
-msgstr ""
+msgstr "Sssakra..."
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1138
 msgid "Ah-ha, got you!"
-msgstr ""
+msgstr "Aha, mám tě!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07_The_Great_River.cfg:1141
@@ -4196,6 +4278,9 @@ msgid ""
 "remains clear. Now onwards to the Swamp of Dread, to find out why these "
 "saurians are fighting alongside orcs..."
 msgstr ""
+"Vítězství je naše! Podařilo se nám zůstat neodhaleni – cesta vpřed zůstává "
+"volná. Nyní se vydáme do Močálů děsu, abychom zjistili, proč tito ještěráci "
+"bojují po boku skřetů..."
 
 #. [scenario]: id=07x_Weldyn_Court
 #: data/campaigns/The_Deceivers_Gambit/scenarios/07x_Weldyn_Court.cfg:6
