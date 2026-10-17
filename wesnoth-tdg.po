@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-16 18:26+0200\n"
+"PO-Revision-Date: 2026-10-17 10:03+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3388,7 +3388,7 @@ msgstr "Xairr"
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/06_Ring_of_Swords.cfg:407
 msgid "Chief Ushka'e"
-msgstr "Náčelník Uška'e"
+msgstr "Náčelník Uška’e"
 
 #. [message]: speaker=Ushka'e
 #. this is the whitefang chief. He's happy that Garard has walked into his trap
@@ -4393,12 +4393,12 @@ msgstr "Trosky Saurgratu"
 #. [trait]: id=aged2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:89
 msgid "aged"
-msgstr ""
+msgstr "starý"
 
 #. [trait]: id=aged2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:90
 msgid "female^aged"
-msgstr ""
+msgstr "stará"
 
 #. [trait]: id=aged2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:91
@@ -4406,46 +4406,48 @@ msgid ""
 "Units with the <italic>text='aged'</italic> trait have 8 hitpoints less and "
 "suffer from a 1 point decrease in movement and damage."
 msgstr ""
+"Jednotky s vlastností <italic>text='starý'</italic> mají o 8 životů méně "
+"a jejich pohyb i způsobené poškození jsou zhoršené o 1 bod."
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:108
 msgid "Fliiss"
-msgstr ""
+msgstr "Flíss"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:109
 msgid "Messata"
-msgstr ""
+msgstr "Messata"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:110
 msgid "Anazz"
-msgstr ""
+msgstr "Anazz"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:111
 msgid "Zilnaza"
-msgstr ""
+msgstr "Zilnaza"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:112
 msgid "Ka'Kzaesz"
-msgstr ""
+msgstr "Ka’Kzaeš"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:113
 msgid "Fritrais"
-msgstr ""
+msgstr "Fritrais"
 
 #. [scenario]: id=08_Ruins_of_Saurgrath
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:114
 msgid "Artrax"
-msgstr ""
+msgstr "Artrax"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:119
 msgid "Saurian Juveniles"
-msgstr ""
+msgstr "Mladí ještěráci"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:356
@@ -4453,6 +4455,8 @@ msgid ""
 "The seven saurian matriarchs lie somewhere in this swamp. With most of their "
 "warriors away at war, they will be vulnerable."
 msgstr ""
+"Někde v tomto močálu leží sedm ještěráckých matek rodu. Vzhledem k tomu, že "
+"většina jejich bojovníků je pryč ve válce, budou zranitelné."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:360
@@ -4461,6 +4465,9 @@ msgid ""
 "saurians — they’re not usually invaders. I need to figure out what’s going "
 "on with this alliance and put an end to it."
 msgstr ""
+"Černohřebeňáci mají pádný důvod bojovat, ale ještěráků by se to nemělo nijak "
+"týkat – obvykle totiž nepodnikají nájezdy. Musím přijít na to, co se "
+"v tomhle spojenectví děje, a skoncovat s tím."
 
 #. [message]: speaker=Delfador
 #. in this string, $companion_name is female (probably "Lynyan")
@@ -4471,6 +4478,10 @@ msgid ""
 "scour it all. This is where you said your guides would meet us, "
 "$companion_name?"
 msgstr ""
+"Tedy pokud se nám podaří najít jejich tábory. Tyhle rozvaliny byly kdysi "
+"velkým městem jejich druhu – i to málo, co z něj zbylo, je příliš rozlehlé "
+"na to, abychom ho mohli prohledat celé. Neříkala $companion_name, že se "
+"s námi někde tady setkají její průvodci?"
 
 #. [message]: speaker=Delfador
 #. in this string, $companion_name is male
@@ -4480,42 +4491,46 @@ msgid ""
 "of their kind — even what little remains is too vast for us to scour it all. "
 "This is where you said your guides would meet us, $companion_name?"
 msgstr ""
+"Tedy pokud se nám podaří najít jejich tábory. Tyhle rozvaliny byly kdysi "
+"velkým městem jejich druhu – i to málo, co z něj zbylo, je příliš rozlehlé "
+"na to, abychom ho mohli prohledat celé. Neříkal $companion_name, že se "
+"s námi někde tady setkají jeho průvodci?"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:377
 msgid "You’re almost there! Jus’ a lil bit further... almost..."
-msgstr ""
+msgstr "Jste skoro na místě! Ještě trochu dál... kousek..."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:391
 msgid "Rendezvous with your companion’s guides"
-msgstr ""
+msgstr "Setkej se s průvodci tvého společníka"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:395
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:605
 msgid "Then, defeat three of the seven saurian leaders"
-msgstr ""
+msgstr "Poté poraz tři ze sedmi vůdkyň ještěráků"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:445
 msgid "Hey, what—"
-msgstr ""
+msgstr "Hele, co —"
 
 #. [event]: id=activate_poachers
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:449
 msgid "Gonnin"
-msgstr ""
+msgstr "Gonnin"
 
 #. [event]: id=activate_poachers
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:454
 msgid "Milyn"
-msgstr ""
+msgstr "Milyn"
 
 #. [event]: id=activate_poachers
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:459
 msgid "Barin"
-msgstr ""
+msgstr "Barin"
 
 #. [message]: speaker=Barin
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:465
@@ -4523,6 +4538,8 @@ msgid ""
 "Well well, look what the cat dragged in. You’re a little far from home, "
 "scholar!"
 msgstr ""
+"No no, podívejme, co sem kočka přitáhla. Jsi trochu daleko od domova, "
+"študente!"
 
 #. [message]: speaker=Barin
 #. "protection" is a reference to a "protection racket", where organized crime will extort money from victims. Barin isn't actually proposing a protection racket - he's genuinely offering to help Delfador - but it's meant to sound ambiguous and suspicious
@@ -4532,17 +4549,19 @@ msgid ""
 "There’s lizards out here... and robbers too. T’would be a shame if something "
 "happened to you. Maybe you oughta have our protection — for a price."
 msgstr ""
+"Tady venku se potulují ještěrky... a taky lupiči. Byla by škoda, kdyby se ti "
+"něco stalo. Možná bys měl využít naší ochrany – za určitou cenu."
 
 #. [option]
 #. $fee is very likely between 24 and 100
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:486
 msgid "Pay $fee gold (learn to recruit Poachers)"
-msgstr ""
+msgstr "Zaplatit $fee zlatých (naučíš se verbovat pytláky)"
 
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:492
 msgid "Attack"
-msgstr ""
+msgstr "Zaútočit"
 
 #. [message]: speaker=Barin
 #. in this string, $companion_name is female (probably "Lynyan")
@@ -4552,6 +4571,9 @@ msgid ""
 "swamp and make sure nothin’ happens to you or the rest of your coin! "
 "$companion_name said yer looking for them lizards, yeah?"
 msgstr ""
+"Skvělé! Teď, když jste si nás najali, můžete být v klidu. Provedeme vás "
+"močálem a postaráme se, aby se vám ani zbytku vašich peněz nic nestalo! "
+"$companion_name říkala, že hledáte ty ještěrky, že jo?"
 
 #. [message]: speaker=Barin
 #. in this string, $companion_name is male
@@ -4561,6 +4583,9 @@ msgid ""
 "and make sure nothin’ happens to you or the rest of your coin! "
 "$companion_name said yer looking for them lizards, yeah?"
 msgstr ""
+"Skvělé! Teď, když jste si nás najali, můžete být v klidu. Provedeme vás "
+"močálem a postaráme se, aby se vám ani zbytku vašich peněz nic nestalo! "
+"$companion_name říkal, že hledáte ty ještěrky, že jo?"
 
 #. [message]: speaker=Barin
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:540
@@ -4568,6 +4593,8 @@ msgid ""
 "...what, you didn’t think we was trying to rob something, did ye? Naw, I’m "
 "your guide. I’d never hurt a friend of $companion_name’s."
 msgstr ""
+"... cože, snad sis nemyslel, že se snažíme něco ukrást, že ne? Ne, jsem tvůj "
+"průvodce. Nikdy bych neublížil někomu, koho má $companion_name za kamaráda."
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:547
@@ -4575,16 +4602,20 @@ msgid ""
 "Poachers are general-purpose nighttime archers, with numerous-but-weak "
 "ranged strikes and unusually good defense in swamps."
 msgstr ""
+"Pytláci jsou všestranní noční lučištníci, kteří dokážou vícekrát, avšak "
+"slabě útočit na dálku a mají neobvykle dobrou obranu v močálech."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:572
 msgid "Insolent fools, I am no sickly scribe, easy pickings for the robber!"
 msgstr ""
+"Drzí blázni, nejsem žádný neduživý písař, který by byl pro lupiče snadnou "
+"kořistí!"
 
 #. [message]: speaker=Barin
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:576
 msgid "Whoah, hey uh, what’s going on?"
-msgstr ""
+msgstr "Páni, hej, ehm, co se to děje?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:580
@@ -4592,21 +4623,23 @@ msgid ""
 "You bandits trifle with an archmage of Wesnoth, famed and powerful. Step "
 "forth and meet your doom!"
 msgstr ""
+"Vy bandité si zahráváte s velkým mágem z Wesnothu, proslulým a mocným. "
+"Vykročte vstříc své záhubě!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:601
 msgid "Defeat the bandits"
-msgstr ""
+msgstr "Poraz bandity"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:626
 msgid "Ughhh..."
-msgstr ""
+msgstr "Ufff..."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:634
 msgid "I’m gettin’ out o’ here!"
-msgstr ""
+msgstr "Vypařím se odtud!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:643
@@ -4614,6 +4647,8 @@ msgid ""
 "Serves them right, preying on innocent travelers... Now, where’s these "
 "guides of yours we’re going to meet?"
 msgstr ""
+"Zasloužili si to, když tak odírají nevinné cestovatele... Tak kde jsou ti "
+"tví průvodci, se kterými se máme setkat?"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:647
@@ -4621,16 +4656,18 @@ msgid ""
 "Umm... you know what, I’m thinkin’ we’re better off hunting them saurians "
 "all on our lonesomes instead. I’m still gettin’ paid after all this, right?"
 msgstr ""
+"No... víš co, myslím, že by bylo lepší, kdybychom ty ještěráky lovili radši "
+"sami, bez cizí pomoci. Peníze za to přece dostanu i tak, ne?"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:661
 msgid "Defeat three of the seven saurian leaders"
-msgstr ""
+msgstr "Poraz tři ze sedmi ještěráckých vůdkyň"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:678
 msgid "(3 remaining)"
-msgstr ""
+msgstr "(zbývají 3)"
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:680
@@ -4638,6 +4675,8 @@ msgid ""
 "Surprise attack: The saurians will not spot you until you approach within 4 "
 "hexes of a matriarch."
 msgstr ""
+"Překvapivý útok: Ještěráci tě nezpozorují, dokud se nepřiblížíš na "
+"vzdálenost 4 políček od matky rodu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:701
@@ -4645,12 +4684,14 @@ msgid ""
 "That saurian has different markings than the others I’ve seen, and is "
 "somewhat smaller. A juvenile or invalid, perhaps?"
 msgstr ""
+"Ten ještěrák má jiné zbarvení než ostatní, které jsem viděl, a je o něco "
+"menší. Možná je to mládě nebo nemocný jedinec?"
 
 #. [message]: speaker=second_unit
 #. delfador has just attacked an unarmed saurian
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:709
 msgid "The monssstersss hunt usss for sssport! Flee, flee!"
-msgstr ""
+msgstr "Ty ssstvůry nás loví jen pro zábavu! Utíkejte, utíkejte!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:713
@@ -4658,18 +4699,20 @@ msgid ""
 "They really are unarmed juveniles! Hang on a minute, they’re not dangerous, "
 "maybe we should just let them be."
 msgstr ""
+"Jsou to opravdu neozbrojená mláďata! Počkejte chvilku, nejsou nebezpečná, "
+"možná bychom je měli prostě nechat na pokoji."
 
 #. [message]: speaker=$found_unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:736
 msgid "We’re under assssault! Sssound the alarm and rally our warriorsss!"
-msgstr ""
+msgstr "Přepadli násss! Vyhlaste poplach a shromážděte naše válečníky!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:740
 msgid ""
 "They’ve spotted us! The time for stealth is past; now come the fire and the "
 "flame!"
-msgstr ""
+msgstr "Zpozorovali nás! Čas utajení je pryč. Teď přijde oheň a plameny!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:763
@@ -4680,11 +4723,16 @@ msgid ""
 "Like villages, an oasis will heal anyone standing on it. Unlike villages, an "
 "oasis provides neither income nor protection."
 msgstr ""
+"V této oblasti se nachází jen málo vesnic, ale podívejte! Narazili jsme na "
+"oázu.\n"
+"\n"
+"Stejně jako vesnice i oáza uzdraví každého, kdo v ní stojí. Na rozdíl od "
+"vesnic však oáza neposkytuje ani příjem, ani ochranu."
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:793
 msgid "Who are you! Why bring death into my homesss..."
-msgstr ""
+msgstr "Kdo jsssi! Proč přinášíš sssmrt do mých domovů..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:797
@@ -4693,6 +4741,9 @@ msgid ""
 "Wesnoth’s spears, or I will visit upon you the same destruction your allies "
 "would bring to us!"
 msgstr ""
+"Jsem Delfador, válečný mág z Wesnothu! Nechte skřety z Černého hřebene "
+"napospas smrti pod kopími Wesnothu, jinak na vás uvalím stejnou zkázu, jakou "
+"by nám přinesli vaši spojenci!"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:801
@@ -4700,6 +4751,7 @@ msgid ""
 "But tribe Earth-Becomes-Clay mussst fight Wesssnoth! The Great One has "
 "commanded us!"
 msgstr ""
+"Ale kmen „Jílu země“ musí proti Wesssnothu bojovat! Veliká nám to přikázala!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:805
@@ -4707,6 +4759,8 @@ msgid ""
 "The “Great One”? I had thought you matriarchs led your tribe. Tell me, "
 "elder, who is this of which you speak?"
 msgstr ""
+"„Veliká“? Já myslel, že to vy, matky rodu, vedete svůj kmen. Pověz mi, "
+"starší, o kom to mluvíš?"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:809
@@ -4714,6 +4768,7 @@ msgid ""
 "We sssauriansss are finally united... the Great One makesss usss... "
 "ssstrong..."
 msgstr ""
+"My ještěráci jsssme konečně jednotní... Veliká násss činí... sssilnými..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:815
@@ -4721,11 +4776,14 @@ msgid ""
 "Alas, she has expired. Her wounds were too great. But we have learned much — "
 "we must capture another matriarch to find out who this ’great one’ is."
 msgstr ""
+"Bohužel zemřela. Její zranění byla příliš vážná. Ale hodně jsme se "
+"dozvěděli – musíme další matku rodu zajmout, abychom zjistili, kdo je ta "
+"„veliká“."
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:817
 msgid "(2 remaining)"
-msgstr ""
+msgstr "(zbývají 2)"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:834
@@ -4733,6 +4791,8 @@ msgid ""
 "You are beaten, lizard! Your ’great one’ commands you to kill my people; "
 "tell me who or what the ’great one’ is, and your life shall be spared."
 msgstr ""
+"Jsi poražena, ještěrko! Tvá „veliká“ ti přikazuje zabít můj lid. Řekni mi, "
+"kdo nebo co je ta „veliká“, a tvůj život bude ušetřen."
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:838
@@ -4740,13 +4800,15 @@ msgid ""
 "Curssse you! We are all nothing but wormsss before her... she will dessstroy "
 "you in an inferno of flamesss!"
 msgstr ""
+"Proklínám tě! Před ní jsssme všichni jen červi... zničí vásss v pekelném "
+"ohni!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:856
 msgid ""
 "And I shall destroy YOU in an inferno of flames if you don’t tell me what I "
 "want to know!"
-msgstr ""
+msgstr "A já zničím v pekelném ohni TEBE, jestli mi neřekneš, co chci vědět!"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:868
@@ -4754,7 +4816,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1396
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1884
 msgid "fireball"
-msgstr ""
+msgstr "ohnivá koule"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:886
@@ -4762,6 +4824,8 @@ msgid ""
 "Wait, what! I wasn’t actually going to— that wasn’t supposed to happen! "
 "Where did that fireball come from!"
 msgstr ""
+"Počkat, cože! To jsem doopravdy nechtěl... takhle to nemělo dopadnout! Odkud "
+"se ta ohnivá koule vzala!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:890
@@ -4769,6 +4833,9 @@ msgid ""
 "...it seems I’ve spent so much time building my power that I neglected the "
 "finer arts of control. Methor would be ashamed... I must redouble my efforts."
 msgstr ""
+"... zdá se, že jsem strávil hodně času budováním své síly a zanedbal "
+"jemnější umění ovládání. Methor by se za mě styděl... Musím zdvojnásobit své "
+"úsilí."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:911
@@ -4778,6 +4845,10 @@ msgid ""
 "possess, but the gleaming light of truth instead.”</i> Surely this was not "
 "the event that she referred to?"
 msgstr ""
+"... před desítkami let mi jedna elfí vidoucí vyprávěla o <i>„temném močálu“</"
+"i> a o tom, že se musím <i>„snažit, abych tím ohněm, který vlastním, "
+"nepřinášel zkázu, ale naopak zářivé světlo pravdy.“</i> To přece nemohla mít "
+"na mysli právě tuto událost, že ne?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:915
@@ -4787,11 +4858,15 @@ msgid ""
 "was trying to say. Why must seers always speak in riddles? It is hard to "
 "think clearly, especially in times of crisis..."
 msgstr ""
+"Garard si z takových pověr nic nedělá, ale já jsem se ze všech sil snažil "
+"řídit se tou záhadnou radou. Musím však přiznat, že jsem z toho, co se "
+"snažila říct, pochopil jen velmi málo. Proč musí vidoucí vždy mluvit "
+"v hádankách? Je těžké myslet jasně, zvláště v krizových situacích..."
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:918
 msgid "(1 remaining)"
-msgstr ""
+msgstr "(zbývá 1)"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:941
@@ -4799,12 +4874,14 @@ msgid ""
 "Cease your fighting, matriarch, for you have been bested! Heed this warning: "
 "answer my questions or be burned to ashes!"
 msgstr ""
+"Přestaň bojovat, matko rodu, neboť jsi byla přemožena! Vezmi si k srdci toto "
+"varování: odpověz na mé otázky, nebo skončíš spálená na popel!"
 
 #. [message]: speaker=Delfador
 #. Delfador was worried he would accidentally shoot a fireball, but he didn't
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:961
 msgid "(There we go. Both power and control.)"
-msgstr ""
+msgstr "(Tak a je to. Jak síla, tak i ovládání.)"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:965
@@ -4812,6 +4889,8 @@ msgid ""
 "Mothersss protect me, can it be? Are you a sssecond great dragon of fire!? I "
 "am blessssed to sssee sssuch thingsss in my time..."
 msgstr ""
+"Matky, chraňte mě, je to vůbec možné? Jsssi sssnad druhý velký ohnivý drak!? "
+"Dossstalo sssemi té výsssady, že můžu ve sssvém životě vidět takové věci..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:969
@@ -4819,6 +4898,8 @@ msgid ""
 "A drago— your great one is a dragon!? ...yes, I am a great dragon as well. "
 "Do you not see my fire? Do you not see my flight?"
 msgstr ""
+"Drak... ta tvá veliká je dračice!? ...ano, já jsem také velký drak. Copak "
+"nevidíš můj oheň? Copak nevidíš, jak létám?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:979
@@ -4826,6 +4907,8 @@ msgid ""
 "Now you shall tell me where I may find the dragon —the other dragon. The two "
 "of us have much business together."
 msgstr ""
+"Teď mi řekni, kde najdu tu dračici – toho druhého draka. My dva máme spolu "
+"ještě hodně co do činění."
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:983
@@ -4833,11 +4916,12 @@ msgid ""
 "Oh, Great One, I hear you and obey! Follow me, and I will guide you to your "
 "sister."
 msgstr ""
+"Ó, Veliký, slyším tě a poslechnu! Pojď za mnou a já tě zavedu k tvé sestře."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:1010
 msgid "Everyone, keep moving! We’re running out of time."
-msgstr ""
+msgstr "Hněte sebou, všichni! Čas se nám krátí."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:1058
@@ -4845,11 +4929,13 @@ msgid ""
 "What’s this? Filthy humans grubbing around in our swamp? These lizards are "
 "Blackcrest property!"
 msgstr ""
+"Co to má být? Špinavý lidi, co se hrabou naším močálem? Tyhle ještěrky patří "
+"Černému hřebenu!"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:1062
 msgid "They ssstrike at the matriarchsss! We ssshall ssslay them all!"
-msgstr ""
+msgstr "Zasssáhli matky rodu! Všechny je pobijeme!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08_Ruins_of_Saurgrath.cfg:1066
@@ -4857,6 +4943,8 @@ msgid ""
 "The main orcish army has caught up to us! Even if we defeat this vanguard "
 "and flee onwards, we’ve missed our chance to break the saurian alliance..."
 msgstr ""
+"Dohnalo nás hlavní skřetí vojsko! I kdybychom porazili tento předvoj "
+"a utekli dál, už jsme promarnili šanci rozbít ještěrácké spojenectví..."
 
 #. [scenario]: id=08x_Field_Hospital
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:6
