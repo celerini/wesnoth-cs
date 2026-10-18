@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-17 10:03+0200\n"
+"PO-Revision-Date: 2026-10-18 05:19+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -4949,7 +4949,7 @@ msgstr ""
 #. [scenario]: id=08x_Field_Hospital
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:6
 msgid "Field Hospital"
-msgstr ""
+msgstr "Polní nemocnice"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:112
@@ -4957,11 +4957,13 @@ msgid ""
 "Ah, much better. Thanks again for the healing, old man, but I’m afraid this "
 "is the last we’ll be seeing of each other for some time."
 msgstr ""
+"Ach, to je mnohem lepší. Ještě jednou díky za vyléčení, starouši, ale obávám "
+"se, že teď se po nějakou dobu neuvidíme."
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:116
 msgid "Oh? You’ve been pulled back from the front?"
-msgstr ""
+msgstr "Vážně? Stáhli tě z fronty?"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:120
@@ -4969,6 +4971,8 @@ msgid ""
 "Not quite. Remember Delfador’s prophecy? “Line of Kings”? “Sceptre of the "
 "Wesfolk”?"
 msgstr ""
+"Ne tak docela. Vzpomínáš si na Delfadorovo proroctví? „Rod králů“? „Žezlo "
+"Wesanů“?"
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:124
@@ -4978,6 +4982,10 @@ msgid ""
 "that the king should hold the Sceptre. If a noble did get their hands on it "
 "they’d have a pretty strong claim to Garard’s throne."
 msgstr ""
+"No, Garard má obavy. Podle královniných klepů prý jeden ze šlechticů ví, kde "
+"se nachází dávno ztracené Ohnivé žezlo. Nevím, jestli je to pravda, ale "
+"každý ví, že to žezlo by měl držet král. Kdyby se ho nějaký šlechtic "
+"skutečně zmocnil, měl by docela silný nárok na Garardův trůn."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:128
@@ -4986,6 +4994,9 @@ msgid ""
 "’grand journey’ into the wildlands to find the Sceptre first, and ensure he "
 "stays firmly in power."
 msgstr ""
+"Král mě posílá spolu s celou družinou těch nejlepších z Weldynu na „velkou "
+"výpravu“ do divokých končin, abychom našli žezlo jako první a zajistili, že "
+"jemu zůstane moc pevně v rukou."
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:132
@@ -4993,6 +5004,8 @@ msgid ""
 "Good gods, why now? Wesnoth is in enough trouble as it is, without worrying "
 "about lost artifacts and suicide missions."
 msgstr ""
+"Proboha, proč zrovna teď? Wesnoth má už tak dost starostí, aniž se musí "
+"trápit ztracenými artefakty a sebevražednými misemi."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:136
@@ -5001,6 +5014,9 @@ msgid ""
 "someone really is trying to usurp the throne... Well, I only hope I can find "
 "the Sceptre quickly, and resume my place at the king’s side."
 msgstr ""
+"Víš přece, jaký dokáže být král, když si něco vezme do hlavy. A pokud se "
+"někdo opravdu pokouší zmocnit se trůnu... No, doufám jen, že se mi podaří "
+"rychle najít žezlo a znovu zaujmout své místo po králově boku."
 
 #. [message]: speaker=Methor
 #. this mirrors Deoran's request to Delfador in S10x
@@ -5009,6 +5025,8 @@ msgid ""
 "Lionel! You don’t... <b><i>have</i></b> to go, you know. You’re Garard’s top "
 "general — if you refuse, I’m not sure there’s much he could do about it."
 msgstr ""
+"Lioneli! Ty odejít... <b><i>nemusíš</i></b>, však víš. Jsi Garardův nejvyšší "
+"generál – pokud to odmítneš, pochybuji, že by s tím mohl něco udělat."
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:151
@@ -5016,6 +5034,8 @@ msgid ""
 "And it would be for the king’s own good! Garard needs you <b><i>here</i></"
 "b>, Lionel! Wesnoth needs you here."
 msgstr ""
+"A bylo by to pro královo vlastní dobro! Garard tě potřebuje <b><i>tady</i></"
+"b>, Lioneli! Wesnoth tě tady potřebuje."
 
 #. [message]: speaker=Lionel
 #. [message]: speaker=Omaranth
@@ -5038,12 +5058,12 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1471
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:198
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [message]: speaker=Lionel
 #: data/campaigns/The_Deceivers_Gambit/scenarios/08x_Field_Hospital.cfg:159
 msgid "I’m loyal, Methor. Always have been, always will be."
-msgstr ""
+msgstr "Jsem loajální, Methore. Vždycky jsem byl a vždycky budu."
 
 #. [scenario]: id=09_Omaranth
 #. [unit]: id=Omaranth
