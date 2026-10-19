@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-18 07:49+0200\n"
+"PO-Revision-Date: 2026-10-19 19:24+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -5526,7 +5526,7 @@ msgstr "Domy mrtvých"
 #. notice that appears at the beginning of the scenario if you select Brutal difficulty
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:104
 msgid "Meanwhile..."
-msgstr ""
+msgstr "Mezitím..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:132
@@ -5534,22 +5534,24 @@ msgid ""
 "Stand and fight me, drake! You and your saurians have caused Wesnoth enough "
 "harm. In the name of King Garard, your villainy ends here."
 msgstr ""
+"Postav se mi a bojuj, drakonide! Ty a tvoji ještěráci jste Wesnothu dost "
+"ublížili. Ve jménu krále Gararda – tvé zločiny zde končí."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:143
 msgid "...I suppose we’ll have to do this the hard way."
-msgstr ""
+msgstr "... Asi to budeme muset udělat tou těžší cestou."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:151
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:346
 msgid "Find Omaranth"
-msgstr ""
+msgstr "Najdi Omaranta"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:213
 msgid "A drakish tomb? This looks ominous..."
-msgstr ""
+msgstr "Hrobka drakonidů? To vypadá zlověstně..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:257
@@ -5558,6 +5560,9 @@ msgid ""
 "fouler still. Damned vessels, conscious but enslaved... yet where there are "
 "enchantments, there are opportunities."
 msgstr ""
+"Duch! Chodící mrtvoly jsou velkým zlem, ale ovládání duchů je ještě mnohem "
+"odpornější. Proklaté nádoby, při vědomí, ale zotročené... avšak kde jsou "
+"kouzla, tam jsou i příležitosti."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:267
@@ -5565,13 +5570,15 @@ msgid ""
 "I must concentrate. The slightest mistake in the casting of this spell could "
 "be fatal."
 msgstr ""
+"Musím se soustředit. I ta nejmenší chyba při sesílání tohoto kouzla by mohla "
+"být osudná."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:283
 msgid ""
 "I call upon the name of An-Usrukhar the Great. I invoke the Mirror of "
 "Evanescent Time!"
-msgstr ""
+msgstr "Volám jméno An-Ušrukara Velikého. Vyvolávám Zrcadlo pomíjivého času!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:290
@@ -5579,6 +5586,8 @@ msgid ""
 "I challenge life against death! I invoke freedom against order! I wield "
 "light against darkness!"
 msgstr ""
+"Vyzývám život proti smrti! Povolávám svobodu proti řádu! Nesu světlo proti "
+"temnotě!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:297
@@ -5586,11 +5595,12 @@ msgid ""
 "May the coils of servitude be broken! Spirit of the damned, be freed from "
 "your master."
 msgstr ""
+"Ať se zlomí pouta otroctví! Duchu zatracených, buď osvobozen od svého pána."
 
 #. [message]: speaker=Aethyr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:315
 msgid "My mind... is my own..."
-msgstr ""
+msgstr "Má mysl... patří jen mně..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:319
@@ -5598,6 +5608,8 @@ msgid ""
 "Speak, spectre! Tell me of this place. Where is the drake they call the "
 "“Great One”?"
 msgstr ""
+"Mluv, přízraku! Pověz mi něco o tomto místě. Kde je ten drakonid, kterému "
+"říkají „Větší“?"
 
 #. [message]: speaker=Aethyr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:323
@@ -5605,11 +5617,13 @@ msgid ""
 "I do not know. I know nothing of drakes. I am a man. My name is Aethyr... I "
 "had almost forgotten. I died long ago, in a great battle..."
 msgstr ""
+"To nevím. Nevím nic o drakonidech. Jsem člověk. Jmenuji se Aethyr... Skoro "
+"jsem na to zapomněl. Já zemřel už dávno, v jedné velké bitvě..."
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:325
 msgid "Aethyr"
-msgstr ""
+msgstr "Aethyr"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:328
@@ -5617,6 +5631,8 @@ msgid ""
 "You’re the spirit of a human? How did you come to roam these drakish halls, "
 "so far from the lands of men?"
 msgstr ""
+"Jsi duch člověka? Jak to, že bloudíš po těchto síních drakonidů, tak daleko "
+"od zemí lidí?"
 
 #. [message]: speaker=Aethyr
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:332
@@ -5624,6 +5640,8 @@ msgid ""
 "Iliah-Malal brought me here. He made me promises of life renewed, but "
 "instead bound me to his will. Perhaps Iliah-Malal will know of your drake."
 msgstr ""
+"Přivedl mě sem Iliah-Malal. Slíbil mi nový život, ale místo toho mě podřídil "
+"své vůli. Možná ví něco o tvém drakonidovi on."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:336
@@ -5631,11 +5649,13 @@ msgid ""
 "A necromancer? Troubling. Yes, I should very much like to meet this Iliah-"
 "Malal."
 msgstr ""
+"Nekromant? To je znepokojivé. Ano, velmi rád bych se s tím Iliah-Malalem "
+"setkal."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:350
 msgid "Find Iliah-Malal"
-msgstr ""
+msgstr "Najdi Iliah-Malala"
 
 #. [note]
 #. [message]: speaker=narrator
@@ -5645,23 +5665,25 @@ msgid ""
 "Delfador can capture hostile ghosts by moving adjacent to them, unless he is "
 "polymorphed."
 msgstr ""
+"Delfador dokáže zajmout nepřátelské duchy tím, že se k nim přiblíží, pokud "
+"není proměněn."
 
 #. [note]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:360
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:799
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1143
 msgid "Allied ghosts will not follow you to the next scenario."
-msgstr ""
+msgstr "Duchové spojenci tě do dalšího scénáře nebudou následovat."
 
 #. [floating_text]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:413
 msgid "Ghost Captured"
-msgstr ""
+msgstr "Duch chycen"
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:433
 msgid "Sythan"
-msgstr ""
+msgstr "Sythan"
 
 #. [message]: speaker=Sythan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:448
@@ -5669,16 +5691,18 @@ msgid ""
 "I was once a great lord... I commanded armies! Iliah-Malal promised I would "
 "lead again."
 msgstr ""
+"Kdysi jsem byl mocným pánem... Velel vojskům! Iliah-Malal mi slíbil, že budu "
+"opět velet."
 
 #. [message]: speaker=Sythan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:452
 msgid "It was all a lie. I became only his slave."
-msgstr ""
+msgstr "Všechno to byla lež. Stal jsem se jen jeho otrokem."
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:461
 msgid "Vellin Ka"
-msgstr ""
+msgstr "Vellin Ka"
 
 #. [message]: speaker=VellinKa
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:479
@@ -5687,6 +5711,9 @@ msgid ""
 "Your spears were sharp.\n"
 "Your hearts were cold."
 msgstr ""
+"Vaše prapory byly rudé.\n"
+"Vaše kopí byla ostrá.\n"
+"Vaše srdce byla chladná."
 
 #. [message]: speaker=VellinKa
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:485
@@ -5695,6 +5722,9 @@ msgid ""
 "Iliah-Malal burned our Eyrie.\n"
 "Iliah-Malal will die."
 msgstr ""
+"Iliah-Malal velel vaší armádě.\n"
+"Iliah-Malal vypálil naše hnízdo.\n"
+"Iliah-Malal zemře."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:491
@@ -5703,6 +5733,9 @@ msgid ""
 "living men? And what of the drake called Omaranth; how did he survive if the "
 "rest of you did not?"
 msgstr ""
+"Jsi drakonidka a Iliah-Malal zničil tvůj domov spolu s... armádou živých "
+"lidí? A co ten drakonid jménem Omarant – jak to, že přežil, když vy ostatní "
+"ne?"
 
 #. [message]: speaker=VellinKa
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:495
@@ -5711,6 +5744,9 @@ msgid ""
 "Omaranth was strongest in our Eyrie.\n"
 "Omaranth’s fate was not seen by I."
 msgstr ""
+"Omarant byl vládcem naší letky.\n"
+"Omarant byl nejsilnější v našem hnízdě.\n"
+"Omarantův osud mi zůstal skryt."
 
 #. [message]: id=$sun_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:528
@@ -5718,6 +5754,8 @@ msgid ""
 "A passage to the world above! Oh, how I long to go through and see the sun "
 "again..."
 msgstr ""
+"Cesta do světa nahoře! Ach, jak moc toužím tudy projít a znovu spatřit "
+"slunce..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:532
@@ -5726,11 +5764,14 @@ msgid ""
 "and now sends them against my allies on the surface. We must not abandon our "
 "task here."
 msgstr ""
+"Soustřeď se, duchu. Ten nekromant Iliah-Malal musel oživit tyto mrtvoly "
+"a nyní je posílá proti mým spojencům na povrchu. Naši práci tady nesmíme "
+"vzdát."
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:545
 msgid "Hagha-Tan"
-msgstr ""
+msgstr "Hagha-Tan"
 
 #. [message]: speaker=HaghaTan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:560
@@ -5738,6 +5779,8 @@ msgid ""
 "The chief called me to war... I knew the attack was risky, but I was "
 "willing..."
 msgstr ""
+"Náčelník mě povolal do války... Věděl jsem, že ten útok je riskantní, ale "
+"byl jsem svolný..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:564
@@ -5746,16 +5789,19 @@ msgid ""
 "Wesnoth? What can you tell me about your allies’ battle plans? Troop "
 "movements?"
 msgstr ""
+"Pokud jsi skřet, který nedávno padl, znamená to, že jsi zahynul v boji proti "
+"Wesnothu? Co mi můžeš říct o bojových plánech svých spojenců? O pohybech "
+"vojsk?"
 
 #. [message]: speaker=HaghaTan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:569
 msgid "You are no lord of mine, man of Wesnoth. I serve only my clan."
-msgstr ""
+msgstr "Nejsi můj pán, muži z Wesnothu. Sloužím pouze svému klanu."
 
 #. [event]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:579
 msgid "Melinna"
-msgstr ""
+msgstr "Melinna"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:593
@@ -5763,6 +5809,7 @@ msgid ""
 "Are you a drake? Do you know anything about Omaranth, or this necromancer "
 "Iliah-Malal?"
 msgstr ""
+"Jsi drakonidka? Víš něco o Omarantovi nebo o tom nekromantovi Iliah-Malalovi?"
 
 #. [message]: speaker=Melinna
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:597
@@ -5770,6 +5817,8 @@ msgid ""
 "I know only what I knew in life, Delfador. Yes, I recognize you... Garard’s "
 "attack dog..."
 msgstr ""
+"Vím jen to, co jsem věděla za života, Delfadore. Ano, poznávám tě... "
+"Garardův útočný pes..."
 
 #. [message]: speaker=Melinna
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:601
@@ -5778,6 +5827,9 @@ msgid ""
 "find myself here, in a form reflecting my fate. Who helped undead sneak into "
 "Wesnoth? Why didn’t you keep us all safe..."
 msgstr ""
+"Kdysi jsem byla dvorní dámou. Ale v noci mě našli mrtví. A teď se ocitám "
+"tady, v podobě, která odráží můj osud. Kdo pomohl nemrtvým vplížit se do "
+"Wesnothu? Proč jsi nás všechny neochránil..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:635
@@ -5785,6 +5837,8 @@ msgid ""
 "There is a gate here, sealed by runic energy. My magic should be able to "
 "open it, but we must be prepared for whatever lies beyond."
 msgstr ""
+"Tady je brána, zapečetěná silou run. Moje magie by ji měla otevřít, ale "
+"musíme být připraveni na cokoli, co se za ní skrývá."
 
 #. [message]: speaker=unit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:649
@@ -5792,6 +5846,8 @@ msgid ""
 "Only Delfador has the power to open these gates... whatever lies beyond will "
 "be most dangerous..."
 msgstr ""
+"Pouze Delfador má moc tyto brány otevřít... cokoli se za nimi skrývá, bude "
+"nesmírně nebezpečné..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:669
@@ -5799,16 +5855,18 @@ msgid ""
 "Whatever lurks behind this gate, it will be dangerous. I should make sure I "
 "am prepared before I proceed."
 msgstr ""
+"Ať už za touto bránou číhá cokoli, bude to nebezpečné. Než tam vstoupím, měl "
+"bych se ujistit, že jsem na to připraven."
 
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:671
 msgid "Open the gate"
-msgstr ""
+msgstr "Otevřít bránu"
 
 #. [option]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:676
 msgid "Wait"
-msgstr ""
+msgstr "Počkat"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:766
@@ -5817,6 +5875,9 @@ msgid ""
 "don’t entirely understand what’s going on here, but I do know that you’re an "
 "enemy of Wesnoth, and that’s good enough for me."
 msgstr ""
+"Ty! Když je tu tolik nemrtvých, čekal jsem, že narazím na nekromanta... "
+"Nechápu úplně, co se tu děje, ale vím, že jsi nepřítel Wesnothu, a to mi "
+"stačí."
 
 #. [message]: speaker=Omaranth
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:770
@@ -5825,21 +5886,24 @@ msgid ""
 "YOU SLAY MY SERVANTS.\n"
 "YOU UNDERSTAND NOTHING."
 msgstr ""
+"VTRHL JSI DO MÉHO DOMOVA.\n"
+"ZABIL MÉ SLUŽEBNÍKY.\n"
+"NECHÁPEŠ NIC."
 
 #. [message]: speaker=Omaranth
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:776
 msgid "NOW, YOU DIE."
-msgstr ""
+msgstr "TEĎ ZEMŘEŠ."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:792
 msgid "Defeat Omaranth"
-msgstr ""
+msgstr "Poraz Omaranta"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:862
 msgid "Ah ha, ha ha ha..."
-msgstr ""
+msgstr "Aha, ha ha ha..."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:867
@@ -5848,6 +5912,9 @@ msgid ""
 "me amidst all the vastness of the north — you have truly exceeded all "
 "expectations!"
 msgstr ""
+"Bojoval jsi skvěle, Delfadore! Varovali mě, že jsi nebezpečný, ale že mě "
+"najdeš uprostřed té obrovské rozlehlosti severu – to opravdu předčilo "
+"všechna očekávání!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:871
@@ -5855,6 +5922,8 @@ msgid ""
 "Now the story begins to make sense. The Omaranth I saw was never more than "
 "an illusion. You are Iliah-Malal."
 msgstr ""
+"Teď už ten příběh začíná dávat smysl. Ten Omarant, kterého jsem viděl, nebyl "
+"nikdy nic jiného než klam. Ty jsi Iliah-Malal."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:875
@@ -5863,6 +5932,9 @@ msgid ""
 "You led the saurians to join Clan Blackcrest, and you sent them to war "
 "against Wesnoth. But why? How does all this fighting benefit a mage?"
 msgstr ""
+"Vyhladil jsi tuto letku drakonidů a převzal podobu jejich vůdce. Přivedl jsi "
+"ještěráky, aby se připojili ke klanu Černého hřebene, a poslal je do války "
+"proti Wesnothu. Ale proč? Jaký prospěch má z toho všeho boje mág?"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:879
@@ -5872,6 +5944,10 @@ msgid ""
 "an aging king, your whole life is passing you by. You’re on the wrong side "
 "of history, Delfador war-mage."
 msgstr ""
+"Jak všechy <i><b>tvé</b></i> boje prospívají <i><b>tobě</b></i>? Desítky let "
+"války – a co se tím získalo? Zatímco proléváš krev za upadající zemi "
+"a stárnoucího krále, celý tvůj život ti utíká mezi prsty. Stojíš na špatné "
+"straně dějin, válečný mágu Delfadore."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:884
@@ -5880,6 +5956,10 @@ msgid ""
 "old man, and finally act for yourself! Delfador, I have allies under whose "
 "patronage you could live like a king, if you would only accept them!"
 msgstr ""
+"Ale to přece nemusíš. Odejdi! Přestaň plýtvat svým životem ve službách "
+"nějakého starého muže a konečně začni jednat ve svém vlastním zájmu! "
+"Delfadore, mám spojence, pod jejichž ochranou bys mohl žít jako král, kdybys "
+"je jen přijal!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:888
@@ -5888,42 +5968,46 @@ msgid ""
 "Protecting Wesnoth is my <b><i>duty</i></b>. King Garard is my <b><i>friend</"
 "i></b>. I hope you did not think to break me down so easily."
 msgstr ""
+"Jako král? Já už králi sloužím, Iliah-Malale, a díky tomu mě všichni mají "
+"rádi. Ochrana Wesnothu je mou <b><i>povinností</i></b>. Král Garard je mým "
+"<b><i>přítelem</i></b>. Doufám, že sis nemyslel, že mě zlomíš tak snadno."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:892
 msgid "Bah, remain a fool, then. You will not find me so easily broken either."
-msgstr ""
+msgstr "Pah, tak si zůstaň bláznem. Ani ty mě tak snadno nezlomíš."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:933
 msgid "Powers of darkness, confound my foes!"
-msgstr ""
+msgstr "Síly temnoty, uveďte mé nepřátele ve zmatek!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1136
 msgid "Find and defeat Iliah-Malal, before his undead overwhelm you."
-msgstr ""
+msgstr "Najdi a poraz Iliah-Malala, než tě jeho nemrtví přemohou."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1159
 msgid "Nice try, Delfador! You’ve only destroyed another illusion."
-msgstr ""
+msgstr "Dobrý pokus, Delfadore! Zničil jsi jen další iluzi."
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1181
 msgid ""
 "So you have found the real me. No matter. I shall have you yet, Delfador!"
 msgstr ""
+"Tak jsi odhalil mé skutečné já. To nevadí. Stejně tě dostanu, Delfadore!"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1196
 msgid "Shadows consume you!"
-msgstr ""
+msgstr "Stíny tě pohltí!"
 
 #. [message]: speaker=Iliah-Malal
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1209
 msgid "I should... have kept... my potion..."
-msgstr ""
+msgstr "Měl jsem si... ten lektvar... nechat..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1232
@@ -5932,6 +6016,9 @@ msgid ""
 "the spirits of the dead”</i>... Good riddance. His meddling in life and "
 "death has been the cause of great evil."
 msgstr ""
+"Elendino proroctví se opět naplnilo: <i>„Stínová postava zahalená do duchů "
+"mrtvých“</i>... Konečně je pryč. Jeho vměšování se do života a smrti bylo "
+"příčinou velkého zla."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1249
@@ -5941,6 +6028,9 @@ msgid ""
 "into your service, Delfador; lead us to your foes! Lead us against the "
 "living!"
 msgstr ""
+"Jsem svobodný... svobodný! Vdechl jsi mi novou žízeň po životě, po životě, "
+"který mohu vysát z těch, kdo se volně potulují pod bledým sluncem. Vezmi nás "
+"do svých služeb, Delfadore. Veď nás ke svým nepřátelům! Veď nás proti živým!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1253
@@ -5948,13 +6038,15 @@ msgid ""
 "No, no! Do not tempt me, I beg you, for that way madness lies... should I "
 "ever start down that dark path I would never become free of it."
 msgstr ""
+"Ne, ne! Nepokoušej mě, prosím tě, protože to vede k šílenství... Kdybych se "
+"někdy vydal tou temnou cestou, už bych se z toho nikdy nevymanil."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1257
 msgid ""
 "No. But you have been of great service today, and for that you shall be "
 "rewarded with peace."
-msgstr ""
+msgstr "Ne. Ale dnes jsi nám velmi pomohl, a za to budeš odměněn pokojem."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1271
@@ -5962,26 +6054,28 @@ msgid ""
 "Return to your land of calm and quiet, and trouble the living no longer. I "
 "shall save my country without your help."
 msgstr ""
+"Vrať se do své země klidu a ticha a živé už neobtěžuj. Svou zemi zachráním "
+"i bez tvé pomoci."
 
 #. [scenario]: id=10_Houses_of_the_Dead
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1296
 msgid "From the dead I came, and to the dead I return..."
-msgstr ""
+msgstr "Z mrtvých jsem přišel a k mrtvým se vracím..."
 
 #. [scenario]: id=10_Houses_of_the_Dead
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1297
 msgid "Rock and dust, bone and stone..."
-msgstr ""
+msgstr "Skála a prach, kost a kámen..."
 
 #. [scenario]: id=10_Houses_of_the_Dead
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1298
 msgid "Avenge my flight..."
-msgstr ""
+msgstr "Pomsti mou letku..."
 
 #. [scenario]: id=10_Houses_of_the_Dead
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10_Houses_of_the_Dead.cfg:1299
 msgid "Good luck, Delfador... Don’t trust anyone..."
-msgstr ""
+msgstr "Hodně štěstí, Delfadore... Nikomu nevěř..."
 
 #. [message]: speaker=Delfador
 #. Delfador has just killed an enemy ghost. That's not a good thing - if he moves next to hostile ghosts without killing them, he can take control of them.
@@ -5990,6 +6084,8 @@ msgid ""
 "That one has returned to the land of the dead. Maybe I could have captured "
 "it, if only I’d had a chance to try."
 msgstr ""
+"Tenhle se vrátil do říše mrtvých. Možná bych ho mohl chytit, kdybych jen měl "
+"šanci to zkusit."
 
 #. [scenario]: id=10x_Elensefar_Outskirts
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:6
