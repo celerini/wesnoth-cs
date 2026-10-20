@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-19 19:24+0200\n"
+"PO-Revision-Date: 2026-10-20 04:39+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6090,7 +6090,7 @@ msgstr ""
 #. [scenario]: id=10x_Elensefar_Outskirts
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:6
 msgid "Elensefar Outskirts"
-msgstr ""
+msgstr "Předměstí Elensefaru"
 
 #. [message]: speaker=Maddock
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:99
@@ -6099,6 +6099,9 @@ msgid ""
 "war-clique. You’ve already stirred up enough trouble; trade up the river is "
 "failing, and goblins are once again raiding my northern border."
 msgstr ""
+"Odpověď zní ne. Gararde, Elensefar nemá zájem připojit se k vaší malé "
+"válečné klice. Už jste nadělali dost potíží. Obchod po řece upadá a goblini "
+"opět dělají nájezdy na mou severní hranici."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:103
@@ -6107,6 +6110,9 @@ msgid ""
 "territory we could command if the Northlands were fully open to human "
 "settlement."
 msgstr ""
+"O to větší důvod spojit síly a vyhladit skřety! Představ si, jak rozsáhlé "
+"území bychom mohli ovládat, kdyby se Severní země plně otevřely lidskému "
+"osídlení."
 
 #. [message]: speaker=Maddock
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:107
@@ -6114,31 +6120,33 @@ msgid ""
 "If you were <i>winning</i>, certainly, but then we wouldn’t be speaking "
 "together here, would we? You’ve never been one for sharing the spoils."
 msgstr ""
+"Kdybys <i>vyhrál</i>, samozřejmě, ale pak bychom tu spolu asi nemluvili, že "
+"ano? Nikdy jsi nebyl ten typ, který by se dělil o kořist."
 
 #. [message]: speaker=Maddock
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:111
 msgid "Now if you’ll excuse me, warmonger, I have a city to govern."
-msgstr ""
+msgstr "A teď mě prosím omluv, válečný štváči, musím spravovat město."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:124
 msgid "Damn his cowardice! Still no word from Lionel?"
-msgstr ""
+msgstr "K čertu s jeho zbabělostí! Stále žádná zpráva od Lionela?"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:128
 msgid "(stares)"
-msgstr ""
+msgstr "(civí)"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:132
 msgid "Speak UP, boy! I raised you to be a killer, not a coward!"
-msgstr ""
+msgstr "Mluv, chlapče! Vychoval jsem tě, abys byl zabiják, ne zbabělec!"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:136
 msgid "You hardly raised me at all..."
-msgstr ""
+msgstr "Vůbec jsi mě nevychovával..."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:140
@@ -6150,6 +6158,12 @@ msgid ""
 "still speak softer than a mouse. This is war — Wesnoth needs a warrior "
 "prince."
 msgstr ""
+"Ach, hrome. Proč jsem se nechal těmi proklatými zvěstmi přesvědčit, abych "
+"poslal pryč svého nejlepšího generála a nejvěrnější vojáky?\n"
+"\n"
+"Lionel je pohřešován v boji, Arand je každým dnem čím dál tím více "
+"podezíravý a ty pořád mluvíš tišeji než myš. Tohle je válka – Wesnoth "
+"potřebuje prince válečníka."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:146
@@ -6158,6 +6172,9 @@ msgid ""
 "Northlands. Some days it feels like the whole world is moving against me... "
 "perhaps it is an omen of things to come."
 msgstr ""
+"I spolehlivý Delfador se před několika měsíci vydal na nějakou marnou "
+"výpravu do Severních zemí. Někdy mám pocit, jako by se celý svět spikl proti "
+"mně... možná je to předzvěst toho, co přijde."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:153
@@ -6165,6 +6182,8 @@ msgid ""
 "The coward’s option once more rears its ugly head. Negotiate, capitulate; "
 "yield the border to the butchers. Give unto the orcs their pound of flesh."
 msgstr ""
+"Volba zbabělců opět vystrkuje svou ošklivou hlavu. Vyjednávat, vzdát se. "
+"Přenechat hranici těm řezníkům. Dát skřetům to, co chtějí."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:157
@@ -6173,6 +6192,9 @@ msgid ""
 "making? I can already feel the kings of old judging me in my failure, my "
 "squandering of everything they fought so hard to build..."
 msgstr ""
+"Kolik lidí by zemřelo? A kolik jich už zemřelo díky těm potížím, které jsem "
+"způsobil já sám? Už teď cítím, jak mě králové z dávných dob soudí za mé "
+"selhání, za to, že jsem promarnil vše, co oni tak tvrdě stavěli..."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:162
@@ -6181,6 +6203,9 @@ msgid ""
 "powerless to protect his people against the savages beyond. I have chosen "
 "the path of war, and I will see it through to its bloody end."
 msgstr ""
+"Ne. Nechci se zapsat do dějin jako neúspěšný král. Jako slaboch a zbabělec, "
+"který nedokáže ochránit svůj lid před divochy zvenčí. Zvolil jsem cestu "
+"války a dotáhnu to až do krvavého konce."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/10x_Elensefar_Outskirts.cfg:167
@@ -6191,6 +6216,12 @@ msgid ""
 "In two weeks time we march across the ford and assault the Blackcrest war-"
 "camp. Come hell or high water, we will yet have our victory."
 msgstr ""
+"Jezdci, povolejte zálohy. Vyprázdněte Halstead! Vyprázdněte Weldyn! Chci, "
+"aby se shromáždilo každé dítě, které už umí chodit, a každý starší, který je "
+"ještě schopen stát!\n"
+"\n"
+"Za dva týdny překročíme brod a zaútočíme na válečný tábor Černého hřebene. "
+"Ať se stane cokoli, vítězství bude nakonec naše."
 
 #. [scenario]: id=11_Clan_Blackcrest
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:13
