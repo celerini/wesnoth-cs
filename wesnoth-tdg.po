@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-20 04:39+0200\n"
+"PO-Revision-Date: 2026-10-21 22:08+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6226,19 +6226,19 @@ msgstr ""
 #. [scenario]: id=11_Clan_Blackcrest
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:13
 msgid "Galcadar"
-msgstr ""
+msgstr "Galcadar"
 
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:51
 msgid "Saurian Defectors"
-msgstr ""
+msgstr "Ještěráčtí přeběhlíci"
 
 #. [side]: type=Orcish Sovereign, id=Ghuvog
 #. [unit]: type=Orcish Sovereign, id=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:171
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:1129
 msgid "Chief Ghuvog"
-msgstr ""
+msgstr "Náčelník Ghuvog"
 
 #. [message]: speaker=Drakefador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:338
@@ -6246,6 +6246,8 @@ msgid ""
 "Saurians of Saurgrath! It is I, your Great One, bringing an even greater "
 "warning!"
 msgstr ""
+"Ještěráci ze Saurgrathu! To jsem já, váš Větší, a přináším vám ještě větší "
+"varování!"
 
 #. [message]: speaker=Drakefador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:342
@@ -6253,6 +6255,8 @@ msgid ""
 "These orcs have, umm, conspired to betray you! You must strike first and "
 "kill them all — now hear me and obey!"
 msgstr ""
+"Tito skřeti se, ehm, spikli, aby vás zradili! Musíte udeřit jako první "
+"a všechny je zabít – mě slyšte teď a poslechněte!"
 
 #. [message]: speaker=defector4
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:347
@@ -6260,6 +6264,8 @@ msgid ""
 "Can it be? The Great One ssspeaksss to usss! I am not worthy! I am blessed "
 "to hear your great voice, unusssual though it may be!"
 msgstr ""
+"Je to možné? Větší k nám mluví! Nejsssem toho hoden! Je pro mě požehnáním, "
+"že mohu ssslyšet tvůj úžasssný hlasss, jakkoli neobvyklý ssse zdá!"
 
 #. [message]: speaker=defector3
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:355
@@ -6267,6 +6273,8 @@ msgid ""
 "Yesss, the great fiery one has sssaved usss! If the orcsss will betray us, "
 "then we mussst ssstrike firssst!"
 msgstr ""
+"Ano, ten ohnivý větší násss zachránil! Jessstli násss ssskřeti zradí, "
+"musssíme udeřit jako první!"
 
 #. [message]: speaker=defector2
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:359
@@ -6274,6 +6282,8 @@ msgid ""
 "...caution, caution, ssomething isss not right! Where are the ssseven "
 "matriarchsss? Why does the Great One ssspeak ssso nasssally?"
 msgstr ""
+"... pozor, pozor, něco tu není v pořádku! Kde je sssedm matek rodu? Proč ta "
+"Větší mluví tak nosssově?"
 
 #. [message]: speaker=defector3
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:364
@@ -6281,6 +6291,8 @@ msgid ""
 "Do you not sssee her majesssty? It isss not our place to quessstion the "
 "great fiery one!"
 msgstr ""
+"Copak nevidíš Její Veličenssstvo? Není na násss, abychom zpochybňovali "
+"ohnivou větší!"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:368
@@ -6292,6 +6304,13 @@ msgid ""
 "\n"
 "Now form up and get in line, before I have to beat some discipline into you!"
 msgstr ""
+"Zmlkněte, vy všichni! Nevím, proč vás vůbec zajímá, co říká nějaký "
+"bezvýznamný drak, ale nezapomeňte, že vy ještěrky jste se zavázaly bojovat "
+"po našem boku proti Wesnothu. Dokonce jste <i>nám</i> za tu čest zaplatili, "
+"vy hloupí malí červi!\n"
+"\n"
+"Teď se narovnejte a postavte do řady, než vám budu muset vtlouct trochu "
+"kázně do hlavy!"
 
 #. [message]: speaker=defector1
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:378
@@ -6299,11 +6318,13 @@ msgid ""
 "You insssult usss! Worssse, you dare insssult the Great One! Curssses upon "
 "you, cursses upon you! We ssshall fight you, we mussst fight you!"
 msgstr ""
+"Urážíš násss! A co hůř, opovažuješ ssse urážet Větší! Prokletí na tebe, "
+"prokletí na tebe! Budeme sss tebou bojovat, musssíme sss tebou bojovat!"
 
 #. [message]: speaker=defector3
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:386
 msgid "Yesss, we mussst fight! Fight the orcsss!"
-msgstr ""
+msgstr "Jo, musssíme bojovat! Bojovat proti ssskřetům!"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:390
@@ -6311,6 +6332,8 @@ msgid ""
 "Oh yeah? Try me, you filthy sacks of lizard slime; I’ll teach youse your "
 "proper place! To arms, Blackcrests!!"
 msgstr ""
+"Vážně? Tak to zkuste, vy špinavý hromádky ještěrčího slizu. Já vám ukážu, "
+"kde je vaše místo! Do zbraně, Černohřebeňáci!!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:462
@@ -6318,6 +6341,8 @@ msgid ""
 "Wesnoth’s foes are thrown into chaos! Iliah-Malal’s illusion magic has done "
 "much harm. In my hands, perhaps it can do some good."
 msgstr ""
+"Nepřátelé Wesnothu jsou uvedeni ve zmatek! Iliah-Malalova magie klamů "
+"napáchala mnoho škody. V mých rukou by snad mohla přinést i něco dobrého."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:466
@@ -6326,6 +6351,9 @@ msgid ""
 "every Blackcrest attack on Wesnoth since they first entered the war, so many "
 "years ago."
 msgstr ""
+"Toto je ta velká západní horda – ty stany sloužily jako základna pro každý "
+"útok Černých hřebenů na Wesnoth od chvíle, kdy se před mnoha lety poprvé "
+"zapojili do války."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:470
@@ -6334,6 +6362,9 @@ msgid ""
 "fortifications that pushed me back. ’tis a funny feeling to finally see them "
 "from the north side."
 msgstr ""
+"Pokaždé, když jsem se pokusil převést vojáky přes řeku, to byla právě tato "
+"opevnění, která mě donutila ustoupit. Je to zvláštní pocit, když je konečně "
+"vidím ze severní strany."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:474
@@ -6341,6 +6372,8 @@ msgid ""
 "But more importantly, this is where the Blackcrest war-chief commands his "
 "clan."
 msgstr ""
+"Ale co je ještě důležitější, právě odtud velí válečný náčelník Černých "
+"hřebenů svému klanu."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:480
@@ -6349,22 +6382,26 @@ msgid ""
 "Blackcrest chief and break their grip on the Abez once and for all. It’s all "
 "led up to this! We can end things here and now!"
 msgstr ""
+"Vzhledem k tomu, že většina ještěráků přeběhla na naši stranu, máme teď "
+"šanci zabít náčelníka Černých hřebenů a jednou provždy zlomit jejich "
+"nadvládu nad Abezem. K tomuhle to všechno směřovalo! Můžeme to skončit tady "
+"a teď!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:484
 msgid ""
 "For the sake of all Wesnoth, for the sake of King Garard, we cannot fail."
-msgstr ""
+msgstr "Kvůli celému Wesnothu, kvůli králi Garardovi nesmíme selhat."
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:493
 msgid "Defeat Ghuvog, the Blackcrest war-chief"
-msgstr ""
+msgstr "Poraz Ghuvoga, válečného náčelníka Černých hřebenů"
 
 #. [objective]: condition=lose
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:511
 msgid "Death of Garard"
-msgstr ""
+msgstr "Garard zemře"
 
 #. [message]: speaker=Delfador
 #. in this string, $companion_name is female (probably "Lynyan")
@@ -6375,6 +6412,9 @@ msgid ""
 "paid you for. I shan’t lie and say your help is unneeded, but neither should "
 "I take it for granted."
 msgstr ""
+"Určitě jsi na tenhle souboj připravená? Jsi psanec, ne voják, a tvoje banda "
+"už prolila víc krve, než za kolik jsem ti zaplatil. Nebudu lhát a tvrdit, že "
+"tvou pomoc nepotřebuju, ale ani bych ji neměl brát jako samozřejmost."
 
 #. [message]: speaker=Delfador
 #. in this string, $companion_name is male
@@ -6385,6 +6425,9 @@ msgid ""
 "for. I shan’t lie and say your help is unneeded, but neither should I take "
 "it for granted."
 msgstr ""
+"Určitě jsi na tenhle souboj připravený? Jsi psanec, ne voják, a tvoje banda "
+"už prolila víc krve, než kolik jsem ti za to zaplatil. Nebudu lhát a tvrdit, "
+"že tvou pomoc nepotřebuju, ale ani bych ji neměl brát jako samozřejmost."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:549
@@ -6392,6 +6435,9 @@ msgid ""
 "...fighting a whole orcish army is a bit more than I signed on for, but you "
 "say this is important and I trust you. I’m ready for this if you are."
 msgstr ""
+"... bojovat proti celému skřetímu vojsku je trochu víc, než mám ve smlouvě, "
+"ale říkáš, že je to důležité, a já ti věřím. Jsem na to připraven, pokud jsi "
+"i ty."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:550
@@ -6399,6 +6445,9 @@ msgid ""
 "female^...fighting a whole orcish army is a bit more than I signed on for, "
 "but you say this is important and I trust you. I’m ready for this if you are."
 msgstr ""
+"... bojovat proti celému skřetímu vojsku je trochu víc, než mám ve smlouvě, "
+"ale říkáš, že je to důležité, a já ti věřím. Jsem na to připravená, pokud "
+"jsi i ty."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:556
@@ -6406,6 +6455,8 @@ msgid ""
 "And hey, if nothing else, at least I’ve got to admit that adventuring with "
 "you pays a lot better than skulkin’ around picking pockets."
 msgstr ""
+"A hele, když už nic jiného, tak musím aspoň přiznat, že dobrodružství "
+"s tebou se vyplatí mnohem víc než potulování se po ulicích a kradení z kapes."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:557
@@ -6413,6 +6464,8 @@ msgid ""
 "female^And hey, if nothing else, at least I’ve got to admit that adventuring "
 "with you pays a lot better than skulkin’ around picking pockets."
 msgstr ""
+"A hele, když už nic jiného, tak aspoň musím přiznat, že dobrodružství "
+"s tebou se vyplatí mnohem víc než potulování se po ulicích a kradení z kapes."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:563
@@ -6420,6 +6473,8 @@ msgid ""
 "And hey, if nothing else, at least I’ve got to admit that adventuring with "
 "you pays a lot better than runnin’ errands for some thug."
 msgstr ""
+"A hele, když už nic jiného, tak aspoň musím přiznat, že dobrodružství "
+"s tebou se vyplatí mnohem víc než vyřizovat věci pro nějakého grázla."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:564
@@ -6427,6 +6482,8 @@ msgid ""
 "female^And hey, if nothing else, at least I’ve got to admit that adventuring "
 "with you pays a lot better than runnin’ errands for some thug."
 msgstr ""
+"A hele, když už nic jiného, tak aspoň musím uznat, že dobrodružství s tebou "
+"se vyplatí mnohem víc než vyřizovat věci pro nějakého grázla."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:570
@@ -6434,6 +6491,8 @@ msgid ""
 "And hey, if nothing else, at least I’ve got to admit that adventuring with "
 "you pays a lot better than castin’ cantrips for some thug."
 msgstr ""
+"A hele, když už nic jiného, tak musím aspoň přiznat, že dobrodružství "
+"s tebou se vyplatí mnohem víc než sesílat drobná kouzla pro nějakého rváče."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:571
@@ -6441,6 +6500,8 @@ msgid ""
 "female^And hey, if nothing else, at least I’ve got to admit that adventuring "
 "with you pays a lot better than castin’ cantrips for some thug."
 msgstr ""
+"A hele, když už nic jiného, tak aspoň musím přiznat, že dobrodružství "
+"s tebou se vyplatí mnohem víc než sesílat drobná kouzla pro nějakého rváče."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:577
@@ -6448,6 +6509,8 @@ msgid ""
 "And hey, if nothing else, at least I’ve got to admit that adventuring with "
 "you pays a lot better than muckin’ around in swamps all night."
 msgstr ""
+"A hele, když už nic jiného, tak aspoň musím přiznat, že dobrodružství "
+"s tebou se vyplatí mnohem víc než se celou noc plahočit v močálech."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:578
@@ -6455,6 +6518,8 @@ msgid ""
 "female^And hey, if nothing else, at least I’ve got to admit that adventuring "
 "with you pays a lot better than muckin’ around in swamps all night."
 msgstr ""
+"A hele, když už nic jiného, tak aspoň musím uznat, že dobrodružství s tebou "
+"se vyplatí mnohem víc než se celou noc plahočit v močálech."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:591
@@ -6463,6 +6528,9 @@ msgid ""
 "South: Tath\n"
 "North:<span strikethrough='true'> Dwarven Doors </span>"
 msgstr ""
+"Vítej u Abezského brodu\n"
+"Jih: Tath\n"
+"Sever:<span strikethrough='true'> Trpasličí Dveře </span>"
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:609
@@ -6470,33 +6538,38 @@ msgid ""
 "I sssurrender, I sssurrender! Chief Ghuvog is the true Great One; my "
 "allegiance isss only to you, great chief! Pleassse, ssspare me and my kin!"
 msgstr ""
+"Vzdávám ssse, vzdávám ssse! Náčelník Ghuvog je ten pravý Větší. Má věrnossst "
+"patří jen tobě, velký náčelníku! Prosssím, ušetři mě a můj rod!"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:619
 msgid "Now that’s more like it! Fall into line and get ready to fight."
-msgstr ""
+msgstr "To už je lepší! Seřaďte se a připravte na boj."
 
 #. [message]: speaker=$unit.id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:633
 msgid "You betray the Great One... the stars shall bring your doom..."
-msgstr ""
+msgstr "Zradíš Většího... hvězdy ti přinesou zkázu..."
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:646
 msgid ""
 "Graahh!! Get out of here, you stinking pink-skins! Now is not a good time!"
 msgstr ""
+"Graahh!! Vypadněte odsud, vy smradlavý bledý kůže! Teď na to není vhodná "
+"chvíle!"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:659
 msgid ""
 "Hey, lay off my Shamans! Do you have any idea how hard it is to find those!?"
 msgstr ""
+"Hele, dejte pokoj mým šamankám! Máte vůbec tušení, jak je těžké je sehnat!?"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:671
 msgid "Out of my face, worms!"
-msgstr ""
+msgstr "Jděte mi z očí, červi!"
 
 #. [message]: speaker=Garard
 #. yes yes, Delfador probably hasn't attacked any orcs by now (and he might not be using fire). But it's a cool line.
@@ -6505,6 +6578,8 @@ msgid ""
 "Ah-ha! I’d recognize that smell of burning orc-flesh anywhere – Delfador has "
 "returned!"
 msgstr ""
+"Aha! Tu vůni spáleného skřetího masa bych poznal kdekoli – Delfador se "
+"vrátil!"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:745
@@ -6513,17 +6588,24 @@ msgid ""
 "to crush the orcs now and forever! Once more unto the breach – captain, "
 "break me an opening through the enemy lines!"
 msgstr ""
+"To je ta šance, na kterou jsem čekal. Moje jedinečná, poslední příležitost "
+"rozdrtit skřety jednou provždy! Ještě jednou do mezery  – kapitáne, prorazte "
+"mi cestu skrz nepřátelské řady!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:819
 msgid "You heard the king; form up, and prepare to storm the front!"
 msgstr ""
+"Slyšeli jste, co řekl král. Seřaďte se a připravte se zaútočit na přední "
+"linii!"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:914
 msgid ""
 "Deoran has rejoined Delfador’s party, and you have gained 100 extra gold!"
 msgstr ""
+"Deoran se opět připojil k Delfadorově výpravě a ty jsi získal 100 zlatých "
+"navíc!"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:916
@@ -6531,6 +6613,8 @@ msgid ""
 "For the remainder of this campaign, Deoran is a leader — he can recruit "
 "fresh royal soldiers (Spearmen, Bowmen, etc.) while standing on his keep."
 msgstr ""
+"Po zbytek této kampaně je Deoran vůdcem – může verbovat čerstvé královské "
+"vojáky (kopiníky, lučištníky atd.), zatímco stojí ve své tvrzi."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:945
@@ -6538,6 +6622,8 @@ msgid ""
 "For Wesnoth! For victory! By battle and blood, for fury and flame, and the "
 "triumph of my people!"
 msgstr ""
+"Za Wesnoth! Za vítězství! Do boje a krve, pro zuřivost a oheň a za vítězství "
+"mého lidu!"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:963
@@ -6546,6 +6632,9 @@ msgid ""
 "need for more death and violence. <span size='x-small'>Against me, anyhow. "
 "Nasty pink-skin whelps.</span>"
 msgstr ""
+"No dobře, dobře, poznám, kdy jsem poražený! Nepospíchejme, není třeba "
+"dalšího zabíjení a násilí. <span size='x-small'>Proti mně každopádně ne. "
+"Hnusná štěňata s růžovou kůží.</span>"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:974
@@ -6557,6 +6646,12 @@ msgid ""
 "from the Great River in the south to the foothills of the Heart Mountains in "
 "the north! You orcs shall fall beneath our swords as wheat before the scythe!"
 msgstr ""
+"Dávej si pozor na jazyk, šmejde! Nejsem žádné „štěně“, ale král Garard "
+"z Wesnothu, druhý svého jména!\n"
+"\n"
+"A v tomto jménu, ve jménu Wesnothského království, zabírám tyto země od "
+"Velké řeky na jihu až po úpatí Srdcových hor na severu! Vy skřeti padnete "
+"pod našimi meči jako pšenice před kosou!"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:980
@@ -6569,6 +6664,13 @@ msgid ""
 "Whitefang from the hills around Fort Garard. You shall leave these lands and "
 "never return so long as I draw breath, on pain of death!"
 msgstr ""
+"... ale nejsem žádný hlupák. Wesnoth má války dost a tvůj pán Garard je nade "
+"vše milosrdný. Ušetřím tvůj život i životy tvých válečníků, ale pod jednou "
+"podmínkou.\n"
+"\n"
+"Musíš zde složit přísahu, že shromáždíš jak svůj klan zde, tak klan Bílých "
+"špičáků z kopců kolem pevnosti Garard. Opustíte tyto země a nikdy se "
+"nevrátíte, dokud budu dýchat, pod trestem smrti!"
 
 #. [message]: speaker=Ghuvog
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:986
@@ -6576,6 +6678,8 @@ msgid ""
 "Yeah yeah yeah, whatever you say. We was just leaving; isn’t that right, "
 "boys? <span size='x-small'>Nasty filthy pink-skins.</span>"
 msgstr ""
+"Jo, jo, jo, jak říkáš. Zrovna jsme se chystali odejít. Že jo, kluci? <span "
+"size='x-small'>Odporný, špinavý růžový kůže.</span>"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1003
@@ -6583,6 +6687,8 @@ msgid ""
 "After all this time... Wesnoth is finally at peace. It is as if a veil of "
 "shadows has been lifted from upon my eyes!"
 msgstr ""
+"Po všech těch letech... Wesnoth konečně zažívá mír. Je to, jako by se mi "
+"z očí zvedl závoj stínů!"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1007
@@ -6591,6 +6697,9 @@ msgid ""
 "how you turned the saurians against the orcs, sowed chaos from behind; truly "
 "incredible!"
 msgstr ""
+"Delfadore, ty lumpe, tentokrát ses opravdu překonal. Vyprávějí mi, jak jsi "
+"poštval ještěráky proti skřetům a zezadu vyvolal zmatek. To je opravdu "
+"neuvěřitelné!"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1011
@@ -6598,6 +6707,8 @@ msgid ""
 "Delfador the “Great One”, hah! Now that’s the stuff legends are made of. So "
 "legendary, in fact..."
 msgstr ""
+"Delfador „Větší“, ha! To je přesně ta látka, ze které vznikají legendy. Je "
+"to vlastně tak legendární, že..."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1021
@@ -6606,6 +6717,9 @@ msgid ""
 "called until the end of your days. Kneel, Delfador, war-mage of Wesnoth. And "
 "rise, “Delfador the Great”, High Advisor to the Crown!"
 msgstr ""
+"„Větší“ – tak tě nazýval nepřítel, ale já ti dávám jméno „Veliký“ a tak "
+"budeš nazýván až do konce svých dnů. Poklekni, Delfadore, válečný mágu "
+"z Wesnothu. A povstaň, „Delfadore Veliký“, nejvyšší rádce koruny!"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1039
@@ -6613,16 +6727,18 @@ msgid ""
 "Now come, let us celebrate my— our— ...all right, <i><b>your</b></i> "
 "success! Victory! Victory! Victory by the name of Delfador!!"
 msgstr ""
+"Tak pojď, oslavme můj... náš... ... no dobře, <i><b>tvůj</b></i> úspěch! "
+"Vítězství! Vítězství! Vítězství ve jménu Delfadora!!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1066
 msgid "Huh."
-msgstr ""
+msgstr "Hm."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1071
 msgid "Whaddid you say, boss?"
-msgstr ""
+msgstr "Cože jsi to říkal, šéfe?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1075
@@ -6630,6 +6746,8 @@ msgid ""
 "Oh, nothing. I feel like something bad normally happens if we take this long "
 "to finish a battle, but right now everything seems fine."
 msgstr ""
+"Ale, nic. Mám pocit, že když nám bitva trvá tak dlouho, obvykle se stane "
+"něco špatného, ale teď se zdá, že je všechno v pořádku."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11_Clan_Blackcrest.cfg:1079
@@ -6637,6 +6755,8 @@ msgid ""
 "We’re <i>definitely not</i> missing out on significant events happening "
 "elsewhere... events that we really should have been present for..."
 msgstr ""
+"<i>Rozhodně nepřicházíme</i> o žádné významné události, které se odehrávají "
+"jinde... o události, u nichž bychom opravdu měli být..."
 
 #. [scenario]: id=11x_Revelry
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:6
