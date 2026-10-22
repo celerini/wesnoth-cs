@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-10-20 21:43-0500\n"
-"PO-Revision-Date: 2026-09-22 18:33+0200\n"
+"PO-Revision-Date: 2026-10-22 23:08+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3337,12 +3337,6 @@ msgstr "Výchozí GNČ"
 #. [option]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:446
 #: src/gui/dialogs/attack_predictions.cpp:93
-#, fuzzy, c-format
-#| msgid ""
-#| "Pure, unbiased randomness; the way Wesnoth is intended to be played.\n"
-#| "\n"
-#| "Example: if you strike twice with 50% accuracy, you’re most likely to hit "
-#| "once and miss once, but might also hit twice or miss twice."
 msgid ""
 "Pure, unbiased randomness; the way Wesnoth is intended to be played.\n"
 "\n"
@@ -3390,13 +3384,6 @@ msgstr "Omezený GNČ"
 #. [option]
 #: data/gui/themes/default/dialogs/campaign_dialog.cfg:458
 #: src/gui/dialogs/attack_predictions.cpp:89
-#, fuzzy, c-format
-#| msgid ""
-#| "Hits and misses are much more consistent. This tends to make small-scale "
-#| "engagements easier to plan.\n"
-#| "\n"
-#| "Example: if you strike three times with 50% accuracy, you will always hit "
-#| "at least once and miss at least once."
 msgid ""
 "Hits and misses are much more consistent. This tends to make small-scale "
 "engagements easier to plan.\n"
