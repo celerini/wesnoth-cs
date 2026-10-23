@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-21 22:08+0200\n"
+"PO-Revision-Date: 2026-10-23 20:00+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6761,37 +6761,37 @@ msgstr ""
 #. [scenario]: id=11x_Revelry
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:6
 msgid "Revelry"
-msgstr ""
+msgstr "Oslava"
 
 #. [side]: type=Lieutenant, id=Moreth
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:26
 msgid "Moreth"
-msgstr ""
+msgstr "Moreth"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:124
 msgid "Three cheers for Delfador, hero of the Abez!"
-msgstr ""
+msgstr "Třikrát sláva Delfadorovi, hrdinovi od Abezu!"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:128
 msgid "Three cheers— three cheers for Delfador the Great! Hurrah!"
-msgstr ""
+msgstr "Třikrát sláva... třikrát sláva Delfadorovi Velikému! Hurá!"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:134
 msgid "Hurrah for Delfador!"
-msgstr ""
+msgstr "Na zdraví Delfadorovi!"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:141
 msgid "Hooray for Delfador!"
-msgstr ""
+msgstr "Ať žije Delfador!"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:148
 msgid "Hurrah for Del— *hic* Delfador!"
-msgstr ""
+msgstr "Sláva Del... *škyt* Delfadorovi!"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:157
@@ -6799,6 +6799,8 @@ msgid ""
 "Oh ho, someone fetch me more wine! The night’s still young; I’m ready for a "
 "proper CELEBRATION!!"
 msgstr ""
+"Johó, přineste mi někdo další víno! Noc je ještě mladá. Jsem připravený na "
+"pořádnou OSLAVU!!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:161
@@ -6807,11 +6809,14 @@ msgid ""
 "And now I have saved Wesnoth from war, and in the process become the king’s "
 "most trusted advisor! Truly, this is more than I could have ever hoped for."
 msgstr ""
+"Začínal jsem jako bezvýznamný učedník, který neměl ani vlastní jméno. A teď "
+"jsem zachránil Wesnoth před válkou a stal se přitom královým "
+"nejdůvěryhodnějším rádcem! To je opravdu víc, než v co jsem kdy mohl doufat."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:165
 msgid "I’m giddy with joy... or perhaps ’tis also the wine, heh."
-msgstr ""
+msgstr "Jsem úplně v sedmém nebi... nebo možná za to může i to víno, heh."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:169
@@ -6819,6 +6824,8 @@ msgid ""
 "My friend, you deserve it. Without their saurian allies Clan Blackcrest is "
 "on the run, and Clan Whitefang is falling back out of the eastern hills."
 msgstr ""
+"Můj příteli, zasloužíš si to. Bez svých ještěráckých spojenců je klan "
+"Černých hřebenů na útěku a klan Bílých špičáků se stahuje z východních kopců."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:173
@@ -6827,22 +6834,24 @@ msgid ""
 "Perchance the coming days will bring laughter to the streets of Weldyn once "
 "again."
 msgstr ""
+"Konečně se rozplynuly stíny války. V království konečně zavládl mír. Snad "
+"nadcházející dny opět přinesou do ulic Weldynu smích."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:177
 msgid "For the first time in a long time, all is finally well with the world."
-msgstr ""
+msgstr "Poprvé po dlouhé době je konečně všechno v pořádku."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:223
 msgid "(<i>Yawn</i>)"
-msgstr ""
+msgstr "(<i>Zívá</i>)"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:227
 msgid ""
 "Ugh, what a headache. I shouldn’t have drunk so much... now nature calls."
-msgstr ""
+msgstr "Uf, to mě bolí hlava. Neměl jsem tolik pít... teď mě volá příroda."
 
 #. [message]: speaker=Delfador
 #. Delfador's woken up in the middle of the night to go use the latrines
@@ -6853,11 +6862,15 @@ msgid ""
 "Mayhaps as High Advisor I can finally get someone to research that... "
 "(<i>yawn</i>)"
 msgstr ""
+"To je hnus. Alduin by opravdu měl vymyslet kouzlo na čištění latrín.\n"
+"\n"
+"Možná se mi jako vrchnímu rádci konečně podaří někoho přimět, aby to "
+"prozkoumal... (<i>zívá</i>)"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:265
 msgid "Oh!"
-msgstr ""
+msgstr "Á!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:269
@@ -6866,11 +6879,14 @@ msgid ""
 "queenly time to be about — should you not be asleep with Garard? ’tis not "
 "every day that Wesnoth wins a war."
 msgstr ""
+"Vylekala jste mě, Vaše Veličenstvo. Nejtemnější hodina noci není zrovna čas, "
+"kdy bývá královna na nohou – neměla byste spát spolu s Garardem? Wesnoth "
+"přece nevyhrává válku každý den."
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:274
 msgid "Hello Delfador — or should I say, “Delfador the Great.”"
-msgstr ""
+msgstr "Zdravím, Delfadore – nebo bych měla spíše říct: „Delfadore Veliký.“"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:278
@@ -6879,6 +6895,9 @@ msgid ""
 "never did properly thank you for returning me back to him, all those years "
 "ago."
 msgstr ""
+"Je mi velkým potěšením, že mohu opět hovořit se slavnou pravou rukou mého "
+"manžela. Nikdy jsem ti pořádně nepoděkovala za to, že jsi mě k němu před "
+"tolika lety přivedl zpět."
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:286
@@ -6887,17 +6906,21 @@ msgid ""
 "finds themselves on the wrong end of your staff... yet I oft pity even more "
 "so the fool who rules behind it, so consumed by the minutiae of war."
 msgstr ""
+"Jsi mocný muž, <i>nebezpečný</i> muž, Delfadore. Lituji toho blázna, který "
+"se ocitne na špatné straně tvé hole... ale často lituji ještě více toho "
+"blázna, který zpoza ní vládne a je tak pohlcen drobnostmi války."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:291
 msgid "Err... I’m not sure I follow, Your Highness—"
-msgstr ""
+msgstr "Ehm... Nejsem si jistý, jestli tomu rozumím, Vaše Výsosti —"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:304
 msgid ""
 "What’s going on here? Careful, Delfador — don’t believe a word she says."
 msgstr ""
+"Co se to tady děje? Opatrně, Delfadore – nevěř ani slovu z toho, co říká."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:308
@@ -6905,12 +6928,14 @@ msgid ""
 "Woman, are you not satisfied with my son; you must have my wizard too!? Away "
 "with you, wench, and save your lacquered tongue for another day!"
 msgstr ""
+"Ženo, to ti nestačí můj syn. Ty musíš mít i mého čaroděje!? Jdi pryč, děvče, "
+"a ten svůj hladký jazyk si schovej na jindy!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:312
 msgid ""
 "Peace, peace! Wesnoth stands triumphant; there’s no need for quarreling!"
-msgstr ""
+msgstr "Klid, klid! Wesnoth zvítězil. Není třeba se hádat!"
 
 #. [message]: speaker=Asheviere
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:316
@@ -6919,6 +6944,9 @@ msgid ""
 "words. Far be it from me to interfere in military matters — the king and his "
 "new advisor have doubtless much to speak on. I graciously take my leave."
 msgstr ""
+"To je v pořádku, Delfadore. Krutá slova mého manžela mě nijak neurazila. Ani "
+"by mě nenapadlo vměšovat se do vojenských záležitostí – král a jeho nový "
+"rádce mají nepochybně o čem hovořit. S úctou se tedy loučím."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:329
@@ -6927,6 +6955,9 @@ msgid ""
 "go amiss, especially with regards to your own blood! I’ve heard nothing but "
 "praise for the queen from most of the court."
 msgstr ""
+"To se mi zdálo trochu přehnané, můj pane! Trocha zdvořilosti by jistě "
+"neuškodila, zvláště pokud jde o vaši vlastní krev! Od většiny dvořanů jsem "
+"o královně slyšel samou chválu."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:333
@@ -6934,6 +6965,7 @@ msgid ""
 "They don’t know her. You don’t know her. All is not well with my family, "
 "Delfador."
 msgstr ""
+"Oni ji neznají. Ty ji neznáš. V mé rodině není všechno v pořádku, Delfadore."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:342
@@ -6943,6 +6975,9 @@ msgid ""
 "saved us all from the terrors of the west. They raised a strong prince, a "
 "good son."
 msgstr ""
+"Moji předkové – první král a první královna – vedli všechen lid přes oceán, "
+"aby založili Wesnoth. Ti dva si rozuměli. Zachránili nás všechny před "
+"hrůzami západu. Vychovali silného prince, dobrého syna."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:346
@@ -6951,6 +6986,9 @@ msgid ""
 "nearly lost. Without your magic, all might have been. I’ve made so many "
 "mistakes, my friend."
 msgstr ""
+"A co já? Tahle zničující válka, jen abych uspokojil svou vlastní ctižádost? "
+"Málem bylo všechno ztraceno. Nebýt tvých kouzel, asi by to tak dopadlo. "
+"Udělal jsem tolik chyb, můj příteli."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:354
@@ -6959,12 +6997,14 @@ msgid ""
 "followed you through thick and thin, and together we have always emerged "
 "triumphant."
 msgstr ""
+"Žádný člověk není bez vady, Vaše Výsosti. A už vůbec ne vy a já. Ale stál "
+"jsem při vás v dobrém i ve zlém a společně jsme z toho vždy vyšli vítězně."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:383
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:336
 msgid "Father."
-msgstr ""
+msgstr "Otče."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:388
@@ -6973,6 +7013,9 @@ msgid ""
 "guarding Fort Garard. Come to celebrate the war’s end with us, did you? It "
 "is good to see you again."
 msgstr ""
+"Chlapče? To je milé překvapení. Myslel jsem, že jsi se strýcem a hlídáš "
+"pevnost Garard. Přišel jsi s námi oslavit konec války, viď? Rád tě zase "
+"vidím."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:394
@@ -6980,16 +7023,18 @@ msgid ""
 "Hold on, what’s the matter with— you’re <b><i>injured</i></b>!? What "
 "happened! Where’s that useless Methor when you need him?!"
 msgstr ""
+"Počkej, co je to s... ty jsi <b><i>zraněný</i></b>!? Co se stalo! Kde je ten "
+"neschopný Methor, když ho člověk potřebuje?!"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:402
 msgid "It’s about your—"
-msgstr ""
+msgstr "Jde o tvé —"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:410
 msgid "...Father, it’s Uncle. Prince Arand."
-msgstr ""
+msgstr "... Otče, byl to strýc. Princ Arand."
 
 #. [message]: speaker=Eldred
 #. Eldred doesn’t show a lot of emotion here. He's lying, and not very good at it
@@ -6999,27 +7044,32 @@ msgid ""
 "seized control of Fort Garard. My bodyguards and I tried to stop him, but we "
 "didn’t even get close. I barely made it out alive."
 msgstr ""
+"Našel Ohnivé žezlo. Prohlásil svůj nárok na trůn a zmocnil se pevnosti "
+"Garard. S mou tělesnou stráží jsme se ho pokusili zastavit, ale nepodařilo "
+"se nám k němu ani přiblížit. Sotva jsem se odtamtud dostal živý."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:420
 msgid "Arand tried to kill me, Father. He’s coming for you next."
-msgstr ""
+msgstr "Arand se mě pokusil zabít, otče. Teď jsi na řadě ty."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:426
 msgid "Garard—?"
-msgstr ""
+msgstr "Garard...?"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:430
 msgid "WHAT!?"
-msgstr ""
+msgstr "COŽE!?"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:440
 msgid ""
 "That TREASONOUS son-of-a, son-of— I knew something felt suspicious lately."
 msgstr ""
+"Ten ZRÁDNÝ parch..., mizera... Věděl jsem, že mi něco v poslední době "
+"připadalo podezřelé."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:444
@@ -7028,6 +7078,9 @@ msgid ""
 "nothing. And Arand warned me that others were searching for the Sceptre... "
 "to trick me into sending away Lionel, my most loyal general!"
 msgstr ""
+"Teď už to všechno dává smysl. Arand je můj šéf špehů – samozřejmě, že mi "
+"špehové neřekli nic. A Arand mě varoval, že ostatní hledají žezlo... aby mě "
+"přiměl poslat pryč Lionela, mého nejvěrnějšího generála!"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:449
@@ -7035,6 +7088,8 @@ msgid ""
 "How DARE he threaten me? How dare he lay a FINGER on my son? I’ll see him "
 "hang for this."
 msgstr ""
+"Jak se OPOVAŽUJE mi vyhrožovat? Jak se opovažuje vztáhnout RUKU na mého "
+"syna? Postarám se, aby za to visel."
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:453
@@ -7042,6 +7097,8 @@ msgid ""
 "Delfador, take command of the cavalry; my personal royal cavalry — they’re "
 "the only ones I still trust. Ride to Fort Garard and burn it to the ground!"
 msgstr ""
+"Delfadore, převezmi velení nad jízdou. Mou osobní královskou jízdou – to "
+"jsou jediní, kterým ještě věřím. Jeď k pevnosti Garard a vypal ji do základů!"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:457
@@ -7049,11 +7106,13 @@ msgid ""
 "I want every one of those traitors dead! Return with Arand’s head— his HEAD! "
 "Or don’t return at all. Do you understand!?"
 msgstr ""
+"Chci, aby každý z těch zrádců zemřel! Vrať se s Arandovou hlavou... s jeho "
+"HLAVOU! Nebo se raději nevracej vůbec. Rozumíš!?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:461
 msgid "Yes, Your Majesty!"
-msgstr ""
+msgstr "Ano, Vaše Veličenstvo!"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:477
@@ -7061,6 +7120,8 @@ msgid ""
 "Delfador, I couldn’t help but overhear. Prince Arand, the king’s brother?? "
 "That can’t be."
 msgstr ""
+"Delfadore, náhodou jsem to zaslechl. Princ Arand, králův bratr?? To přece "
+"není možné."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:481
@@ -7069,6 +7130,9 @@ msgid ""
 "with us? Every moment we delay is another chance for Arand to rally more "
 "rebels to his cause."
 msgstr ""
+"Zranění mladého prince Eldreda hovoří jasnou řečí, Deorane. Pojedeš s námi? "
+"Každá chvíle, o kterou se zpozdíme, dává Arandovi další šanci shromáždit pro "
+"svou věc více povstalců."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:485
@@ -7076,6 +7140,8 @@ msgid ""
 "But a sentence of death, without even trial? Arand is thoughtful and quiet, "
 "and not known to be ambitious."
 msgstr ""
+"Ale rozsudek smrti, a to dokonce bez soudu? Arand je hloubavý a tichý a není "
+"o něm známo, že by byl ctižádostivý."
 
 #. [message]: speaker=Deoran
 #. this mirrors Methor's request to Lionel in S10x
@@ -7085,6 +7151,9 @@ msgid ""
 "out. You don’t... <b><i>have</i></b> to go, you know. At least not so "
 "hastily."
 msgstr ""
+"Král sice nařídil jeho popravu, to ano. Ale ty jsi ten, kdo má tento rozkaz "
+"vykonat. Ty odejít... <b><i>nemusíš</i></b>, však víš. Alespoň ne tak "
+"narychlo."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:494
@@ -7093,6 +7162,9 @@ msgid ""
 "information before committing so much of the army to this attack. Wesnoth "
 "can scant afford a civil war, and certainly not so soon after the orcs!"
 msgstr ""
+"Odmítni Garardův rozkaz. Zdrž se, vysli zvědy a shromáždi více informací, "
+"než nasadíš tak velkou část vojska do tohoto útoku. Wesnoth si nemůže "
+"dovolit občanskou válku, a už vůbec ne tak brzy po skřetech!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:498
@@ -7100,11 +7172,13 @@ msgid ""
 "Are you mad?! It’s neither your place nor mine to second-guess His Majesty. "
 "Especially not now, when he needs loyalty more than ever."
 msgstr ""
+"Zbláznil ses?! Není na tobě ani na mně, abychom zpochybňovali rozhodnutí "
+"Jeho Veličenstva. Zvlášť ne teď, když potřebuje loajalitu víc než kdy jindy."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:502
 msgid "Delfador, I really worry—"
-msgstr ""
+msgstr "Delfadore, mám opravdu obavy —"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:506
@@ -7113,23 +7187,26 @@ msgid ""
 "fighting to gain his favor. Today I’m “The Great”, but I didn’t even have a "
 "name before I first began to battle."
 msgstr ""
+"A... kromě toho jsem polovinu života strávil tím, že jsem bojoval po boku "
+"krále a snažil se získat jeho přízeň. Dnes mi říkají „Veliký“, ale před svou "
+"první bitvou jsem neměl ani jméno."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:510
 msgid "Without that, who am I? I don’t want to end up exiled, like you were..."
-msgstr ""
+msgstr "Bez něj, kdo vlastně jsem? Nechci skončit ve vyhnanství, jako ty..."
 
 #. [unit]: type=Knight, id=Kaylan
 #. [event]: id=Kaylan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:523
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:408
 msgid "Sir Kaylan"
-msgstr ""
+msgstr "Sir Kaylan"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/11x_Revelry.cfg:542
 msgid "Royal cavalry, form up on me! We go at once!"
-msgstr ""
+msgstr "Královská jízdo, seřaďte se kolem mě! Vyrazíme ihned!"
 
 #. [scenario]: id=12_The_Traitor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:13
