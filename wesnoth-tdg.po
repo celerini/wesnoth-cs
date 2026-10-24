@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-23 20:00+0200\n"
+"PO-Revision-Date: 2026-10-24 05:36+0200\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -7216,22 +7216,22 @@ msgstr "Zrádce"
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:32
 msgid "Royal Cavalry"
-msgstr ""
+msgstr "Královská kavalerie"
 
 #. [side]: type=Halberdier, id=Luraery
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:61
 msgid "Luraery"
-msgstr ""
+msgstr "Luraery"
 
 #. [side]: type=Lieutenant, id=Aelyn
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:80
 msgid "Aelyn"
-msgstr ""
+msgstr "Aelyn"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:284
 msgid "Fall back! Hold the walls, protect the fort!"
-msgstr ""
+msgstr "Ustupte! Braňte hradby, chraňte pevnost!"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:364
@@ -7240,6 +7240,9 @@ msgid ""
 "dreaded this moment. Rally together, fight as one, and we will assuredly "
 "triumph in the coming civil war!"
 msgstr ""
+"Zvědové přinášejí zlověstné zprávy – táhne proti nám hrozivé vojsko! Této "
+"chvíle jsem se dlouho obával. Sjednoťme se, bojujme jako jeden muž a v této "
+"nadcházející občanské válce jistě zvítězíme!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:390
@@ -7247,6 +7250,8 @@ msgid ""
 "Curses, we have already been spotted. Time is of the essence; we must strike "
 "before Arand can turn more Wesnothians to his cause!"
 msgstr ""
+"Sakra, už nás odhalili. Čas je rozhodující. Musíme zaútočit, než Arand "
+"stihne přetáhnout další wesnothské na svou stranu!"
 
 #. [message]: speaker=Kaylan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:426
@@ -7254,11 +7259,13 @@ msgid ""
 "The king’s personal cavalry stands at your command, great Delfador! Direct "
 "us as you will, and the traitor prince shall fall beneath our hooves!"
 msgstr ""
+"Králova osobní jízda je ti k dispozici, velký Delfadore! Dej nám rozkazy, "
+"jaké uznáš za vhodné, a ten zrádný princ padne pod našimi kopyty!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:434
 msgid "Defeat Prince Arand"
-msgstr ""
+msgstr "Poraz prince Aranda"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:456
@@ -7271,6 +7278,12 @@ msgid ""
 "moderate price. Horsemen are more expensive, but their risky charge attack "
 "deals heavy damage."
 msgstr ""
+"Tví zkušení vojáci zůstali s Deoranem <b>(uvidíš je znovu v příštím "
+"scénáři)</b>, ale místo nich můžeš verbovat kavaleristy a jezdce!\n"
+"\n"
+"Kavaleristé jsou obyčejní vojáci na koních, kteří za přiměřenou cenu "
+"způsobují střední poškození. Jezdci jsou dražší, ale jejich riskantní útok "
+"výpadem způsobuje poškození těžké."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:462
@@ -7279,6 +7292,9 @@ msgid ""
 "Cavalrymen are well-suited for fighting Arand’s army of Spearmen and "
 "Pikemen. My magic shall have to make up the difference."
 msgstr ""
+"Garardova královská jízda je věrná a zkušená, ale ani jezdci, ani "
+"kavaleristé nejsou pro boj s Arandovým vojskem kopiníků a pikenýrů příliš "
+"vhodní. Tuhle nepříjemnost bude muset vynahradit má magie."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:466
@@ -7286,12 +7302,15 @@ msgid ""
 "If only my outlaws and veterans could have marched fast enough to keep up. "
 "If the king’s own brother is a usurper, who in Wesnoth can I really trust?"
 msgstr ""
+"Kéž by moji psanci a veteráni dokázali pochodovat dost rychle, aby s nimi "
+"udrželi krok. Jestliže je i králův vlastní bratr uchvatitelem trůnu, komu ve "
+"Wesnothu pak vlastně mohu věřit?"
 
 #. [message]: speaker=unit
 #. said by a male cavalryman or horseman
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:480
 msgid "Fight on without me, friends! Fight for our king!"
-msgstr ""
+msgstr "Bojujte dál beze mě, přátelé! Bojujte za našeho krále!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:492
@@ -7299,17 +7318,23 @@ msgid ""
 "There’s right where I’d stood, back when I fought my first real battle. How "
 "simple everything seemed back then..."
 msgstr ""
+"Přesně támhle jsem stál a bojoval ve své první opravdové bitvě. Jak "
+"jednoduché se mi tehdy všechno zdálo..."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:504
 msgid "Welcome to Garard’s Wold, last civilized town north of the Great River."
 msgstr ""
+"Vítejte v Garardově Vysočině, posledním civilizovaném městě severně od Velké "
+"řeky."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:526
 msgid ""
 "Such devastation. Garard ordered us to “burn it to the ground”, and we did..."
 msgstr ""
+"Taková spoušť. Garard nám nařídil, abychom to „vypálili do základů“, a my "
+"jsme to udělali..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:560
@@ -7317,6 +7342,8 @@ msgid ""
 "The rebellion is broken! In the name of King Garard and the royal scepter, I "
 "strike you down!"
 msgstr ""
+"Vzpoura je potlačena! Ve jménu krále Gararda a královského žezla tě srazím "
+"k zemi!"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:565
@@ -7324,6 +7351,8 @@ msgid ""
 "King Garard?! My brother sent you? But I thought—? Wait, stop, please, I "
 "don’t understand!"
 msgstr ""
+"Král Garard?! Poslal tě můj bratr? Ale já jsem si myslel, že...? Počkej, "
+"přestaň, prosím, já tomu nerozumím!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:578
@@ -7332,6 +7361,9 @@ msgid ""
 "yourself, Arand. You are mortally wounded — confess now, and King Garard may "
 "forgive you in death."
 msgstr ""
+"Mladý princ Eldred nám vyprávěl, jak ses pokusil zmocnit se trůnu, Arande. "
+"Jsi smrtelně zraněn – přiznej se teď a král Garard ti možná v hodině smrti "
+"odpustí."
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:582
@@ -7339,6 +7371,8 @@ msgid ""
 "By the Sceptre, I swear I have never conspired against my brother Garard. "
 "Eldred is the traitor! Eldred and Asheviere are the traitors, not me!"
 msgstr ""
+"Přísahám na žezlo, že jsem se nikdy nespikl proti svému bratru Garardovi. "
+"Zrádcem je Eldred! Eldred a Ašvíra jsou ti zrádci, ne já!"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:591
@@ -7351,6 +7385,13 @@ msgid ""
 "incontrovertible evidence proving the chief conspirators to be none other "
 "than the queen and the prince, two of my brother’s closest companions!"
 msgstr ""
+"Můj život se chýlí ke konci; musíte uvěřit mému příběhu. Již před nějakou "
+"dobou moji špehové zachytili zvěsti o strašlivém spiknutí, o plánu svrhnout "
+"samotného krále.\n"
+"\n"
+"Nebylo to ani před dvěma týdny, co se mé podezření potvrdilo – získal jsem "
+"nezvratné důkazy, které vypovídají o tom, že hlavními spiklenci nejsou nikdo "
+"jiný než královna a princ, dva z nejbližších společníků mého bratra!"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:597
@@ -7361,12 +7402,17 @@ msgid ""
 "I slew several of his fighters and grievously wounded the young prince, yet "
 "barely escaped to Fort Garard before my guards were overwhelmed."
 msgstr ""
+"Ještě než se však tato zpráva stačila rozšířit, napadl nás – mě i mou osobní "
+"stráž – sám Eldred, který měl tu drzost zaútočit dokonce i za bílého dne!\n"
+"\n"
+"Zabil jsem několik jeho bojovníků a těžce zranil mladého prince, ale do "
+"pevnosti Garard jsem unikl jen tak tak, než byli moji strážci přemoženi."
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:603
 msgid ""
 "And now it seems that Eldred has found a way to finish me off after all..."
-msgstr ""
+msgstr "A teď to vypadá, že Eldred přece jen našel způsob, jak mě vyřídit..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:608
@@ -7375,6 +7421,9 @@ msgid ""
 "fight when we approached instead of surrender? To my eyes, your resistance "
 "only sealed your guilt."
 msgstr ""
+"Cítím, že v tvých slovech je kus pravdy... Ale pokud je pravda to, co říkáš, "
+"proč jsi bojoval, když jsme se přiblížili, místo aby ses vzdal? Tvůj odpor "
+"v mých očích jen potvrdil tvou vinu."
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:613
@@ -7384,6 +7433,10 @@ msgid ""
 "failed to do! For many months now have I suspected the influence of a "
 "necromancer most powerful..."
 msgstr ""
+"Můžeš mi to mít za zlé? Valící se vlny bláta rozbily mou pevnost na kusy – "
+"myslel jsem si, že jde o nějakou zlou magii královny, která přišla dokončit "
+"to, co Eldred nedokázal! Už mnoho měsíců tuším vliv nějakého nesmírně "
+"mocného nekromanta..."
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:620
@@ -7393,6 +7446,10 @@ msgid ""
 "failed to do! For many months now have I suspected the influence of a "
 "necromancer most powerful..."
 msgstr ""
+"Můžeš mi to mít za zlé? Valící se vlny ohně spálily mou pevnost na popel – "
+"myslel jsem si, že jde o nějakou zlou magii té královny, která přišla "
+"dokončit to, co Eldred nedokázal! Už mnoho měsíců tuším vliv nějakého "
+"nesmírně mocného nekromanta..."
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:627
@@ -7401,16 +7458,19 @@ msgid ""
 "servants of the queen, here to finish what Eldred failed to do! For many "
 "months now have I suspected the influence of a necromancer most powerful..."
 msgstr ""
+"Můžeš mi to mít za zlé? Myslel jsem si, že tvá jízda i magie jsou v podstatě "
+"totéž – služebníci královny, kteří přišli dokončit to, co Eldred nedokázal! "
+"Už mnoho měsíců tuším vliv nejmocnějšího nekromanta..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:633
 msgid "Malal. He is dead now."
-msgstr ""
+msgstr "Malal. Teď už je mrtvý."
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:637
 msgid "But if you are here with me, then Eldred is alone with the king?"
-msgstr ""
+msgstr "Ale jestli ty jsi tady se mnou, znamená to, že Eldred je s králem sám?"
 
 #. [message]: speaker=Arand
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:652
@@ -7418,21 +7478,23 @@ msgid ""
 "So much blood... please, you must believe me! Save my brother... save "
 "Wesnoth..."
 msgstr ""
+"Tolik krve... prosím, musíš mi věřit! Zachraň mého bratra... zachraň "
+"Wesnoth..."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:695
 msgid "Prince Eldred? What are you doing here?"
-msgstr ""
+msgstr "Princ Eldred? Co tady děláš?"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:705
 msgid "There he is! Get him!"
-msgstr ""
+msgstr "Támhle je! Chyťte ho!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/12_The_Traitor.cfg:713
 msgid "Huh? Wha—"
-msgstr ""
+msgstr "Ha? Což..."
 
 #. [scenario]: id=13_Revelry_Revisited
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13_Revelry_Revisited.cfg:26
