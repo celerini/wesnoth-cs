@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-25 10:05+0100\n"
+"PO-Revision-Date: 2026-10-25 15:00+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -8574,12 +8574,12 @@ msgstr "Ano. Ať žije král."
 #. [scenario]: id=13x_The_King_is_Dead
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:6
 msgid "The King is Dead"
-msgstr ""
+msgstr "Král je mrtev"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:112
 msgid "Gods... what a fool I have been."
-msgstr ""
+msgstr "Bože... jaký jsem to byl hlupák."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:117
@@ -8587,6 +8587,8 @@ msgid ""
 "Whitefangs, Blackcrests. Saurians, Arand. I really thought I was doing "
 "something great; fighting the good fight for king and country."
 msgstr ""
+"Bílí špičáci, Černohřebeňáci. Ještěráci, Arand. Opravdu jsem si myslel, že "
+"dělám něco velkého. Že bojuji za správnou věc pro krále a vlast."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:121
@@ -8594,6 +8596,8 @@ msgid ""
 "But when it really mattered, I couldn’t see past my own ego. What kind of "
 "man was I? What kind of <b><i>friend</i></b> was I?"
 msgstr ""
+"Ale když na tom opravdu záleželo, nedokázal jsem se přenést přes své vlastní "
+"já. Co jsem to byl za člověka? Jaký jsem to byl <b><i>přítel</i></b>?"
 
 #. [message]: speaker=$horselord_id
 #. said by a male Horseman-line or Cavalryman-line unit
@@ -8603,6 +8607,9 @@ msgid ""
 "looting, while the false King Eldred does nothing. Worse than nothing: he "
 "marches on our own settlements, consolidating his power!"
 msgstr ""
+"Je to vskutku temný den. Skřeti řádí po celé zemi, plení a rabují, zatímco "
+"falešný král Eldred nečiní vůbec nic. Ba co hůř: táhne na naše vlastní osady "
+"a upevňuje tak svou moc!"
 
 #. [message]: speaker=$horselord_id
 #. said by a male Horseman-line or Cavalryman-line unit
@@ -8611,6 +8618,8 @@ msgid ""
 "Our king has perished, our kingdom in peril! Are we to stand idly by and "
 "watch it fall, o’ great Delfador?"
 msgstr ""
+"Náš král zahynul, naše království je v nebezpečí! Máme jen nečinně "
+"přihlížet, jak se hroutí, ó veliký Delfadore?"
 
 #. [message]: speaker=Delfador
 #. $horselord_name is a male Horseman-line or Cavalryman-line unit
@@ -8619,6 +8628,8 @@ msgid ""
 "I’m not “The Great” anymore, $horselord_name. Was I ever? Everything I ever "
 "achieved was either a lie or has already been undone."
 msgstr ""
+"Už nejsem „Veliký“. Byl jsem jím vůbec někdy? Všechno, čeho jsem kdy dosáhl, "
+"byla buď lež, nebo to zas bylo zmařeno."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:141
@@ -8627,6 +8638,9 @@ msgid ""
 "Weldyn? To wreak fire and lightning through the streets until finally I "
 "excise the festering boil at the heart of all this madness? If only."
 msgstr ""
+"Naše rota je silná, ale máme dost síly na to, abychom zbořili hradby "
+"Weldynu? Abychom dštili oheň a blesky v ulicích, dokud konečně nevyříznu ten "
+"hnisající vřed v samém srdci všeho toho šílenství? Kéž by tomu tak bylo."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:147
@@ -8640,6 +8654,14 @@ msgid ""
 "what nightmares are these that are prophesied to arise from my failure? The "
 "coming years will be dark indeed."
 msgstr ""
+"Byl jsem před tím varován... <i>„Nepřinášej zkázu, ale naopak zářivé světlo "
+"pravdy“</i>. <i>„Řada králů se přetrhla“</i> — na co jiného mohla vidoucí "
+"narážet, než na můj útok na Aranda?\n"
+"\n"
+"Ani teď tomu stále nerozumím! <i>„Z pustého trůnu povstane plavý anděl“</"
+"i> — <i>„Bezejmenný syn a plavá dcera“</i> — jaké noční můry to jsou, "
+"o nichž se prorokuje, že vzejdou z mého selhání? Nadcházející roky budou "
+"skutečně temné."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:153
@@ -8647,6 +8669,8 @@ msgid ""
 "Oh seer, what I would give for another chance! I obeyed my friend, and in "
 "doing so betrayed him! And now there is nothing left."
 msgstr ""
+"Ach, vidoucí, co bych dal za další šanci! Poslechl jsem svého přítele a tím "
+"jsem ho zradil! A teď už mi nezbylo nic."
 
 #. [message]: speaker=Methor
 #. "no need to be so glum" is what Delfador says in S01
@@ -8655,6 +8679,8 @@ msgid ""
 "Delfador, I have found you at last! “Nothing left?” There’s no need to be so "
 "glum."
 msgstr ""
+"Delfadore, konečně jsem tě našel! „Nezbylo nic?“ Není třeba být tak "
+"rozmrzelý."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:173
@@ -8662,11 +8688,15 @@ msgid ""
 "Master!? I’d no idea you survived the coup! But you come far too late. I "
 "fear it’s all already over."
 msgstr ""
+"Profesore!? Netušil jsem, že jste ten převrat přežil! Ale přicházíte až "
+"příliš pozdě. Obávám se, že už je všechno ztraceno."
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:178
 msgid "I heard your earlier words to the horselord. Do not think of giving up!"
 msgstr ""
+"Slyšel jsem, co jsi předtím říkal tomu jezdci. Ani na vteřinu nepomýšlej na "
+"to, že se vzdáš!"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:182
@@ -8675,6 +8705,9 @@ msgid ""
 "your master, from your king. Now the darkness rings close, and at last you "
 "are alone — even I have grown old, and can speak for you no longer."
 msgstr ""
+"Chlapec, kterého jsem vychoval, vždy usiloval o uznání ostatních: od svých "
+"vrstevníků, od svého profesora, od svého krále. Nyní se přibližuje temnota "
+"a ty jsi konečně sám – i já jsem zestárl a už za tebe nemohu mluvit."
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:186
@@ -8683,17 +8716,21 @@ msgid ""
 "young student; a hanger-on fawning at the feet of his betters? Or are you "
 "Delfador the Great, no-one’s servant and his own man! CHOOSE, apprentice!"
 msgstr ""
+"Nastal čas se rozhodnout. Kdo jsi, Delfadore? Nejsi nikdo? Unavený mladý "
+"student? Přisluhovač, který se plazí u nohou svých nadřízených? Nebo jsi "
+"Delfador Veliký, nikomu nesloužící a svobodný muž! ROZHODNI SE, učedníku!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:190
 msgid "Look, Methor, it’s not as easy as saying a few words..."
 msgstr ""
+"Podívejte se, Methore, není to tak jednoduché, jako jen říct pár slov..."
 
 #. [message]: speaker=$horselord_id
 #. said by a male Horseman-line or Cavalryman-line unit
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:212
 msgid "Well? Shall we fight?"
-msgstr ""
+msgstr "Nuže? Budeme bojovat?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:222
@@ -8702,6 +8739,9 @@ msgid ""
 "exposed. This time, we need no king nor country to guide our hand. I know "
 "what is right, and I will make it so."
 msgstr ""
+"Budeme bojovat! Uchvatitel Eldred je na pochodu a právě na pochodu je "
+"nejzranitelnější. Tentokrát nepotřebujeme žádného krále ani vlast, aby nás "
+"vedli za ruku. Vím, co je správné, a postarám se, aby se to stalo."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:226
@@ -8710,11 +8750,14 @@ msgid ""
 "treachery. Whether it takes one year or a hundred, I <b><i>will</i></b> see "
 "the throne of Wesnoth restored."
 msgstr ""
+"Zvědové, vezměte si mou pečeť! Rozšiřte tu zprávu: celý Wesnoth se musí "
+"dozvědět o Eldredově zradě. Ať to trvá rok nebo století, já se "
+"<b><i>postarám</i></b> o to, aby byl trůn Wesnothu obnoven."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/13x_The_King_is_Dead.cfg:230
 msgid "The rest of you, make ready! We march to kill the king."
-msgstr ""
+msgstr "Vy ostatní se připravte! Vyrážíme zabít krále."
 
 #. [scenario]: id=14_Long_Live_the_Queen
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:19
