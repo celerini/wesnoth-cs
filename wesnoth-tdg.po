@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-25 15:00+0100\n"
+"PO-Revision-Date: 2026-10-26 20:19+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -1135,7 +1135,7 @@ msgid ""
 "Really apprentice, would it kill you to learn a proper seeker spell?"
 msgstr ""
 "Jsme blíž, než když ses naposled ptal, ale dál, než budeme příště. Vážně, "
-"učni, zabilo by tě naučit se pořádné kouzlo na hledání cesty?"
+"učedníku, zabilo by tě naučit se pořádné vyhledávací kouzlo?"
 
 #. [message]: speaker=Delfador
 #. Delfador has never met King Garard II, but rather idolizes him
@@ -8767,22 +8767,22 @@ msgstr "Ať žije královna"
 #. [side]
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:38
 msgid "Delfador’s Rebels"
-msgstr ""
+msgstr "Delfadorovi povstalci"
 
 #. [side]: type=Orcish Slurbow
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:173
 msgid "Foxtail Outriders"
-msgstr ""
+msgstr "Předvoj Liščích ocasů"
 
 #. [side]: type=Orcish Warlord
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:193
 msgid "Blackcrest Outriders"
-msgstr ""
+msgstr "Předvoj Černohřebeňáků"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:410
 msgid "No! Methor... Don’t die!"
-msgstr ""
+msgstr "Ne! Methore... Neumírej!"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:414
@@ -8790,6 +8790,7 @@ msgid ""
 "Delfador, my sweet, wonderful apprentice... I couldn’t be more proud of "
 "you..."
 msgstr ""
+"Delfadore, můj milý, úžasný učedníku... Nemohl bych být na tebe pyšnější..."
 
 #. [message]: speaker=Methor
 #. callback to S01 where Methor complains about Delfador not learning a seeker spell
@@ -8800,6 +8801,11 @@ msgid ""
 "swear fealty. Your seeker spell was excellent, Delfador; we’ve been able to "
 "find and intercept Eldred before he could turn anyone else to his cause."
 msgstr ""
+"Podívej se, jak dlouhý je ten zástup! Princ – nebo spíš král, předpokládám – "
+"musel v Dan’Tonku přibrat další vojáky, když donutil starostu přísahat "
+"věrnost. Tvé vyhledávací kouzlo bylo vynikající, Delfadore. Podařilo se nám "
+"Eldreda najít a zkřížit mu cestu, než stačil přetáhnout na svou stranu ještě "
+"někoho dalšího."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:440
@@ -8807,6 +8813,8 @@ msgid ""
 "Boss, how’s we supposed to fight that many!? Even if we could, what about "
 "Queen Asheviere back in Weldyn?"
 msgstr ""
+"Šéfe, jak máme bojovat proti tolika nepřátelům!? A i kdybychom to zvládli, "
+"co královna Ašvíra ve Weldynu?"
 
 #. [message]: speaker=$horselord_id
 #. said by a male Horseman-line or Cavalryman-line unit
@@ -8817,6 +8825,9 @@ msgid ""
 "remaining lords of the city are loyal only to her! Eldred may be king, but "
 "Asheviere holds the reins."
 msgstr ""
+"Vskutku! Říká se, že zabila polovinu dvora a ostatní podplatila. Zbývající "
+"šlechtici ve městě jsou loajální pouze k ní! Eldred je sice králem, ale "
+"otěže drží v rukou Ašvíra."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:450
@@ -8824,6 +8835,9 @@ msgid ""
 "We don’t have to fight the entire army or deal with Weldyn. The capital is "
 "too well-defended for us to sack outright — Eldred is the objective here."
 msgstr ""
+"Nemusíme bojovat proti celmu vojsku ani se vypořádávat s Weldynem. Hlavní "
+"město je příliš dobře bráněné na to, abychom ho mohli úplně vyplenit – naším "
+"cílem je Eldred."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:454
@@ -8833,16 +8847,21 @@ msgid ""
 "now — can prove to the watchers that this coup is not yet over; that justice "
 "and honor and hope still live in Wesnoth! That’s our goal today."
 msgstr ""
+"Jakmile vyjde najevo pravda o Garardově smrti, budeme mít dost spojenců na "
+"to, abychom osvobodili Weldyn a ještě mnohem víc. Ale jen pokud se nám "
+"podaří zastavit Eldreda tady a teď – když dokážeme pozorovatelům, že tento "
+"převrat ještě neskončil. Že ve Wesnothu stále žije spravedlnost, čest "
+"a naděje! To je náš dnešní cíl."
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:459
 msgid "Look sharp, I think they’ve spotted us!"
-msgstr ""
+msgstr "Dávejte si pozor, myslím, že nás zahlédli!"
 
 #. [message]: speaker=$companion_id
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:460
 msgid "female^Look sharp, I think they’ve spotted us!"
-msgstr ""
+msgstr "Dávejte si pozor, myslím, že nás zahlédli!"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:468
@@ -8851,6 +8870,8 @@ msgid ""
 "has-been! ’fraid you’re not as popular with Mother and me as you were with "
 "old Garard."
 msgstr ""
+"Delfadore, vítej! Už jsem si říkal, jestli se ještě ukážeš, ty stará páko! "
+"Obávám se, že u matky ani u mě už nejsi tak oblíbený jako u starého Gararda."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:472
@@ -8859,6 +8880,9 @@ msgid ""
 "surrender now, disband your little rebel rabble, and we can tell the men it "
 "was all a big misunderstanding."
 msgstr ""
+"Je beznadějné mi odporovat, starý mágu. Ještě ale není pozdě zachránit si "
+"život – ihned se vzdej, rozpusť tu svou malou bandu vzbouřenců a můžeme "
+"lidem říct, že to celé bylo jen velké nedorozumění."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:476
@@ -8867,6 +8891,9 @@ msgid ""
 "old title back! “Delfador the Great”, High Advisor to the Crown — don’t you "
 "agree that has a nice ring to it?"
 msgstr ""
+"Prostě odlož svou hůl a přivítej mě s otevřenou náručí. Můžeš dokonce dostat "
+"zpět svůj starý titul! „Delfador Veliký“, vrchní rádce koruny – souhlasíš, "
+"že to zní skvěle?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:480
@@ -8875,6 +8902,9 @@ msgid ""
 "prince! Enough blood has been spilled on your behalf; stop this madness and "
 "give up the throne, or I shall make you."
 msgstr ""
+"Už nejsem tak pošetilý, abych se <b><i>tím</i></b> nechal zlákat, mladý "
+"princi! Tvým jménem už bylo prolito dost krve. Ukonči toto šílenství a vzdej "
+"se trůnu, jinak tě k tomu donutím."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:484
@@ -8882,12 +8912,14 @@ msgid ""
 "Oh no, I don’t think so. You forget you’re speaking to your king, old man. "
 "Soldiers, attack! ATTACK!"
 msgstr ""
+"Ach ne, to si nemyslím. Zapomínáš, že mluvíš se svým králem, starče. Vojáci, "
+"do útoku! DO ÚTOKU!"
 
 #. [objective]: condition=win
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:494
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:859
 msgid "Defeat Eldred"
-msgstr ""
+msgstr "Poraz Eldreda"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:514
@@ -8896,6 +8928,10 @@ msgid ""
 "he would have wanted? His kingdom turned against itself, his townships "
 "pillaged by orcs? He had hope; a future for Wesnoth! A future for you!"
 msgstr ""
+"Eldrede, přece dobře víš, že jsme si s tvým otcem byli blízcí! Přál by si "
+"snad tohle? Aby se jeho království obrátilo samo proti sobě a jeho města "
+"byla vypleněna skřety? Měl naději – budoucnost pro Wesnoth! Budoucnost pro "
+"tebe!"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:518
@@ -8903,6 +8939,8 @@ msgid ""
 "A future for me? I can count on one hand the times the old tyrant had "
 "anything kind to say about me."
 msgstr ""
+"Budoucnost pro mě? Na prstech jedné ruky bych spočítal, kolikrát se ten "
+"starý tyran o mně vyjádřil trochu laskavě."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:522
@@ -8910,6 +8948,8 @@ msgid ""
 "I wasn’t going to wait around to be disinherited, or worse. It was always "
 "going to be him or me — I just beat him to the finish."
 msgstr ""
+"Nehodlal jsem jen tak čekat, až mě vydědí, nebo hůř. Vždycky to mělo být buď "
+"on, nebo já – prostě jsem ho předběhl v cíli."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:526
@@ -8918,6 +8958,9 @@ msgid ""
 "your mind, Eldred. Garard was harsh; I cannot deny that. But you’re a fool "
 "if you think he ever felt anything but love for you."
 msgstr ""
+"Blázne. Nebudu se pouštět do slovních přestřelek s tím šílenstvím, které se "
+"ti uhnízdilo v hlavě, Eldrede. Garard byl tvrdý. To nemohu popřít. Ale jsi "
+"pošetilý, pokud si myslíš, že k tobě kdy cítil něco jiného než lásku."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:533
@@ -8925,6 +8968,9 @@ msgid ""
 "I’m no fool, Delfador. Day and night, my parents fought. Whether said in "
 "truth or in anger, there are some things my father can never take back."
 msgstr ""
+"Nejsem žádný hlupák, Delfadore. Moji rodiče se hádali dnem i nocí. Ať to "
+"bylo řečeno vážně nebo v hněvu, jsou věci, které můj otec už nikdy nemůže "
+"vzít zpět."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:537
@@ -8933,6 +8979,9 @@ msgid ""
 "either. I know, believe me. But she’s the snake who’s made me king, and "
 "that’s good enough."
 msgstr ""
+"A nemysli si, že mám o matce nějaké klamné představy. Vím, co je to za "
+"zmiji, věř mi. Ale byla to právě ta zmije, která ze mě udělala krále, a to "
+"mi stačí."
 
 #. [message]: speaker=Eldred
 #. this refers to the events of S05 The Deceiver and S06 Ring of Swords
@@ -8942,6 +8991,9 @@ msgid ""
 "early days of the war, she betrayed his plans to the Whitefangs; fled to the "
 "orcs while they surrounded you and him both."
 msgstr ""
+"Víš, tohle nebylo poprvé, co se matka obrátila proti Garardovi. Na začátku "
+"války vyzradila jeho plány Bílým špičákům. Uprchla ke skřetům, když vás dva "
+"obklíčili."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:553
@@ -8950,6 +9002,8 @@ msgid ""
 "the orcs. My childhood would have been so different if things had "
 "succeeded..."
 msgstr ""
+"Ty a Deoran jste ji samozřejmě přivedli zpátky a Lionel Gararda vysvobodil "
+"z rukou skřetů. Kdyby to vyšlo, moje dětství by bylo úplně jiné..."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:565
@@ -8958,6 +9012,9 @@ msgid ""
 "hopeless fights, are you — you bested Malal, escaped the frozen north, "
 "scattered our saurians."
 msgstr ""
+"Divím se, že jsi to ještě nevzdal, čaroději! Ale beznadějné boje ti přece "
+"nejsou cizí, že? Porazil jsi Malala, unikl ze zmrzlého severu a rozprášil "
+"naše ještěráky."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:569
@@ -8968,6 +9025,11 @@ msgid ""
 "the saurians and orcs into working together, getting Lionel sent away, "
 "pitting Garard against Arand..."
 msgstr ""
+"Malal byl chytrý. <i>Opravdu</i> chytrý a navíc odhodlaný. Nikdo kromě matky "
+"neví, čím si Garard vysloužil Malalův hněv, ale ti dva by se nezastavili "
+"před ničím, jen aby viděli Gararda mrtvého a jeho pověst zničenou. Přiměli "
+"ještěráky a skřety, aby spolupracovali, zařídili, aby byl Lionel odeslán "
+"pryč, poštvali Gararda proti Arandovi..."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:573
@@ -8975,6 +9037,8 @@ msgid ""
 "Delfador, you weren’t supposed to survive Malal. You weren’t supposed to "
 "survive <i><b>any</b></i> of that."
 msgstr ""
+"Delfadore, neměl jsi Malala přežít. Neměl jsi přežít <i><b>nic</b></i> "
+"z toho."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:577
@@ -8983,6 +9047,9 @@ msgid ""
 "listened to Deoran, would that I had understood the seer! Had I been but a "
 "little wiser, so many lives might yet have been saved."
 msgstr ""
+"Kéž by jich spolu se mnou přežilo více, Eldrede. Kéž bych poslechl Deorana, "
+"kéž bych porozuměl té vidoucí! Kdybych byl jen o trochu moudřejší, mohlo být "
+"zachráněno ještě tolik životů."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:581
@@ -8990,11 +9057,13 @@ msgid ""
 "I can never atone for the lives I cost, but I can yet honor them through my "
 "actions. And right now, honoring them means stopping you."
 msgstr ""
+"Nikdy nemohu odčinit zmařené životy, ale mohu je přesto uctít svými činy. "
+"A to právě teď znamená, že tě musím zastavit."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:627
 msgid "NO!"
-msgstr ""
+msgstr "NE!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:631
@@ -9002,6 +9071,8 @@ msgid ""
 "It’s over, Eldred. Down on your knees, now! The rest of you; get back! BACK, "
 "or you’ll have to find yet another king!"
 msgstr ""
+"Je po všem, Eldrede. Na kolena, hned! Vy ostatní – ustupte! USTUPTE, nebo si "
+"budete muset hledat dalšího krále!"
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:635
@@ -9010,6 +9081,9 @@ msgid ""
 "conjurer. No, I prepared for this. After my failed attack on Arand, I "
 "took... precautions."
 msgstr ""
+"Nepodnikl jsem to všechno jen proto, abych teď selhal... a už vůbec ne kvůli "
+"nějakému lacinému kejklíři. Ne, na tohle jsem se připravil. Po mém "
+"neúspěšném útoku na Aranda jsem přijal... jistá opatření."
 
 #. [message]: speaker=Eldred
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:639
@@ -9020,13 +9094,18 @@ msgid ""
 "You like magic so much? Once I drink from Jevyan’s Cup, I’ll have enough "
 "magic to turn you all to dust!"
 msgstr ""
+"Říká se, že tento elixír přišel až ze Starého kontinentu, Delfadore. "
+"Přemluvit Malala, aby se ho vzdal, nebylo snadné.\n"
+"\n"
+"Máš tolik rád magii? Jakmile se napiju z Jevyanova poháru, budu jí mít dost "
+"na to, abych vás všechny proměnil v prach!"
 
 #. [message]: speaker=Delfador
 #. liches are skeletal; they don't have blood. This is a consumable artifact of unknown composition, probably captured/extracted from lich-lord Jevyan
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:646
 msgid ""
 "Is that— are you holding <i>lich’s blood</i>!? How— Put it down, Eldred!"
-msgstr ""
+msgstr "To je... ty držíš <i>lichovu krev</i>!? Jak... Polož to, Eldrede!"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:650
@@ -9034,6 +9113,8 @@ msgid ""
 "Whatever you do, don’t you dare drink it! We have no idea what will happen! "
 "Don’t you dare, Eldred! ELDRED!"
 msgstr ""
+"Ať už zamýšlíš cokoli, neodvažuj se to pít! Nemáme tušení, co se stane! "
+"Nezkoušej to, Eldrede! ELDREDE!"
 
 #. [unit]: id=MiddleEldred, type=King Eldred # use a new ID so events don't interfere
 #. [unit]: id=HunkerEldred, type=Hunker Eldred # use a new ID so phase 1 and phase 2 events don't interfere
@@ -9053,42 +9134,44 @@ msgstr "Eldred"
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:821
 msgid "Finally, I understand."
-msgstr ""
+msgstr "Konečně tomu rozumím."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:825
 msgid "I can make the pain all go away. I can make everything better again."
 msgstr ""
+"Dokážu tu bolest úplně zažehnat. Můžu zařídit, aby bylo zase všechno "
+"v pořádku."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:830
 msgid "...you can?"
-msgstr ""
+msgstr "... můžeš?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:847
 msgid "I just need to kill everyone else first."
-msgstr ""
+msgstr "Jenom musím nejdřív všechny ostatní zabít."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:886
 msgid "Everything is so clear now. I see the past; the future."
-msgstr ""
+msgstr "Teď je mi všechno jasné. Vidím minulost i budoucnost."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:890
 msgid "Your eyes were clouded. You could not tell the truth from the lie."
-msgstr ""
+msgstr "Měl jsi zamlžený zrak. Nedokázal jsi rozeznat pravdu od lži."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:896
 msgid "You still can’t, can you?"
-msgstr ""
+msgstr "Pořád to nedokážeš, viď?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1141
 msgid "Give up."
-msgstr ""
+msgstr "Vzdej to."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1280
@@ -9096,16 +9179,18 @@ msgid ""
 "Your achievements are undone. Your king is dead. The ghosts of the past will "
 "always haunt you, Delfador war-mage."
 msgstr ""
+"Tvé úspěchy jsou zmařeny. Tvůj král je mrtev. Duchové minulosti tě budou "
+"navždy pronásledovat, válečný mágu Delfadore."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1379
 msgid "No."
-msgstr ""
+msgstr "Ne."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1426
 msgid "You really still don’t understand, do you?"
-msgstr ""
+msgstr "Ty tomu opravdu pořád nerozumíš, že?"
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1448
@@ -9113,6 +9198,8 @@ msgid ""
 "You had your chance to change fate. Your revelation came too late. The "
 "future is already written."
 msgstr ""
+"Měl jsi šanci změnit osud. Tvé poznání přišlo příliš pozdě. Budoucnost je "
+"již předurčena."
 
 #. [message]: speaker=narrator
 #. prophecy callback
@@ -9121,6 +9208,8 @@ msgid ""
 "You have no title, no country, no king. You are a failure. Alone, you are "
 "nothing."
 msgstr ""
+"Nemáš žádný titul, žádnou zemi, žádného krále. Jsi ztroskotanec. Ty sám "
+"nejsi nic."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1534
