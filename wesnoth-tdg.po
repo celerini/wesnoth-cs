@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-26 20:19+0100\n"
+"PO-Revision-Date: 2026-10-27 17:32+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9214,12 +9214,12 @@ msgstr ""
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1534
 msgid "Nothing? I am Delfador."
-msgstr ""
+msgstr "Nic? Já jsem Delfador."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1538
 msgid "And you are dust."
-msgstr ""
+msgstr "A ty jsi prach."
 
 #. [message]: speaker=narrator
 #. 13 kings is made-up, because 13 is an unlucky number. 12 non-Eldred kings across 500 years makes for an average 42 year reign
@@ -9231,6 +9231,10 @@ msgid ""
 "With him ends the story of the sons of Haldric; that unbroken line of kings "
 "stretching five hundred years back to the Green Isle itself."
 msgstr ""
+"Tak zahynul Eldred, třináctý král Wesnothu.\n"
+"\n"
+"S ním končí příběh Haldrikových synů – té nepřerušené linie králů, jejíž "
+"počátky sahají pět set let do minulosti, až k samotnému Zelenému ostrovu."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1565
@@ -9239,6 +9243,9 @@ msgid ""
 "army, but reinforcements from Weldyn eventually repulse the beleaguered "
 "rebels. Neither side wins a decisive military victory."
 msgstr ""
+"Vyčerpaný Delfador udatně bojuje proti Eldredově – nyní již Ašvířině – "
+"armádě, ale posily z Weldynu nakonec obklíčené povstalce odrazí. Žádná ze "
+"stran nezíská rozhodující vojenské vítězství."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1569
@@ -9246,11 +9253,13 @@ msgid ""
 "As word spreads of the kings’ deaths, a terrible foreboding seems to settle "
 "over the Wesnothian countryside."
 msgstr ""
+"Jak se šíří zpráva o smrti králů, zdá se, že nad wesnothskou krajinou visí "
+"zlověstné tušení."
 
 #. [message]: speaker=narrator
 #: data/campaigns/The_Deceivers_Gambit/scenarios/14_Long_Live_the_Queen.cfg:1573
 msgid "After all, the civil war has only just begun..."
-msgstr ""
+msgstr "Koneckonců, občanská válka teprve začala..."
 
 #. [unit_type]: id=Cave Entrance, race=mechanical
 #: data/campaigns/The_Deceivers_Gambit/units/Cave_Entrance.cfg:5
