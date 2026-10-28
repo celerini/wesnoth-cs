@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-27 17:32+0100\n"
+"PO-Revision-Date: 2026-10-28 09:37+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -9264,19 +9264,19 @@ msgstr "Koneckonců, občanská válka teprve začala..."
 #. [unit_type]: id=Cave Entrance, race=mechanical
 #: data/campaigns/The_Deceivers_Gambit/units/Cave_Entrance.cfg:5
 msgid "Cave Entrance"
-msgstr ""
+msgstr "Vchod do jeskyně"
 
 #. [unit_type]: id=Cave Entrance, race=mechanical
 #: data/campaigns/The_Deceivers_Gambit/units/Cave_Entrance.cfg:15
 msgid ""
 "A crudely hewn passage into the earth, propped open by ageing wooden "
 "supports."
-msgstr ""
+msgstr "Hrubě vytesaný průchod do země, vyztužený starými dřevěnými podpěrami."
 
 #. [unit_type]: id=Prince of Wesnoth, race=human, gender=male
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Arand.cfg:4
 msgid "Prince of Wesnoth"
-msgstr ""
+msgstr "Princ Wesnothu"
 
 #. [unit_type]: id=Prince of Wesnoth, race=human, gender=male
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Arand.cfg:14
@@ -9284,16 +9284,18 @@ msgid ""
 "Brothers of a ruling king are traditionally titled ‘Prince’ and bequeathed "
 "wide swathes of land to rule."
 msgstr ""
+"Bratři vládnoucího krále jsou tradičně označováni titulem „princ“ "
+"a dostávají do správy rozsáhlá území."
 
 #. [attack]
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Arand.cfg:29
 msgid "broadsword"
-msgstr ""
+msgstr "široký meč"
 
 #. [unit_type]: id=Queen, race=human, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Asheviere.cfg:4
 msgid "Queen"
-msgstr ""
+msgstr "Královna"
 
 #. [unit_type]: id=Queen, race=human, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Asheviere.cfg:14
@@ -9306,6 +9308,13 @@ msgid ""
 "both by influencing the royal court and through her kinship with the royal "
 "family."
 msgstr ""
+"Zatímco některé královny jsou vlivnými vůdkyněmi, role mnoha jiných se "
+"omezuje pouze na společenské povinnosti.\n"
+"\n"
+"Nicméně i když se královna nepodílí na politické a vojenské moci spolu "
+"s králem, může se přesto zapojovat do vnitřní politiky království, a to jak "
+"ovlivňováním královského dvora, tak prostřednictvím svých příbuzenských "
+"vazeb s královskou rodinou."
 
 #. [unit_type]: id=Delfador L1, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L1.cfg:8
@@ -9334,6 +9343,22 @@ msgid ""
 "Physically frail, and lacking familiarity with combat, magi do possess "
 "certain arts which are of great utility in battle."
 msgstr ""
+"Lidé často přemýšleli o fungování světa, ve kterém žijí. Někteří se snaží "
+"jít nad rámec pouhého přemítání a učinit z toho hlavní smysl svého života. "
+"Každý mág hodný toho jména strávil studiem alespoň deset let a nashromáždil "
+"množství znalostí, které ho odlišuje od ostatních lidí. Tito muži a ženy, "
+"kteří se plně zasvětili hledání moudrosti, se zcela liší od světa, kde jen "
+"málokdo umí číst a psát. Jejich řady tvoří především děti nadějné šlechty "
+"nebo ti, kdo hledali únik z duševní prázdnoty ruční práce.\n"
+"\n"
+"Je ironií, že se všemi svými znalostmi a skromným monopolem na ně by obec "
+"mágů pravděpodobně mohla vládnout společnosti, kdyby se o to někdy pokusila. "
+"Jejich skutečnou láskou však nejsou ani peníze, ani moc, a těm, kteří "
+"vnímají studium magie jako prostředek k dosažení těchto cílů, často chybí "
+"právě to přesvědčení, které je nezbytné pro skutečné mistrovství.\n"
+"\n"
+"Ačkoli jsou mágové tělesně slabí a nejsou obeznámeni s bojem, ovládají "
+"určitá umění, která jsou v bitvě velmi užitečná."
 
 #. [attack]: type=impact
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L1.cfg:31
@@ -9350,7 +9375,7 @@ msgstr "hůl"
 #. [unit_type]: id=Delfador L2, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L2.cfg:8
 msgid "Red Mage"
-msgstr ""
+msgstr "Červený mág"
 
 #. [unit_type]: id=Delfador L2, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L2.cfg:12
@@ -9368,11 +9393,21 @@ msgid ""
 "number of tricks up their sleeves, including the gouts of fire which may "
 "have cemented their colloquial name."
 msgstr ""
+"Po úspěšném vyučení mág svlékne hnědé roucho učedníka a obdrží rudý plášť "
+"mistra. Význam této změny prostým lidem často uniká, takže mistrům magie "
+"mylně říkají „červení mágové“. Stejně tak je symbolika změny barev často "
+"mylně vykládána jako znamení schopnosti mága vykouzlit oheň z ničeho, "
+"z pouhého vzduchu – trik, který je sice nepopiratelně užitečný, ale samotní "
+"mágové jej považují za hrubé zneužití svých těžce nabytých znalostí.\n"
+"\n"
+"Ačkoli jsou „červení mágové“ tělesně slabí a jako válečníci nevycvičení, "
+"mají v rukávu řadu triků, včetně proudů ohně, které možná upevnily jejich "
+"lidové jméno."
 
 #. [unit_type]: id=Delfador L3, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L3.cfg:8
 msgid "Arch Mage"
-msgstr ""
+msgstr "Arcimág"
 
 #. [unit_type]: id=Delfador L3, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L3.cfg:12
@@ -9390,11 +9425,22 @@ msgid ""
 "unleash the full power of their art, something which is not to be taken "
 "lightly."
 msgstr ""
+"Titul arcimága se tradičně uděluje až po celoživotním studiu a dosažení "
+"odpovídajících úspěchů. Arcimágové často působí ve vzdělávacích ústavech "
+"nebo jako rádci těch, kteří jsou natolik rozumní, že vyhledávají plody "
+"jejich moudrosti. Mnozí z nich se věnují bohatým mecenášům, což je pro obě "
+"strany výnosné, neboť kromě občasného vykonání divu či poskytnutí rady to "
+"mágovi umožňuje nerušeně se věnovat svému výzkumu. Z toho pramení většina "
+"lidského poznání. Věda, filozofie a umění, které dodávají krásu celému "
+"světu.\n"
+"\n"
+"Ačkoli není vycvičen k žádnému druhu boje, může arcimág v případě nutnosti "
+"uvolnit své umění v plné síle, což by se nemělo brát na lehkou váhu."
 
 #. [unit_type]: id=Delfador L4, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L4.cfg:8
 msgid "Great Mage"
-msgstr ""
+msgstr "Velký mág"
 
 #. [unit_type]: id=Delfador L4, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Delfador_L4.cfg:12
@@ -9411,11 +9457,21 @@ msgid ""
 "Though they are not warriors, by any means, the application of their art to "
 "combat is something that often causes other soldiers to stand aside in awe."
 msgstr ""
+"Každý, kdo je vůbec zvažován pro titul velkého mága, je ve své době téměř "
+"legendou, a městští vyvolávači se naučili, že při používání tohoto titulu je "
+"třeba postupovat s velkou opatrností. Zásluhy pro udělení titulu pečlivě "
+"posuzuje rada předních mágů dané doby a je udělen pouze na základě "
+"většinového hlasování. Bez ohledu na to každý, kdo je vážně navržen, aby měl "
+"tu čest být nazýván velkým mágem, je bezpochyby mistrem svého umění a svými "
+"schopnostmi předčil téměř všechny své vrstevníky.\n"
+"\n"
+"Ačkoli nejsou v žádném případě válečníky, způsob, jakým uplatňují své umění "
+"v boji, často přiměje ostatní vojáky, aby v úžasu ustoupili stranou."
 
 #. [unit_type]: id=Veteran Cavalier, race=human, description=<i>
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:8
 msgid "Veteran Cavalier"
-msgstr ""
+msgstr "Zkušený jezdec"
 
 #. [unit_type]: id=Veteran Cavalier, race=human, description=<i>
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:12
@@ -9423,6 +9479,8 @@ msgid ""
 "Deoran rides an elvish horse, and has better movement and defense in forest "
 "than do most mounted human units."
 msgstr ""
+"Deoran jezdí na elfím koni a v lese se pohybuje a brání lépe než většina "
+"lidských jednotek na koních."
 
 #. [unit_type]: id=Veteran Cavalier, race=human, description=<i>
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:14
@@ -9432,6 +9490,10 @@ msgid ""
 "nations, these diplomats excel at negotiation and leadership, and have the "
 "authority to broker treaties on behalf of the throne."
 msgstr ""
+"Moudrá a schopná osobnost se může nakonec vypracovat až na pozici vyslance "
+"a stát se úřadujícím poslem Wesnothu. Tito diplomaté, kteří jsou obvykle "
+"vysíláni do vzdálených zemí, vynikají v umění vyjednávání a vedení a mají "
+"pravomoc uzavírat smlouvy jménem trůnu."
 
 #. [unit_type]: id=Veteran Cavalier, race=human, description=<i>
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:16
@@ -9442,23 +9504,28 @@ msgid ""
 "military skill, these captains are undeterred by even the most overwhelming "
 "opposition."
 msgstr ""
+"V těžkých časech mohou být tito vysloužilí velitelé povoláni, aby se znovu "
+"chopili kopí a bojovali ve službách své vlasti. Díky zkušenostem z civilního "
+"života a značné části svých dřívějších vojenských dovedností, které si "
+"zachovali, se tito kapitáni nenechají zastrašit ani tou nejdrtivější "
+"přesilou."
 
 #. [attack]: type=pierce
 #. [attack]
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:45
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Garard.cfg:33
 msgid "lance"
-msgstr ""
+msgstr "kopí"
 
 #. [attack]: type=impact
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:57
 msgid "trample"
-msgstr ""
+msgstr "dupot"
 
 #. [attack]: type=pierce
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Deoran_Elvish.cfg:65
 msgid "crossbow"
-msgstr ""
+msgstr "kuše"
 
 #. [unit_type]: id=Hunker Eldred, race=human, gender=male
 #. [unit_type]: id=King Eldred, race=human, gender=male
@@ -9469,7 +9536,7 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Eldred_Prince.cfg:4
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Eldred_Unarmed.cfg:4
 msgid "Crown Prince"
-msgstr ""
+msgstr "Korunní princ"
 
 #. [unit_type]: id=King Eldred, race=human, gender=male
 #. [unit_type]: id=Crown Prince, race=human, gender=male
@@ -9485,26 +9552,32 @@ msgid ""
 "specialization involves both javelins and swordplay, each weapon covering "
 "the weaknesses of the other."
 msgstr ""
+"Jako první v pořadí nástupnictví musí být korunní princ připraven kdykoli "
+"převzít velení, pokud by krále postihlo neštěstí. Od útlého věku jsou tito "
+"královští dědicové cvičeni v různých bojových stylech a zdokonalují své "
+"dovednosti v zacházení se zbraněmi, pro které projevují nadání. Jedno "
+"z neobvyklých zaměření zahrnuje zároveň oštěpy a šerm, přičemž každá "
+"z těchto zbraní kryje slabiny té druhé."
 
 #. [attack]: type=arcane # arcane is mediocre vs Delfador, but strong vs his summons
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Eldred_Magic.cfg:44
 msgid "shadow wave"
-msgstr ""
+msgstr "vlna tmy"
 
 #. [attack]
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Eldred_Prince.cfg:28
 msgid "sword"
-msgstr ""
+msgstr "meč"
 
 #. [attack]
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Eldred_Prince.cfg:34
 msgid "javelin"
-msgstr ""
+msgstr "oštěp"
 
 #. [unit_type]: id=King of Wesnoth, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Garard.cfg:4
 msgid "King of Wesnoth"
-msgstr ""
+msgstr "Král Wesnothu"
 
 #. [unit_type]: id=King of Wesnoth, race=human
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Garard.cfg:6
@@ -9516,17 +9589,23 @@ msgid ""
 "terrifying sight for opposing infantry, and is often enough to break right "
 "through a defensive line."
 msgstr ""
+"Králové procházejí náročným výcvikem v bojových uměních, někdy z nutnosti, "
+"častěji však z tradice, která sahá do dob, kdy jejich předkové zbohatli díky "
+"válkám. V bitvě může král ovládat meč a kopí a jezdit na oři, který byl "
+"vyšlechtěn spíše pro sílu než pro rychlost. Královská postava v čele "
+"jezdeckého útoku je pro nepřátelskou pěchotu děsivým pohledem a často stačí "
+"k tomu, aby prorazila obrannou linii."
 
 #. [attack]
 #: data/campaigns/The_Deceivers_Gambit/units/Human_Garard.cfg:26
 msgid "longsword"
-msgstr ""
+msgstr "dlouhý meč"
 
 #. [dummy]: id=consume
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Cave_Bear.cfg:11
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Cave_Bear.cfg:20
 msgid "consume"
-msgstr ""
+msgstr "pohlcení"
 
 #. [dummy]: id=consume
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Cave_Bear.cfg:12
@@ -9535,6 +9614,8 @@ msgid ""
 "This unit regains <span color='#00FF00'>30%</span> of its maximum hitpoints "
 "whenever it kills a living unit."
 msgstr ""
+"Tato jednotka získá zpět <span color='#00FF00'>30 %</span> z maxima svých "
+"životů pokaždé, když zabije živou jednotku."
 
 #. [unit_type]: id=Eyestalk, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Eyestalk.cfg:4
@@ -9564,7 +9645,7 @@ msgstr "pohled"
 #. [unit_type]: id=Giant Crab, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Giant_Crab.cfg:4
 msgid "Giant Crab"
-msgstr ""
+msgstr "Obří krab"
 
 #. [unit_type]: id=Giant Crab, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Giant_Crab.cfg:14
@@ -9574,16 +9655,20 @@ msgid ""
 "interesting feature is their water spit, which is far more noxious than that "
 "of their smaller cousins."
 msgstr ""
+"Obří krabi jsou stejní jako ti běžní, jen obrovští. Jejich klepeta jsou "
+"větší než koňská noha a jejich krunýř je silnější než většina brnění. "
+"Nejzajímavějším rysem je však jejich plivání vody, které je mnohem "
+"škodlivější než u jejich menších příbuzných."
 
 #. [attack]: type=impact
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Giant_Crab.cfg:70
 msgid "spit"
-msgstr ""
+msgstr "plivnutí"
 
 #. [unit_type]: id=Silverback, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Silverback.cfg:8
 msgid "Silverback"
-msgstr ""
+msgstr "Stříbrohřbetý"
 
 #. [unit_type]: id=Silverback, race=monster
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Silverback.cfg:10
@@ -9593,16 +9678,20 @@ msgid ""
 "the eldest of these creatures are said to possess the strength of a dozen "
 "men."
 msgstr ""
+"Největšími z lidoopů jsou stříbrohřbetí, kteří dostali své jméno podle "
+"charakteristického zbarvení zadní části těla. Jsou menší než obři, ale "
+"mnohem svalnatější, a o nejstarších z těchto tvorů se říká, že mají sílu "
+"tuctu mužů."
 
 #. [attack]: type=impact
 #: data/campaigns/The_Deceivers_Gambit/units/Monster_Silverback.cfg:31
 msgid "fist"
-msgstr ""
+msgstr "pěst"
 
 #. [unit_type]: id=Orcish Adept, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Adept.cfg:5
 msgid "Orcish Adept"
-msgstr ""
+msgstr "Skřetí učednice"
 
 #. [unit_type]: id=Orcish Adept, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Adept.cfg:24
@@ -9617,6 +9706,16 @@ msgid ""
 "Although physically frail compared to other orcs this shamanistic art makes "
 "even a freshly trained Adept a force to be reckoned with on the battlefield."
 msgstr ""
+"Skřetí ženy se sklonem k duchovnu mohou být zasvěceny do umění skřetích čar. "
+"Tyto nově vycvičené skřetice, zpočátku nazývané „učednice“, získávají "
+"podivuhodný vliv nad šamanskými silami, které oddělují život od neživota. Je-"
+"li toto umění nasměrováno dovnitř, poskytuje jim velkou odolnost proti "
+"většině druhů magie. Je-li nasměrováno ven, propůjčuje jim děsivou schopnost "
+"vysávat život ze svých nepřátel.\n"
+"\n"
+"Ačkoli jsou ve srovnání s ostatními skřety tělesně slabé, díky tomuto "
+"šamanskému umění se i čerstvě vycvičená učednice stává silou, s níž je třeba "
+"na bojišti počítat."
 
 #. [attack]: type=arcane
 #. [object]
@@ -9625,12 +9724,12 @@ msgstr ""
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Sorceress.cfg:52
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:828
 msgid "siphon"
-msgstr ""
+msgstr "sosák"
 
 #. [unit_type]: id=Orcish Shaman, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Shaman.cfg:5
 msgid "Orcish Shaman"
-msgstr ""
+msgstr "Skřetí šamanka"
 
 #. [unit_type]: id=Orcish Shaman, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Shaman.cfg:24
@@ -9649,11 +9748,24 @@ msgid ""
 "tradition. This much-practiced wisdom has many applications, not least of "
 "which is their improved ability to draw life from their foes during battle."
 msgstr ""
+"Stejně jako většina rozumných ras i skřeti často přemýšlejí o fungování "
+"světa, ve kterém žijí. Někteří se snaží jít nad rámec pouhého bezúčelného "
+"přemítání, avšak násilný, kočovný způsob života největších skřetích klanů se "
+"k akademickému bádání příliš nehodí a ti výjimeční skřeti, kteří se věnují "
+"vědě, jsou vždy zabiti nebo zotročeni svými bojovnějšími soukmenovci.\n"
+"\n"
+"Skřetí šamanky jsou vzácnými výjimkami z tohoto pravidla, protože jsou mezi "
+"klany respektovány a považovány za důvěryhodnou a neutrální stranu. Slouží "
+"jako strážkyně skřetí moudrosti a rádkyně v dobách krize – což není něco, co "
+"by skřeti jinak snášeli. V době, kdy je učednice uznána za plnohodnotnou "
+"šamanku, má již v paměti velkou část společné ústní tradice skřetů. Tato "
+"dlouho cvičená moudrost má mnoho uplatnění, mezi nimiž vyniká zejména jejich "
+"vylepšená schopnost čerpat během boje život ze svých nepřátel."
 
 #. [unit_type]: id=Orcish Sorceress, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Sorceress.cfg:5
 msgid "Orcish Sorceress"
-msgstr ""
+msgstr "Skřetí čarodějka"
 
 #. [unit_type]: id=Orcish Sorceress, race=orc, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Sorceress.cfg:24
@@ -9669,21 +9781,31 @@ msgid ""
 "Having practiced their mystical art to perfection, these aged orcs are held "
 "in the highest respect across the various clans."
 msgstr ""
+"Skřeti někdy žijí stejně dlouho jako lidé, ale jen velmi málo jedinců tuto "
+"možnost plně využije, neboť průměrný skřet uvidí jen dvacet či třicet zim, "
+"než najde smrt buď ve válce, nebo rukou některého ze svých příbuzných. Pouze "
+"šamanky, odříznuté od každodenních sporů hlavních skřetích klanů, se obvykle "
+"dožívají vysokého věku.\n"
+"\n"
+"Nejvýznamnější z těchto starších tvoří Velkou radu, která může rozhodovat "
+"v mnoha sporech, jež vznikají mezi klany jejich svárlivých soukmenovců. Díky "
+"tomu, že své tajemné umění zdokonalili k dokonalosti, se těmto starým "
+"skřetím ženám dostává nejvyšší úcty napříč různými klany."
 
 #. [attack]: type=arcane
 #: data/campaigns/The_Deceivers_Gambit/units/Orcish_Sorceress.cfg:40
 msgid "sap"
-msgstr ""
+msgstr "míza"
 
 #. [unit_type]: id=Beacon, race=mechanical
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Beacon.cfg:5
 msgid "Beacon"
-msgstr ""
+msgstr "Maják"
 
 #. [unit_type]: id=Saurian Devotee, race=lizard, gender=male
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Devotee.cfg:23
 msgid "Saurian Devotee"
-msgstr ""
+msgstr "Ještěrácký vyznavač"
 
 #. [unit_type]: id=Saurian Devotee, race=lizard, gender=male
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Devotee.cfg:37
@@ -9692,16 +9814,19 @@ msgid ""
 "Devotees. Although they still lack the strength of Augurs and Prophets, they "
 "can still use their abilities to defend their clan in times of need."
 msgstr ""
+"Mladí ještěráci, kteří mají obzvláště blízko k magickým uměním, jsou školeni "
+"na vyznavače. Ačkoli ještě nedosahují síly šamanů a proroků, mohou své "
+"schopnosti využít v případě nouze k obraně svého klanu."
 
 #. [attack]: type=cold
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Devotee.cfg:54
 msgid "curse"
-msgstr ""
+msgstr "kletba"
 
 #. [unit_type]: id=Saurian Juvenile, race=lizard
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Juvenile.cfg:5
 msgid "Saurian Juvenile"
-msgstr ""
+msgstr "Mládě ještěráka"
 
 #. [unit_type]: id=Saurian Juvenile, race=lizard
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Juvenile.cfg:15
@@ -9712,11 +9837,16 @@ msgid ""
 "older, they will quickly learn to fend for themselves and become fully grown "
 "adults by the age of three."
 msgstr ""
+"Tito mladí ještěráci nedosáhli ještě jednoho roku a jsou příliš slabí "
+"a křehcí na to, aby lovili nebo bojovali. Starší mláďata sice mohou ve svém "
+"hnízdě vykonávat několik základních povinností, v boji jsou však stále "
+"bezbranná. Jak tito ještěráci stárnou, rychle se naučí se o sebe postarat "
+"a ve třech letech se z nich stanou plně dospělí jedinci."
 
 #. [unit_type]: id=Saurian Spike, race=lizard, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Young.cfg:23
 msgid "Saurian Spike"
-msgstr ""
+msgstr "Ještěrácká jehla"
 
 #. [unit_type]: id=Saurian Spike, race=lizard, gender=female
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Young.cfg:37
@@ -9726,16 +9856,20 @@ msgid ""
 "small animals, but are still unprepared for a true battle, fighting only on "
 "the most dire occasions."
 msgstr ""
+"Tyto mladé ještěračky se teprve učí správně zacházet s kopím a dosud "
+"nedosáhly dovedností svých starších soukmenovkyň. Jsou sice dost zručné na "
+"to, aby lovily malá zvířata, ale na skutečnou bitvu ještě nejsou připravené "
+"a bojují pouze v těch nejzoufalejších situacích."
 
 #. [attack]: type=pierce
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Young.cfg:45
 msgid "spear"
-msgstr ""
+msgstr "kopí"
 
 #. [attack]: type=pierce
 #: data/campaigns/The_Deceivers_Gambit/units/Saurian_Young.cfg:54
 msgid "throwing spear"
-msgstr ""
+msgstr "vrhací kopí"
 
 #. [message]: speaker={UNIT}
 #: data/campaigns/The_Deceivers_Gambit/utils/macros.cfg:502
