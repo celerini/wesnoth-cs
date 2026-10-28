@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-28 09:37+0100\n"
+"PO-Revision-Date: 2026-10-28 16:15+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -395,7 +395,7 @@ msgstr ""
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:82
 msgid "Find Familiar"
-msgstr "Najít známého"
+msgstr "Najít společníka"
 
 #: data/campaigns/The_Deceivers_Gambit/lua/skill_set.lua:84
 msgid ""
@@ -9874,17 +9874,17 @@ msgstr "vrhací kopí"
 #. [message]: speaker={UNIT}
 #: data/campaigns/The_Deceivers_Gambit/utils/macros.cfg:502
 msgid "Kraa!"
-msgstr ""
+msgstr "Krá!"
 
 #. [message]: speaker={UNIT}
 #: data/campaigns/The_Deceivers_Gambit/utils/macros.cfg:511
 msgid "Glob glob glob."
-msgstr ""
+msgstr "Čvachty čvacht."
 
 #. [message]: speaker={UNIT}
 #: data/campaigns/The_Deceivers_Gambit/utils/macros.cfg:520
 msgid "Fsss crackle hiss."
-msgstr ""
+msgstr "Fsss prask sss."
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:80
@@ -9894,23 +9894,23 @@ msgstr "střela"
 #. [floating_text]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:239
 msgid "No Target"
-msgstr ""
+msgstr "Žádný cíl"
 
 #. [dummy]: id=panacea
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:286
 msgid "panacea"
-msgstr ""
+msgstr "všelék"
 
 #. [dummy]: id=panacea
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:287
 msgid "Next turn, this unit dies."
-msgstr ""
+msgstr "V příštím kole tato jednotka zahyne."
 
 #. [leadership]: id=summoner
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:366
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1764
 msgid "summoner"
-msgstr ""
+msgstr "přivolávač"
 
 #. [leadership]: id=summoner
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:367
@@ -9921,11 +9921,15 @@ msgid ""
 "\n"
 "Recruited elementals dissipate at the end of each scenario."
 msgstr ""
+"Tato jednotka je zkušený přivolávač. Spojenečtí elementálové v sousedství "
+"způsobují o 100 % více poškození a získávají o 100 % více zkušeností.\n"
+"\n"
+"Naverbovaní elementálové se na konci každého scénáře rozplynou."
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:457
 msgid "chill touch"
-msgstr ""
+msgstr "mrazivý dotek"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:526
@@ -9936,7 +9940,7 @@ msgstr "Moje kouzlo vznášení se skončilo nad neprostupným terénem! Umírá
 #. [else]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:608
 msgid "Familiar"
-msgstr ""
+msgstr "Společník"
 
 #. [message]: speaker=Methor
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:646
@@ -9944,26 +9948,29 @@ msgid ""
 "A familiar already, apprentice? Well done — that’s an impressive piece of "
 "magic even for experienced wizards."
 msgstr ""
+"Už máš společníka, učedníku? Výborně – to je působivý kouzelnický kousek "
+"i pro zkušené čaroděje."
 
 #. [dummy]: id=mnemonic
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:665
 msgid "mnemonic"
-msgstr ""
+msgstr "mnemotechnická pomůcka"
 
 #. [dummy]: id=mnemonic
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:666
 msgid "Whenever an adjacent ally gains xp, you gain the same amount of xp."
 msgstr ""
+"Kdykoli sousední spojenec získá zkušenosti, získáš ty jejich stejné množství."
 
 #. [disable]: id=skill_counterspell
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1053
 msgid "counterspelled"
-msgstr ""
+msgstr "odkouzleno"
 
 #. [disable]: id=skill_counterspell
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1054
 msgid "Counterspell is nullifying this magical attack."
-msgstr ""
+msgstr "Protikouzlo ruší tento magický útok."
 
 #. [message]: speaker=Delfador
 #. Delfador has just cast his Counterspell spell. Magical attacks (including Delfador's) are disabled when near Delfador
@@ -9973,6 +9980,9 @@ msgid ""
 "They called me crazy, but I always knew I could figure out a way to block "
 "magic! I just needed to copy what I— the fake I— did during that prophecy."
 msgstr ""
+"Říkali mi, že jsem blázen, ale já vždycky věděl, že přijdu na způsob, jak "
+"zabránit magii! Stačilo jen napodobit to, co jsem udělal – tedy mé nepravé "
+"já – během toho proroctví."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1322
@@ -9980,44 +9990,46 @@ msgid ""
 "My polymorph spell has ended over impassable terrain! I‘m falling to my "
 "death!"
 msgstr ""
+"Moje kouzlo proměny skončilo nad neprostupným terénem! Padám a čeká mě smrt!"
 
 #. [object]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1418
 msgid "dancing daggers"
-msgstr ""
+msgstr "tančící dýky"
 
 #. [chance_to_hit]: id=skill_illusion
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1488
 msgid "accuracy:"
-msgstr ""
+msgstr "přesnost:"
 
 #. [message]: speaker=unit
 #. Delfador is magically disguised as a drake, and has just case a fireball
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1625
 msgid "Taste drakefire!"
-msgstr ""
+msgstr "Okus dračí oheň!"
 
 #. [message]: speaker=Delfador
 #. Delfador has just saved a unit from lethal damage with the Contingency spell
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1841
 msgid "I’ve got you! You can thank my old master for inventing this spell."
 msgstr ""
+"Mám tě! Za vynález toho kouzla můžeš poděkovat mému starému profesorovi."
 
 #. [message]: speaker=Methor
 #. Methor is probably not here right now to say this line, but he might be
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1846
 msgid "Well, somebody had to! And you’re welcome!"
-msgstr ""
+msgstr "No, někdo to přece udělat musel! A nemáš zač!"
 
 #. [object]: type=fire
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1906
 msgid "lightning"
-msgstr ""
+msgstr "blesk"
 
 #. [dummy]: id=chain
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1916
 msgid "chain"
-msgstr ""
+msgstr "řetěz"
 
 #. [dummy]: id=chain
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1917
@@ -10025,12 +10037,14 @@ msgid ""
 "This attack can be used multiple times on offense, but consecutive uses "
 "strike one fewer time."
 msgstr ""
+"Tento útok lze při zahájení použít vícekrát, avšak při opakovaném použití se "
+"počet úderů sníží o jeden."
 
 #. [message]: speaker=$speaker_id
 #. Delfador has just cast his cataclysm spell, dealing heavy damage in a large radius and destroying trees/villages/castles
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2232
 msgid "Dear lords of light, what demon has come upon us?!"
-msgstr ""
+msgstr "Dobří páni světla, jaký zlý duch se na nás snesl?!"
 
 #. [set_menu_item]: id=TDG_spellcasting
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2522
@@ -10040,7 +10054,7 @@ msgstr "Seslat kouzla"
 #. [floating_text]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2560
 msgid "Max XP!"
-msgstr ""
+msgstr "Maximum zkušeností!"
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2572
@@ -10050,6 +10064,10 @@ msgid ""
 "The apprentice’s XP is useful for casting spells, but raising him to maximum "
 "XP has no special effect."
 msgstr ""
+"Na rozdíl od běžných jednotek učedník k postupu nevyužívá zkušenosti, ale "
+"povyšuje automaticky v průběhu času, jak se posouvá vpřed v příběhu. "
+"Zkušenosti učedníka se hodí k sesílání kouzel, ale dosažení jejich maximální "
+"hodnoty na něj nemá žádný zvláštní účinek."
 
 #. [message]
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2582
@@ -10059,6 +10077,10 @@ msgid ""
 "Delfador’s XP is useful for casting spells, but raising him to maximum XP "
 "has no special effect."
 msgstr ""
+"Na rozdíl od běžných jednotek Delfador k postupu nevyužívá zkušenosti, ale "
+"postupuje automaticky v průběhu času, jak se posouvá vpřed v příběhu. "
+"Delfadorovy zkušenosti jsou užitečné pro sesílání kouzel, ale dosažení "
+"jejich maximální hodnoty na něj nemá žádný zvláštní účinek."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2598
@@ -10066,6 +10088,8 @@ msgid ""
 "Congratulations on your journeymanship, $unit.name! Those fireballs are "
 "breathtaking! ...now how long until I’m allowed to cast them too?"
 msgstr ""
+"Blahopřeji k získání titulu tovaryše! Ty ohnivé koule jsou dechberoucí! ... "
+"a jak dlouho ještě potrvá, než je budu moct sesílat taky?"
 
 #. [message]: speaker=Delfador
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:2609
@@ -10073,6 +10097,8 @@ msgid ""
 "Congratulations, $unit.name! Your journeyman’s robes look breathtaking. Now "
 "if only Methor would award me mine too ...in red, of course."
 msgstr ""
+"Blahopřeji! Tvoje tovaryšské roucho vypadá úchvatně. Kéž by mi teď Methor "
+"předal i to moje... samozřejmě v červené barvě."
 
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:54
 #: data/campaigns/The_Deceivers_Gambit/utils/unified_characters.cfg:66
