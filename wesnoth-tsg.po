@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-10-21 02:43 UTC\n"
-"PO-Revision-Date: 2026-10-14 20:32+0200\n"
+"PO-Revision-Date: 2026-10-28 12:25+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2788,7 +2788,7 @@ msgstr ""
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:849
 msgid "The sun is our ally! They’re afraid to fight in the light."
-msgstr ""
+msgstr "Slunce je náš spojenec! Bojí se bojovat na světle."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:905
@@ -2905,7 +2905,7 @@ msgstr ""
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1021
 msgid "Look! The fog is fading! I think we’ve survived the attack!"
-msgstr ""
+msgstr "Podívejte! Mlha se rozplývá! Myslím, že jsme přežili ten útok!"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1057
@@ -2914,6 +2914,9 @@ msgid ""
 "my face sweats; I need you back, please... I can’t bear to experience the "
 "world like this!"
 msgstr ""
+"Ne, moje kouzlo slábne! Ty krásné šepoty se vytrácejí! Třesou se mi ruce, "
+"potí se mi čelo. Potřebuju tě zpátky, prosím... Nedokážu snést, že musím "
+"prožívat svět takhle!"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1061
@@ -2922,21 +2925,24 @@ msgid ""
 "intoxicate me again! The others warned me not to, but the master always told "
 "me what I needed to know. Yes, yes!"
 msgstr ""
+"Více moci, potřebuji mocnější přisluhovače. Více moci mě znovu povznese, "
+"znovu mě opojí! Ostatní mě varovali, abych to nedělal. Ale mistr mi vždycky "
+"řekl, co jsem potřeboval vědět. Ano, ano!"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1068
 msgid "Skeletons! Watch out, Deoran, these things are nasty!"
-msgstr ""
+msgstr "Kostlivci! Dávej si pozor, Deorane, ty potvory jsou odporné!"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1069
 msgid "Look sharp, skeletons! Those old bones are comin’ straight for us!"
-msgstr ""
+msgstr "Bacha, kostlivci! Řítí se na nás tyhle staré kosti!"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1070
 msgid "Skeletons. The darkness grows."
-msgstr "Kostlivci. Temnota roste."
+msgstr "Kostlivci přichází. Temnota roste."
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1098
@@ -2944,6 +2950,8 @@ msgid ""
 "Nnrrgh!! No, I created you! Attack them, not me! The master never taught me "
 "how to control these things!"
 msgstr ""
+"Nnrrgh!! Ne, já jsem vás stvořil! Útočte na ně, ne na mě! Pán mě nikdy "
+"nenaučil, jak tyhle věci ovládat!"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1112
@@ -2951,16 +2959,18 @@ msgid ""
 "You won’t even exist without me! My power is what keeps you standing! You’re "
 "sealing your own re-deaths!"
 msgstr ""
+"Bez mě byste ani neexistovali! Jen díky mé síle se držíte na nohou! Sami si "
+"tak podepisujete svou opětovnou smrt!"
 
 #. [message]: type=Revenant # because its portrait is pretty
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1116
 msgid "More... power..."
-msgstr ""
+msgstr "Více... moci..."
 
 #. [message]: type=Deathblade # because its portrait is pretty
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1120
 msgid "More... death..."
-msgstr ""
+msgstr "Více... smrti..."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1147
@@ -2968,7 +2978,10 @@ msgid ""
 "Slain by his own creations; a fitting end for such a villain! Good riddance "
 "to him."
 msgstr ""
+"Zabitý svými vlastními výtvory, to je pro takového padoucha příhodný konec! "
+"Ještě že už je po něm."
 
+# Les je přirozená domovina elfů.
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1151
 msgid ""
@@ -2976,13 +2989,18 @@ msgid ""
 "settlement in comparison to the great elven forests, but they were still "
 "your friends."
 msgstr ""
+"A co se týče tebe, Ethiliel, trpěla jsi hodně. Vím, že to byla v rámci "
+"velkých elfích domovin jen malá osada, ale i tak to byli tvoji přátelé."
 
+# Les je přirozená domovina elfů.
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1159
 msgid ""
 "Ethiliel, you have endured much. I know this was just a small settlement in "
 "comparison to the great elven forests, but they were still your friends."
 msgstr ""
+"Trpěla jsi hodně, Ethiliel. Vím, že to byla v rámci velkých elfích domovin "
+"jen malá osada, ale i tak to byli tvoji přátelé."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1165
@@ -2991,6 +3009,9 @@ msgid ""
 "to escort you north to the Aethenwood, where you will be among more of your "
 "kind and safe from any further harm."
 msgstr ""
+"Pojď, odvedeme tě z tohoto prokletého místa. Já i mí muži tě rádi "
+"doprovodíme na sever do Aethenského lesa. Tam najdeš další bytosti svého "
+"druhu a budeš v bezpečí před jakýmkoli dalším nebezpečím."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1170
@@ -2998,7 +3019,7 @@ msgid ""
 "...Ethiliel? I know you must be distraught to be the last of your town, but—"
 msgstr ""
 "... Ethiliel? Vím, musíš být silně rozrušená, že jsi poslední ze svého "
-"města, ale –"
+"města, ale..."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1174
