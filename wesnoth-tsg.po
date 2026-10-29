@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-10-21 02:43 UTC\n"
-"PO-Revision-Date: 2026-10-28 22:16+0100\n"
+"PO-Revision-Date: 2026-10-29 07:57+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2905,7 +2905,7 @@ msgstr ""
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1021
 msgid "Look! The fog is fading! I think we’ve survived the attack!"
-msgstr "Podívejte! Mlha se rozplývá! Myslím, že jsme přežili ten útok!"
+msgstr "Podívejte! Mlha se rozplývá! Myslím, že jsme ten útok přežili!"
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:1057
@@ -2959,7 +2959,7 @@ msgid ""
 "You won’t even exist without me! My power is what keeps you standing! You’re "
 "sealing your own re-deaths!"
 msgstr ""
-"Bez mě byste ani neexistovali! Jen díky mé síle se držíte na nohou! Sami si "
+"Beze mě byste ani neexistovali! Jen díky mé síle se držíte na nohou! Sami si "
 "tak podepisujete svou opětovnou smrt!"
 
 #. [message]: type=Revenant # because its portrait is pretty
