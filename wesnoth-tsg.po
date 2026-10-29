@@ -10,15 +10,14 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-10-21 02:43 UTC\n"
-"PO-Revision-Date: 2026-10-29 08:04+0100\n"
-"Last-Translator: Septim <septim@centrum.cz>\n"
+"PO-Revision-Date: 2026-10-29 09:49+0100\n"
+"Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Poedit 3.10\n"
 
 #. [campaign]: id=The_South_Guard
 #. [achievement_group]
@@ -3389,12 +3388,6 @@ msgstr ""
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:436
-#, fuzzy
-#| msgid ""
-#| "Please, please, jus’ hear me out. I knows my men and I’ve done evil, and "
-#| "I knows that you seek to destroy us out o’ revenge. Ah’m sorry my "
-#| "brothers attacked you. It was never my intention to cause everyone so "
-#| "much sufferin’."
 msgid ""
 "Please, please, just hear me out. I knows my men and I’ve done evil, and I "
 "knows that you seek to destroy us out of revenge. Ah’m sorry my brothers "
@@ -3415,13 +3408,6 @@ msgstr ""
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:444
-#, fuzzy
-#| msgid ""
-#| "I swear I ain’t your enemy! I’ll gladly tell ye what I know. I admit that "
-#| "near a year ago, me brothers and I ventured into the valley of the elves "
-#| "in secret, to plunder and steal. Many we killed, but one we captured; a "
-#| "powerful and magical sage. Away from his people, he offered to teach us "
-#| "the secrets o’ summonin’ the dead."
 msgid ""
 "I swear I ain’t your enemy! I’ll gladly tell ye what I know. I admit that "
 "near a year ago, me brothers and I ventured into the valley of the elves in "
@@ -3430,21 +3416,10 @@ msgid ""
 msgstr ""
 "Přísahám, že nejsem váš nepřítel! Rád vám řeknu, co vím. Přiznávám, že před "
 "rokem jsme se s bratry tajně vydali do údolí elfů, abychom tam loupili "
-"a kradli. Mnoho jsme jich zabili, ale jednoho zajali – mocného a kouzelného "
-"mudrce. Daleko od svého lidu nám nabídl, že nás naučí tajemství povolávání "
-"mrtvých."
+"a kradli. Zabili jsme mnohé. Bylo to špatné, já vím a je mi to líto."
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:448
-#, fuzzy
-#| msgid ""
-#| "Wait, wait, hear me out! He told us that in the woods to the south of "
-#| "here, there was a powerful nexus of dark energy. He took us there and "
-#| "taught us to summon the dead to fight for us. I saw the folly in doing "
-#| "such a thing, but my brothers were weak and foolish and soon fell under "
-#| "the sway of the corrupting magic. They summoned undead that they could "
-#| "not control, and soon, they became slaves of the power they had sought to "
-#| "master!"
 msgid ""
 "But there was one who we captured; a powerful and magical sage. Away from "
 "his people, he offered to teach us the secrets o’ summonin’ the dead.\n"
@@ -3454,12 +3429,12 @@ msgid ""
 "thralls of the very elf they’d sought to enslave. They called him “master”, "
 "and went from here to do his bidding."
 msgstr ""
-"Počkat, počkat, vyslechněte mne! Řekl nám, že v lesích na jih odtud "
-"existovalo mocné spojení s temnými silami. Vzal nás tam a naučil nás povolat "
-"mrtvé, aby za nás bojovali. Dělat takové věci mi přišlo pošetilé, ale moji "
-"bratři byli slabí a nerozumní a brzy podlehli vlivu ničivých kouzel. "
-"Povolali nemrtvé, jež nemohli ovládat a brzy se stali otroky moci, kterou si "
-"usilovali osvojit!"
+"Ale byl tu jeden, kterého jsme zajali. Mocný a kouzelný mudrc. Daleko od "
+"svého lidu nám nabídl, že nás naučí tajemství přivolávání mrtvých. Viděl "
+"jsem, jak pošetilé je něco takového dělat, ale moji bratři byli slabí "
+"a nerozumní a brzy podlehli vlivu té zkažené magie — dostali se do područí "
+"právě toho elfa, kterého se snažili zotročit. Říkali mu „mistře“ a odešli "
+"odtud, aby plnili jeho rozkazy."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:454
@@ -3516,14 +3491,6 @@ msgstr ""
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:471
-#, fuzzy
-#| msgid ""
-#| "I knows I’m a criminal. My men and I have committed wrongdoin’s in the "
-#| "past, but at least in the fight against the undead, we can be your "
-#| "friends! They’re as much our enemies as they’re yours!\n"
-#| "\n"
-#| "If ye spare my life and the lifes of m’ followers, I promise we’ll fight "
-#| "loyally by your side forevermore. Cross me heart and hope to die, I do."
 msgid ""
 "I knows I’m a criminal. My men and I have committed wrongdoing’s in the "
 "past, but at least in the fight against the undead, we can be your friends! "
@@ -3531,10 +3498,7 @@ msgid ""
 msgstr ""
 "Vím, že jsem zločinec. Moji muži i já jsme se v minulosti provinili, ale "
 "můžeme být vašimi přáteli alespoň v boji proti nemrtvým! Jsou to naši "
-"nepřátelé stejně jako vaši!\n"
-"\n"
-"Pokud ušetříte můj život a životy mých stoupenců, slibuji, že budeme navždy "
-"bojovat po vašem boku. To uděláme, na mou duši."
+"nepřátelé stejně jako vaši!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:475
@@ -4789,19 +4753,13 @@ msgstr ""
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/05b_Pebbles_in_the_Flood.cfg:405
-#, fuzzy
-#| msgid ""
-#| "Then there’s only one thing we can do. Sir, you must hasten back to "
-#| "Westin t’ warn the garrison. I’ll command the defense of the town. Leave "
-#| "me th’ few men ye’ve already recruited, and we’ll hold back the undead as "
-#| "long as we can."
 msgid ""
 "Then there’s only one thing we can do. Sir, you must hasten back to Westin "
 "t’ warn the garrison. I’ll command the defense here. Leave me th’ few men "
 "ye’ve already recruited, and we’ll hold back the undead as long as we can."
 msgstr ""
 "Pak můžem udělat jen jednu věc. Pane, musíš se urychleně vrátit do Westinu "
-"a varovat posádku. Já budu velet obraně města. Nech mi tu těch pár mužů, "
+"a varovat posádku. Já budu velet místní obraně. Nech mi tu těch pár mužů, "
 "které jsi už naverboval, a my budeme zadržovat nemrtvé tak dlouho, jak "
 "budeme moct."
 
@@ -5469,10 +5427,8 @@ msgstr ""
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:275
-#, fuzzy
-#| msgid "Town Crier"
 msgid "Town Cellars"
-msgstr "Městský vyvolávač"
+msgstr "městské sklepení"
 
 #. [event]
 #: data/campaigns/The_South_Guard/scenarios/06a_Vengeance.cfg:417
@@ -6354,10 +6310,6 @@ msgstr ""
 
 #. [message]: speaker=Mebrin
 #: data/campaigns/The_South_Guard/scenarios/06b_The_Tides_of_War.cfg:541
-#, fuzzy
-#| msgid ""
-#| "So, the fleshbags have managed to mount a defense. I would seem that the "
-#| "pesky fly turned out to be more than a minor annoyance after all."
 msgid ""
 "So, the fleshbags have managed to mount a defense. It would seem that the "
 "pesky fly turned out to be more than a minor annoyance after all."
