@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-10-21 02:43 UTC\n"
-"PO-Revision-Date: 2026-10-30 09:01+0100\n"
+"PO-Revision-Date: 2026-10-30 11:46+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -3273,6 +3273,9 @@ msgid ""
 "of the elves. He is here! I feel wisps of his magic reaching out to me from "
 "nearby..."
 msgstr ""
+"To je pravda. Před námi je Černá řeka – a musí tu být i Mebrin, velký elfí "
+"mudrc. Je tady! Cítím, jak se ke mně odněkud zblízka šíří závany jeho "
+"magie..."
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:251
@@ -3283,6 +3286,11 @@ msgid ""
 "truly understand the undead and how the Urzas learned to summon them, it "
 "will be Mebrin."
 msgstr ""
+"Poslouchejte dobře, lidé, neboť velký mudrc Mebrin je velmi starý a k vašemu "
+"druhu nechová žádnou náklonnost. Osobně byl svědkem pána lichů Jevyana "
+"a jeho strašlivého vpádu v dobách, kdy byla tato země ještě mladá. Pokud "
+"někdo skutečně rozumí nemrtvým a tomu, jak se Urzové naučili je přivolávat, "
+"pak je to právě Mebrin."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:255
@@ -3294,6 +3302,12 @@ msgid ""
 "Dangerous though the task may be, I promise to help rescue your sage, "
 "Ethiliel."
 msgstr ""
+"Poté, co byli poraženi tři starší bratři Urzovi, zbývá nám čelit už jen tomu "
+"nejmladšímu. Mebrin musí být jeho zajatcem a tyto lesy jsou jistě plné "
+"banditů a nemrtvých.\n"
+"\n"
+"Ať už je tento úkol jakkoli nebezpečný, slibuji, že ti pomohu zachránit "
+"tvého mudrce, Ethiliel."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:264
@@ -3302,6 +3316,8 @@ msgid ""
 "soldiers are surprisingly nimble. I’ve been training them during our march "
 "south."
 msgstr ""
+"Máš štěstí, zelenáči. Někteří z našich vojáků jsou překvapivě hbití, i když "
+"vypadají jako pytle s moukou. Cvičila jsem je během našeho pochodu na jih."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:265
@@ -3309,6 +3325,8 @@ msgid ""
 "Deoran, we’ve got some brawny lads among us. They’re good men, willing to "
 "learn, an’ on the march I’ve been training ’em to fight in heavy armor."
 msgstr ""
+"Deorane, máme mezi sebou pár statných chlapů. Jsou to dobří muži, ochotní se "
+"učit, a během pochodu jsem je cvičil v boji s těžkým brněním."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:266
@@ -3317,6 +3335,9 @@ msgid ""
 "Mages’ Academy on Alduin. Though they dropped out before completion, our "
 "journey southwards has given me an opportunity to remediate their education."
 msgstr ""
+"Skvělá zpráva, Deorane: několik členů naší výpravy kdysi navštěvovalo školu "
+"mágů na Alduinu. I když studium nedokončili, naše cesta na jih mi poskytla "
+"příležitost doplnit jim vzdělání."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:269
@@ -3325,6 +3346,10 @@ msgid ""
 "but fast, and make for good scouts. They also wield <b><i>blade</i></b> "
 "weapons, unlike our other recruits’ pierce."
 msgstr ""
+"Stejně jako já jsou i šermíři vycvičeni jako <b><i>harcovníci</i></b>, takže "
+"jsou průbojní. Sice křehcí, ale rychlí, a dobře se hodí jako zvědové. Také "
+"používají zbraně s <b><i>čepelí</i></b> na rozdíl od našich ostatních "
+"rekrutů, kteří mají bodné."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:270
@@ -3333,6 +3358,9 @@ msgid ""
 "through forests, but the <b><i>impact</i></b> of their maces will be great "
 "for beatin’ down any Skeletons we run into."
 msgstr ""
+"Stejně jako já jsou i těžkooděnci pomalí a odolní. Pohyb v lesích jim moc "
+"nejde, ale <b><i>údery</i></b> jejich palcátů budou skvělé k poražení všech "
+"kostlivců, na které narazíme."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:271
@@ -3340,6 +3368,8 @@ msgid ""
 "Though frail and expensive, Mages’ ranged attack uses <b><i>fire</i></b> — "
 "highly effective against Skeletons, should we encounter any."
 msgstr ""
+"Ačkoli je útok mágů na dálku křehký a nákladný, využívá <b><i>oheň</i></b> — "
+"což je velmi účinné proti kostlivcům, pokud na nějaké narazíme."
 
 #. [object]: description={MESSAGE}
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:279
@@ -3364,23 +3394,29 @@ msgstr "Nyní můžeš verbovat mágy!"
 #. [objective]: condition=win
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:297
 msgid "Find the final Urza brother"
-msgstr ""
+msgstr "Najdi posledního z bratrů Urzových"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:345
 msgid ""
 "This bandit fights against the undead instead of alongside them? That’s new."
 msgstr ""
+"Tenhle bandita bojuje proti nemrtvým, místo aby s nimi bojoval bok po boku? "
+"To je mi novinka."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:346
 msgid "Good lad, that bandit. I wonder what turned him ’gainst the dead?"
 msgstr ""
+"Tenhle bandita je dobrý chlap. Zajímalo by mě, co ho přimělo obrátit se "
+"proti mrtvým?"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:347
 msgid "That outlaw struck at one of his own undead allies. How unexpected."
 msgstr ""
+"Ten psanec zaútočil na jednoho ze svých vlastních nemrtvých spojenců. To je "
+"ale překvapení."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:351
@@ -3388,11 +3424,13 @@ msgid ""
 "We should find their leader, the final Urza brother. That will surely shed "
 "some light on the situation."
 msgstr ""
+"Měli bychom najít jejich vůdce, posledního z bratrů Urzových. To nám jistě "
+"pomůže pochopit, co se tu děje."
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:385
 msgid "These undead are too much! I am slain..."
-msgstr ""
+msgstr "Těchhle nemrtvých je příliš mnoho! To je má smrt..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:389
@@ -3400,11 +3438,14 @@ msgid ""
 "We came here to fight the bandits, but for them to have perished on their "
 "own? Something feels very wrong here..."
 msgstr ""
+"Přišli jsme sem bojovat s bandity, ale že by hynuli bez našeho přičinění? "
+"Něco mi na tom nesedí..."
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:427
 msgid "I see torches movin’ in the fog... Thank th’ light, it’s living men!"
 msgstr ""
+"Vidím, jak se v mlze pohybují pochodně... Díky světlu, to jsou muži a živí!"
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:430
@@ -3413,6 +3454,9 @@ msgid ""
 "with your undead raising, and I for one am fed up with it. Prepare to join "
 "your brothers, boy."
 msgstr ""
+"Copak ženy se nepočítají mezi „živé“? Vy Urzové jste svým vyvoláváním "
+"nemrtvých způsobili dost zmatků a já už toho mám po krk. Připrav se, že se "
+"připojíš ke svým bratrům, chlapče."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:431
@@ -3421,6 +3465,9 @@ msgid ""
 "killed too many good men, and defiled too many peaceful corpses. You’ll pay "
 "for what ye’ve done to our home."
 msgstr ""
+"Nemusíš nikomu děkovat za to, že jsme tady, ty darebáku. Ty a tvoji bratři "
+"jste zabili příliš mnoho dobrých lidí a znesvětili příliš mnoho mrtvých těl. "
+"Zaplatíš za to, co jsi udělal s naším domovem."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:432
@@ -3429,6 +3476,9 @@ msgid ""
 "brothers have spread darkness and filth across this land. We are here to "
 "excise your corruption."
 msgstr ""
+"Neopovažuj se v mé přítomnosti vzývat světlo, nositeli zla. Ty a tvoji "
+"bratři jste po celé této zemi šířili temnotu a špínu. Jsme tu, abychom vaši "
+"zkaženost vymýtili."
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:436
@@ -3449,6 +3499,9 @@ msgid ""
 "You dragged Mebrin off in chains; my kind, gentle teacher! Deoran, why are "
 "we stooping so low as to even speak with this pig?"
 msgstr ""
+"„Nikdy nebylo tvým záměrem“!? Ty odporná chátro, to ty jsi mě zavřel do "
+"klece! Odvlekl jsi v řetězech Mebrina – mého laskavého, mírného učitele! "
+"Deorane, proč se snižujeme k tomu, že se vůbec bavíme s tímhle vepřem?"
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:444
@@ -3487,6 +3540,9 @@ msgid ""
 "Mebrin for many decades and know him well — my teacher would never lead "
 "undead, he would destroy them!"
 msgstr ""
+"Hotová a úplná lež od naprosté a úplné spodiny. Mnoho desetiletí jsem "
+"u Mebrina studovala magii a dobře ho znám – můj učitel by nikdy nevedl "
+"nemrtvé, on by je zničil!"
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:458
