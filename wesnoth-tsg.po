@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-10-21 02:43 UTC\n"
-"PO-Revision-Date: 2026-10-29 10:17+0100\n"
+"PO-Revision-Date: 2026-10-30 08:56+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -2748,6 +2748,10 @@ msgid ""
 "<b><i>Menu</i></b> or <b><i>Actions</i></b> buttons in the top-left corner. "
 "Here are some of the most useful:"
 msgstr ""
+"Wesnoth nabízí mnoho nastavení a klávesových zkratek. Chceš-li zobrazit "
+"všechny dostupné možnosti,\n"
+"klikni na tlačítko<b><i>Menu</i></b> nebo <b><i>Akce</i></b> v levém horním "
+"rohu. Zde je několik nejužitečnějších:"
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:828
@@ -2755,6 +2759,8 @@ msgid ""
 "• Before ending your turn, press <b><i>N</i></b> to find units that can "
 "still move or attack."
 msgstr ""
+"• Před ukončením svého tahu stiskni <b><i>N</i></b>, abys zjistil/a, které "
+"jednotky se ještě mohou pohybovat nebo útočit."
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:830
@@ -2762,6 +2768,8 @@ msgid ""
 "• To see which hexes enemies may be able to move to on their turn, press "
 "<b><i>Ctrl+V</i></b>."
 msgstr ""
+"• Chceš-li vidět, na která políčka se nepřátelé mohou ve svém tahu "
+"přesunout, stiskni <b><i>Ctrl+V</i></b>."
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:832
@@ -2771,6 +2779,10 @@ msgid ""
 "may also receive additional gold or units as part of scripted events (not "
 "shown)."
 msgstr ""
+"• Chceš-li vědět, kolik zlata a příjmů mají tvoji nepřátelé, stiskni "
+"<b><i>Alt+S</i></b>. Nepřátelé\n"
+"mohou také získat další zlato nebo jednotky v rámci předem naprogramovaných "
+"událostí (není zobrazeno)."
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:835
@@ -2783,6 +2795,13 @@ msgid ""
 "Tears.gz”</i>,\n"
 "not <i>“TSG-Vale of Tears-Auto-Save7.gz”</i>"
 msgstr ""
+"• Chceš-li změnit obtížnost scénáře bez nutnosti restartovat celé tažení, "
+"načti\n"
+"hru a zaškrtni volbu <b><i>Změnit obtížnost</i></b>. Tato možnost je "
+"dostupná pouze při\n"
+"načtení od začátku scénáře — ze souboru s uloženou hrou, který má název "
+"<i>„JH-Údolí slz.gz“</i>,\n"
+"nikoli <i>„JH-Údolí slz-Automatické uložení7.gz“</i>"
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:849
@@ -2796,6 +2815,9 @@ msgid ""
 "should first move to a keep, then press <b>Ctrl+R</b> to recruit or "
 "<b>Alt+R</b> to recall."
 msgstr ""
+"Budu muset naverbovat jednotky, pokud chci odolat útoku nemrtvých! Nejprve "
+"bych se měl přesunout do tvrze a poté stisknout <b>Ctrl+R</b> pro "
+"naverbování nebo <b>Alt+R</b> pro povolání jednotek."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:922
@@ -2803,6 +2825,8 @@ msgid ""
 "I have recruited fresh soldiers, but not yet recalled any of my veterans! "
 "Without recalling I’ll struggle to build a strong army."
 msgstr ""
+"Naverboval jsem nové vojáky, ale ještě jsem nepovolal žádnou ze svých "
+"zkušených jednotek! Pokud je nepovolám, jen těžko vybuduji silné vojsko."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:926
@@ -2811,11 +2835,14 @@ msgid ""
 "<b>Alt+R</b> and recall them so they can continue gaining experience and be "
 "promoted to higher levels."
 msgstr ""
+"Pokud máš přeživší s velkými zkušenostmi z předchozích bitev, nezapomeň "
+"stisknout <b>Alt+R</b> a znovu je povolat, aby mohli nadále získávat "
+"zkušenosti a postupovat na vyšší úrovně."
 
 #. [message]: type=Ghoul
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:957
 msgid "Guuuhhh..."
-msgstr ""
+msgstr "Gůůhhh..."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:961
@@ -2824,6 +2851,8 @@ msgid ""
 "worse than the walking corpses we’ve already fought, if such a thing is "
 "possible."
 msgstr ""
+"Jaký druh nemrtvosti jsi uvalil na tu ubohou elfku! To je ještě horší než ty "
+"chodící mrtvoly, s nimiž jsme už bojovali – pokud je to vůbec možné."
 
 #. [message]: speaker=Urza Nalmath
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:965
@@ -2832,11 +2861,14 @@ msgid ""
 "although come to think of it, she might wish she weren’t. Such a supple "
 "body; such an alluring voice. Isn’t she charming?"
 msgstr ""
+"Nemrtvosti!? Urážíte mě, milý pane — tato půvabná dáma je stále naživu... "
+"i když, jak o tom tak přemýšlím, možná by si přála, aby tomu tak nebylo. "
+"Takové ladné tělo. Takový svůdný hlas. Není snad okouzlující?"
 
 #. [message]: type=Ghoul
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:972
 msgid "Graaahhh..."
-msgstr ""
+msgstr "Grááhhh..."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:975
@@ -2845,6 +2877,10 @@ msgid ""
 "miss the smell. But the worst part is their claws — one scratch and you’ll "
 "be poisoned until healed at a village, or by a healer like Ethiliel."
 msgstr ""
+"Přesně to jsme potřebovali: požírače mrtvých. Už jsem s těmi potvorami "
+"bojoval a ten zápach mi vůbec nechybí. Nejhorší na nich ale jsou jejich "
+"drápy – stačí jedno škrábnutí a budeš otrávený, dokud tě nevyléčí ve vesnici "
+"nebo léčitel jako Ethiliel."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:976
@@ -2854,6 +2890,10 @@ msgid ""
 "to poison a man half-dead, unless healed at a village or by a healer like "
 "Ethiliel."
 msgstr ""
+"U Haldrika, oni opravdu existují! Veteráni kdysi vyprávěli o boji "
+"s nadmutými, napůl mrtvými, napůl živými „požírači mrtvých“... Říká se, že "
+"stačí jediný škrábanec, aby se člověk ocitl v polomrtvém stavu, dokud ho "
+"nevyléčí ve vesnici nebo léčitel jako Ethiliel."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:977
@@ -2862,6 +2902,10 @@ msgid ""
 "carefully. Be wary of their claws, Deoran — one scratch and you’ll be "
 "poisoned until healed at a village, or by a healer like me or Ethiliel."
 msgstr ""
+"Nesmírně odporná stvoření: požírači mrtvých. Rozklad se šíří. Musíme "
+"postupovat opatrně. Dej si pozor na jejich drápy, Deorane – stačí jedno "
+"škrábnutí a budeš otrávený, dokud tě nevyléčí ve vesnici nebo léčitel jako "
+"já či Ethiliel."
 
 #. [display_tip]
 #: data/campaigns/The_South_Guard/scenarios/03_Vale_of_Tears.cfg:982
