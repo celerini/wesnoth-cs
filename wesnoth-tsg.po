@@ -3727,7 +3727,7 @@ msgid ""
 "Deoran, what are you doing? You would abandon our fight and let this "
 "criminal walk free!?"
 msgstr ""
-"Deorane, co to děláš? To chceš opustit náš boj a nechat toho zločince nechat "
+"Deorane, co to děláš? To chceš opustit náš boj a nechat toho zločince "
 "na svobodě!?"
 
 #. [message]
