@@ -5846,7 +5846,7 @@ msgid ""
 "him in pain! No elf would fall to undeath, much less our wisest teacher."
 msgstr ""
 "Ne, cítila jsem Mebrinovu elfí přítomnost. Cítila jsem, jak se ke mně "
-"natahuje, cítil jsem jeho bolest! Žádný elf by přece nepropadl nemrtvému ​​"
+"natahuje, cítila jsem jeho bolest! Žádný elf by přece nepropadl nemrtvému ​​"
 "stavu. A už vůbec ne náš nejmoudřejší učitel."
 
 #. [message]
