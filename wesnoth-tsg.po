@@ -6585,7 +6585,7 @@ msgid ""
 msgstr ""
 "Další ubohá duše, kterou pohltila šířící se temnota. Alespoň však jeho oběť "
 "nebyla zbytečná: měli jsme dost času shromáždit, vycvičit a vybavit většinu "
-"rolníků a lesníků z celého kraje a také povolat malý oddíl těžkooděnců z "
+"sedláků a lesáků z celého kraje a také povolat malý oddíl těžkooděnců z "
 "osádky pevnosti Tahn."
 
 #. [message]: speaker=Deoran
