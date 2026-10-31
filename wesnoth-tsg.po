@@ -3925,7 +3925,7 @@ msgid ""
 msgstr ""
 "Bohové... ta lebka, ty oči. Skoro jsem doufal, že ta dáma měla pravdu, ale "
 "teď... ani ve Východním pohraničí by mě nikdy nenapadlo, že se dožiju toho, "
-"jak uvidím liche."
+"jak uvidím licha."
 
 #. [companion_message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:867
