@@ -3620,8 +3620,8 @@ msgid ""
 "Deoran, you would trust the word of a thief and murderer over me, your "
 "friend and ally? This criminal will abandon you the moment he finds a chance!"
 msgstr ""
-"Deorane, ty bys věřil slovům zloděje a vraha víc než mně, svému příteli a "
-"spojenci? Tenhle zločinec tě opustí, jakmile se mu naskytne příležitost!"
+"Deorane, ty bys věřil slovům zloděje a vraha víc než mně, své přítelkyni a "
+"spojenkyni? Tenhle zločinec tě opustí, jakmile se mu naskytne příležitost!"
 
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:479
