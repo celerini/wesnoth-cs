@@ -4813,7 +4813,7 @@ msgid ""
 "...I couldn’t admit it to myself, Deoran. I couldn’t before, and now that he "
 "is almost upon us—"
 msgstr ""
-"...Nedokázala jsem si to přiznat, Deorane. Nedokázala jsem to předtím, a "
+"... Nedokázala jsem si to přiznat, Deorane. Nedokázala jsem to předtím, a "
 "teď, když už je skoro u nás..."
 
 #. [message]: speaker=Mebrin
