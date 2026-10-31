@@ -3553,7 +3553,7 @@ msgid ""
 "skeletal horrors started to emerge."
 msgstr ""
 "Je pravda, že Mebrin byl mocnější než kterákoli z mrtvol, které jsme "
-"oživili , přesto se jim nebránil. Odvedli ho do jeskyní a brzy nato se "
+"oživili, přesto se jim nebránil. Odvedli ho do jeskyní a brzy nato se "
 "začaly vynořovat kostlivé příšery."
 
 #. [message]: speaker=Afalas
