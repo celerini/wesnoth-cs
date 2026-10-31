@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-10-21 02:43 UTC\n"
-"PO-Revision-Date: 2026-10-22 23:50+0200\n"
+"PO-Revision-Date: 2026-10-31 08:21+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -6000,7 +6000,7 @@ msgstr ""
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:1322
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:230
 msgid "Familiar"
-msgstr "Známý"
+msgstr "Společník"
 
 #. [message]: speaker=familiar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:749
@@ -6082,7 +6082,7 @@ msgid ""
 "leave with you my familiar — the venerable Blackwing. Care for him well."
 msgstr ""
 "Velmi dobře. Budeš se muset obejít bez mých elementálů, ale mohu ti alespoň "
-"zanechat svého známého – ctihodného Černáka. Dobře se o něj starej."
+"zanechat svého společníka – ctihodného Černáka. Dobře se o něj starej."
 
 #. [message]: speaker=familiar
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:818
@@ -6207,7 +6207,7 @@ msgid ""
 "my familiar — the venerable Blackwing. Care for him well."
 msgstr ""
 "Budeš se muset obejít bez mých elementálů, ale mohu ti alespoň zanechat "
-"svého známého – ctihodného Černáka. Dobře se o něj starej."
+"svého společníka – ctihodného Černáka. Dobře se o něj starej."
 
 #. [message]: speaker=Konrad {KONRAD_VARIATION glad}
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:951
@@ -6244,7 +6244,8 @@ msgid ""
 "well."
 msgstr ""
 "Obávám se, že ano. Budeš se muset obejít bez mých elementálů, ale mohu ti "
-"alespoň zanechat svého známého – ctihodného Černáka. Dobře se o něj starej."
+"alespoň zanechat svého společníka – ctihodného Černáka. Dobře se o něj "
+"starej."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/00_The_Great_Continent.cfg:992
@@ -20141,7 +20142,7 @@ msgid ""
 "among the river islands! I shall send my familiar to investigate."
 msgstr ""
 "A výsledek není žádným tajemstvím – mezi říčními ostrovy leží malé loďstvo "
-"z rozbitých člunů! Pošlu tam svého známého, aby to prošetřil."
+"z rozbitých člunů! Pošlu tam svého společníka, aby to prošetřil."
 
 #. [message]: speaker=Delfador
 #: data/campaigns/Heir_To_The_Throne/scenarios/43_Cliffs_of_Thoria.cfg:244
@@ -23886,8 +23887,8 @@ msgid ""
 "I am glad to see that you have been taking good care of my familiar, Konrad. "
 "Blackwing and I have been through many trials together."
 msgstr ""
-"Jsem rád, že se o mého známého tak dobře staráš, Konráde. Černák a já jsme "
-"spolu prošli mnoha zkouškami."
+"Jsem rád, že se o mého společníka tak dobře staráš, Konráde. Černák a já "
+"jsme spolu prošli mnoha zkouškami."
 
 #. [message]: speaker=Konrad
 #: data/campaigns/Heir_To_The_Throne/utils/smalltalk.cfg:106
