@@ -7396,7 +7396,7 @@ msgstr "Och, a Arande?"
 #. [message]: speaker=Arand
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:329
 msgid "—yes, Your Majesty?"
-msgstr "… ano, Vaše Veličenstvo?"
+msgstr "... ano, Vaše Veličenstvo?"
 
 #. [message]: speaker=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:333
