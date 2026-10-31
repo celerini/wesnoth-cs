@@ -6707,7 +6707,7 @@ msgid ""
 "   Deoran starts this scenario with $soldiers.length extra soldiers."
 msgstr ""
 "V minulém scénáři jsi přečkal/a $pebbles_defense_length kol!\n"
-"   Deoran v tomto scénáři začíná s  $soldiers.length vojáky navíc!"
+"   Deoran v tomto scénáři začíná s $soldiers.length vojáky navíc!"
 
 #. [else]
 #. $pebbles_defense_length will be less than 3
