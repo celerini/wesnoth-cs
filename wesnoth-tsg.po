@@ -7333,7 +7333,7 @@ msgstr "Princ Arand"
 #. [unit]: type=King of Wesnoth, id=Garard
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:253
 msgid "King Garard II"
-msgstr "Král Garand II."
+msgstr "Král Garard II."
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/06x_Epilogue.cfg:282
