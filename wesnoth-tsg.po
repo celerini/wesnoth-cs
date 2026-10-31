@@ -6494,7 +6494,7 @@ msgid ""
 "Fort Tahn."
 msgstr ""
 "Další ubohá duše, kterou pohltila šířící se temnota. Alespoň však její oběť "
-"nebyla zbytečná: měli jsme dost času shromáždit většinu rolníků a lesníků z "
+"nebyla zbytečná: měli jsme dost času shromáždit většinu sedláků a lesáků z "
 "celého kraje a také povolat malý oddíl šermířů z osádky pevnosti Tahn."
 
 #. [event]
