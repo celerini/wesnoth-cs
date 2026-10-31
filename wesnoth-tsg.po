@@ -6696,7 +6696,7 @@ msgid ""
 "( ($pebbles_defense_length-36)*3 ) extra gold!"
 msgstr ""
 "V minulém scénáři jsi přečkal/a $pebbles_defense_length kol!\n"
-"   Deoran začíná s  $soldiers.length vojáky a $"
+"   Deoran začíná s $soldiers.length vojáky a $"
 "( ($pebbles_defense_length-36)*3 ) zlatými navíc!"
 
 #. [else]
