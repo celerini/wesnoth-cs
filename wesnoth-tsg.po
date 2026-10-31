@@ -6685,7 +6685,7 @@ msgid ""
 "   Deoran starts this scenario with $peasants.length extra peasants/woodsmen!"
 msgstr ""
 "V minulém scénáři jsi přečkal/a $pebbles_defense_length kol!\n"
-"   Deoran v tomto scénáři začíná s $peasants.length rolníky/lesníky navíc!"
+"   Deoran v tomto scénáři začíná s $peasants.length sedláky/lesáky navíc!"
 
 #. [then]
 #. $pebbles_defense_length will be 37 or greater. $soldiers.length will be around 12-14 or greater
