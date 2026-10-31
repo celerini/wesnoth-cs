@@ -3819,7 +3819,7 @@ msgstr ""
 #. [message]: speaker=Ethiliel
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:682
 msgid "...Humans, we should leave."
-msgstr "...Lidé, měli bychom odejít."
+msgstr "... Lidé, měli bychom odejít."
 
 #. [message]: speaker=Deoran
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:686
