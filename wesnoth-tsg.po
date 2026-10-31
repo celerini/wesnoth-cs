@@ -6481,7 +6481,7 @@ msgid ""
 "greatly from your leadership, Deoran."
 msgstr ""
 "Další ubohá duše, kterou pohltila šířící se temnota. Alespoň však její oběť "
-"nebyla zbytečná: měli jsme dost času shromáždit většinu rolníků a lesníků z "
+"nebyla zbytečná: měli jsme dost času shromáždit většinu sedláků a lesáků z "
 "celého kraje. Nejsou sice vycvičení v boji, ale pod tvým vedením, Deorane, "
 "budou nesmírně platní."
 
