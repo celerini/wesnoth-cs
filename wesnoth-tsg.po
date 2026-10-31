@@ -6674,7 +6674,7 @@ msgid ""
 "soldiers!"
 msgstr ""
 "V minulém scénáři jsi přečkal/a $pebbles_defense_length kol!\n"
-"   Deoran začíná s $peasants.length rolníky/lesníky a $soldiers.length "
+"   Deoran začíná s $peasants.length sedláky/lesáky a $soldiers.length "
 "vojáky navíc!"
 
 #. [else]
