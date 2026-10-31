@@ -3747,7 +3747,7 @@ msgid ""
 "soldiers and I are going to descend down into this cave, to find out the "
 "truth for ourselves."
 msgstr ""
-"Je mi líto, Ethilieli, ale bojovat proti těmto banditům se mi nezdá správné. "
+"Je mi líto, Ethiliel, ale bojovat proti těmto banditům se mi nezdá správné. "
 "Spolu se svými vojáky sestoupíme do té jeskyně, abychom se přesvědčili na "
 "vlastní oči o pravdě."
 
