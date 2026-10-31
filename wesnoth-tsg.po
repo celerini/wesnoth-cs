@@ -5825,7 +5825,7 @@ msgid ""
 "the dead up out of the ground!"
 msgstr ""
 "Mebrin je mrtvý, Ethiliel. Afalas měl pravdu. Viděl jsem licha Mal Mebrina "
-"na vlastní oč a, slyšel jsem jeho blouznění na vlastní uši! Viděl jsem, jak "
+"na vlastní oči a slyšel jeho blouznění na vlastní uši! Viděl jsem, jak "
 "vyvolává mrtvé ze země!"
 
 #. [message]
