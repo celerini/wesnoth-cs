@@ -4237,7 +4237,7 @@ msgid ""
 "Do not delay, Deoran! If we do not finish off this vermin Afalas soon, he "
 "shall surely make his escape!"
 msgstr ""
-"Nezálelej, Deorane! Pokud s tou havětí Afalasem brzy neskoncujeme, jistě nám "
+"Nezahálej, Deorane! Pokud s tou havětí Afalasem brzy neskoncujeme, jistě nám "
 "unikne!"
 
 #. [message]: speaker=Afalas
