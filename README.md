@@ -2,8 +2,6 @@
 
 This branch reflects [upstream master branch](https://github.com/wesnoth/wesnoth/tree/master).
 
-The [string freeze](https://groups.io/g/wesnoth-translations/message/4) is now in effect. Our team needs reinforcements to finish the translation in time. Your help is welcome.
-
 Please see the [Czech Translation](https://wiki.wesnoth.org/CzechTranslation) page on the Wesnoth Wiki for more information.
 
 ## To Do
