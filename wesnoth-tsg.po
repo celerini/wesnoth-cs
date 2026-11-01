@@ -3553,8 +3553,8 @@ msgid ""
 "skeletal horrors started to emerge."
 msgstr ""
 "Je pravda, že Mebrin byl mocnější než kterákoli z mrtvol, které jsme "
-"oživili, přesto se jim nebránil. Odvedli ho do jeskyní a brzy nato se "
-"začaly vynořovat kostlivé příšery."
+"oživili, přesto se jim nebránil. Odvedli ho do jeskyní a brzy nato se začaly "
+"vynořovat kostlivé příšery."
 
 #. [message]: speaker=Afalas
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:462
@@ -3727,8 +3727,8 @@ msgid ""
 "Deoran, what are you doing? You would abandon our fight and let this "
 "criminal walk free!?"
 msgstr ""
-"Deorane, co to děláš? To chceš opustit náš boj a nechat toho zločince "
-"na svobodě!?"
+"Deorane, co to děláš? To chceš opustit náš boj a nechat toho zločince na "
+"svobodě!?"
 
 #. [message]
 #: data/campaigns/The_South_Guard/scenarios/04_Choice_in_the_Fog.cfg:601
@@ -6674,8 +6674,8 @@ msgid ""
 "soldiers!"
 msgstr ""
 "V minulém scénáři jsi přečkal/a $pebbles_defense_length kol!\n"
-"   Deoran začíná s $peasants.length sedláky/lesáky a $soldiers.length "
-"vojáky navíc!"
+"   Deoran začíná s $peasants.length sedláky/lesáky a $soldiers.length vojáky "
+"navíc!"
 
 #. [else]
 #. $pebbles_defense_length will be between 3 and 10. $peasants.length will be 3 or greater
