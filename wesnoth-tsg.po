@@ -5797,7 +5797,7 @@ msgid ""
 "This is your last warning, humans. Return to us our sage or I shall be "
 "forced to resume our attack!"
 msgstr ""
-"Toto je poslední varování, lidé. Vraťte nám našeho mudrce, jinak budu nucen "
+"Toto je poslední varování, lidé. Vraťte nám našeho mudrce, jinak budu nucena "
 "obnovit náš útok!"
 
 #. [message]
