@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2026-09-21 00:25 UTC\n"
-"PO-Revision-Date: 2026-10-28 16:15+0100\n"
+"PO-Revision-Date: 2026-11-02 21:25+0100\n"
 "Last-Translator: Michal Žejdl <lachim@emer.cz>\n"
 "Language-Team: Czech https://wiki.wesnoth.org/CzechTranslation\n"
 "Language: cs\n"
@@ -10029,7 +10029,7 @@ msgstr "blesk"
 #. [dummy]: id=chain
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1916
 msgid "chain"
-msgstr "řetěz"
+msgstr "řetězec"
 
 #. [dummy]: id=chain
 #: data/campaigns/The_Deceivers_Gambit/utils/spellcasting.cfg:1917
